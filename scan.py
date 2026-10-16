@@ -335,7 +335,7 @@ def ai_summary(a: dict, cfg: dict) -> dict | None:
     )
     payload = {
         "model": model,
-        "max_tokens": 2500,
+        "max_tokens": 8000,
         "messages": [{"role": "user", "content": prompt}],
     }
     headers = {"x-api-key": key, "anthropic-version": "2023-06-01"}
@@ -345,6 +345,10 @@ def ai_summary(a: dict, cfg: dict) -> dict | None:
             text = "".join(b.get("text", "") for b in resp.get("content", []) if b.get("type") == "text")
             m = re.search(r"\{.*\}", text, re.S)
             if not m:
+                if resp.get("stop_reason") == "max_tokens" and payload["max_tokens"] < 20000:
+                    payload["max_tokens"] = 20000
+                    log("  Ringkasan terpotong; mengulang dengan batas token lebih besar")
+                    continue
                 log(f"  Ringkasan: tidak ada JSON (stop_reason={resp.get('stop_reason')}): {text[:200]!r}")
                 return None
             try:

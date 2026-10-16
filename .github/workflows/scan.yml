@@ -35,7 +35,7 @@ jobs:
           python-version: "3.12"
 
       - name: Pasang pypdf (ekstraksi teks penuh)
-        run: pip install --quiet pypdf
+        run: pip install --quiet pypdf fonttools
 
       - name: Jalankan pemindaian
         env:
