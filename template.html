@@ -1,0 +1,258 @@
+<!doctype html>
+<html lang="id">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>PantauRiset</title>
+<meta name="description" content="Pembaca artikel open access terbaru bidang agribisnis dan ekonomi pertanian.">
+<style>
+  :root{
+    --bg:#f6f4ee; --surface:#ffffff; --surface-2:#efece3; --text:#1d1b16; --muted:#6b665a;
+    --line:#e2ddd0; --accent:#2f6b4f; --accent-soft:#e3efe7; --accent-text:#1f4d38;
+    --warn:#b4601b; --warn-soft:#f7e8d8; --chip:#f0ede4; --shadow:0 1px 2px rgba(0,0,0,.05);
+    --radius:12px; --serif:"Iowan Old Style","Palatino Linotype",Palatino,Georgia,serif;
+    --sans:-apple-system,BlinkMacSystemFont,"Segoe UI",Inter,Roboto,Helvetica,Arial,sans-serif;
+  }
+  @media (prefers-color-scheme: dark){ :root:not([data-theme="light"]){
+    --bg:#15161a; --surface:#1e2025; --surface-2:#262930; --text:#ecebe6; --muted:#a09d94;
+    --line:#32353d; --accent:#6cbf96; --accent-soft:#1f3a2e; --accent-text:#bfe6d1;
+    --warn:#e39a5a; --warn-soft:#3b2a1b; --chip:#2b2e36; --shadow:none;
+  }}
+  :root[data-theme="dark"]{
+    --bg:#15161a; --surface:#1e2025; --surface-2:#262930; --text:#ecebe6; --muted:#a09d94;
+    --line:#32353d; --accent:#6cbf96; --accent-soft:#1f3a2e; --accent-text:#bfe6d1;
+    --warn:#e39a5a; --warn-soft:#3b2a1b; --chip:#2b2e36; --shadow:none;
+  }
+  *{box-sizing:border-box}
+  html,body{margin:0;background:var(--bg);color:var(--text);font-family:var(--sans);line-height:1.5}
+  a{color:var(--accent-text)}
+  header{position:sticky;top:0;z-index:5;background:var(--bg);border-bottom:1px solid var(--line)}
+  .wrap{max-width:1100px;margin:0 auto;padding:0 16px}
+  .top{display:flex;align-items:center;justify-content:space-between;gap:12px;padding:14px 0 8px}
+  .brand{font-family:var(--serif);font-size:1.45rem;letter-spacing:.2px}
+  .brand small{display:block;font-family:var(--sans);font-size:.78rem;color:var(--muted);letter-spacing:0}
+  .stats{display:flex;gap:14px;font-size:.82rem;color:var(--muted);flex-wrap:wrap}
+  .stats b{color:var(--text);font-weight:600}
+  .controls{display:grid;grid-template-columns:1fr;gap:8px;padding:0 0 12px}
+  @media(min-width:760px){.controls{grid-template-columns:2fr 1fr 1fr 1fr 1fr}}
+  input[type=search],select{width:100%;padding:9px 11px;border:1px solid var(--line);border-radius:9px;background:var(--surface);color:var(--text);font:inherit;font-size:.92rem}
+  .tabs{display:flex;gap:6px;flex-wrap:wrap;padding-bottom:12px}
+  .tab{padding:6px 11px;border-radius:999px;border:1px solid var(--line);background:var(--surface);cursor:pointer;font-size:.84rem;color:var(--muted)}
+  .tab[aria-pressed=true]{background:var(--accent);border-color:var(--accent);color:#fff}
+  main{padding:18px 0 60px}
+  .list{display:grid;gap:14px}
+  article{background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);padding:16px 18px;box-shadow:var(--shadow)}
+  article.read{opacity:.68}
+  .meta{display:flex;flex-wrap:wrap;gap:6px 10px;font-size:.8rem;color:var(--muted);align-items:center}
+  .badge{padding:2px 8px;border-radius:999px;font-size:.74rem;font-weight:600;background:var(--chip);color:var(--muted)}
+  .badge.prio{background:var(--accent-soft);color:var(--accent-text)}
+  .badge.new{background:var(--warn-soft);color:var(--warn)}
+  .badge.rel{background:var(--surface-2);color:var(--text)}
+  h2{font-family:var(--serif);font-weight:600;font-size:1.15rem;line-height:1.35;margin:8px 0 4px}
+  h2 a{color:inherit;text-decoration:none}
+  h2 a:hover{text-decoration:underline}
+  .authors{font-size:.86rem;color:var(--muted);margin-bottom:10px}
+  .summary{display:grid;gap:6px;background:var(--surface-2);border-radius:10px;padding:12px 14px;font-size:.92rem}
+  .summary div b{color:var(--accent-text);font-weight:600;margin-right:4px}
+  .abstract{font-size:.9rem;color:var(--text);margin-top:10px;display:none}
+  article.open .abstract{display:block}
+  .kw{display:flex;flex-wrap:wrap;gap:5px;margin-top:10px}
+  .kw span{font-size:.74rem;background:var(--chip);padding:2px 8px;border-radius:999px;color:var(--muted)}
+  .actions{display:flex;flex-wrap:wrap;gap:8px;margin-top:12px}
+  .btn{font:inherit;font-size:.82rem;padding:6px 11px;border-radius:8px;border:1px solid var(--line);background:var(--surface);color:var(--text);cursor:pointer;text-decoration:none}
+  .btn.primary{background:var(--accent);border-color:var(--accent);color:#fff}
+  .btn:hover{border-color:var(--accent)}
+  .btn[aria-pressed=true]{background:var(--accent-soft);border-color:var(--accent);color:var(--accent-text)}
+  .empty{text-align:center;color:var(--muted);padding:60px 0}
+  .toast{position:fixed;bottom:18px;left:50%;transform:translateX(-50%);background:var(--text);color:var(--bg);padding:8px 14px;border-radius:8px;font-size:.85rem;opacity:0;transition:opacity .2s;pointer-events:none}
+  .toast.show{opacity:1}
+  .theme{font:inherit;font-size:.8rem;background:none;border:1px solid var(--line);border-radius:8px;padding:5px 9px;color:var(--muted);cursor:pointer}
+  .more{text-align:center;margin-top:18px}
+  @media(max-width:759px){
+    header{position:static}
+    .stats{display:none}
+    .brand{font-size:1.25rem}
+  }
+</style>
+</head>
+<body>
+<header>
+  <div class="wrap">
+    <div class="top">
+      <div class="brand">PantauRiset<small id="gen"></small></div>
+      <div style="display:flex;gap:10px;align-items:center">
+        <div class="stats" id="stats"></div>
+        <button class="theme" id="theme" title="Ganti tema">Tema</button>
+      </div>
+    </div>
+    <div class="controls">
+      <input type="search" id="q" placeholder="Cari judul, abstrak, penulis, jurnal...">
+      <select id="topic"><option value="">Semua topik</option></select>
+      <select id="journal"><option value="">Semua jurnal</option></select>
+      <select id="range">
+        <option value="7">7 hari terakhir</option>
+        <option value="30" selected>30 hari terakhir</option>
+        <option value="90">90 hari terakhir</option>
+        <option value="0">Semua waktu</option>
+      </select>
+      <select id="sort">
+        <option value="rel">Urut: relevansi</option>
+        <option value="date">Urut: terbaru</option>
+        <option value="cites">Urut: sitasi</option>
+      </select>
+    </div>
+    <div class="tabs" id="tabs">
+      <button class="tab" data-f="all" aria-pressed="true">Semua</button>
+      <button class="tab" data-f="unread">Belum dibaca</button>
+      <button class="tab" data-f="saved">Disimpan</button>
+      <button class="tab" data-f="prio">Jurnal prioritas</button>
+      <button class="tab" data-f="pdf">Ada PDF</button>
+      <button class="tab" data-f="summ">Ada ringkasan ID</button>
+    </div>
+  </div>
+</header>
+<main class="wrap">
+  <div class="list" id="list"></div>
+  <div class="more" id="more"></div>
+</main>
+<div class="toast" id="toast"></div>
+
+<script id="data" type="application/json">/*__DATA__*/null</script>
+<script>
+(function(){
+  const DATA = JSON.parse(document.getElementById('data').textContent) || {articles:[],topics:[]};
+  const A = DATA.articles || [];
+  const $ = s => document.querySelector(s);
+  const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+
+  // --- penyimpanan status per peramban (dibaca/disimpan) -----------------
+  const KEY = 'pantauriset-state-v1';
+  let state = {read:{}, saved:{}, seen:{}, theme:''};
+  try { state = Object.assign(state, JSON.parse(localStorage.getItem(KEY) || '{}')); } catch(e){}
+  const persist = () => { try { localStorage.setItem(KEY, JSON.stringify(state)); } catch(e){} };
+  if (state.theme) document.documentElement.dataset.theme = state.theme;
+  $('#theme').onclick = () => {
+    const cur = document.documentElement.dataset.theme;
+    const next = cur === 'dark' ? 'light' : (cur === 'light' ? '' : 'dark');
+    if (next) document.documentElement.dataset.theme = next; else delete document.documentElement.dataset.theme;
+    state.theme = next; persist();
+  };
+
+  // "baru" = ditemukan sejak kunjungan terakhir
+  const lastVisit = state.lastVisit || '';
+  state.lastVisit = new Date().toISOString().slice(0,10); persist();
+
+  $('#gen').textContent = `Diperbarui ${DATA.generated || '-'} · sumber OpenAlex (OA, jurnal core)`;
+
+  // --- isi dropdown ------------------------------------------------------
+  const topics = DATA.topics.length ? DATA.topics : [...new Set(A.flatMap(a=>a.topics||[]))];
+  topics.forEach(t => $('#topic').insertAdjacentHTML('beforeend', `<option>${esc(t)}</option>`));
+  const jc = {}; A.forEach(a => { if(a.journal) jc[a.journal]=(jc[a.journal]||0)+1; });
+  Object.entries(jc).sort((x,y)=>y[1]-x[1]).forEach(([j,n]) =>
+    $('#journal').insertAdjacentHTML('beforeend', `<option value="${esc(j)}">${esc(j)} (${n})</option>`));
+
+  let filter = 'all', shown = 40;
+  $('#tabs').onclick = e => {
+    const b = e.target.closest('.tab'); if(!b) return;
+    document.querySelectorAll('.tab').forEach(t=>t.setAttribute('aria-pressed','false'));
+    b.setAttribute('aria-pressed','true'); filter = b.dataset.f; shown = 40; render();
+  };
+  ['#q','#topic','#journal','#range','#sort'].forEach(s => $(s).addEventListener('input', ()=>{shown=40; render();}));
+
+  function apa(a){
+    const au = (a.authors||[]);
+    let names = au.length ? (au.length>2 ? `${au[0]} et al.` : au.join(' & ')) : 'Anon.';
+    return `${names} (${a.year||'n.d.'}). ${a.title}. ${a.journal||''}. ${a.doi?('https://doi.org/'+a.doi):(a.oa_url||'')}`;
+  }
+  function toast(m){ const t=$('#toast'); t.textContent=m; t.classList.add('show'); setTimeout(()=>t.classList.remove('show'),1600); }
+
+  function visible(){
+    const q = $('#q').value.trim().toLowerCase();
+    const tp = $('#topic').value, jn = $('#journal').value, rg = +$('#range').value;
+    const cutoff = rg ? new Date(Date.now()-rg*864e5).toISOString().slice(0,10) : '';
+    let out = A.filter(a => {
+      if (cutoff && (a.date||'') < cutoff) return false;
+      if (tp && !(a.topics||[]).includes(tp)) return false;
+      if (jn && a.journal !== jn) return false;
+      if (filter==='unread' && state.read[a.id]) return false;
+      if (filter==='saved' && !state.saved[a.id]) return false;
+      if (filter==='prio' && !a.priority_journal) return false;
+      if (filter==='pdf' && !a.pdf_url) return false;
+      if (filter==='summ' && !a.summary_id) return false;
+      if (q){
+        const hay = `${a.title} ${a.abstract} ${(a.authors||[]).join(' ')} ${a.journal} ${(a.keywords||[]).join(' ')} ${a.summary_id?Object.values(a.summary_id).join(' '):''}`.toLowerCase();
+        if (!hay.includes(q)) return false;
+      }
+      return true;
+    });
+    const s = $('#sort').value;
+    if (s==='date') out.sort((x,y)=>(y.date||'').localeCompare(x.date||''));
+    else if (s==='cites') out.sort((x,y)=>(y.cited_by||0)-(x.cited_by||0));
+    else out.sort((x,y)=>((y.relevance||0)-(x.relevance||0)) || (y.date||'').localeCompare(x.date||''));
+    return out;
+  }
+
+  function card(a){
+    const isNew = lastVisit && a.found_at && a.found_at > lastVisit;
+    const s = a.summary_id;
+    const summ = s ? `<div class="summary">
+        ${s.tujuan?`<div><b>Tujuan</b>${esc(s.tujuan)}</div>`:''}
+        ${s.metode?`<div><b>Metode</b>${esc(s.metode)}</div>`:''}
+        ${s.temuan?`<div><b>Temuan</b>${esc(s.temuan)}</div>`:''}
+        ${s.relevansi?`<div><b>Relevansi</b>${esc(s.relevansi)}</div>`:''}
+      </div>` : (a.abstract ? `<div class="summary"><div><b>Abstrak</b>${esc(a.abstract.slice(0,420))}${a.abstract.length>420?'…':''}</div></div>` : '');
+    const au = (a.authors||[]); const authors = au.length>4 ? au.slice(0,4).join(', ')+` dkk. (${au.length} penulis)` : au.join(', ');
+    return `<article data-id="${esc(a.id)}" class="${state.read[a.id]?'read':''}">
+      <div class="meta">
+        ${isNew?'<span class="badge new">Baru</span>':''}
+        ${a.priority_journal?'<span class="badge prio">Jurnal prioritas</span>':''}
+        <span class="badge rel" title="Skor relevansi 0-100">Relevansi ${a.relevance||0}${s&&s.skor?` · AI ${s.skor}/5`:''}</span>
+        <span>${esc(a.date)}</span><span>·</span><span><i>${esc(a.journal)}</i></span>
+        ${a.cited_by?`<span>· ${a.cited_by} sitasi</span>`:''}
+        ${(a.topics||[]).map(t=>`<span class="badge">${esc(t)}</span>`).join('')}
+      </div>
+      <h2><a href="${esc(a.doi?('https://doi.org/'+a.doi):(a.oa_url||'#'))}" target="_blank" rel="noopener">${esc(a.title)}</a></h2>
+      <div class="authors">${esc(authors)}</div>
+      ${summ}
+      ${a.abstract && s ? `<div class="abstract"><b>Abstrak asli.</b> ${esc(a.abstract)}</div>` : (a.abstract && a.abstract.length>420 ? `<div class="abstract"><b>Abstrak lengkap.</b> ${esc(a.abstract)}</div>`:'')}
+      ${(a.keywords||[]).length?`<div class="kw">${a.keywords.map(k=>`<span>${esc(k)}</span>`).join('')}</div>`:''}
+      <div class="actions">
+        ${a.pdf_url?`<a class="btn primary" href="${esc(a.pdf_url)}" target="_blank" rel="noopener">PDF</a>`:''}
+        ${a.oa_url?`<a class="btn" href="${esc(a.oa_url)}" target="_blank" rel="noopener">Baca (OA)</a>`:''}
+        ${a.doi?`<a class="btn" href="https://doi.org/${esc(a.doi)}" target="_blank" rel="noopener">DOI</a>`:''}
+        ${(a.abstract && (s || a.abstract.length>420))?`<button class="btn" data-act="toggle">Abstrak</button>`:''}
+        <button class="btn" data-act="read" aria-pressed="${!!state.read[a.id]}">${state.read[a.id]?'Sudah dibaca':'Tandai dibaca'}</button>
+        <button class="btn" data-act="save" aria-pressed="${!!state.saved[a.id]}">${state.saved[a.id]?'Tersimpan':'Simpan'}</button>
+        <button class="btn" data-act="cite">Salin sitasi</button>
+      </div>
+    </article>`;
+  }
+
+  function render(){
+    const v = visible();
+    $('#list').innerHTML = v.length ? v.slice(0,shown).map(card).join('') : '<div class="empty">Tidak ada artikel yang cocok dengan filter ini.</div>';
+    $('#more').innerHTML = v.length>shown ? `<button class="btn" id="morebtn">Tampilkan ${Math.min(40, v.length-shown)} lagi (${v.length-shown} tersisa)</button>` : '';
+    const mb = $('#morebtn'); if (mb) mb.onclick = ()=>{shown+=40; render();};
+    const unread = A.filter(a=>!state.read[a.id]).length;
+    const newC = A.filter(a=>lastVisit && a.found_at>lastVisit).length;
+    const week = new Date(Date.now()-7*864e5).toISOString().slice(0,10);
+    $('#stats').innerHTML = `<span><b>${A.length}</b> artikel</span><span><b>${A.filter(a=>a.date>=week).length}</b> minggu ini</span><span><b>${unread}</b> belum dibaca</span>${newC?`<span><b>${newC}</b> baru sejak kunjungan terakhir</span>`:''}`;
+  }
+
+  $('#list').onclick = e => {
+    const b = e.target.closest('button[data-act]'); if(!b) return;
+    const art = b.closest('article'); const id = art.dataset.id; const a = A.find(x=>x.id===id);
+    if (b.dataset.act==='toggle'){ art.classList.toggle('open'); return; }
+    if (b.dataset.act==='read'){ if(state.read[id]) delete state.read[id]; else state.read[id]=1; persist(); render(); return; }
+    if (b.dataset.act==='save'){ if(state.saved[id]) delete state.saved[id]; else state.saved[id]=1; persist(); render(); return; }
+    if (b.dataset.act==='cite'){
+      const txt = apa(a);
+      (navigator.clipboard ? navigator.clipboard.writeText(txt) : Promise.reject()).then(()=>toast('Sitasi disalin'), ()=>{ prompt('Salin sitasi:', txt); });
+    }
+  };
+
+  render();
+})();
+</script>
+</body>
+</html>

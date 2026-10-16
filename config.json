@@ -1,0 +1,153 @@
+{
+  "_catatan": "Sunting berkas ini untuk mengubah topik, jurnal prioritas, dan perilaku. Query memakai sintaks pencarian OpenAlex: AND, OR, NOT, tanda kutip untuk frasa. Hindari tanda koma di dalam query.",
+
+  "mailto": "rokhmanpermadi@gmail.com",
+  "language": "en",
+  "only_core_sources": true,
+  "only_priority_journals": false,
+  "initial_lookback_days": 14,
+  "max_per_topic": 100,
+  "min_abstract_chars": 200,
+  "max_articles_kept": 3000,
+
+  "summary_model": "claude-haiku-5-5",
+  "max_ai_summaries_per_run": 25,
+
+  "whatsapp_max_items": 8,
+  "whatsapp_max_chars": 1200,
+  "whatsapp_notify_when_empty": false,
+  "site_url": "",
+
+  "topics": [
+    {
+      "name": "Akses & informasi pasar petani",
+      "query": "(smallholder OR farmer OR farmers) AND (\"market access\" OR \"market information\" OR \"price information\" OR \"market participation\" OR \"farm gate price\" OR \"farm-gate price\")"
+    },
+    {
+      "name": "Pemasaran, rantai pasok & rantai nilai",
+      "query": "(agricultural OR agriculture OR farmer OR smallholder) AND (\"value chain\" OR \"supply chain\" OR \"marketing channel\" OR \"marketing margin\" OR middlemen OR traders OR \"contract farming\")"
+    },
+    {
+      "name": "Kelembagaan petani & tindakan kolektif",
+      "query": "(\"farmer group\" OR \"farmer groups\" OR \"farmer organization\" OR \"farmer organisations\" OR \"producer organization\" OR cooperative OR cooperatives OR \"collective action\") AND (smallholder OR farmers OR agriculture OR agricultural)"
+    },
+    {
+      "name": "Pemberdayaan petani & gender",
+      "query": "(women OR gender OR empowerment OR \"female farmers\") AND (farmer OR farmers OR smallholder OR agriculture OR agricultural OR rural)"
+    },
+    {
+      "name": "Ketahanan pangan rumah tangga",
+      "query": "(\"food security\" OR \"food insecurity\" OR \"dietary diversity\") AND (household OR households OR smallholder OR rural OR farmers)"
+    },
+    {
+      "name": "Kelapa sawit",
+      "query": "(\"oil palm\" OR \"palm oil\") AND (smallholder OR smallholders OR productivity OR yield OR harvest OR labour OR labor OR price OR prices OR certification OR livelihood OR independent)"
+    },
+    {
+      "name": "Adopsi teknologi & pertanian digital",
+      "query": "(smallholder OR smallholders OR farmer OR farmers) AND (\"technology adoption\" OR \"digital agriculture\" OR \"mobile phone\" OR \"digital platform\" OR \"e-commerce\" OR \"digital technology\" OR \"information and communication technology\" OR \"agricultural extension\")"
+    },
+    {
+      "name": "Pembangunan pedesaan & kebijakan pertanian",
+      "query": "(\"rural development\" OR \"agricultural policy\" OR \"rural livelihoods\" OR \"agrarian change\") AND (Indonesia OR \"Southeast Asia\" OR smallholder OR smallholders OR \"developing countries\")"
+    },
+    {
+      "name": "Komoditas: pisang, nanas, padi rawa",
+      "query": "(banana OR bananas OR pineapple OR \"swamp rice\" OR \"tidal rice\" OR \"tidal swamp\" OR \"peatland agriculture\") AND (farmer OR farmers OR marketing OR \"supply chain\" OR economic OR livelihood OR income)"
+    },
+    {
+      "name": "Tenaga kerja & produktivitas perkebunan",
+      "query": "(plantation OR plantations OR \"oil palm\" OR estate) AND (\"labour productivity\" OR \"labor productivity\" OR workers OR \"harvesting\" OR \"yield gap\" OR wages)"
+    }
+  ],
+
+  "relevance_keywords": {
+    "indonesia": 25,
+    "kalimantan": 30,
+    "borneo": 20,
+    "southeast asia": 10,
+    "malaysia": 8,
+    "smallholder": 12,
+    "oil palm": 12,
+    "palm oil": 10,
+    "market access": 12,
+    "market information": 12,
+    "price": 5,
+    "value chain": 8,
+    "supply chain": 6,
+    "collective action": 10,
+    "farmer group": 12,
+    "cooperative": 8,
+    "food security": 8,
+    "gender": 6,
+    "women": 5,
+    "empowerment": 6,
+    "digital": 6,
+    "adoption": 6,
+    "rural": 4,
+    "banana": 10,
+    "pineapple": 10,
+    "swamp": 10,
+    "peat": 8,
+    "yield gap": 12,
+    "labour productivity": 10,
+    "labor productivity": 10,
+    "pls-sem": 8,
+    "structural equation": 6,
+    "mixed methods": 4,
+    "household survey": 5
+  },
+
+  "priority_journals": [
+    {"name": "Food Policy", "issn": "0306-9192"},
+    {"name": "Agricultural Economics", "issn": "0169-5150"},
+    {"name": "Journal of Agricultural Economics", "issn": "0021-857X"},
+    {"name": "American Journal of Agricultural Economics", "issn": "0002-9092"},
+    {"name": "European Review of Agricultural Economics", "issn": "0165-1587"},
+    {"name": "Applied Economic Perspectives and Policy", "issn": "2040-5790"},
+    {"name": "Australian Journal of Agricultural and Resource Economics", "issn": "1364-985X"},
+    {"name": "Agribusiness", "issn": "0742-4477"},
+    {"name": "Journal of Agribusiness in Developing and Emerging Economies", "issn": "2044-0839"},
+    {"name": "International Food and Agribusiness Management Review", "issn": "1559-2448"},
+    {"name": "Agricultural and Food Economics", "issn": "2193-7532"},
+    {"name": "Agricultural Systems", "issn": "0308-521X"},
+    {"name": "Agriculture and Human Values", "issn": "0889-048X"},
+    {"name": "Journal of Rural Studies", "issn": "0743-0167"},
+    {"name": "Journal of Peasant Studies", "issn": "0306-6150"},
+    {"name": "Journal of Agrarian Change", "issn": "1471-0358"},
+    {"name": "World Development", "issn": "0305-750X"},
+    {"name": "World Development Perspectives", "issn": "2452-2929"},
+    {"name": "Journal of Development Studies", "issn": "0022-0388"},
+    {"name": "Development Policy Review", "issn": "0950-6764"},
+    {"name": "Food Security", "issn": "1876-4517"},
+    {"name": "Global Food Security", "issn": "2211-9124"},
+    {"name": "Land Use Policy", "issn": "0264-8377"},
+    {"name": "Forest Policy and Economics", "issn": "1389-9341"},
+    {"name": "Journal of Cleaner Production", "issn": "0959-6526"},
+    {"name": "Technological Forecasting and Social Change", "issn": "0040-1625"},
+    {"name": "Information Technology for Development", "issn": "0268-1102"},
+    {"name": "Journal of Agricultural Education and Extension", "issn": "1389-224X"},
+    {"name": "British Food Journal", "issn": "0007-070X"},
+    {"name": "Bulletin of Indonesian Economic Studies", "issn": "0007-4918"},
+    {"name": "Asian Journal of Agriculture and Development", "issn": "1656-4383"},
+    {"name": "China Agricultural Economic Review", "issn": "1756-137X"},
+    {"name": "Agrekon", "issn": "0303-1853"},
+    {"name": "Journal of Oil Palm Research", "issn": "1511-2780"},
+    {"name": "Sustainability", "issn": "2071-1050"},
+    {"name": "Agriculture (MDPI)", "issn": "2077-0472"},
+    {"name": "Land (MDPI)", "issn": "2073-445X"},
+    {"name": "Cogent Food & Agriculture", "issn": "2331-1932"},
+    {"name": "Journal of Agriculture and Food Research", "issn": "2666-1543"},
+    {"name": "Heliyon", "issn": "2405-8440"},
+    {"name": "Frontiers in Sustainable Food Systems", "issn": "2571-581X"},
+    {"name": "Environment, Development and Sustainability", "issn": "1387-585X"},
+    {"name": "PLOS ONE", "issn": "1932-6203"},
+    {"name": "Scientific Reports", "issn": "2045-2322"},
+    {"name": "Outlook on Agriculture", "issn": "0030-7270"},
+    {"name": "Rural Sociology", "issn": "0036-0112"},
+    {"name": "Sociologia Ruralis", "issn": "0038-0199"},
+    {"name": "Journal of International Development", "issn": "0954-1748"},
+    {"name": "Agricultural Finance Review", "issn": "0002-1466"},
+    {"name": "Open Agriculture", "issn": "2391-9531"}
+  ]
+}

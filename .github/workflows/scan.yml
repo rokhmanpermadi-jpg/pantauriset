@@ -1,0 +1,53 @@
+name: PantauRiset - pemindaian harian
+
+on:
+  schedule:
+    # 23:30 UTC = 06:30 WIB (Kalimantan Tengah). Ubah bila perlu.
+    - cron: "30 23 * * *"
+  workflow_dispatch:
+    inputs:
+      lookback:
+        description: "Hari ke belakang (kosongkan untuk normal)"
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+
+concurrency:
+  group: pantauriset
+  cancel-in-progress: false
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Jalankan pemindaian
+        env:
+          WHATSAPP_PHONE: ${{ secrets.WHATSAPP_PHONE }}
+          CALLMEBOT_APIKEY: ${{ secrets.CALLMEBOT_APIKEY }}
+          FONNTE_TOKEN: ${{ secrets.FONNTE_TOKEN }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          SITE_URL: ${{ vars.SITE_URL }}
+        run: |
+          if [ -n "${{ github.event.inputs.lookback }}" ]; then
+            python3 scan.py --lookback "${{ github.event.inputs.lookback }}"
+          else
+            python3 scan.py
+          fi
+
+      - name: Simpan basis data & situs ke repo
+        run: |
+          git config user.name "pantauriset-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add data/ docs/
+          git diff --cached --quiet || git commit -m "scan: $(date -u +%Y-%m-%d)"
+          git push
