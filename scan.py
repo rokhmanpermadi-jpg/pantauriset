@@ -284,7 +284,6 @@ def ai_summary(a: dict, cfg: dict) -> dict | None:
     payload = {
         "model": model,
         "max_tokens": 700,
-        "temperature": 0.2,
         "messages": [{"role": "user", "content": prompt}],
     }
     headers = {"x-api-key": key, "anthropic-version": "2023-06-01"}
