@@ -1852,14 +1852,7 @@
   "priority_journal": false,
   "language": "en",
   "found_at": "2026-10-16",
-  "summary_id": {
-   "tujuan": "Menganalisis determinan partisipasi pasar serta dampaknya terhadap pendapatan petani kecil yang membudidayakan sayuran indigenous yang kurang dimanfaatkan (UIVs) di Nigeria Barat Daya.",
-   "metode": "Studi cross-sectional berbasis data primer dari petani yang dipilih secara acak dalam proyek NiCanVeg di beberapa negara bagian dan zona agroekologi. Analisis menggunakan Linear Regression Model with Endogenous Treatment Effects (LRETEM) untuk mengoreksi bias seleksi dan heterogenitas tak teramati; ukuran sampel dan instrumen identifikasi tidak disebutkan dalam abstrak.",
-   "temuan": "Peserta pasar cenderung lebih muda, lebih berpendidikan, dan memiliki aset produktif serta tabungan lebih besar. Gender, usia, pendidikan, kepemilikan aset, pendapatan ternak, dan keanggotaan koperasi secara signifikan memengaruhi keputusan partisipasi pasar, dan partisipasi pasar berdampak positif dan signifikan terhadap kesejahteraan (pendapatan). Hubungan bersifat asosiatif untuk faktor determinan; klaim dampak kausal bergantung pada asumsi identifikasi model endogenous treatment yang perlu diperiksa lebih lanjut.",
-   "relevansi": "Studi ini relevan dengan agenda riset dosen pada akses pasar petani kecil, kelembagaan petani (peran koperasi), dan rantai nilai komoditas hortikultura. Pendekatan LRETEM dapat diadopsi untuk menguji dampak partisipasi pasar pada petani sayuran atau pangan lokal di Kalimantan Tengah, termasuk komoditas pangan lokal yang kurang dimanfaatkan dalam konteks ketahanan pangan.",
-   "skor": 4,
-   "model": "claude-haiku-5-5"
-  },
+  "summary_id": null,
   "relevance": 68
  },
  {
@@ -6491,14 +6484,7 @@
   "priority_journal": false,
   "language": "en",
   "found_at": "2026-10-16",
-  "summary_id": {
-   "tujuan": "Mengevaluasi karakteristik kimia tanah dan produktivitas padi di lahan rawa pasang surut bersulfat masam (acid sulfate) menurut tipe genangan pasang surut dan musim tanam di Kabupaten Tanah Bumbu, Kalimantan Selatan.",
-   "metode": "Studi observasional berbasis survei lapangan, analisis tanah, dan wawancara petani di lima desa (Selimuran, Mudalang, Rantau Panjang, Api-api, dan Segumbang), dengan dua tipe genangan (B dan C). Ukuran sampel dan teknik analisis statistik lanjutan tidak dirinci dalam abstrak, selain penyebutan perbedaan yang signifikan.",
-   "temuan": "Tanah tipe B bersifat masam dan tipe C sangat masam; tipe B memiliki ketersediaan P dan kation basa lebih tinggi serta Al, Fe, sulfat, dan pirit dapat tukar lebih rendah, sementara lapisan piritik pada tipe C lebih dangkal. Produktivitas padi tipe B (5,43 t ha⁻¹) lebih tinggi dibanding tipe C (3,76 t ha⁻¹), dan respons musiman berbeda: hasil tipe B turun 0,95 t ha⁻¹ dari musim kemarau ke hujan, sedangkan tipe C naik 0,45 t ha⁻¹. Karena desain bersifat cross-sectional dan tidak eksperimental, temuan ini menunjukkan asosiasi, bukan hubungan kausal.",
-   "relevansi": "Studi ini relevan dengan agenda ketahanan pangan dan pembangunan pedesaan di Kalimantan, karena lahan rawa pasang surut bersulfat masam juga luas di Kalimantan Tengah dan dapat dijadikan pembanding wilayah. Namun fokusnya adalah agronomi dan ilmu tanah, sehingga kaitannya dengan pemasaran, akses pasar, kelembagaan petani, dan rantai nilai hanya tidak langsung; data wawancara petani berpotensi dimanfaatkan untuk analisis sosial-ekonomi lanjutan.",
-   "skor": 3,
-   "model": "claude-haiku-5-5"
-  },
+  "summary_id": null,
   "relevance": 60
  },
  {
@@ -10087,14 +10073,7 @@
   "priority_journal": true,
   "language": "en",
   "found_at": "2026-10-16",
-  "summary_id": {
-   "tujuan": "Mensintesis bukti tentang komposisi gizi, ketahanan iklim, nilai sosial-ekonomi, nilai tambah, peluang pasar, dukungan kelembagaan, dan kebijakan terkait millet kecil (small millets) di India. Fokusnya adalah peran tanaman ini dalam ketahanan pangan dan gizi serta penghidupan berkelanjutan.",
-   "metode": "Systematic literature review mengikuti pedoman PRISMA 2020 dengan 150 studi dari Scopus, Web of Science, ScienceDirect, SpringerLink, CAB Abstracts, AGRICOLA, Google Scholar, dan laporan lembaga nasional-internasional. Sintesis bersifat kualitatif, tanpa analisis statistik gabungan.",
-   "temuan": "Millet kecil kaya serat, protein, mineral, dan senyawa bioaktif, serta toleran kekeringan dan panas sehingga sesuai untuk pertanian cerdas iklim. Peran perempuan, kelompok swadaya, dan organisasi petani disebut berkontribusi pada pendapatan, namun temuan ini bersifat asosiatif dan deskriptif, bukan kausal. Hambatan utama meliputi produktivitas rendah, infrastruktur pengolahan terbatas, lemahnya keterkaitan pasar, dan kesenjangan implementasi kebijakan.",
-   "relevansi": "Kajian ini relevan untuk membandingkan model rantai nilai, kelembagaan petani, dan inklusi gender dalam diversifikasi pangan lokal di Kalimantan Tengah. Namun, konteksnya India dan belum ada bukti spesifik untuk lahan gambut atau sawit, sehingga transfer temuan perlu diuji ulang secara empiris.",
-   "skor": 3,
-   "model": "claude-haiku-5-5"
-  },
+  "summary_id": null,
   "relevance": 60
  },
  {
