@@ -475,7 +475,7 @@ def build_digest_messages(new_articles: list[dict], cfg: dict, site_url: str | N
 
     header = f"*PantauRiset* {today}: {len(new_articles)} artikel OA baru."
     if len(ranked) > max_items:
-        header += f" {max_items} paling relevan:"
+        header += " Paling relevan hari ini:" if max_items == 1 else f" {max_items} paling relevan:"
     if site_url:
         header += f"\nSemua artikel + ringkasan: {site_url}"
 

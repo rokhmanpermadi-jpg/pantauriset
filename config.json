@@ -10,9 +10,9 @@
   "max_articles_kept": 3000,
 
   "summary_model": "claude-haiku-5-5",
-  "max_ai_summaries_per_run": 10,
+  "max_ai_summaries_per_run": 3,
 
-  "whatsapp_max_items": 8,
+  "whatsapp_max_items": 1,
   "whatsapp_max_chars": 6000,
   "whatsapp_notify_when_empty": false,
   "site_url": "",
