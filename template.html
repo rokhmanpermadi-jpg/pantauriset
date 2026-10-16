@@ -43,6 +43,8 @@
   .list{display:grid;gap:14px}
   article{background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);padding:16px 18px;box-shadow:var(--shadow)}
   article.read{opacity:.68}
+  article.focus{border-color:var(--accent);box-shadow:0 0 0 3px var(--accent-soft)}
+  .focusnote{font-size:.78rem;color:var(--accent-text);font-weight:600;margin-bottom:6px}
   .meta{display:flex;flex-wrap:wrap;gap:6px 10px;font-size:.8rem;color:var(--muted);align-items:center}
   .badge{padding:2px 8px;border-radius:999px;font-size:.74rem;font-weight:600;background:var(--chip);color:var(--muted)}
   .badge.prio{background:var(--accent-soft);color:var(--accent-text)}
@@ -56,6 +58,7 @@
   .summary div b{color:var(--accent-text);font-weight:600;margin-right:4px}
   .abstract{font-size:.9rem;color:var(--text);margin-top:10px;display:none}
   article.open .abstract{display:block}
+  article.open .summary.abs{display:none}
   .kw{display:flex;flex-wrap:wrap;gap:5px;margin-top:10px}
   .kw span{font-size:.74rem;background:var(--chip);padding:2px 8px;border-radius:999px;color:var(--muted)}
   .actions{display:flex;flex-wrap:wrap;gap:8px;margin-top:12px}
@@ -152,6 +155,8 @@
     $('#journal').insertAdjacentHTML('beforeend', `<option value="${esc(j)}">${esc(j)} (${n})</option>`));
 
   let filter = 'all', shown = 40;
+  let focusId = (location.hash || '').replace('#','').trim();
+  window.addEventListener('hashchange', ()=>{ focusId=(location.hash||'').replace('#','').trim(); render(); });
   $('#tabs').onclick = e => {
     const b = e.target.closest('.tab'); if(!b) return;
     document.querySelectorAll('.tab').forEach(t=>t.setAttribute('aria-pressed','false'));
@@ -185,10 +190,15 @@
       }
       return true;
     });
+    if (focusId){
+      const f = A.find(a=>a.id===focusId);
+      if (f){ out = out.filter(a=>a.id!==focusId); out.unshift(f); }
+    }
     const s = $('#sort').value;
     if (s==='date') out.sort((x,y)=>(y.date||'').localeCompare(x.date||''));
     else if (s==='cites') out.sort((x,y)=>(y.cited_by||0)-(x.cited_by||0));
     else out.sort((x,y)=>((y.relevance||0)-(x.relevance||0)) || (y.date||'').localeCompare(x.date||''));
+    if (focusId){ const i = out.findIndex(a=>a.id===focusId); if (i>0){ const [f]=out.splice(i,1); out.unshift(f); } }
     return out;
   }
 
@@ -200,9 +210,11 @@
         ${s.metode?`<div><b>Metode</b>${esc(s.metode)}</div>`:''}
         ${s.temuan?`<div><b>Temuan</b>${esc(s.temuan)}</div>`:''}
         ${s.relevansi?`<div><b>Relevansi</b>${esc(s.relevansi)}</div>`:''}
-      </div>` : (a.abstract ? `<div class="summary"><div><b>Abstrak</b>${esc(a.abstract.slice(0,420))}${a.abstract.length>420?'…':''}</div></div>` : '');
+      </div>` : (a.abstract ? `<div class="summary abs"><div><b>Abstrak</b>${esc(a.abstract.slice(0,420))}${a.abstract.length>420?'…':''}</div></div>` : '');
     const au = (a.authors||[]); const authors = au.length>4 ? au.slice(0,4).join(', ')+` dkk. (${au.length} penulis)` : au.join(', ');
-    return `<article data-id="${esc(a.id)}" class="${state.read[a.id]?'read':''}">
+    const isFocus = a.id===focusId;
+    return `<article id="${esc(a.id)}" data-id="${esc(a.id)}" class="${state.read[a.id]?'read':''} ${isFocus?'focus open':''}">
+      ${isFocus?'<div class="focusnote">Artikel dari notifikasi WhatsApp Anda</div>':''}
       <div class="meta">
         ${isNew?'<span class="badge new">Baru</span>':''}
         ${a.priority_journal?'<span class="badge prio">Jurnal prioritas</span>':''}

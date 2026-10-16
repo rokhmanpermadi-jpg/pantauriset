@@ -1,7 +1,6 @@
 {
   "_catatan": "Sunting berkas ini untuk mengubah topik, jurnal prioritas, dan perilaku. Query memakai sintaks pencarian OpenAlex: AND, OR, NOT, tanda kutip untuk frasa. Hindari tanda koma di dalam query.",
 
-  "mailto": "rokhmanpermadi@gmail.com",
   "language": "en",
   "only_core_sources": true,
   "only_priority_journals": false,
@@ -11,7 +10,7 @@
   "max_articles_kept": 3000,
 
   "summary_model": "claude-haiku-5-5",
-  "max_ai_summaries_per_run": 25,
+  "max_ai_summaries_per_run": 10,
 
   "whatsapp_max_items": 8,
   "whatsapp_max_chars": 6000,

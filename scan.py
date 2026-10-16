@@ -444,7 +444,10 @@ def notify(text: str) -> bool:
     return any(results)
 
 
-def short_doi_link(a: dict) -> str:
+def short_doi_link(a: dict, site_url: str | None = None) -> str:
+    """Tautan di pesan: ke kartu artikel di aplikasi bila SITE_URL ada, selain itu DOI."""
+    if site_url:
+        return f"{site_url.rstrip('/')}/#{a['id']}"
     if a.get("doi"):
         return f"https://doi.org/{a['doi']}"
     return a.get("oa_url") or ""
@@ -474,7 +477,7 @@ def build_digest_messages(new_articles: list[dict], cfg: dict, site_url: str | N
     if len(ranked) > max_items:
         header += f" {max_items} paling relevan:"
     if site_url:
-        header += f"\nBaca semua: {site_url}"
+        header += f"\nSemua artikel + ringkasan: {site_url}"
 
     blocks = []
     for i, a in enumerate(ranked[:max_items], 1):
@@ -486,7 +489,7 @@ def build_digest_messages(new_articles: list[dict], cfg: dict, site_url: str | N
             f"{i}. {tag}*{a['title']}*\n"
             f"_{a['journal']}_ · {a['date']}{skor}\n"
             f"{one_line_summary(a)}\n"
-            f"{short_doi_link(a)}"
+            f"{short_doi_link(a, site_url)}"
         )
         blocks.append(line)
 
@@ -583,6 +586,7 @@ def run(args: argparse.Namespace) -> int:
                 a["summary_id"] = s
                 a["relevance"] = int(round(0.6 * a["relevance"] + 0.4 * (s["skor"] * 20)))
             time.sleep(0.5)
+        new_articles.sort(key=lambda x: x["relevance"], reverse=True)
     else:
         log("Ringkasan AI dilewati (tidak ada ANTHROPIC_API_KEY atau --no-summary).")
 
