@@ -161,7 +161,7 @@ def fetch_topic(topic: dict, since: str, cfg: dict) -> list[dict]:
     select = ",".join([
         "id", "doi", "title", "publication_date", "type", "language",
         "primary_location", "open_access", "authorships", "abstract_inverted_index",
-        "cited_by_count", "keywords", "best_oa_location",
+        "cited_by_count", "keywords", "best_oa_location", "locations",
     ])
     params = {
         "filter": build_filter(topic["query"], since, cfg),
@@ -211,6 +211,12 @@ def normalize_work(w: dict, topic_name: str, cfg: dict) -> dict:
     oa = w.get("open_access") or {}
     pdf = best.get("pdf_url") or loc.get("pdf_url")
     oa_url = oa.get("oa_url") or best.get("landing_page_url") or loc.get("landing_page_url")
+    # semua lokasi OA (repositori, PMC, penerbit) sebagai cadangan unduhan teks penuh
+    pdf_urls: list[str] = []
+    for l in [best, loc] + list(w.get("locations") or []):
+        for u in (l.get("pdf_url"), l.get("landing_page_url")):
+            if u and (l.get("is_oa") or l is best) and u not in pdf_urls:
+                pdf_urls.append(u)
 
     return {
         "id": w.get("id", "").replace("https://openalex.org/", ""),
@@ -225,6 +231,7 @@ def normalize_work(w: dict, topic_name: str, cfg: dict) -> dict:
         "abstract": reconstruct_abstract(w.get("abstract_inverted_index")),
         "oa_url": oa_url or "",
         "pdf_url": pdf or "",
+        "pdf_urls": pdf_urls[:8],
         "oa_status": oa.get("oa_status") or "",
         "cited_by": w.get("cited_by_count") or 0,
         "keywords": [k.get("display_name") for k in (w.get("keywords") or []) if k.get("display_name")][:8],
@@ -265,7 +272,10 @@ def fetch_fulltext(a: dict, cfg: dict) -> str:
         log("  pypdf tidak terpasang; ringkasan memakai abstrak (pip install pypdf)")
         return ""
     import io  # noqa: WPS433
-    candidates = [u for u in (a.get("pdf_url"), a.get("oa_url")) if u]
+    candidates = []
+    for u in [a.get("pdf_url")] + list(a.get("pdf_urls") or []) + [a.get("oa_url")]:
+        if u and u not in candidates:
+            candidates.append(u)
     for url in candidates:
         try:
             req = urllib.request.Request(url, headers={
