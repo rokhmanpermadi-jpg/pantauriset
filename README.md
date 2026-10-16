@@ -42,6 +42,8 @@ Pengingat metodologis: ringkasan dibuat **dari abstrak**, bukan teks penuh. Guna
 
 ## Menyesuaikan topik dan jurnal
 
+**API key OpenAlex (gratis, wajib untuk GitHub Actions).** OpenAlex membatasi pemakaian tanpa key pada anggaran $0,10/hari per alamat IP; di server bersama anggaran itu cepat habis dan permintaan ditolak (HTTP 401). Daftar key gratis ($1/hari, kebutuhan PantauRiset ±$0,02/hari) di https://openalex.org/settings/api, lalu isi `OPENALEX_API_KEY` di `.env` (Mac) atau sebagai *secret* (GitHub).
+
 Semua ada di `config.json`:
 
 - `topics`: nama dan *query* (sintaks OpenAlex: `AND`, `OR`, `NOT`, tanda kutip untuk frasa; hindari koma).

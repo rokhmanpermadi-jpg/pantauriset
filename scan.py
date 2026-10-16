@@ -98,6 +98,9 @@ def http_get_json(url: str, retries: int = 3, timeout: int = 60) -> dict:
                 return json.loads(r.read().decode("utf-8"))
         except urllib.error.HTTPError as e:
             last_err = e
+            if e.code == 401 and "openalex" in url:
+                raise RuntimeError("OpenAlex 401: anggaran harian gratis per IP habis. "
+                                   "Isi OPENALEX_API_KEY (gratis) di .env / secrets.") from e
             if e.code == 429 or e.code >= 500:
                 time.sleep(2 * attempt)
                 continue
@@ -169,6 +172,10 @@ def fetch_topic(topic: dict, since: str, cfg: dict) -> list[dict]:
     }
     if cfg.get("mailto"):
         params["mailto"] = cfg["mailto"]
+    # API key OpenAlex (gratis, anggaran $1/hari sendiri). Tanpa key, anggaran dibagi per IP
+    # dan di server bersama (GitHub Actions) sering habis -> HTTP 401.
+    if os.environ.get("OPENALEX_API_KEY"):
+        params["api_key"] = os.environ["OPENALEX_API_KEY"].strip()
     out: list[dict] = []
     max_items = int(cfg.get("max_per_topic", 100))
     pages = 0
