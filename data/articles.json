@@ -1852,8 +1852,17 @@
   "priority_journal": false,
   "language": "en",
   "found_at": "2026-10-16",
-  "summary_id": null,
-  "relevance": 68
+  "summary_id": {
+   "tujuan": "Menganalisis determinan partisipasi pasar dan dampaknya terhadap pendapatan petani kecil yang membudidayakan sayuran indigenous yang kurang dimanfaatkan (UIV) di Nigeria Barat Daya.",
+   "metode": "Desain cross-sectional dengan data primer dari petani yang dipilih secara acak dalam proyek NiCanVeg, mencakup beberapa negara bagian dan zona agroekologi. Analisis menggunakan Linear Regression Model with Endogenous Treatment Effects (LRETEM) untuk mengatasi bias seleksi. Ukuran sampel dan periode pengumpulan data tidak disebutkan dalam abstrak.",
+   "temuan": "Partisipan pasar cenderung lebih muda, lebih berpendidikan, dan memiliki aset produktif serta tabungan yang lebih besar. Gender, usia, pendidikan, kepemilikan aset, pendapatan ternak, dan keanggotaan koperasi berpengaruh signifikan terhadap keputusan partisipasi pasar. Partisipasi pasar berdampak positif dan signifikan terhadap kesejahteraan petani, meskipun besaran efeknya tidak dilaporkan dalam abstrak.",
+   "keterbatasan": "Tidak disebutkan. Dari desain, data cross-sectional membatasi klaim kausal; validitas instrumen dalam model treatment endogen juga tidak dijelaskan dalam abstrak.",
+   "relevansi": "Temuan tentang peran koperasi, akses informasi pasar, dan rantai nilai inklusif relevan untuk petani sayuran dan hortikultura kecil di Kalimantan Tengah. Pendekatan LRETEM dapat diterapkan ulang pada data survei petani Indonesia untuk menguji dampak partisipasi pasar terhadap pendapatan.",
+   "skor": 4,
+   "model": "claude-haiku-5-5",
+   "sumber": "abstrak"
+  },
+  "relevance": 73
  },
  {
   "id": "W7221472675",
@@ -6484,8 +6493,17 @@
   "priority_journal": false,
   "language": "en",
   "found_at": "2026-10-16",
-  "summary_id": null,
-  "relevance": 60
+  "summary_id": {
+   "tujuan": "Mengevaluasi karakteristik kimia tanah dan produktivitas padi di lahan rawa pasang surut tipe B dan C (tanah sulfat masam) menurut tipe genangan dan musim tanam di Kabupaten Tanah Bumbu, Kalimantan Selatan.",
+   "metode": "Survei lapangan dan analisis tanah laboratorium di lima desa (Selimuran, Mudalang, Rantau Panjang, Api-api, Segumbang) pada November 2021 hingga Maret 2022, dengan wawancara terstruktur terhadap lima petani per desa. Pengukuran muka air tanah dilakukan selama musim hujan. Analisis menggunakan statistik deskriptif, ANOVA (95%), uji post hoc, dan korelasi.",
+   "temuan": "Produktivitas padi tipe B lebih tinggi daripada tipe C (5,43 vs 3,76 t/ha; selisih 1,67 t/ha atau 37,13%). Hasil tipe B turun 0,95 t/ha dari musim kemarau ke hujan, sedangkan tipe C naik 0,45 t/ha. Lapisan pirit di tipe C lebih dangkal (rata-rata 37 cm vs 108 cm) dan Al dapat ditukar lebih tinggi (11,27-12,97 vs 5,20-6,00 cmol/kg). Temuan ini bersifat asosiatif, bukan kausal.",
+   "keterbatasan": "Tidak disebutkan secara eksplisit dalam bagian yang terbaca. Dari desain, jumlah unit sampel sangat kecil (lima desa, lima petani per desa), tipe genangan terkonfonding dengan lokasi, dan data hasil berasal dari wawancara petani. Hasil uji statistik ANOVA tidak tampak pada teks yang tersedia, dan teks penuh terpotong.",
+   "relevansi": "Temuan tentang biaya input (dolomit dan pupuk lebih tinggi di tipe C) dan variasi musim tanam penting untuk analisis kelayakan usaha tani padi rawa di Kalimantan Selatan. Studi ini dapat menjadi dasar pembanding untuk kajian ketahanan pangan lokal, tetapi fokusnya pada ilmu tanah dan agronomi, bukan pemasaran, kelembagaan, atau adopsi digital.",
+   "skor": 2,
+   "model": "claude-haiku-5-5",
+   "sumber": "teks penuh"
+  },
+  "relevance": 52
  },
  {
   "id": "W7220863783",
