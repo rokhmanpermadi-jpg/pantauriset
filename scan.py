@@ -283,7 +283,7 @@ def ai_summary(a: dict, cfg: dict) -> dict | None:
     )
     payload = {
         "model": model,
-        "max_tokens": 700,
+        "max_tokens": 1500,
         "messages": [{"role": "user", "content": prompt}],
     }
     headers = {"x-api-key": key, "anthropic-version": "2023-06-01"}
@@ -293,9 +293,15 @@ def ai_summary(a: dict, cfg: dict) -> dict | None:
             text = "".join(b.get("text", "") for b in resp.get("content", []) if b.get("type") == "text")
             m = re.search(r"\{.*\}", text, re.S)
             if not m:
+                log(f"  Ringkasan: tidak ada JSON (stop_reason={resp.get('stop_reason')}): {text[:200]!r}")
                 return None
-            out = json.loads(m.group(0))
-            out["skor"] = int(out.get("skor", 3))
+            try:
+                out = json.loads(m.group(0))
+            except json.JSONDecodeError as e:
+                log(f"  Ringkasan: JSON rusak ({e}; stop_reason={resp.get('stop_reason')}): {m.group(0)[:200]!r}")
+                return None
+            skor = re.search(r"\d", str(out.get("skor", 3)))
+            out["skor"] = max(1, min(5, int(skor.group(0)) if skor else 3))
             out["model"] = model
             return out
         except urllib.error.HTTPError as e:
