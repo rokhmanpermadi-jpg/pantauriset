@@ -13800,8 +13800,17 @@
   "priority_journal": false,
   "language": "en",
   "found_at": "2026-10-16",
-  "summary_id": null,
-  "relevance": 58
+  "summary_id": {
+   "tujuan": "Penelitian ini menganalisis faktor-faktor yang memengaruhi penggunaan internet di rumah tangga oleh petani kecil perempuan di pedesaan Afrika Selatan, dengan fokus pada akses internet untuk mencapai pembeli produk pertanian.",
+   "metode": "Desain kuantitatif cross-sectional menggunakan data sekunder General Household Survey (GHS) 2019 dari Statistics South Africa, dengan sampling bertingkat (stratified) pada unit primer dan sistematis pada unit hunian. Analisis dilakukan dengan SPSS 30.0 menggunakan uji Chi-square, koefisien Phi dan Cramer's V, serta regresi logistik. Ukuran sampel tidak disebutkan dalam abstrak.",
+   "temuan": "Petani di Free State lebih banyak menggunakan internet untuk menjangkau pasar formal dan internasional, sedangkan di provinsi lain untuk pembeli lokal, dengan pengguna internet yang masih terbatas. Uji Chi-square menunjukkan asosiasi signifikan, dengan hubungan sedang hingga kuat (Phi dan Cramer's V). Regresi logistik menyebut usia, ras, dan pendidikan sebagai faktor penentu, tetapi nilai koefisien tidak dilaporkan dalam abstrak.",
+   "keterbatasan": "Tidak disebutkan. Dari desain tampak bahwa studi bersifat cross-sectional dan berbasis data sekunder sehingga hanya menunjukkan asosiasi, bukan kausalitas, serta peubah yang tersedia dibatasi oleh kuesioner survei.",
+   "relevansi": "Studi ini relevan dengan agenda riset dosen mengenai adopsi teknologi digital, akses pasar petani kecil, dan kesenjangan gender di pertanian. Temuan tentang peran internet bagi akses pasar formal versus pasar lokal dapat diuji ulang pada petani sawit dan hortikultura di Kalimantan Tengah, meski konteks dan data survei Indonesia berbeda.",
+   "skor": 4,
+   "model": "claude-haiku-5-5",
+   "sumber": "abstrak"
+  },
+  "relevance": 67
  },
  {
   "id": "W7214595669",
