@@ -9435,8 +9435,15 @@
   "priority_journal": false,
   "language": "en",
   "found_at": "2026-10-16",
-  "summary_id": null,
-  "relevance": 58
+  "summary_id": {
+   "tujuan": "Mengkaji secara kritis interaksi antara penyuluhan berbasis AI dan digital, ekonomi perilaku, ketahanan iklim, dan struktur pasar agri-pangan dalam menentukan apakah nasihat mengubah praktik dan melindungi pendapatan petani kecil.",
+   "metode": "Tinjauan naratif kritis terhadap literatur peer-reviewed di bidang ekonomi, pertanian, ilmu komputer, dan layanan iklim yang terbit 2004 hingga Juli 2026, dicari melalui indeks akademik multidisiplin, repositori, sumber kelembagaan, dan pelacakan sitasi. Kualitas studi dinilai pada strategi identifikasi, validitas eksternal, validasi lapangan, dan analisis distribusi; jumlah studi dan lokasi spesifik tidak disebutkan.",
+   "temuan": "Layanan penyuluhan digital meningkatkan adopsi secara sederhana namun hemat biaya, sementara dampak pada hasil panen, harga, dan pendapatan tidak konsisten. Model diagnosis berbasis citra akurat pada data terkurasi tetapi menurun di lapangan, nudge generik sering berdampak kecil atau nol, dan informasi pasar saja jarang menaikkan harga di tingkat petani bila perantara memegang daya tawar. Ini merupakan sintesis bukti dari berbagai studi, bukan estimasi kausal baru.",
+   "relevansi": "Sangat relevan dengan agenda penyuluhan digital, akses pasar petani kecil, dan kelembagaan petani; kerangka bahwa nasihat perlu dipadukan dengan lembaga pengelola risiko dan likuiditas dapat diuji pada rantai nilai sawit maupun pangan pedesaan di Kalimantan Tengah. Agenda uji lapangan dan tata kelola data pertanian yang diusulkan juga dapat dibawa ke konteks Indonesia.",
+   "skor": 5,
+   "model": "claude-haiku-5-5"
+  },
+  "relevance": 75
  },
  {
   "id": "W7218780787",
@@ -10080,7 +10087,14 @@
   "priority_journal": true,
   "language": "en",
   "found_at": "2026-10-16",
-  "summary_id": null,
+  "summary_id": {
+   "tujuan": "Mensintesis bukti tentang komposisi gizi, ketahanan iklim, nilai sosial-ekonomi, nilai tambah, peluang pasar, dukungan kelembagaan, dan kebijakan terkait millet kecil (small millets) di India. Fokusnya adalah peran tanaman ini dalam ketahanan pangan dan gizi serta penghidupan berkelanjutan.",
+   "metode": "Systematic literature review mengikuti pedoman PRISMA 2020 dengan 150 studi dari Scopus, Web of Science, ScienceDirect, SpringerLink, CAB Abstracts, AGRICOLA, Google Scholar, dan laporan lembaga nasional-internasional. Sintesis bersifat kualitatif, tanpa analisis statistik gabungan.",
+   "temuan": "Millet kecil kaya serat, protein, mineral, dan senyawa bioaktif, serta toleran kekeringan dan panas sehingga sesuai untuk pertanian cerdas iklim. Peran perempuan, kelompok swadaya, dan organisasi petani disebut berkontribusi pada pendapatan, namun temuan ini bersifat asosiatif dan deskriptif, bukan kausal. Hambatan utama meliputi produktivitas rendah, infrastruktur pengolahan terbatas, lemahnya keterkaitan pasar, dan kesenjangan implementasi kebijakan.",
+   "relevansi": "Kajian ini relevan untuk membandingkan model rantai nilai, kelembagaan petani, dan inklusi gender dalam diversifikasi pangan lokal di Kalimantan Tengah. Namun, konteksnya India dan belum ada bukti spesifik untuk lahan gambut atau sawit, sehingga transfer temuan perlu diuji ulang secara empiris.",
+   "skor": 3,
+   "model": "claude-haiku-5-5"
+  },
   "relevance": 60
  },
  {
@@ -17633,8 +17647,15 @@
   "priority_journal": true,
   "language": "en",
   "found_at": "2026-10-16",
-  "summary_id": null,
-  "relevance": 63
+  "summary_id": {
+   "tujuan": "Menguji determinan relasional (inklusivitas, komitmen, kualitas informasi, kepercayaan) terhadap koordinasi rantai pasok dan mengukur efisiensi teknis relatif aktor dalam rantai nilai pisang di Indonesia.",
+   "metode": "Survei cross-sectional terhadap 251 responden (237 petani, 5 pedagang grosir, 9 pengecer) di Cianjur, Lumajang, dan Lampung, dengan 194 kasus valid (181 petani). Analisis menggunakan regresi berjenjang pada subsampel petani (n=181) dan Data Envelopment Analysis berorientasi input, dengan validitas konstruk diuji melalui CFA.",
+   "temuan": "Model regresi menjelaskan 63,3% varians koordinasi rantai pasok, dengan komitmen, inklusivitas, kualitas informasi, dan kepercayaan sebagai prediktor positif signifikan (komitmen dan kepercayaan terkuat). Efisiensi teknis petani rendah (0,683) dibanding pengecer (0,934) dan grosir (0,954); desain cross-sectional hanya menunjukkan asosiasi, bukan kausalitas, dan AVE sebagian konstruk berada di bawah 0,5.",
+   "relevansi": "Sangat relevan dengan agenda kelembagaan petani, rantai nilai, dan akses pasar petani kecil; determinan relasional dan kesenjangan efisiensi ini dapat dibandingkan atau diuji ulang pada rantai nilai sawit maupun hortikultura di Kalimantan Tengah. Studi ini juga menyinggung potensi pendukung keputusan berbasis AI, meskipun tidak mengembangkan sistem AI.",
+   "skor": 4,
+   "model": "claude-haiku-5-5"
+  },
+  "relevance": 70
  },
  {
   "id": "W7213258013",
