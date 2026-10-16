@@ -315,12 +315,32 @@ def ai_summary(a: dict, cfg: dict) -> dict | None:
 # --------------------------------------------------------------------------- #
 # WhatsApp (CallMeBot)
 # --------------------------------------------------------------------------- #
+def split_text(text: str, max_len: int) -> list[str]:
+    """Pecah teks panjang pada batas paragraf agar tiap bagian <= max_len."""
+    parts, cur = [], ""
+    for para in text.split("\n\n"):
+        if cur and len(cur) + len(para) + 2 > max_len:
+            parts.append(cur); cur = para
+        else:
+            cur = (cur + "\n\n" + para) if cur else para
+    if cur:
+        parts.append(cur)
+    return parts
+
+
 def send_whatsapp(text: str) -> bool:
     phone = os.environ.get("WHATSAPP_PHONE", "").strip()
     apikey = os.environ.get("CALLMEBOT_APIKEY", "").strip()
     if not phone or not apikey:
         log("WhatsApp dilewati: WHATSAPP_PHONE / CALLMEBOT_APIKEY belum diisi di .env")
         return False
+    # CallMeBot memakai URL GET: pecah bila panjang (batas aman ~1200 karakter)
+    if len(text) > 1200:
+        ok_all = True
+        for part in split_text(text, 1200):
+            ok_all = send_whatsapp(part) and ok_all
+            time.sleep(3)
+        return ok_all
     url = CALLMEBOT_URL + "?" + urllib.parse.urlencode({"phone": phone, "text": text, "apikey": apikey})
     try:
         req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
@@ -372,9 +392,12 @@ def send_telegram(text: str) -> bool:
     html = re.sub(r"<(?!/?[bi]>)", "&lt;", html)
     url = f"https://api.telegram.org/bot{token}/sendMessage"
     try:
-        resp = http_post_json(url, {"chat_id": chat_id, "text": html, "parse_mode": "HTML",
-                                    "disable_web_page_preview": True}, {})
-        return bool(resp.get("ok"))
+        ok = True
+        for part in split_text(html, 4000):
+            resp = http_post_json(url, {"chat_id": chat_id, "text": part, "parse_mode": "HTML",
+                                        "disable_web_page_preview": True}, {})
+            ok = ok and bool(resp.get("ok"))
+        return ok
     except urllib.error.HTTPError as e:
         log(f"Telegram HTTP {e.code}: {e.read().decode('utf-8', 'ignore')[:200]}")
     except Exception as e:  # noqa: BLE001
@@ -432,21 +455,24 @@ def one_line_summary(a: dict) -> str:
     if s and s.get("temuan"):
         return s["temuan"]
     ab = a.get("abstract") or ""
-    # kalimat pertama dua buah abstrak
     sents = re.split(r"(?<=[.!?])\s+", ab)
-    return " ".join(sents[:2])[:280]
+    out = " ".join(sents[:2])
+    limit = 220
+    if len(out) > limit:
+        out = out[:limit].rsplit(" ", 1)[0] + "..."
+    return out
 
 
 def build_digest_messages(new_articles: list[dict], cfg: dict, site_url: str | None) -> list[str]:
     """Pecah digest menjadi beberapa pesan agar aman untuk URL GET CallMeBot."""
     max_items = int(cfg.get("whatsapp_max_items", 8))
-    max_len = int(cfg.get("whatsapp_max_chars", 1200))
+    max_len = int(cfg.get("whatsapp_max_chars", 6000))  # satu pesan; CallMeBot/Telegram memecah sendiri
     today = dt.date.today().strftime("%d %b %Y")
     ranked = sorted(new_articles, key=lambda x: (x.get("relevance", 0), x.get("date", "")), reverse=True)
 
-    header = f"*PantauRiset* - {today}\n{len(new_articles)} artikel OA baru terdeteksi."
+    header = f"*PantauRiset* {today}: {len(new_articles)} artikel OA baru."
     if len(ranked) > max_items:
-        header += f" Menampilkan {max_items} paling relevan."
+        header += f" {max_items} paling relevan:"
     if site_url:
         header += f"\nBaca semua: {site_url}"
 
@@ -458,7 +484,7 @@ def build_digest_messages(new_articles: list[dict], cfg: dict, site_url: str | N
             skor = f" (relevansi {a['summary_id']['skor']}/5)"
         line = (
             f"{i}. {tag}*{a['title']}*\n"
-            f"_{a['journal']}_, {a['date']}{skor}\n"
+            f"_{a['journal']}_ · {a['date']}{skor}\n"
             f"{one_line_summary(a)}\n"
             f"{short_doi_link(a)}"
         )

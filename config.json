@@ -14,7 +14,7 @@
   "max_ai_summaries_per_run": 25,
 
   "whatsapp_max_items": 8,
-  "whatsapp_max_chars": 1200,
+  "whatsapp_max_chars": 6000,
   "whatsapp_notify_when_empty": false,
   "site_url": "",
 
