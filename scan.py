@@ -526,6 +526,27 @@ def run(args: argparse.Namespace) -> int:
     if args.telegram_id:
         telegram_find_chat_id(); return 0
 
+    if args.backfill:
+        # ringkas artikel lama yang belum punya ringkasan, mulai dari yang paling relevan
+        if not os.environ.get("ANTHROPIC_API_KEY"):
+            log("ANTHROPIC_API_KEY belum ada."); return 1
+        todo = [a for a in articles if not a.get("summary_id") and a.get("abstract")]
+        todo.sort(key=lambda x: (x.get("relevance", 0), x.get("date", "")), reverse=True)
+        n_ok = 0
+        for a in todo[:args.backfill]:
+            s = ai_summary(a, cfg)
+            if s:
+                a["summary_id"] = s
+                a["relevance"] = int(round(0.6 * a["relevance"] + 0.4 * (s["skor"] * 20)))
+                n_ok += 1
+                log(f"  ringkas [{s['skor']}/5] {a['title'][:80]}")
+            time.sleep(0.5)
+        log(f"Ringkasan susulan selesai: {n_ok}/{min(args.backfill, len(todo))}")
+        save_json(ARTICLES_PATH, articles)
+        from build_site import build_site  # noqa: WPS433
+        build_site(articles, cfg, DOCS_DIR / "index.html")
+        return 0
+
     if args.test_whatsapp or args.test_notify:
         ok = notify("*PantauRiset* terhubung. Notifikasi artikel baru akan dikirim ke sini setiap pagi.")
         log("Pesan uji terkirim." if ok else "Pesan uji GAGAL."); return 0 if ok else 1
@@ -635,6 +656,7 @@ def main() -> None:
     p.add_argument("--telegram-id", action="store_true", help="tampilkan chat_id Telegram Anda")
     p.add_argument("--no-summary", action="store_true")
     p.add_argument("--rebuild-site", action="store_true")
+    p.add_argument("--backfill", type=int, default=0, help="ringkas N artikel lama yang belum punya ringkasan")
     args = p.parse_args()
     sys.path.insert(0, str(BASE))
     sys.exit(run(args))
