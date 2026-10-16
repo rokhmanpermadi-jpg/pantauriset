@@ -56,6 +56,7 @@
   .authors{font-size:.86rem;color:var(--muted);margin-bottom:10px}
   .summary{display:grid;gap:6px;background:var(--surface-2);border-radius:10px;padding:12px 14px;font-size:.92rem}
   .summary div b{color:var(--accent-text);font-weight:600;margin-right:4px}
+  .summary .src{font-size:.74rem;color:var(--muted);margin-top:4px}
   .abstract{font-size:.9rem;color:var(--text);margin-top:10px;display:none}
   article.open .abstract{display:block}
   article.open .summary.abs{display:none}
@@ -209,7 +210,9 @@
         ${s.tujuan?`<div><b>Tujuan</b>${esc(s.tujuan)}</div>`:''}
         ${s.metode?`<div><b>Metode</b>${esc(s.metode)}</div>`:''}
         ${s.temuan?`<div><b>Temuan</b>${esc(s.temuan)}</div>`:''}
+        ${s.keterbatasan?`<div><b>Keterbatasan</b>${esc(s.keterbatasan)}</div>`:''}
         ${s.relevansi?`<div><b>Relevansi</b>${esc(s.relevansi)}</div>`:''}
+        <div class="src">Ringkasan AI dari ${esc(s.sumber||'abstrak')}${s.sumber==='teks penuh'?'':' (teks penuh tidak tersedia)'}</div>
       </div>` : (a.abstract ? `<div class="summary abs"><div><b>Abstrak</b>${esc(a.abstract.slice(0,420))}${a.abstract.length>420?'…':''}</div></div>` : '');
     const au = (a.authors||[]); const authors = au.length>4 ? au.slice(0,4).join(', ')+` dkk. (${au.length} penulis)` : au.join(', ');
     const isFocus = a.id===focusId;

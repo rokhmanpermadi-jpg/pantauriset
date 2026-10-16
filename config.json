@@ -11,6 +11,11 @@
 
   "summary_model": "claude-haiku-5-5",
   "max_ai_summaries_per_run": 3,
+  "use_fulltext": true,
+  "fulltext_max_chars": 45000,
+  "fulltext_min_chars": 6000,
+  "fulltext_max_pages": 40,
+  "fulltext_max_pdf_mb": 15,
 
   "whatsapp_max_items": 1,
   "whatsapp_max_chars": 6000,

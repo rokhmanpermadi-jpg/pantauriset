@@ -34,6 +34,9 @@ jobs:
         with:
           python-version: "3.12"
 
+      - name: Pasang pypdf (ekstraksi teks penuh)
+        run: pip install --quiet pypdf
+
       - name: Jalankan pemindaian
         env:
           WHATSAPP_PHONE: ${{ secrets.WHATSAPP_PHONE }}

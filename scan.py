@@ -255,21 +255,65 @@ def keyword_relevance(a: dict, cfg: dict) -> int:
     return int(round(100 * score / (score + 50))) if score > 0 else 0
 
 
+def fetch_fulltext(a: dict, cfg: dict) -> str:
+    """Unduh PDF OA dan ekstrak teksnya. Kembalikan '' bila gagal/tidak layak."""
+    if not cfg.get("use_fulltext", True):
+        return ""
+    try:
+        from pypdf import PdfReader  # noqa: WPS433
+    except ImportError:
+        log("  pypdf tidak terpasang; ringkasan memakai abstrak (pip install pypdf)")
+        return ""
+    import io  # noqa: WPS433
+    candidates = [u for u in (a.get("pdf_url"), a.get("oa_url")) if u]
+    for url in candidates:
+        try:
+            req = urllib.request.Request(url, headers={
+                "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+                "Accept": "application/pdf,*/*;q=0.8"})
+            with urllib.request.urlopen(req, timeout=60) as r:
+                raw = r.read(int(cfg.get("fulltext_max_pdf_mb", 15)) * 1024 * 1024)
+            if not raw.startswith(b"%PDF"):
+                continue
+            reader = PdfReader(io.BytesIO(raw))
+            pages = []
+            for pg in reader.pages[: int(cfg.get("fulltext_max_pages", 40))]:
+                try:
+                    pages.append(pg.extract_text() or "")
+                except Exception:  # noqa: BLE001
+                    pages.append("")
+            text = re.sub(r"[ \t]+", " ", "\n".join(pages))
+            text = re.sub(r"\n{3,}", "\n\n", text).strip()
+            # buang daftar pustaka bila judulnya berada di paruh kedua teks
+            m = None
+            for mm in re.finditer(r"\n\s*(References|REFERENCES|Bibliography|Daftar Pustaka|Literature Cited)\s*\n", text):
+                m = mm
+            if m and m.start() > len(text) * 0.4:
+                text = text[: m.start()]
+            if len(text) < int(cfg.get("fulltext_min_chars", 6000)):
+                continue  # terlalu pendek: kemungkinan PDF pindaian atau hanya halaman sampul
+            return text[: int(cfg.get("fulltext_max_chars", 45000))]
+        except Exception as e:  # noqa: BLE001
+            log(f"  Teks penuh gagal ({url[:60]}...): {str(e)[:80]}")
+    return ""
+
+
 SUMMARY_PROMPT = """Anda adalah asisten riset untuk seorang dosen agribisnis/ekonomi pertanian di Kalimantan Tengah, Indonesia, yang meneliti pemasaran pertanian, akses pasar petani kecil, kelembagaan petani, ketahanan pangan, rantai nilai, kelapa sawit, adopsi teknologi digital, dan pembangunan pedesaan.
 
-Baca judul dan abstrak berikut, lalu balas HANYA dengan JSON valid (tanpa teks lain) berformat:
-{{"tujuan": "...", "metode": "...", "temuan": "...", "relevansi": "...", "skor": 1-5}}
+Baca {sumber_label} berikut, lalu balas HANYA dengan JSON valid (tanpa teks lain) berformat:
+{{"tujuan": "...", "metode": "...", "temuan": "...", "keterbatasan": "...", "relevansi": "...", "skor": 1-5}}
 
 Aturan:
-- Tulis dalam Bahasa Indonesia akademik yang padat; tiap bidang maksimal 2 kalimat, seluruh JSON di bawah 170 kata. Jangan menambahkan teks di luar JSON.
-- "metode": sebut desain, data, lokasi, ukuran sampel, dan teknik analisis bila disebutkan; jangan mengarang yang tidak ada di abstrak.
-- "temuan": hasil utama yang konkret; bedakan asosiasi dari kausalitas sesuai desain.
+- Tulis dalam Bahasa Indonesia akademik yang padat; tiap bidang maksimal 2 kalimat (temuan maksimal 3), seluruh JSON di bawah 230 kata. Jangan menambahkan teks di luar JSON.
+- "metode": sebut desain, data, lokasi, periode, ukuran sampel, dan teknik analisis bila disebutkan; jangan mengarang yang tidak ada di teks.
+- "temuan": hasil utama yang konkret dengan angka kunci bila ada; bedakan asosiasi dari kausalitas sesuai desain.
+- "keterbatasan": keterbatasan yang diakui penulis atau yang tampak dari desain; bila teks tidak menyebut, tulis "Tidak disebutkan".
 - "relevansi": kaitan langsung dengan agenda riset dosen di atas (apa yang bisa dipelajari, dibandingkan, atau diuji ulang di konteks Indonesia/Kalimantan). Jika tidak relevan, katakan demikian.
 - "skor": 1 (tidak relevan) sampai 5 (sangat relevan), berdasarkan kedekatan dengan agenda riset tersebut.
 
 Judul: {title}
 Jurnal: {journal} ({year})
-Abstrak: {abstract}
+{sumber_label_cap}: {body}
 """
 
 
@@ -278,8 +322,16 @@ def ai_summary(a: dict, cfg: dict) -> dict | None:
     if not key or not a.get("abstract"):
         return None
     model = cfg.get("summary_model", "claude-haiku-5-5")
+    fulltext = fetch_fulltext(a, cfg)
+    if fulltext:
+        body, sumber = f"{a['abstract'][:3000]}\n\n[TEKS PENUH]\n{fulltext}", "teks penuh"
+        label, label_cap = "abstrak dan teks penuh artikel", "Teks"
+    else:
+        body, sumber = a["abstract"][:6000], "abstrak"
+        label, label_cap = "judul dan abstrak", "Abstrak"
     prompt = SUMMARY_PROMPT.format(
-        title=a["title"], journal=a["journal"], year=a["year"], abstract=a["abstract"][:6000]
+        title=a["title"], journal=a["journal"], year=a["year"],
+        sumber_label=label, sumber_label_cap=label_cap, body=body,
     )
     payload = {
         "model": model,
@@ -303,6 +355,7 @@ def ai_summary(a: dict, cfg: dict) -> dict | None:
             skor = re.search(r"\d", str(out.get("skor", 3)))
             out["skor"] = max(1, min(5, int(skor.group(0)) if skor else 3))
             out["model"] = model
+            out["sumber"] = sumber
             return out
         except urllib.error.HTTPError as e:
             body = e.read().decode("utf-8", "ignore")[:300]
