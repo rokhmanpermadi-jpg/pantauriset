@@ -261,7 +261,7 @@ Baca judul dan abstrak berikut, lalu balas HANYA dengan JSON valid (tanpa teks l
 {{"tujuan": "...", "metode": "...", "temuan": "...", "relevansi": "...", "skor": 1-5}}
 
 Aturan:
-- Tulis dalam Bahasa Indonesia akademik yang padat; tiap bidang 1-2 kalimat.
+- Tulis dalam Bahasa Indonesia akademik yang padat; tiap bidang maksimal 2 kalimat, seluruh JSON di bawah 170 kata. Jangan menambahkan teks di luar JSON.
 - "metode": sebut desain, data, lokasi, ukuran sampel, dan teknik analisis bila disebutkan; jangan mengarang yang tidak ada di abstrak.
 - "temuan": hasil utama yang konkret; bedakan asosiasi dari kausalitas sesuai desain.
 - "relevansi": kaitan langsung dengan agenda riset dosen di atas (apa yang bisa dipelajari, dibandingkan, atau diuji ulang di konteks Indonesia/Kalimantan). Jika tidak relevan, katakan demikian.
@@ -283,7 +283,7 @@ def ai_summary(a: dict, cfg: dict) -> dict | None:
     )
     payload = {
         "model": model,
-        "max_tokens": 1500,
+        "max_tokens": 2500,
         "messages": [{"role": "user", "content": prompt}],
     }
     headers = {"x-api-key": key, "anthropic-version": "2023-06-01"}
