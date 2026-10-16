@@ -10091,7 +10091,16 @@
   "priority_journal": true,
   "language": "en",
   "found_at": "2026-10-16",
-  "summary_id": null,
+  "summary_id": {
+   "tujuan": "Mensintesis bukti tentang nilai gizi, ketahanan iklim, kontribusi sosial-ekonomi, nilai tambah, peluang pasar, dukungan kelembagaan, dan kebijakan tanaman millet kecil (small millets) di India.",
+   "metode": "Systematic literature review mengikuti PRISMA 2020 dengan pencarian di tujuh basis data (Scopus, Web of Science, ScienceDirect, SpringerLink, CAB Abstracts, AGRICOLA, Google Scholar) serta laporan lembaga nasional dan internasional. Dari 1.248 rekaman, 150 studi dimasukkan dalam sintesis naratif kualitatif; pencarian dilakukan Januari-Juni 2026 dengan rentang publikasi 1992-2024, tanpa meta-analisis.",
+   "temuan": "Millet kecil kaya serat, protein, mineral, dan polifenol, serta toleran kekeringan dan tanah miskin; peran perempuan, SHG, dan FPO disorot, tetapi hambatan produktivitas, pengolahan, pasar, dan implementasi kebijakan masih ada. Data produksi India 2025-26 mencakup 415.194 ha dan 379.977 t dengan produktivitas rata-rata 915 kg/ha, dengan variasi antarnegara bagian dari 464 kg/ha (Maharashtra) hingga 981 kg/ha (Madhya Pradesh). Temuan bersifat deskriptif dan asosiatif, bukan kausal.",
+   "keterbatasan": "Hanya studi berbahasa Inggris yang dimasukkan, laporan tak terpublikasi tidak tersedia, dan tidak disebutkan penilaian risiko bias formal; klaim literatur 'hingga Juni 2026' juga tidak sejalan dengan rentang publikasi 1992-2024. Teks yang tersedia terpotong sebelum analisis tren 2015-2026, sehingga bagian tersebut tidak dapat diverifikasi.",
+   "relevansi": "Berguna sebagai model sintesis multidimensi (gizi, kelembagaan, gender, kebijakan) dan sebagai referensi untuk kajian diversifikasi pangan lokal serta peran FPO dan perempuan dalam rantai nilai di Kalimantan Tengah, yang bukan sentra millet sehingga perlu uji kontekstual. Kaitannya dengan kelapa sawit, adopsi teknologi digital, dan akses pasar petani kecil di Kalimantan bersifat tidak langsung.",
+   "skor": 3,
+   "model": "claude-haiku-5-5",
+   "sumber": "teks penuh"
+  },
   "relevance": 60
  },
  {
@@ -14635,8 +14644,17 @@
   "priority_journal": false,
   "language": "en",
   "found_at": "2026-10-16",
-  "summary_id": null,
-  "relevance": 58
+  "summary_id": {
+   "tujuan": "Menguji klaim bahwa model bisnis terbuka mendorong pembangunan pertanian inklusif, dengan membandingkan model ekspor terbuka berbasis koperasi dan model tertutup yang didominasi tengkulak pada rantai nilai pisang Indonesia.",
+   "metode": "Studi kasus komparatif pada rantai nilai pisang Indonesia, dengan analisis biaya transaksi, asimetri informasi, inklusi keuangan, dan analisis titik impas kredit. Lokasi, periode, dan ukuran sampel tidak disebutkan dalam abstrak.",
+   "temuan": "Model terbuka berasosiasi dengan biaya transaksi lebih rendah, asimetri informasi berkurang, dan inklusi keuangan lebih besar dibanding model tertutup, tetapi transparansi koperasi ternyata dangkal dan petani memilih strategi portofolio. Analisis titik impas menunjukkan kredit model tertutup lebih unggul pada probabilitas gagal panen sekitar 37% (skenario ilustratif), dengan ambang 26% hingga di atas 100% antarkombinasi suku bunga dan pembebasan bunga; suku bunga tertutup berkisar 48–150%. Temuan bersifat asosiatif, sehingga klaim kausal tidak dapat ditarik dari desain ini.",
+   "keterbatasan": "Proposisi Capability–Need Inversion Paradox hanya didukung bukti awal berupa penilaian peneliti (researcher-rated) yang rentan bias subjektif. Ambang 37% bersifat ilustratif, dan lokasi, periode, serta jumlah responden tidak disebutkan.",
+   "relevansi": "Sangat dekat dengan agenda kelembagaan petani, akses pasar, dan pembiayaan informal; peran koperasi sebagai mediator dan dominasi tengkulak dapat dibandingkan dengan rantai pasok sawit dan komoditas pangan di Kalimantan Tengah. Konsep 'keterbukaan yang tertutup' dapat diuji ulang pada koperasi petani sawit plasma atau kelompok tani di Kalteng.",
+   "skor": 4,
+   "model": "claude-haiku-5-5",
+   "sumber": "abstrak"
+  },
+  "relevance": 67
  },
  {
   "id": "W7214363671",
@@ -17753,8 +17771,17 @@
   "priority_journal": true,
   "language": "en",
   "found_at": "2026-10-16",
-  "summary_id": null,
-  "relevance": 58
+  "summary_id": {
+   "tujuan": "Menguji apakah jaringan perdagangan agri-pangan RCEP memiliki kapasitas jangka pendek yang dapat dipanggil bagi negara importir rentan, dengan membedakan konektivitas perdagangan dari kapasitas pasokan. Fokusnya adalah ketahanan ketersediaan fisik pangan terhadap kejutan kebijakan, pasar, dan biosekuriti.",
+   "metode": "Desain diagnostik jaringan dengan 126 jaringan komoditas-tahun (6 kelompok komoditas, 15 negara RCEP, 2001–2021) dari data CEPII-BACI HS6, dengan FAOSTAT sebagai pembanding silang. Indikator meliputi HHI pemasok, Jaccard persistensi, lower-bound revealed exportable surplus (RES), dan batas atas ekspor kotor, dengan studi stres kasus pembatasan ekspor beras 2007–2008, larangan ekspor sawit Indonesia 2022, dan ASF pada daging babi, serta regresi transmisi harga unit impor.",
+   "temuan": "Kepadatan jaringan RCEP meningkat dari 0,43 menjadi 0,52, tetapi profil ketahanan berbeda antarkomoditas: beras adalah satu-satunya profil pemasok terdistribusi, sedangkan sawit terkonsentrasi pada inti Indonesia–Malaysia. Kedelai dan babi tetap lemah dalam substitusi regional, dengan cakupan RES China 2021 hanya 0,0394% (kedelai) dan 0,157% (babi), sementara Filipina memiliki cakupan beras 9,68 kali permintaan. Temuan bersifat asosiatif dan deskriptif, bukan estimasi kausal dampak perjanjian.",
+   "keterbatasan": "RES merupakan batas bawah konservatif dan cakupan ekspor kotor merupakan batas atas, sehingga kapasitas riil belum teramati; BACI mencatat mitra dagang, bukan negara produksi, sehingga hub re-ekspor seperti Singapura dapat menyesatkan. Data pasca-2021 bersifat pemantauan deskriptif, akses sanitari babi tidak tersedia sebagai panel tahunan historis, dan modularitas jaringan 15 simpul sensitif terhadap perubahan kecil.",
+   "relevansi": "Sangat relevan bagi kajian rantai nilai sawit dan ketahanan pangan di Kalimantan Tengah, karena menunjukkan bahwa konsentrasi ekspor sawit Indonesia dapat keliru dibaca sebagai kapasitas yang dapat dipanggil saat larangan ekspor 2022 terjadi. Kerangka kapasitas-versus-konektivitas dan indikator persistensi pemasok dapat diadaptasi untuk menguji ulang akses pasar dan kelembagaan petani kecil dalam konteks regional Indonesia.",
+   "skor": 4,
+   "model": "claude-haiku-5-5",
+   "sumber": "teks penuh"
+  },
+  "relevance": 67
  },
  {
   "id": "W7213340392",

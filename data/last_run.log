@@ -1,4 +1,4 @@
-fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/IADYOC+Calibri', '/Encoding': '/WinAnsiEncoding', '/FirstChar': 32, '/FontDescriptor': IndirectObject(86, 0, 140584224666304), '/LastChar': 89, '/Subtype': '/Type1', '/Type': '/Font', '/Widths': [226, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 306, 0, 0, 507, 507, 507, 507, 507, 507, 507, 507, 507, 507, 0, 0, 0, 0, 0, 0, 0, 579, 0, 533, 615, 488, 0, 0, 0, 252, 0, 0, 420, 855, 646, 662, 517, 0, 543, 459, 487, 642, 0, 0, 0, 487]}, but is not installed. Consider installing fontTools if you encounter encoding problems.
-[2026-10-16 11:25:25]   Ringkasan: tidak ada JSON (stop_reason=max_tokens): '{"tujuan": "Mensintesis bukti tentang kontribusi small millets di India terhadap ketahanan pangan dan gizi, ketahanan iklim, serta penghidupan berkelanjutan, termasuk peran perempuan, kelompok swadaya'
-[2026-10-16 11:25:31]   ringkas [4/5] Exploring factors influencing the use of internet in the household by women smal
-[2026-10-16 11:25:31] Ringkasan susulan selesai: 1/2
+[2026-10-16 11:27:01]   ringkas [3/5] Small millets in India: a review of nutritional security, climate resilience and
+[2026-10-16 11:27:12]   ringkas [4/5] When the neediest are the least ready: Open business models in Indonesian banana
+[2026-10-16 11:27:28]   ringkas [4/5] Food-supply resilience under policy, market, and biosecurity shocks: a diagnosti
+[2026-10-16 11:27:29] Ringkasan susulan selesai: 3/3
