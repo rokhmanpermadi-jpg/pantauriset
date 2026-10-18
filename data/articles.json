@@ -1,5 +1,1181 @@
 [
  {
+  "id": "W7222350379",
+  "doi": "10.1016/j.agsy.2026.105000",
+  "title": "When information is not enough: AI-enabled advisory and the fragile pathways of low-carbon transitions under system constraints",
+  "date": "2026-10-16",
+  "year": "2026",
+  "journal": "Agricultural Systems",
+  "issn": "0308521X",
+  "publisher": "Elsevier BV",
+  "authors": [
+   "Dinh Duc Truong",
+   "Bui Thi Hoang Lan",
+   "Ngo Thanh Mai",
+   "Huynh Thi Mai Dung"
+  ],
+  "abstract": "CONTEXT Low-carbon rice farming is widely recognized as a key strategy for agricultural decarbonization, yet adoption remains limited among smallholder farmers despite expanding AI-enabled advisory and increasing awareness of climate risks. Existing adoption-based models provide limited explanation for why improved information and awareness often fail to translate into low-carbon transition. OBJECTIVE This study explains how farmers translate information into transition intention under real-world constraints by conceptualizing low-carbon agriculture as a constrained system transition. It develops a process-based cognitive decision pathway linking risk perception, perceived feasibility, and decision confidence, while positioning AI-enabled advisory as cognitive infrastructure rather than a direct transition intention. METHODS Survey data were collected from 398 smallholder rice farmers in Vietnam's Mekong Delta. Partial least squares structural equation modelling (PLS-SEM) was employed to estimate a framework integrating sequential mediation and moderated mediation, with government support and market access modelled as system-level enabling conditions. RESULTS AND CONCLUSIONS AI-enabled advisory significantly enhances risk perception, perceived feasibility, and decision confidence but has no direct effect on transition intention. Perceived feasibility emerges as the critical implementation bottleneck, while decision confidence functions as the final cognitive mechanism translating favourable feasibility assessments into transition intention. In contrast, risk perception increases awareness but does not significantly improve feasibility, revealing a fundamental tension between recognizing climate risks and judging transition to be practically achievable. Government support and market access further strengthen this decision pathway by reinforcing the translation of cognitive readiness into transition intention. SIGNIFICANCE This study makes three principal contributions. First, it reconceptualizes low-carbon agriculture as a constrained system transition rather than a discrete adoption decision. Second, it advances a process-based cognitive decision pathway that explains how farmers progress from implementation feasibility to confidence to act under uncertainty. Third, it repositions AI-enabled advisory as cognitive infrastructure, demonstrating that its effectiveness depends on enabling institutional and market conditions rather than information provision alone. These findings provide a more integrated theoretical framework for understanding low-carbon agricultural transition and offer practical guidance for designing AI-enabled and system-oriented transition policies.",
+  "oa_url": "https://doi.org/10.1016/j.agsy.2026.105000",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1016/j.agsy.2026.105000"
+  ],
+  "oa_status": "hybrid",
+  "cited_by": 0,
+  "keywords": [
+   "low-carbon transition",
+   "system constraints",
+   "agricultural extension",
+   "information gap",
+   "sustainable agriculture",
+   "artificial intelligence in agriculture"
+  ],
+  "topics": [
+   "Akses & informasi pasar petani"
+  ],
+  "priority_journal": true,
+  "language": "en",
+  "found_at": "2026-10-18",
+  "summary_id": {
+   "tujuan": "Menjelaskan bagaimana petani kecil mengubah informasi menjadi niat transisi rendah karbon di bawah kendala sistem, dengan memosisikan saran berbasis AI sebagai infrastruktur kognitif. Studi ini mengusulkan jalur keputusan kognitif berbasis proses yang menghubungkan persepsi risiko, kelayakan yang dirasakan, dan keyakinan keputusan.",
+   "metode": "Survei terhadap 398 petani padi kecil di Delta Mekong, Vietnam, dengan analisis PLS-SEM yang mencakup mediasi berurutan dan moderated mediation. Dukungan pemerintah dan akses pasar dimodelkan sebagai kondisi pendukung tingkat sistem. Periode pengumpulan data tidak disebutkan.",
+   "temuan": "Saran berbasis AI meningkatkan persepsi risiko, kelayakan yang dirasakan, dan keyakinan keputusan, tetapi tidak berpengaruh langsung terhadap niat transisi. Kelayakan yang dirasakan menjadi hambatan implementasi utama, sedangkan persepsi risiko tidak signifikan meningkatkan kelayakan. Dukungan pemerintah dan akses pasar memperkuat jalur tersebut; koefisien spesifik tidak tercantum dalam abstrak.",
+   "keterbatasan": "Tidak disebutkan secara eksplisit. Dari desain, data survei cross-sectional dan niat yang dilaporkan sendiri membatasi inferensi kausal, serta hasil mungkin hanya berlaku untuk padi di satu negara.",
+   "relevansi": "Temuan tentang saran digital yang perlu didukung kelembagaan dan akses pasar relevan dengan agenda adopsi teknologi digital serta kelembagaan petani. Model ini dapat diuji ulang pada petani sawit rakyat atau petani pangan di Kalimantan Tengah, meski konteks komoditas dan kelembagaannya berbeda.",
+   "skor": 4,
+   "model": "claude-haiku-5-5",
+   "sumber": "abstrak"
+  },
+  "relevance": 64
+ },
+ {
+  "id": "W7222290710",
+  "doi": "10.1016/j.jrurstud.2026.104475",
+  "title": "Exit, voice, and adaptive livelihood diversification: Reframing coffee abandonment as transformative climate adaptation in East Africa",
+  "date": "2026-10-16",
+  "year": "2026",
+  "journal": "Journal of Rural Studies",
+  "issn": "07430167",
+  "publisher": "Elsevier BV",
+  "authors": [
+   "Kristjan Jespersen",
+   "Janina Grabs",
+   "Ina Niehues",
+   "Ng'winamila D. Kasongi",
+   "Melkamu Mamuye",
+   "Pilly Silvano",
+   "Adugna Eneyew Bekele",
+   "Caleb Gallemore",
+   "Nestory E. Yamungu",
+   "Guta Regasa Megerssa",
+   "Weyessa Garedew",
+   "Marta Hailemariam Mamo"
+  ],
+  "abstract": "Climate change adaptation discourse has a habit of casting smallholder farmers as passive recipients of interventions designed to keep them producing for global market demand. This framing obscures both farmer agency and the power relations embedded in sustainability governance. Drawing on 385 semi-structured interviews with coffee farmers, cooperative leaders, and development officials in Tanzania and Ethiopia, we apply Hirschman (1970) exit-voice-loyalty framework to agricultural livelihoods, distinguishing exit from coffee from hedging within it. Exit, we demonstrate, is a reasonable response when voice proves futile and when broken institutional promises erode the relational foundations of loyalty. Our findings reveal farmers exercising agency by hedging within coffee through livestock, trade, and intercropped food crops, or by leaving it for khat, maize, and horticulture, in response to low prices, regulatory burdens, and climate variability. Critically, we document how external actors, particularly exporters and government officials, actively discourage exit, exposing how 'climate smart' framings often serve supply chain security rather than farmer wellbeing. By reframing coffee abandonment from developmental failure to transformative adaptation, we contribute to adaptation, political ecology, and environmental justice scholarship, and we ask whose interests sustainability interventions actually serve. Recognising exit as legitimate adaptation demands a rethinking of who holds power in sustainability governance, and whose interests that power serves.",
+  "oa_url": "https://doi.org/10.1016/j.jrurstud.2026.104475",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1016/j.jrurstud.2026.104475"
+  ],
+  "oa_status": "hybrid",
+  "cited_by": 0,
+  "keywords": [
+   "exit, voice and loyalty",
+   "smallholder coffee producers",
+   "climate change adaptation",
+   "East Africa"
+  ],
+  "topics": [
+   "Pemasaran, rantai pasok & rantai nilai",
+   "Kelembagaan petani & tindakan kolektif"
+  ],
+  "priority_journal": true,
+  "language": "en",
+  "found_at": "2026-10-18",
+  "summary_id": {
+   "tujuan": "Menilai pengabaian kopi oleh petani kecil sebagai adaptasi iklim yang sah dengan kerangka exit-voice-loyalty Hirschman, sekaligus menelaah kepentingan siapa yang dilayani intervensi keberlanjutan.",
+   "metode": "Studi kualitatif dengan 385 wawancara semi-terstruktur terhadap petani kopi, pimpinan koperasi, dan pejabat pembangunan di Tanzania dan Ethiopia. Periode pengumpulan data dan teknik analisis tidak disebutkan dalam abstrak.",
+   "temuan": "Keluar dari kopi dipandang sebagai respons rasional ketika suara dinilai sia-sia dan janji kelembagaan dilanggar, sementara petani melakukan hedging melalui ternak, perdagangan, dan tanaman pangan tumpangsari, atau beralih ke khat, jagung, dan hortikultura akibat harga rendah, beban regulasi, dan variabilitas iklim. Eksportir dan pejabat pemerintah aktif menghambat exit, sehingga framing 'climate smart' sering melayani keamanan rantai pasok. Temuan ini bersifat naratif-asosiatif dan menjelaskan mekanisme, bukan besaran efek atau kausalitas terukur.",
+   "keterbatasan": "Tidak disebutkan secara eksplisit dalam abstrak. Dari desainnya, keterbatasan generalisasi di luar dua negara dan potensi bias pelaporan diri dalam wawancara tampak jelas.",
+   "relevansi": "Kerangka exit-voice dan kritik terhadap framing 'climate smart' relevan untuk membaca tekanan keberlanjutan (ISPO, RSPO, EUDR) pada petani sawit swadaya di Kalimantan Tengah, termasuk ruang petani untuk keluar atau bertahan dalam skema kemitraan. Peran koperasi dan relasi kuasa antara eksportir, pemerintah, dan petani juga dapat diuji ulang dalam rantai nilai sawit.",
+   "skor": 4,
+   "model": "claude-haiku-5-5",
+   "sumber": "abstrak"
+  },
+  "relevance": 64
+ },
+ {
+  "id": "W7222591674",
+  "doi": "10.1007/s10460-026-10998-z",
+  "title": "Power, place and profit: the Kona coffee geographic indication",
+  "date": "2026-10-16",
+  "year": "2026",
+  "journal": "Agriculture and Human Values",
+  "issn": "0889048X",
+  "publisher": "Springer Nature (Netherlands)",
+  "authors": [
+   "Sanya Cowal",
+   "Madeleine Fairbairn"
+  ],
+  "abstract": "Abstract Geographical indications (GIs)—product labels linked to geographic origin—may benefit local farmers and preserve place-based value. However, a growing body of scholarship reveals that powerful value chain actors frequently co-opt GI governance, capturing the majority of economic benefits, decreasing product quality, and marginalizing farmers. We examine the Kona coffee GI as a unique case in which smallholder farmers increased their influence over their GI governance system, redefining the GI through the 2024 passage of House Bill 2298. This bill mandates that coffee labeled as “Kona” must contain at least 51% Kona coffee, a significant increase from the 10% minimum previously required for the last three decades. We draw on 40 interviews and event ethnography at two major coffee industry conferences to trace the long power struggle over the Kona coffee GI. We find that farmers achieved this unprecedented legislative change through a confluence of factors: 1) gaining political influence through organizing, alliances, and legal victories, 2) capitalizing on consumer shifts in the growing specialty coffee market, and 3) leveraging technological advancements to decrease dependence on intermediaries. The Kona coffee case provides a compelling example of farmer-led GI reform. However, the aftermath of HB2298’s passage also reveals limits to farmer leverage, as possible market retaliation and deeply embedded supply chain inequities continue to threaten the legislation’s long-term gains. Our findings highlight the complex and contingent nature of farmer empowerment in GI systems and underscore the need for deep attention to the power dynamics that govern alternative food labeling schemes.",
+  "oa_url": "https://doi.org/10.1007/s10460-026-10998-z",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1007/s10460-026-10998-z"
+  ],
+  "oa_status": "hybrid",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemasaran, rantai pasok & rantai nilai",
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": true,
+  "language": "en",
+  "found_at": "2026-10-18",
+  "summary_id": {
+   "tujuan": "Menganalisis bagaimana petani kecil Kona (Hawaii) meningkatkan pengaruh atas tata kelola Indikasi Geografis (IG) kopi dan mendorong reformasi melalui UU HB2298 tahun 2024. Penelitian ini juga menelaah dinamika kekuasaan dalam sistem pelabelan pangan alternatif.",
+   "metode": "Studi kualitatif studi kasus tunggal dengan 40 wawancara mendalam dan etnografi peristiwa di dua konferensi industri kopi besar. Periode yang dikaji adalah perjuangan panjang atas IG Kona hingga disahkannya HB2298 pada 2024. Teknik analisis tidak disebutkan secara rinci dalam abstrak.",
+   "temuan": "Petani memperoleh perubahan legislatif melalui kombinasi pengorganisasian dan aliansi politik, kemenangan hukum, pergeseran permintaan pada pasar kopi spesialti, dan teknologi yang mengurangi ketergantungan pada perantara. HB2298 mewajibkan kopi berlabel Kona mengandung minimal 51% kopi Kona, naik dari 10%. Namun, potensi balasan pasar dan ketimpangan rantai pasok yang mengakar masih mengancam keuntungan jangka panjang.",
+   "keterbatasan": "Studi kasus tunggal dengan data wawancara dan observasi kualitatif membatasi generalisasi ke IG lain. Abstrak tidak mengklaim pengukuran dampak ekonomi secara kuantitatif. Tidak disebutkan keterbatasan eksplisit lain dari penulis.",
+   "relevansi": "Kasus ini relevan untuk kajian kelembagaan petani, posisi tawar petani kecil dalam rantai nilai, dan tata kelola IG produk lokal, termasuk kopi dan komoditas unggulan daerah di Indonesia. Temuan tentang ketergantungan pada perantara dapat diuji ulang pada rantai pasok komoditas Kalimantan Tengah, meski konteks kelapa sawit belum dibahas langsung.",
+   "skor": 4,
+   "model": "claude-haiku-5-5",
+   "sumber": "abstrak"
+  },
+  "relevance": 64
+ },
+ {
+  "id": "W7222664120",
+  "doi": "10.1007/s44282-026-00634-w",
+  "title": "Differentiating Islamic values and their associations with Muslim community participation and rural community development",
+  "date": "2026-10-16",
+  "year": "2026",
+  "journal": "Discover Global Society",
+  "issn": "27319687",
+  "publisher": "Springer Science+Business Media",
+  "authors": [
+   "Moh. Dulkiah",
+   "Ahmad Ali Nurdin",
+   "Akmaliyah Akmaliyah",
+   "Anggi Saeful Majid",
+   "Tri Adianto"
+  ],
+  "abstract": "This study examines how ukhuwah (brotherhood), amanah (trust and responsibility), and broader Islamic values influence Muslim community participation and rural community development in Indonesia. Using survey data from 693 Muslim middle-class respondents in rural areas of West Java, Central Java, and Yogyakarta, the study applies Partial Least Squares Structural Equation Modeling (PLS-SEM). The results show that Islamic values strongly influence Muslim community participation (β = 0.662, p < 0.001), while amanah has a small but significant effect (β = 0.074, p = 0.022). Ukhuwah has no significant effect (β = 0.037, p = 0.262). Muslim community participation strongly predicts community development (β = 0.729, p < 0.001) and mediates the effects of Islamic values and amanah on community development, but not that of ukhuwah . The model explains 53.2% of the variance in both participation and community development. The findings indicate that Islamic values do not function uniformly as drivers of rural development; their contribution depends on their translation into active community participation. The study extends faith-based social capital research by distinguishing the different roles of Islamic value dimensions in participatory rural development.",
+  "oa_url": "https://doi.org/10.1007/s44282-026-00634-w",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1007/s44282-026-00634-w"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pembangunan pedesaan & kebijakan pertanian"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-18",
+  "summary_id": null,
+  "relevance": 46
+ },
+ {
+  "id": "W7222561439",
+  "doi": "10.1111/ruso.70073",
+  "title": "Pathways for Contesting Gender Norms in Rural Development: A Case Study in Colombia",
+  "date": "2026-10-16",
+  "year": "2026",
+  "journal": "Rural Sociology",
+  "issn": "00360112",
+  "publisher": "Wiley",
+  "authors": [
+   "María Alejandra García",
+   "María Claudia López",
+   "Lucero Radonic"
+  ],
+  "abstract": "ABSTRACT The Fifth Sustainable Development Goal on gender equality remains distant in rural areas of low‐and middle‐income countries, where restrictive gender norms persist. While empowerment is promoted as a means of transforming these norms, little is known about how such transformations unfold or about the unintended negative consequences they may generate. We propose an analytical approach to understand how the resources provided by development programs translate into women gaining agency and contesting gender norms, which could lead to norm transformation, and how these processes can trigger negative consequences. We implemented the approach in a case study in Colombia, drawing on a large qualitative sample of 65 interviews with rural women and men. By integrating two distinct areas of scholarship, Gender and Development and Feminist Political Ecology, we identify four pathways through which resources from development programs foster agency while simultaneously producing adverse effects, including verbal intimate partner violence. This study presents an analytical approach useful for scholars and practitioners in development. It also offers empirical evidence of the pathways through which gender norms are contested and highlights the need for strategies to address the unintended negative consequences that may arise when promoting women's empowerment.",
+  "oa_url": "https://doi.org/10.1111/ruso.70073",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1111/ruso.70073"
+  ],
+  "oa_status": "hybrid",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": true,
+  "language": "en",
+  "found_at": "2026-10-18",
+  "summary_id": null,
+  "relevance": 42
+ },
+ {
+  "id": "W7222544626",
+  "doi": "10.1111/1477-9552.70088",
+  "title": "Vertical Integration and Coordination in Modernising Staple Food Value Chains: Evidence From Myanmar's Rice Sector",
+  "date": "2026-10-16",
+  "year": "2026",
+  "journal": "Journal of Agricultural Economics",
+  "issn": "0021857X",
+  "publisher": "Wiley",
+  "authors": [
+   "Joseph Goeb",
+   "Bart Minten",
+   "Thomas Reardon",
+   "A Myint Zu",
+   "May Thet Htar"
+  ],
+  "abstract": "ABSTRACT Increased vertical integration and coordination are defining features of transforming and modernising agricultural value chains in low‐ and middle‐income countries, with important implications for market efficiency and farm‐level transformation. However, research documenting these processes in transforming domestic value chains is limited, with existing studies largely focusing on large firms, foreign direct investment and high‐value food products, leaving less understood how domestic processors in staple food value chains expand into complementary businesses and services. We study these processes in the rice value chain—the most important staple in Southeast Asia—in Myanmar, using unique large‐scale data from domestic rice mills and farmers. We show that both modern and traditional mills serve as key nodes in local rice value chains, fulfilling diverse roles beyond processing at both the farm and post‐harvest levels. Yet, statistical tests that control for mill and farmer characteristics, respectively, show that modern mills are more engaged in vertical integration and coordination, particularly in post‐harvest value chain segments, highlighting the co‐development of modern processing and business expansion. Consistent with this pattern in the miller data, farmers using a modern mill are more likely to receive complementary services—especially post‐harvest—and to adopt modern production practices more broadly. However, this expansion is uneven, with services reaching large farms more frequently than small and medium farms.",
+  "oa_url": "https://doi.org/10.1111/1477-9552.70088",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1111/1477-9552.70088"
+  ],
+  "oa_status": "hybrid",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemasaran, rantai pasok & rantai nilai"
+  ],
+  "priority_journal": true,
+  "language": "en",
+  "found_at": "2026-10-18",
+  "summary_id": null,
+  "relevance": 40
+ },
+ {
+  "id": "W7222478989",
+  "doi": "10.3390/su182010535",
+  "title": "How Does the Digital Economy Drive County-Level Sustainable Development? A Perspective on the Coordinated Development of Economic and Environmental Resilience",
+  "date": "2026-10-16",
+  "year": "2026",
+  "journal": "Sustainability",
+  "issn": "20711050",
+  "publisher": "Multidisciplinary Digital Publishing Institute",
+  "authors": [
+   "Zhang Wenting",
+   "Qiqi Luo",
+   "Siyu Chen",
+   "Qi Wang"
+  ],
+  "abstract": "The digital economy is a vital engine driving grassroots sustainable development, yet whether and how it promotes the coordinated evolution of economic and environmental resilience at the county level remains to be further empirically tested. Using panel data for 1399 Chinese counties from 2018 to 2023, this study constructs an evaluation system for coordinated dual resilience based on the evolutionary framework of resistance, adaptability, and transformation, and measures digital economy development through word-frequency analysis of county government work reports. The baseline regression results show that the digital economy significantly promotes the coordinated development of county-level economic and environmental resilience, breaking the zero-sum game between grassroots economic growth and ecological protection. Mechanism tests reveal a bidirectional driving pathway of industry and society: the digital economy not only exerts an industrial driving effect by empowering advanced productive forces and increasing the level of industrial agglomeration, but also plays a social reshaping role by enhancing talent retention potential and improving social service effectiveness. Heterogeneity analysis further indicates that this synergistic effect is stronger in southern counties and in counties covered by the Comprehensive Demonstration Program for E-commerce in Rural Areas. By shifting the sustainable development perspective to the micro-level of counties, this study provides practical policy implications for formulating differentiated, targeted digital investment strategies and optimizing the supply of grassroots digital public goods.",
+  "oa_url": "https://doi.org/10.3390/su182010535",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.3390/su182010535"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": true,
+  "language": "en",
+  "found_at": "2026-10-18",
+  "summary_id": null,
+  "relevance": 33
+ },
+ {
+  "id": "W7222526540",
+  "doi": "10.1007/s43621-026-05058-9",
+  "title": "Heterogeneous states of regenerative agriculture adoption among smallholders in Kenya",
+  "date": "2026-10-16",
+  "year": "2026",
+  "journal": "Discover Sustainability",
+  "issn": "26629984",
+  "publisher": "Springer Nature",
+  "authors": [
+   "Joshua Musyoki Muloi",
+   "Hannah Kamau",
+   "Bibiana Betancur Corredor",
+   "Edgar Kadenge",
+   "Christopher Rwanda",
+   "Diida Karayu Wario",
+   "Till Stellmacher",
+   "Christian Borgemeister",
+   "Tina Beuchelt"
+  ],
+  "abstract": "Abstract Regenerative agriculture (RA) is widely promoted as a pathway to restore agroecosystems and strengthen resilience. However, empirical studies often reduce these pathways to a binary distinction between adopters and non-adopters, obscuring the differentiated and institutionally mediated pathways through which smallholders engage with principle-based agricultural transitions. This study conceptualizes RA adoption as a continuum of engagement among smallholder farmers in Kenya. We used a sequential mixed-methods design in which an initial qualitative phase informed survey development, the contextualization of RA indicators, and engagement states. This included 33 individual farmer interviews, 14 focus group discussions, 9 expert interviews, and one stakeholder workshop. Building on these insights, we surveyed 949 farmers and developed a seven-state engagement typology based on awareness, adoption timing, practice history, continuity of use, behavioral change, and adoption lag. We used a multinomial logit model to examine the factors associated with farmers’ positions across these states. Our findings show that binary classification identifies 49% of farmers as RA implementers and 51% as non-implementers. However, findings also mask substantial heterogeneity within both groups. The seven-state classification unmasks this and reveals knowledge gaps, conversion barriers, delayed uptake, stagnation, and discontinuation. Credit access was the most consistent factor associated with RA engagement states beyond awareness. Gender, age, marital status, land tenure, and the county context showed state-specific associations. RA engagement among smallholders is markedly heterogeneous; the observed states are consistent with, but do not demonstrate, staged and reversible adoption pathways. Our typology offers a potentially transferable framework for diagnosing where farmers are located along the RA engagement continuum and for designing state-contingent interventions that address both entry barriers and progression constraints.",
+  "oa_url": "https://doi.org/10.1007/s43621-026-05058-9",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1007/s43621-026-05058-9"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-18",
+  "summary_id": null,
+  "relevance": 32
+ },
+ {
+  "id": "W7222437024",
+  "doi": "10.1186/s12913-026-15688-4",
+  "title": "Patient-identified barriers and facilitators to maternal health care in lmics: a qualitative study in Argentina and Ethiopia",
+  "date": "2026-10-16",
+  "year": "2026",
+  "journal": "BMC Health Services Research",
+  "issn": "14726963",
+  "publisher": "BioMed Central",
+  "authors": [
+   "Kathleen Gamble",
+   "Mercedes Vila Ortiz",
+   "Anene Tesfa Berhanu",
+   "Edgardo J. Abalos",
+   "Mariana Duhau",
+   "Theodros Getachew",
+   "Christine Fahim",
+   "Sharon Elizabeth Straus",
+   "Azmach Hadush Gebregiorgis",
+   "Fernando Althabe",
+   "Getachew Tollera",
+   "Lisa M Puchalski Ritchie"
+  ],
+  "abstract": "Abstract Background Ninety-nine percent of global maternity deaths occur in low-and-middle-income countries (LMICs), despite availability of high quality evidence-based guidelines for common causes of maternal mortality. An understanding of barriers and facilitators (BFs) to accessing and receiving evidence-based maternal care from the patients' perspective is lacking in the literature. We aimed to address this gap by assessing BFs to accessing and receiving evidence-based maternal care from the patients' perspective in two LMICs, Argentina and Ethiopia. Method We employed a multi-center qualitative design including 58 interviews and eight focus groups with reproductive age women and their families in Argentina and Ethiopia. Interview and focus group data were analyzed using a framework approach to content analysis. Results At the patient/community level, participants at both sites identified lack of knowledge as a barrier, and community belief in maternal care as a facilitator to women accessing and receiving care. Cultural beliefs, gender roles and decision making were identified as barriers and community funding to help with healthcare costs and education targeting husbands as facilitators, only in Ethiopia. At the provider level, mistreatment by providers was identified as a barrier in both sites, with mistrust of providers and preference for male providers barriers in Ethiopia only. Trust in providers was identified as a facilitator in Argentina, and local maternal health champions and providers from the local community facilitators in Ethiopia. Lack of coordination of care and transportation, and health care worker shortages, were identified as health system level barriers in both sites, and financial constraints noted only in Ethiopia. System level facilitators included patient education groups and use of social media in Argentina, and increased rural health centers and better organization of care, in Ethiopia. Conclusion While the BFs identified by our participants are similar to those found in studies conducted with providers, our findings add to the literature by providing the unique perspectives of patients' and their families. In addition, variability in how specific BFs were experienced by patients/ families, highlights the importance of understanding context specific BF to allow for tailoring implementation strategies. Study registration Open Science Framework https://osf.io/xmjf7 Registered June 4, 2022.",
+  "oa_url": "https://doi.org/10.1186/s12913-026-15688-4",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1186/s12913-026-15688-4"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-18",
+  "summary_id": null,
+  "relevance": 23
+ },
+ {
+  "id": "W7222748548",
+  "doi": "10.3390/plants15203165",
+  "title": "Integrated Drought-Response Profiles Reveal Genotypic Variation Among Commercial Oil Palm (Elaeis guineensis Jacq.) Genotypes",
+  "date": "2026-10-16",
+  "year": "2026",
+  "journal": "Plants",
+  "issn": "22237747",
+  "publisher": "Multidisciplinary Digital Publishing Institute",
+  "authors": [
+   "Sunya Nuanlaong",
+   "Chandrasekhar Manikala",
+   "Thanet Khomphet",
+   "Azzreena Mohamad Azzeme",
+   "Potjamarn Suraninpong"
+  ],
+  "abstract": "Drought stress significantly limits oil palm productivity, highlighting the need to characterize integrated responses to water deficit. This study evaluated morphological, stomatal, anatomical, and biochemical responses of ten commercial oil palm genotypes under well-watered and water-withholding conditions for 45 days. Quantitative analyses focused on 0–30 days after treatment (DAT), while 45 DAT represented a qualitative endpoint of severe injury. Water withholding restricted vegetative growth and altered stomatal characteristics, chlorophyll, soluble sugar, and starch contents, with responses varying among genotypes. Qualitative observations also revealed changes in bulliform cell morphology. Correlation analysis based on Δ30–0 values showed contrasting trait associations between water regimes. Principal component analysis of genotype-level relative responses at 30 DAT, based on five traits with complete data (CW, FN, TC, SC, and ST), showed that PC1 and PC2 explained 52.10% and 35.11% of the total variation, respectively, accounting for 87.21% cumulatively. Hierarchical cluster analysis of the same standardized relative-response dataset separated the ten genotypes into three groups with contrasting multivariate response profiles. These findings demonstrate substantial genotype-dependent variation in integrated responses to water withholding and indicate that combining multiple complementary traits can distinguish contrasting response profiles among young oil palm genotypes. This multi-trait approach may provide a useful basis for subsequent drought evaluation and breeding, although further validation using direct measurements of soil and plant water status, recovery responses, and field-based drought conditions is required.",
+  "oa_url": "https://doi.org/10.3390/plants15203165",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.3390/plants15203165"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Kelapa sawit"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-18",
+  "summary_id": null,
+  "relevance": 19
+ },
+ {
+  "id": "W7222453024",
+  "doi": "10.1057/s41599-026-09306-1",
+  "title": "Decomposition analysis of the disparities in depressive symptoms among middle-aged and older adults between urban and rural areas in China: adverse childhood experiences are a contributing factor",
+  "date": "2026-10-16",
+  "year": "2026",
+  "journal": "Humanities and Social Sciences Communications",
+  "issn": "20551045",
+  "publisher": "Palgrave Macmillan",
+  "authors": [
+   "Qinqin Jiang",
+   "Zengping Shi",
+   "Hongli Yan",
+   "Lushaobo Shi",
+   "Yizhong Ye",
+   "Dong Wang"
+  ],
+  "abstract": "Depression is a major public health concern in China, with growing urban-rural disparities. This study aimed to examine how adverse childhood experiences (ACEs) and other factors contribute to these disparities. Data were drawn from 7979 adults aged ≥45 years from the China Health and Retirement Longitudinal Study. Twenty-four ACEs were obtained from the 2014 wave, while individual characteristics and depressive symptoms were extracted from the 2018 wave, and the Fairlie model was used to analyze factors contributing to urban-rural disparities. Overall, 36.08% of participants reported depressive symptoms, with a higher rate in rural than in urban areas (39.7% vs. 30.3%, p < 0.001). In terms of ACEs, parental anxiety, parental strictness, and childhood adverse health conditions were risk factors in rural areas but not in urban areas, whereas adverse intra-parental relationship and childhood poor friendship were risk factors in urban areas but not significant in rural areas. Parental divorce was a protective factor in rural areas, while parental depression was a risk factor in both settings. The Fairlie model revealed that 55.65% of the urban-rural difference could be explained by self-rated health status (18.24%), Internet use (7.70%), retirement (6.32%), parental depression (6.19%), educational level (5.35%), life satisfaction (4.68%), gender (-2.56%), childhood starvation (1.68%), parental disability (1.44%), age (0.79%), childhood disease (0.63%), childhood bullying (0.60%), childhood adverse health conditions (0.55%), and marital status (-0.34%). These findings indicate that urban-rural disparities in depressive symptoms may be attributed to both individual and ACEs factors, and interventions should address both structural determinants and ACEs.",
+  "oa_url": "https://doi.org/10.1057/s41599-026-09306-1",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1057/s41599-026-09306-1"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-18",
+  "summary_id": null,
+  "relevance": 17
+ },
+ {
+  "id": "W7222476533",
+  "doi": "10.3390/socsci15100713",
+  "title": "Scaling Police Perceptions About Gendered Roles and “Men” as Victims in Domestic Spaces: A Quantitative Study of NCT Delhi, India",
+  "date": "2026-10-16",
+  "year": "2026",
+  "journal": "Social Sciences",
+  "issn": "20760760",
+  "publisher": "Multidisciplinary Digital Publishing Institute",
+  "authors": [
+   "Upma Gautam",
+   "Deeksha Bajpai Tewari",
+   "Vaishnavi Jaiswal",
+   "Priya Das",
+   "Ankita Mishra",
+   "Nandini Singh Randhawa",
+   "Kriti Marjara"
+  ],
+  "abstract": "Masculinity is linked to power, control, strength, and protection, and cultural norms create a gap between these traits and recognition of male intimate partner violence (IPV) victimization. This study examined how these norms shape police officers’ attitudes toward male victimization. A structured questionnaire including the Ambivalence Toward Men Inventory (AMI) and a Perception Toward Male Victimization (PMV) scale was administered to a convenience sample of 228 police officers in NCT Delhi, India. Female officers (M = 37.5, SD = 8.13) exhibited greater hostility, whereas male officers (M = 41.0, SD = 8.78) displayed higher benevolence toward men. AMI and PMV scores were positively correlated (r = 0.57, p < .0001), such that greater ambivalence toward men was associated with lower recognition of male victims. Demographic variables had limited influence, though being married, living in a joint family, or having a rural background was associated with greater conformity to traditional masculinity and lower victim recognition; rural background (β = 0.29, p < .001) and children of both genders (β = 0.87, p < .001; β = 0.42, p < .05 for victim recognition) were the strongest predictors. Among the officers surveyed, ambivalence toward men emerges as a barrier to recognition of male IPV victims, pointing to gender-sensitive, demographic-tailored training as a direction worth testing. Because recruitment was by convenience, these estimates describe the sample rather than the Delhi police force or Indian police officers generally.",
+  "oa_url": "https://doi.org/10.3390/socsci15100713",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.3390/socsci15100713"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-18",
+  "summary_id": null,
+  "relevance": 17
+ },
+ {
+  "id": "W7222748163",
+  "doi": "10.1002/nur.70138",
+  "title": "Study Protocol for a Pilot Randomized Controlled Trial of a Brief, Virtual Exposure‐Based Intervention for Perinatal Posttraumatic Stress Disorder",
+  "date": "2026-10-16",
+  "year": "2026",
+  "journal": "Research in Nursing & Health",
+  "issn": "01606891",
+  "publisher": "Wiley",
+  "authors": [
+   "Michelle L. Miller",
+   "Samantha Addante",
+   "Sarah A. Greenwell",
+   "Avelina C. Padin",
+   "David M. Haas"
+  ],
+  "abstract": "Perinatal posttraumatic stress disorder (PPTSD) is a public health concern with serious implications for maternal and infant health outcomes. However, clinical research for PPTSD treatment is minimal. Thus, we aim to help address this gap by evaluating the feasibility, acceptability, and preliminary effectiveness of a tailored PPTSD intervention through a pilot randomized controlled trial (RCT; hereafter referred to as the New Empowerment after Trauma (NEXT) study). The NEXT study also aims to engage those most likely to experience PPTSD and least likely to engage in care, including Black and rural-dwelling perinatal individuals. Enrolled perinatal individuals with PPTSD will be randomized to receive either: 1) perinatal-tailored Narrative Exposure Therapy (NET) (n = 45 completers; treatment group) or 2) enhanced usual care (n = 45 completers; comparator group). This pilot RCT protocol is a critical step towards advancing transparency and reproducibility in perinatal PTSD research, particularly for a population that has been underrepresented in clinical research and warrants further attention. Patient and Public Contributions: Perinatal individuals with PPTSD have shaped the development of this protocol through our preliminary work. Specifically, perinatal individuals with lived experiences of PPTSD contributed to NEXT study materials and the adaptation of the intervention protocol.",
+  "oa_url": "https://doi.org/10.1002/nur.70138",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1002/nur.70138"
+  ],
+  "oa_status": "hybrid",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-18",
+  "summary_id": null,
+  "relevance": 17
+ },
+ {
+  "id": "W7222418834",
+  "doi": "10.1186/s12963-026-00520-2",
+  "title": "The impact of COVID-19 on all-cause mortality and life expectancy: findings from a population-based cohort in uMkhanyakude district, northern KwaZulu-natal",
+  "date": "2026-10-16",
+  "year": "2026",
+  "journal": "Population Health Metrics",
+  "issn": "14787954",
+  "publisher": "BioMed Central",
+  "authors": [
+   "Lusanda Mazibuko",
+   "Kobus Herbst",
+   "Kathy J. Baisley",
+   "Chodziwadziwa Whiteson Kabudula",
+   "Jean Juste Harrisson Bashingwa",
+   "Beth Tippett Bar",
+   "Stephen Olivier",
+   "Jacob Busang",
+   "Siyabonga Nxumalo",
+   "Dickman Gareta",
+   "Thobeka Mngomezulu",
+   "Mark Jacob Siedner"
+  ],
+  "abstract": "Abstract Background Despite the comprehensive death reporting system in South Africa, significant gaps persist in our understanding of the pandemic’s impact in rural areas. Methods We computed monthly death counts stratified by demographic factors from a population-based demographic surveillance cohort in rural KwaZulu-Natal. We fit seasonally adjusted negative binomial regression models to estimate excess mortality during the COVID-19 pandemic period (5 March 2020 to 31 December 2021) compared to the pre-pandemic period (1 January 2015 to 4 March 2020). We then assessed the relative risk of death by health and sociodemographic factors and considering apotential interaction with the COVID-19 pandemic. Finally, we calculated changes in life expectancy at the age of 15 and conducted a decomposition analysis to identify life expectancy changes by age group. Results We observed two major periods of excess mortality during the beta and delta waves of the COVID-19 pandemic, respectively. During the pre-pandemic period, people with HIV (PWH) had slightly higher mortality rates (RR = 1.8; 95%CI 1.3 - 2.4) than their HIV-negative counterparts. This excess risk reduced during the COVID-19 period (HIV RR = 1.5; 95%CI 1.2 - 2.0). Similar patterns were noted for individuals with diabetes (pre-pandemic RR = 1.6; 95%CI 1.2 - 2.2 vs during COVID-19 RR = 1.4; 95%CI 1.1 - 1.9). In contrast, individuals with hypertension experienced a 15% relative increase death rate during the pandemic compared to pre-COVID period (p-interaction = 0.003). Similarly, hypertensive PWH had significantly elevated mortality risks during COVID-19 (RR = 2.18; 95% CI: 1.45–3.26, p < 0.001). Throughout the study, women consistently had higher life expectancy at age 15 than men. However, women contributed more to pandemic-related life expectancy reductions, along with specific age and health groups. Conclusion We found contrasting impacts of co-morbidities on mortality during the COVID-19 pandemic in rural South Africa, and that reductions in life expectancy at age 15 were greater in women than men. These findings emphasize the critical need to consider specific needs of rural populations, and tailor public health strategies that prioritize vulnerable populations and address health inequities to mitigate the effects of pandemics in low-resource settings.",
+  "oa_url": "https://doi.org/10.1186/s12963-026-00520-2",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1186/s12963-026-00520-2"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-18",
+  "summary_id": null,
+  "relevance": 15
+ },
+ {
+  "id": "W7222439318",
+  "doi": "10.4103/ijcm.ijcm_973_25",
+  "title": "Family Gatekeeping in Antenatal care Decision-Making: A Qualitative Study among Women in Rural Sangareddy District, Telangana, India",
+  "date": "2026-10-16",
+  "year": "2026",
+  "journal": "Indian Journal of Community Medicine",
+  "issn": "09700218",
+  "publisher": "Medknow",
+  "authors": [
+   "Sahithi Mandava",
+   "Divyasri Rudrakshala",
+   "Archana Carolin",
+   "Vineesh Allenki",
+   "Abhishek Pokkuluri",
+   "Triveni Vanimina"
+  ],
+  "abstract": "Abstract Background: Family members, particularly mothers-in-law and husbands, play crucial roles in maternal healthcare decisions in rural India. Understanding these dynamics is essential for designing effective maternal health interventions in Telangana, where maternal mortality remains a public health challenge. Objectives: To explore the role of family members in antenatal care (ANC) decision-making among women in rural Telangana and identify multi-level factors influencing maternal healthcare access. Methods: A qualitative descriptive study was conducted in rural Telangana from June 2025 to October 2025. Twenty women who had delivered in the past six months were purposively sampled (20 of 25 women approached). In-depth interviews were conducted in Telugu (mean: 65 minutes), audio-recorded, transcribed, and analyzed using Braun and Clarke’s six-phase thematic analysis. Inter-coder reliability was achieved (Cohen’s κ =0.82, substantial agreement). Ethical approval was obtained (IEC/2025/045, May 15, 2025). Results: Four major themes emerged: (1) Individual-level factors — knowledge gaps about ANC importance and prior negative healthcare experiences; (2) Interpersonal influences — mother-in-law as primary decision-maker (most participants), husband’s financial control (majority of participants), and severely limited women’s autonomy (nearly all participants); (3) Community-level factors — cultural norms favoring traditional practices, Accredited Social Health Activist (ASHA) worker support; and (4) Healthcare system barriers — distance, cost, and provider attitude concerns (reported by 16 of 20 participants). Joint families showed stronger mother-in-law influence compared to nuclear families. Conclusion: Traditional family hierarchies significantly constrain women’s autonomy in maternal healthcare decisions in rural Telangana. Family-centered interventions targeting mothers-in-law and husbands, integrated with existing state programs, are essential to improve ANC utilization.",
+  "oa_url": "https://doi.org/10.4103/ijcm.ijcm_973_25",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.4103/ijcm.ijcm_973_25"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-18",
+  "summary_id": null,
+  "relevance": 15
+ },
+ {
+  "id": "W7222647555",
+  "doi": "10.1186/s13104-026-08070-4",
+  "title": "High cytomegalovirus IgG avidity among pregnant women in Northern Iran: a descriptive seroepidemiological study",
+  "date": "2026-10-16",
+  "year": "2026",
+  "journal": "BMC Research Notes",
+  "issn": "17560500",
+  "publisher": "BioMed Central",
+  "authors": [
+   "Salim Yarali",
+   "Arefeh Ebrahimian Shiadeh",
+   "Farzane Sadeghi",
+   "Hemmat Gholinia",
+   "Maryam Javadian",
+   "Masoumeh Golchoub",
+   "Zeinab Darbandi",
+   "Farzin Sadeghi",
+   "Masomeh Bayani"
+  ],
+  "abstract": "Abstract Objective Human cytomegalovirus (HCMV) is a common infection worldwide and a potential risk during pregnancy due to congenital transmission. This study described the serological pattern of CMV exposure among pregnant women in northern Iran using CMV-specific IgG and IgG avidity testing. IgG avidity testing was included to differentiate recent primary infection (low avidity) from remote infection (high avidity), which is valuable in high-seroprevalence settings where IgG positivity alone offers limited epidemiological insight. Results In this retrospective cross-sectional study, 137 pregnant women aged 18–38 years attending Ayatollah Rouhani Hospital in Babol, Iran (March–December 2020) were consecutively enrolled. CMV-specific IgG and IgG avidity indices were measured using ELISA. Samples with high optical density (OD > 1.3) underwent real-time PCR. All participants were CMV IgG seropositive with high avidity indices (relative avidity index-[RAI] > 60%), consistent with prior exposure. CMV DNA was not detected in tested samples. A significant difference in mean avidity was observed between urban and rural participants ( p = 0.01), though the absolute difference was small. No significant associations were found with age, parity, education, or trimester. These findings suggest that primary maternal infection during pregnancy is likely uncommon, and congenital transmission would more probably result from non-primary infections.",
+  "oa_url": "https://doi.org/10.1186/s13104-026-08070-4",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1186/s13104-026-08070-4"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-18",
+  "summary_id": null,
+  "relevance": 15
+ },
+ {
+  "id": "W7222667209",
+  "doi": "10.1097/md.0000000000051146",
+  "title": "Trends and projections of colorectal carcinoma mortality in U.S. adults, 1999–2050",
+  "date": "2026-10-16",
+  "year": "2026",
+  "journal": "Medicine",
+  "issn": "00257974",
+  "publisher": "Wolters Kluwer",
+  "authors": [
+   "Kanza Atif",
+   "Eshal Atif",
+   "Vishan Das",
+   "Sadia Qazi",
+   "Mazhar Ali",
+   "Azura Rozila Ahmad",
+   "Fnu Urooba",
+   "Mohib Ali Hassan",
+   "Muhammad Mukhlis",
+   "Muhammad Atif Mazhar",
+   "Akef S. Obeidat"
+  ],
+  "abstract": "Colorectal carcinoma (CRC) remains a major cause of cancer mortality in the United States (U.S.); however, contemporary long-term projections by demographic and geographic strata are limited. This study examined national colorectal cancer mortality trends from 1999 to 2025 and projected age-adjusted mortality rates (AAMRs) through 2050. We conducted an ecological time-series analysis of U.S. adults aged ≥ 25 years using Centers for Disease Control and Prevention Wide-ranging Online Data for Epidemiologic Research Multiple Cause of Death data. CRC-related deaths were identified by any mention of International Classification of Diseases, Tenth Revision codes C18–C20 on the death certificate. AAMRs per 100,000 population were calculated overall and stratified by sex, age group, race and ethnicity, urbanization, census region, state, and place of death. Joinpoint regression was used to estimate the annual percent change and average annual percent change. A demographically optimized ensemble forecasting model was used to project AAMRs from 2026 to 2050. From 1999 to 2025, 1,674,393 CRC-related deaths were recorded. Overall, the AAMR declined from 38.11 in 1999 to 23.14 in 2025 (average annual percent change, −1.99%; 95% confidence interval, −2.13 to −1.85; P < .001), but recent rates have stabilized. The mean AAMR was higher among men than women (34.13 vs 23.43) and higher in nonmetropolitan than metropolitan areas (32.43 vs 28.49). Non-Hispanic Black adults had the highest racial and ethnic burdens (37.45). Adults aged 25 to 44 years showed a significant increase in mortality (annual percent change, 1.13%; 95% confidence interval, 0.93 to 1.33; P < .001). Most deaths occurred at home (41.15% of deaths). The overall AAMR was projected to continue declining slowly, from 23.02 in 2026 to 21.56 in 2050, at a slower pace than the 1999 to 2016 decline. U.S. CRC mortality has declined substantially and is projected to continue declining slowly through 2050, rather than resume its earlier faster decline, with persistent sex, racial, rural, age, and geographic disparities. Targeted strategies are needed to improve screening completion, diagnostic follow-up, rural access, equity, and early-onset colorectal cancer detection.",
+  "oa_url": "https://doi.org/10.1097/md.0000000000051146",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1097/md.0000000000051146"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-18",
+  "summary_id": null,
+  "relevance": 15
+ },
+ {
+  "id": "W7222737043",
+  "doi": "10.1007/s00056-026-00699-x",
+  "title": "Trends in orthodontic treatment prevalence in Switzerland",
+  "date": "2026-10-16",
+  "year": "2026",
+  "journal": "Journal of Orofacial Orthopedics / Fortschritte der Kieferorthopädie",
+  "issn": "0015816X",
+  "publisher": "Springer Science+Business Media",
+  "authors": [
+   "Livia Lyrer-Hinteregger",
+   "Thomas Grischott",
+   "Marc Andreas Schätzle",
+   "Raphael Patcas"
+  ],
+  "abstract": "Abstract Background Orthodontic treatment is increasingly common across Europe, but little is known about long-term population trends and social disparities in Switzerland, where orthodontic care is mainly privately financed. Objective To examine temporal and sociodemographic patterns of orthodontic treatment in Switzerland between 2002 and 2022 and to identify associated inequalities. Methods Data came from three waves of the Swiss Health Survey (2002, 2012, 2022), a nationally representative cross-sectional study. The analytic sample comprised 53,019 individuals aged ≥ 15 years. The outcome was self-reported lifetime experience of wearing braces. Covariates included survey year, sex, age, education, language region, and urbanicity. Statistical evaluation included survey-weighted multivariable logistic regression estimated adjusted odds ratios (aORs) with 95% confidence intervals (95% CI). Interaction terms were used to test temporal changes. Results The prevalence of orthodontic treatment rose from 23.0% in 2002 to 34.8% in 2022. Women were more likely than men to report treatment (aOR 1.59, 95% CI 1.51–1.68). Among adults (≥ 20 years), a strong educational gradient persisted: those with upper-secondary (aOR 2.82; 95% CI 2.43–3.28) or tertiary education (aOR 4.58; 95% CI 3.92–5.34) had significantly higher odds of treatment compared to those with compulsory education. Living in rural or intermediate regions was associated with lower odds compared to urban areas (aOR 0.93; 95% CI 0.88–0.99). Furthermore, residents of French-speaking (aOR 0.84; 95% CI 0.78–0.91) and Italian-speaking regions (aOR 0.79; 95% CI 0.71–0.89) showed lower treatment uptake than those in German-speaking Switzerland. Significant interactions of age and urbanicity with survey year reflect that prevalence increases over the past 20 years occurred particularly among younger individuals and those outside urban areas. Conclusion Orthodontic treatment in Switzerland has increased significantly, becoming a new norm for younger generations. However, this growth is not equitable; access remains heavily patterned by education, region, and urbanicity. In a predominantly privately financed system, these persistent disparities suggest that orthodontic care remains socially stratified.",
+  "oa_url": "https://doi.org/10.1007/s00056-026-00699-x",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1007/s00056-026-00699-x"
+  ],
+  "oa_status": "hybrid",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-18",
+  "summary_id": null,
+  "relevance": 15
+ },
+ {
+  "id": "W7222395174",
+  "doi": "10.1007/s44187-026-01289-x",
+  "title": "Urtica dioica as an emerging resource for sustainable food systems through nutrition, food innovation, and value-chain development",
+  "date": "2026-10-16",
+  "year": "2026",
+  "journal": "Discover Food",
+  "issn": "27314286",
+  "publisher": "Springer Nature",
+  "authors": [
+   "Yosef Worku Yigezu",
+   "Zenebu Shewakena Sidell",
+   "Nardos Debebe Abebe",
+   "Bekalu Wubie Asmare"
+  ],
+  "abstract": "Abstract Global food systems face growing challenges related to nutritional insecurity, environmental degradation, climate change, and increasing pressure on natural resources. These challenges have renewed interest in underutilized plant species that can support food-system diversification and sustainability. Urtica dioica has emerged as a promising candidate because of its high nutritional value, multifunctional bioactive properties, and broad applicability across food and agricultural systems. This systematic review synthesizes current evidence on the biological and agronomic foundations, nutritional composition, functional properties, food applications, processing technologies, food-feed integration opportunities, and sustainability contributions. Unlike previous reviews that have focused on specific aspects of nettle, this review integrates reports across nutrition, food innovation, value-chain development, and sustainability within a unified food-systems perspective. The literature indicates that nettle is a nutrient-dense species rich in proteins, dietary fiber, essential minerals, vitamins, and diverse phytochemicals with antioxidant and functional properties. Beyond its nutritional attributes, nettle has shown potential in food fortification, natural preservation, functional ingredient development, and innovative processing applications while supporting integrated food-feed systems, value-added product development, circular bioeconomy approaches, and agroecological sustainability through improved resource-use efficiency, soil improvement, biodiversity support, climate adaptation, and phytoremediation. Despite these advantages, challenges related to production standardization, nutrient bioavailability, quality assurance, consumer acceptance, and large-scale commercialization remain insufficiently addressed. Overall, the available evidence suggests that nettle is a promising but underutilized resource capable of contributing to more diverse, resilient, and sustainable food systems. Future research should adopt an integrated agronomic, nutritional, technological, environmental, and market-oriented approach to support wider adoption and commercialization.",
+  "oa_url": "https://doi.org/10.1007/s44187-026-01289-x",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1007/s44187-026-01289-x"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemasaran, rantai pasok & rantai nilai"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-18",
+  "summary_id": null,
+  "relevance": 11
+ },
+ {
+  "id": "W7222489080",
+  "doi": "10.1016/j.still.2026.107528",
+  "title": "Green manure species composition differentially regulates soil N₂O emissions and their environmental drivers in subtropical tea plantations",
+  "date": "2026-10-16",
+  "year": "2026",
+  "journal": "Soil and Tillage Research",
+  "issn": "01671987",
+  "publisher": "Elsevier BV",
+  "authors": [
+   "Shuo Liu",
+   "Ziyi Chen",
+   "Zihan Fan",
+   "Shaohui Li",
+   "Ziyan Wu",
+   "Zeping Jin",
+   "Haolin Li",
+   "Shuangxi Fang",
+   "Kunpeng Zang",
+   "Peng Fei Yan",
+   "Zhaozhong Feng"
+  ],
+  "abstract": "Green manure intercropping is widely advocated for improving soil fertility in perennial cropping systems, yet its effects on soil N₂O emissions remain poorly quantified in tea plantations. This study assessed N₂O fluxes under three intercropping regimes, i.e., no intercropping (CK), single‑species green manure (SM), and legume‑based mixed green manure (HM), in a subtropical tea plantation. N₂O fluxes exhibited pronounced temporal dynamics, with seasonal means ranked as spring > summer > autumn > winter and treatment means followed SM > HM > CK. Compared with CK, total annual emissions increased by 38.5% under SM and 19.2% under HM; however, HM exhibited significantly lower N₂O emissions than SM, indicating that green manure species composition influenced the magnitude of the emission increase. Field operations, particularly tea harvesting, pruning, and fertilization, triggered strong short-term N₂O pulses, while green manure growth exerted sustained control over long-term emission dynamics. Green manure intercropping enhanced soil moisture retention and altered soil nutrient status, thereby modifying soil environmental conditions associated with N₂O emissions. Piecewise structural equation modeling (SEM) identified soil temperature (ST), water-filled pore space (WFPS), and total nitrogen (TN) as important environmental factors associated with N₂O fluxes across treatments, explaining 59–74% of the variance. Soil organic carbon (SOC) and TN represented important components of soil carbon and nitrogen pools associated with N₂O emissions. TN dominated under HM, whereas the SM exhibited a more complex network involving NO₃⁻-N, SOC, and pH; and CK was governed primarily by ST and WFPS. Overall, green manure species composition substantially influenced N₂O emissions in the tea plantation. Although both green manure treatments increased cumulative N₂O emissions relative to CK, the legume-based mixture produced lower emissions than the single-species green manure treatment.",
+  "oa_url": "https://doi.org/10.1016/j.still.2026.107528",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1016/j.still.2026.107528"
+  ],
+  "oa_status": "hybrid",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Tenaga kerja & produktivitas perkebunan"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-18",
+  "summary_id": null,
+  "relevance": 11
+ },
+ {
+  "id": "W7222082511",
+  "doi": "10.1016/j.lana.2026.101658",
+  "title": "Children’s health before, during, and after parental/caregiver immigration detention in the United States: findings from a cross-sectional survey",
+  "date": "2026-10-16",
+  "year": "2026",
+  "journal": "The Lancet Regional Health - Americas",
+  "issn": "2667193X",
+  "publisher": "Elsevier BV",
+  "authors": [
+   "Kiran Thapa",
+   "Caitlin C. Patler",
+   "Altaf Saadi"
+  ],
+  "abstract": "Background Parental immigration detention is a significant yet understudied stressor with potential consequences for children's well-being. We examined children's general health before, during, and after parental detention, and compared to the United States (US) pediatric population. Methods We conducted a cross-sectional household telephone survey in 2022–2023 of family members of immigrants detained by U.S. Immigration and Customs Enforcement in 2020/21 and released on bond. Of 88 respondents, we analyzed data from 49 families with at least one school-aged minor child. Family members retrospectively reported on child health before, during, and after detention using the 7-item parent-report version of the PROMIS® Parent Proxy Scale- Global Health 7 measure, which provides standardized T-scores (mean = 50, SD=10) benchmarked to the U.S. general population. Findings The mean T-scores were statistically equivalent to the population mean of 50 at pre-detention (49; 95% CI: 46.0, 52.0) and after release (48.9; 95% CI: 45.5, 52.4) but 17 T-score points (∼2 SD below the population mean) lower during detention (31.8; 95% CI: 28.6, 35.0), substantially exceeding the commonly accepted 5 T-score points threshold (half-SD) for clinically meaningful change. Reported problems for children during parental detention included decline in grades (n = 34, 69%), increased financial responsibilities (n = 29, 59%), household or caregiving responsibilities (n = 26, 53%), and food insecurity (n = 26, 53%). About 16% (n = 8) of children were unable to receive needed treatment or counseling from a mental health professional during parental detention. Interpretation Parental detention was associated with poorer reported child health, and reported health scores improved after release. Findings highlight the need for policies that consider the health consequences of immigration enforcement on children and families. Funding This research was supported by the National Science Foundation and the Russell Sage Foundation and the Carnegie Corporation of New York.",
+  "oa_url": "https://doi.org/10.1016/j.lana.2026.101658",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1016/j.lana.2026.101658"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [
+   "child health",
+   "immigration detention",
+   "family separation",
+   "child detention"
+  ],
+  "topics": [
+   "Ketahanan pangan rumah tangga"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-18",
+  "summary_id": null,
+  "relevance": 0
+ },
+ {
+  "id": "W7222432919",
+  "doi": "10.1177/10693971261494338",
+  "title": "Hunger, Famine and Eating Habits",
+  "date": "2026-10-16",
+  "year": "2026",
+  "journal": "Cross-Cultural Research",
+  "issn": "00943673",
+  "publisher": "SAGE Publishing",
+  "authors": [
+   "Robert Dirks"
+  ],
+  "abstract": "This paper explores how hunger and famine affect various eating habits, including commensal relations within households, shared attitudes toward eating with unfamiliar people, and typical ways of expressing appetite. Drawing on data collected from 124 societies worldwide, it provides a comparative perspective on the influence of food insecurity and nutritional stress on common, everyday eating habits. Analysis shows that chronic nutritional deficiencies and historical experiences with famine are associated with less inclusive, less amiable mealtime behaviors. Discussion offers explanations for the occasional persistence of such patterns despite ample food supply and considers the impact of nutrition alongside other factors likely to affect eating. The study concludes that, while the effects of hunger and famine considered individually appear moderate, their ubiquity attest to traumatic societal effects than often linger for generations despite consistent food availability and adequate nutrition.",
+  "oa_url": "https://doi.org/10.1177/10693971261494338",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1177/10693971261494338"
+  ],
+  "oa_status": "hybrid",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Ketahanan pangan rumah tangga"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-18",
+  "summary_id": null,
+  "relevance": 0
+ },
+ {
+  "id": "W7222512492",
+  "doi": "10.1111/agec.70152",
+  "title": "Major Global Disruptions and Food Security Links–How the Iran War and Chokepoint Tensions May Affect Global Hunger",
+  "date": "2026-10-15",
+  "year": "2026",
+  "journal": "Agricultural Economics",
+  "issn": "01695150",
+  "publisher": "Wiley",
+  "authors": [
+   "Bernardina Algieri",
+   "Lukas Kornher",
+   "Joachim von Braun"
+  ],
+  "abstract": "ABSTRACT The escalation of conflict in the Middle East in 2026 and the disruptions affecting major maritime chokepoints, particularly the Strait of Hormuz and the Bab el‐Mandeb/Red Sea corridor, threaten global food security through higher energy, fertilizer, and shipping costs. We argue that the shock is more structural than previous crises because it simultaneously affects core agricultural inputs and trade routes, unlike the 2022 price spike in the wake of the Russian invasion of Ukraine, which primarily caused temporary supply shortages. This has especially severe consequences for import‐dependent economies in the Gulf area, Africa, and other low‐ and middle‐income countries (LMICs). While energy price shocks can be transmitted relatively quickly to food markets through immediate changes in production and transportation costs, shipping cost and fertilizer price shocks tend to operate with longer adjustment lags because they propagate through physical supply chains and agricultural production processes. Prolonged energy market disruptions stemming from conflict around the Strait of Hormuz, together with tensions affecting Bab el‐Mandeb, or future disruptions from (geo)political conflicts, entail the risk of trade policy responses and further market disturbances that could exacerbate the ongoing crisis. We highlight that rising prices for energy, shipping, and food are placing an immense strain on LMICs already burdened by heavy debt, limited access to finance, and inflationary pressure, with implications for food security and hunger.",
+  "oa_url": "https://doi.org/10.1111/agec.70152",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1111/agec.70152"
+  ],
+  "oa_status": "hybrid",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemasaran, rantai pasok & rantai nilai"
+  ],
+  "priority_journal": true,
+  "language": "en",
+  "found_at": "2026-10-18",
+  "summary_id": null,
+  "relevance": 40
+ },
+ {
+  "id": "W7222094859",
+  "doi": "10.1016/j.indcrop.2026.124431",
+  "title": "Agricultural residue to functional carbon: Feedstock hoarding risk and farmer income insurance economics",
+  "date": "2026-10-15",
+  "year": "2026",
+  "journal": "Industrial Crops and Products",
+  "issn": "09266690",
+  "publisher": "Elsevier BV",
+  "authors": [
+   "Xingchen Pan",
+   "Ruxin Zhang",
+   "Xiaotian Zhang"
+  ],
+  "abstract": "Agricultural residues represent a globally abundant feedstock for producing functional carbon materials, yet the supply chain between farm gate and biorefinery is systematically disrupted by farmer hoarding behavior and price speculation. This paper examines the intersection of feedstock hoarding risk and farmer income insurance economics within agricultural residue-to-carbon value chains. The study develops a theoretical model of hoarding behavior rooted in prospect theory and option value reasoning, demonstrates its empirical consequences using cross-sectional survey data from 2840 farm households in Pakistan's major residue-producing districts, and proposes actuarially designed income insurance instruments calibrated to suppress speculative storage while maintaining farmer welfare. Biochar and activated carbon yield characteristics are assessed across five major residue categories under varied pyrolysis conditions. A cost-benefit analysis of six thermochemical conversion pathways reveals that chemical activation yields the highest net present values, with internal rates of return between 28 and 35 %. The insurance modelling shows that group-based index products with 85 % coverage triggers and 40 % government premium subsidies can reduce hoarding incidence by 38–44 % while sustaining actuarial loss ratios below 0.95. The findings carry direct implications for carbon market certification, bioenergy policy design, and climate-smart agricultural finance in South Asian low-income farming contexts.",
+  "oa_url": "https://doi.org/10.1016/j.indcrop.2026.124431",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1016/j.indcrop.2026.124431"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [
+   "agricultural residues",
+   "farm income",
+   "carbon pricing",
+   "biomass feedstock",
+   "risk management",
+   "income insurance"
+  ],
+  "topics": [
+   "Pemasaran, rantai pasok & rantai nilai"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-18",
+  "summary_id": null,
+  "relevance": 28
+ },
+ {
+  "id": "W7221960013",
+  "doi": "10.1002/sd.71789",
+  "title": "Beyond Forestry: Women's Multidimensional Contributions to Rural Development in Forest Villages (Türkiye/Afyonkarahisar Example)",
+  "date": "2026-10-15",
+  "year": "2026",
+  "journal": "Sustainable Development",
+  "issn": "09680802",
+  "publisher": "Wiley",
+  "authors": [
+   "Murat Köse",
+   "Emre Can Kuytu"
+  ],
+  "abstract": "ABSTRACT Despite growing recognition of women's contributions to rural development, limited evidence exists on the multidimensional factors shaping their roles in forest villages. This study addresses this gap by examining the determinants of women's contributions to rural development in 26 forest villages in Afyonkarahisar, Türkiye, using survey data from 260 women. Factor analysis, multiple linear regression, and non‐parametric tests were employed to identify key dimensions, determinants, and socio‐demographic differences. Six dimensions explaining approximately 69% of the total variance were identified, with agricultural participation and household responsibilities emerging as the dominant contributors. Regression results showed that women's contributions are strengthened by financial management, decision‐making, and diversified livelihood activities rather than forestry alone. The findings highlight women's central role in sustainable rural development and demonstrate the need for integrated, gender‐responsive policies that improve access to productive resources, financial inclusion, and participation in local decision‐making.",
+  "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/sd.71789",
+  "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/sd.71789",
+  "pdf_urls": [
+   "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/sd.71789",
+   "https://doi.org/10.1002/sd.71789"
+  ],
+  "oa_status": "bronze",
+  "cited_by": 0,
+  "keywords": [
+   "forest villages",
+   "household responsibilities",
+   "women's financial management",
+   "women's decision-making",
+   "gender-sensitive policy",
+   "financial inclusion",
+   "access to productive resources",
+   "Afyonkarahisar"
+  ],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-18",
+  "summary_id": null,
+  "relevance": 26
+ },
+ {
+  "id": "W7222124175",
+  "doi": "10.1186/s12884-026-10097-1",
+  "title": "Smartphone and internet-based glucose management system for gestational diabetes: study protocol for a randomised controlled trial (M♡THer study)",
+  "date": "2026-10-15",
+  "year": "2026",
+  "journal": "BMC Pregnancy and Childbirth",
+  "issn": "14712393",
+  "publisher": "BioMed Central",
+  "authors": [
+   "Rinky Giri",
+   "I-Lynn Lee",
+   "Kathleen Gray",
+   "Dev Kevat"
+  ],
+  "abstract": "Gestational diabetes (GDM) is defined as carbohydrate intolerance resulting in hyperglycaemia of variable severity with onset or first recognition during pregnancy. GDM is associated with increased risks for both mother and fetus and imposes a substantial burden on pregnant women and healthcare services. Standard care involves frequent ambulatory in-clinic reviews. Smartphone and internet-based glucose management systems offer an alternate model of care through remote monitoring. However, substantial evidence is lacking in evaluating mobile health (mHealth) interventions in GDM. This trial is a pragmatic, unblinded, single-centre, parallel-group, non-inferiority randomised controlled trial with 1:1 allocation, which aims to compare remote blood glucose monitoring using the M♡THer digital platform with conventional clinic-based monitoring in pregnant women with GDM. The intervention enables real-time transmission of capillary blood glucose readings via a validated Bluetooth-enabled glucometer and smartphone application. The primary outcome is the proportion of blood glucose readings within target range during pregnancy. Secondary outcomes include additional glycaemic measures, maternal and neonatal clinical outcomes, healthcare utilisation, and patient satisfaction. Enabling women to monitor their blood glucose levels at home and transmit these data to healthcare providers in near real time represents a potentially effective strategy for the remote management of GDM. This trial will provide high-quality evidence regarding the clinical effectiveness, safety and health service impact of a digitally enabled model of care for women with GDM. The findings may inform future models of diabetes care including implementation in rural and remote settings. Australian New Zealand Clinical Trials Registry, ACTRN12625000547448. Registered prospectively in May 2025.",
+  "oa_url": "https://doi.org/10.1186/s12884-026-10097-1",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1186/s12884-026-10097-1"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [
+   "gestational diabetes mellitus",
+   "glucose management",
+   "mobile application",
+   "online intervention",
+   "mobile health",
+   "diabetes self-management"
+  ],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-18",
+  "summary_id": null,
+  "relevance": 23
+ },
+ {
+  "id": "W7222638290",
+  "doi": "10.1002/bse.71637",
+  "title": "Biodiversity Action Planning Within a Global Agricultural Supply Chain",
+  "date": "2026-10-15",
+  "year": "2026",
+  "journal": "Business Strategy and the Environment",
+  "issn": "09644733",
+  "publisher": "Wiley",
+  "authors": [
+   "Lyndsey Dowell",
+   "Michael B. Wironen",
+   "Neil Crescenti",
+   "Jennifer McGowan"
+  ],
+  "abstract": "ABSTRACT Agriculture is a primary driver of biodiversity loss through habitat conversion and degradation. Companies are increasingly being asked to investigate, disclose, and act on their biodiversity impacts by both regulatory policies and voluntary commitments. Yet companies lack practical guidance for identifying actions that mitigate negative externalities and improve natural systems on commodified lands and throughout their supply chains. We collaborated with an international food and beverage company sourcing from 120 regions around the world to develop a generalizable opportunity mapping framework based on cost‐effectiveness. We used publicly available datasets, a decision‐theoretic prioritization framework, and included both quantitative and qualitative insights. Our intent is to demonstrate how opportunity mapping and prioritization can integrate biodiversity into a company's decisions or nature strategies. Our approach helps companies see where and how their activities may contribute to pressures on biodiversity. We then help companies operationalize those insights into sourcing policies, regional investment, and engagement strategies across supply chains.",
+  "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/bse.71637",
+  "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/bse.71637",
+  "pdf_urls": [
+   "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/bse.71637",
+   "https://doi.org/10.1002/bse.71637"
+  ],
+  "oa_status": "hybrid",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemasaran, rantai pasok & rantai nilai"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-18",
+  "summary_id": null,
+  "relevance": 15
+ },
+ {
+  "id": "W7222105388",
+  "doi": "10.1186/s12884-026-10103-6",
+  "title": "Determinants of institutional delivery in afghanistan: evidence from the 2022/2023 Multiple Indicator Cluster Survey (MICS)",
+  "date": "2026-10-15",
+  "year": "2026",
+  "journal": "BMC Pregnancy and Childbirth",
+  "issn": "14712393",
+  "publisher": "BioMed Central",
+  "authors": [
+   "Humayoon Gardiwal",
+   "Sayed Ataullah Saeedzai",
+   "Ferozuddin Feroz",
+   "Jo Knight",
+   "Hassan Ukasha",
+   "Naseer Ahmad Durrani",
+   "Saifullah Sayedzai Sayedzai"
+  ],
+  "abstract": "Afghanistan has one of the highest maternal mortality ratios in the world, and the place where a woman gives birth is a critical determinant of maternal and newborn survival. Although the determinants of institutional delivery have been widely studied, nationally representative evidence from the most recent post-2021 data covering both urban and rural women remains scarce. This study examined the determinants of institutional delivery in Afghanistan. We conducted a secondary analysis of the Afghanistan Multiple Indicator Cluster Survey (MICS) 2022/2023. The descriptive analysis included 12,578 women aged 15–49 years who had a live birth in the two years preceding the survey. The outcome was institutional (health-facility) versus home delivery. Descriptive and bivariate analyses used survey-weighted methods accounting for the multistage cluster design, stratification, and sampling weights. Multivariable associations were estimated using three-level mixed-effects logistic regression, with women nested within households, which were nested within primary sampling units (PSUs). A common complete-case sample of 12,462 women was used for four models: Model 0 (null), Model I (individual-level factors), Model II (household- and community-level factors), and Model III (full model). PSU-level contextual measures of community educational attainment and community socioeconomic status were derived from within-PSU aggregates and modeled alongside urban/rural residence. Adjusted odds ratios (AORs), 95% confidence intervals (CIs), random-effects variances, intraclass correlations (ICCs), median odds ratios (MORs), proportional change in PSU variance (PCV), and model-fit statistics were reported. A two-level PSU-only model was fitted as a sensitivity analysis. Overall, 66.3% of women delivered in a health facility (95% CI 64.5–68.1). In the fully adjusted three-level model, higher education was associated with higher odds of institutional delivery compared with pre-primary/ECE or no education (AOR 7.92; 95% CI 2.40–26.11), while women with five or more children had lower odds than those with 0–1 child (AOR 0.19; 95% CI 0.12–0.31). Antenatal care was strongly associated with institutional delivery (AOR 7.12; 95% CI 5.32–9.53), as were urban residence (AOR 2.46; 95% CI 1.61–3.78) and residence in communities with high socioeconomic status (AOR 6.90; 95% CI 4.23–11.24 versus low socioeconomic status). The PSU-level variance declined from 7.44 in the null model to 2.32 in the full model (PCV: 68.8%), although residual PSU clustering persisted (ICC: 19.7%; MOR: 4.25). The full three-level model had the lowest AIC and BIC. In the two-level sensitivity analysis, the directions of the principal associations were generally consistent, although several effect estimates were attenuated. Institutional delivery in Afghanistan remains inequitably patterned by factors operating at individual, household, and community levels. Women’s education, household wealth, community socioeconomic context, urban–rural residence, parity, and antenatal care were independently associated with institutional delivery. Equity-oriented strategies should address educational, financial, and geographic barriers while recognizing that substantial contextual heterogeneity remains after adjustment. Given the cross-sectional design, findings are interpreted as associations rather than causal effects.",
+  "oa_url": "https://doi.org/10.1186/s12884-026-10103-6",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1186/s12884-026-10103-6"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [
+   "institutional delivery",
+   "maternal health service utilization",
+   "Afghanistan",
+   "Multiple Indicator Cluster Surveys",
+   "maternal health"
+  ],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-18",
+  "summary_id": null,
+  "relevance": 15
+ },
+ {
+  "id": "W7222180673",
+  "doi": "10.1186/s13104-026-08066-0",
+  "title": "Prevalence of vitamin B12 deficiency in type 2 Diabetes Patients Treated with Metformin in the Georgian population",
+  "date": "2026-10-15",
+  "year": "2026",
+  "journal": "BMC Research Notes",
+  "issn": "17560500",
+  "publisher": "BioMed Central",
+  "authors": [
+   "Lali Nikoleishvili",
+   "Ramaz B. Kurashvili",
+   "Davit Metreveli",
+   "Natia Bakhtadze",
+   "Shorena Dzvelaia",
+   "Ani Chitaia"
+  ],
+  "abstract": "This study aimed to evaluate the prevalence of vitamin B12 deficiency in individuals with type 2 diabetes mellitus (T2DM) treated with metformin in Georgia, and to compare vitamin B12 levels across eastern and western rural regions and an urban population. It also assessed possible associations with metformin dose, treatment duration, sex, and age. This retrospective cross-sectional study included 972 adults with T2DM receiving metformin (1000–2000 mg/day) for at least 12 months. The mean serum vitamin B12 level was 354.65 ± 141.93 pg/mL. Deficiency (< 200 pg/mL) was detected in 12.86% of patients, borderline levels (200–400 pg/mL) in 57.61%, and normal values (> 400 pg/mL) in 29.53%. Only a very weak association was found between vitamin B12 levels and metformin dose or duration (R² = 0.007–0.051 across regions). No significant differences were observed across age groups. Men in the urban population had higher vitamin B12 levels than women. Marked regional differences were identified: the western rural region had the highest deficiency prevalence (51%), while the eastern rural and urban regions showed lower deficiency rates (4.38% and 9.0%, respectively). Regional variation in dietary habits may partly explain these differences, though this was not directly assessed and remains speculative.",
+  "oa_url": "https://doi.org/10.1186/s13104-026-08066-0",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1186/s13104-026-08066-0"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [
+   "vitamin B12 deficiency",
+   "type 2 diabetes",
+   "metformin",
+   "prevalence",
+   "Georgians"
+  ],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-18",
+  "summary_id": null,
+  "relevance": 15
+ },
+ {
+  "id": "W7222239271",
+  "doi": "10.1186/s12939-026-03072-x",
+  "title": "Equity of family planning at service delivery points in Uganda",
+  "date": "2026-10-15",
+  "year": "2026",
+  "journal": "International Journal for Equity in Health",
+  "issn": "14759276",
+  "publisher": "BioMed Central",
+  "authors": [
+   "Sarah Nabukeera",
+   "Timothy Kasule",
+   "Fredrick Makumbi",
+   "Samuel Etajak",
+   "Lydia Kabwijamu",
+   "Shafik Senkubuge",
+   "Andrew Kuguminkiriza Tusubira",
+   "Christine Kayemba Nalwadda"
+  ],
+  "abstract": "In low-resource settings, family planning (FP) services have poor outcome indicators due to inequitable policies and processes that create access and uptake barriers. While recent measurement initiatives have primarily concentrated on employing metrics of FP use, it is therefore essential to measure process indicators that are remediable and directly influence access to and uptake of FP services. Using the Availability, Accessibility, Acceptability and Quality process indicators based on the United Nations Population Fund (UNFPA) survey 2023, we assess equity in FP services at service delivery points (SDPs) in Uganda. This was a secondary analysis of data from a descriptive cross-sectional UNFPA 2023 survey in Uganda, which used face-to-face survey interviews and client exit interviews. The survey involved 614 health facilities that provide FP services and 2,378 FP clients. Data were obtained from interviews with facility managers and FP clients exiting SDPs. Data were collected in 2023, from September 13 to October 3, and for this research paper, data access occurred on December 17, 2024, and analysis was performed using STATA version 15. Descriptive analyses were conducted to generate frequencies, percentages and means by service delivery point (SPD) and clients’ characteristics to identify differences in the outcome across the various health facilities and clients’ sub-groups. On average, over three-quarters (89.7%) of all surveyed SDPs consistently provided a minimum of three modern contraceptive methods as part of their regular services. The highest proportion of SDPs that regularly offered at least three modern contraceptive methods was reported by Health Centre (HC) IV level facilities (98.3%), rural (91.3%), and government (93.1%) SDPs compared to their counterparts. FP clients aged 15–19 years spent an average of 72 min waiting for FP services, compared to clients aged 20–29 years and 30–39 years, who spent an average of 66 min and 69 min, respectively. Female FP clients waited an average of 66 min for FP services, while male clients waited an average of 43 min. FP clients with no education or primary education experienced longer waiting times. Specifically, they waited an average of 68.4 min and 69.5 min, respectively. In contrast, clients with post-primary education waited an average of 55.8 min. Only 53.3% of FP clients (675 out of 1267) believed that service providers adhered to all best practices in FP service delivery across all levels of service delivery points. There is a need to enhance community-based distribution through outreach programs, community health workers, drug shops, and pharmacies to improve access and uptake of FP services for underprivileged groups like adolescents and women in rural areas, while empowering and equipping lower-level service SDPs by skilling personnel, making commodities and supplies available and improving service delivery processes to effectively provide FP methods. These evidence-based practices can increase equitable access to high-quality FP methods for everyone in need.",
+  "oa_url": "https://doi.org/10.1186/s12939-026-03072-x",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1186/s12939-026-03072-x"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [
+   "family planning",
+   "equity",
+   "service delivery points",
+   "contraceptive access",
+   "reproductive health services",
+   "Uganda"
+  ],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-18",
+  "summary_id": null,
+  "relevance": 15
+ },
+ {
+  "id": "W7221864831",
+  "doi": "10.1016/j.jenvman.2026.131110",
+  "title": "Should you ask directly? What rice farmers reveal in list experiments regarding improper disposal of agricultural waste",
+  "date": "2026-10-15",
+  "year": "2026",
+  "journal": "Journal of Environmental Management",
+  "issn": "03014797",
+  "publisher": "Elsevier BV",
+  "authors": [
+   "Huy Hùng Đỗ",
+   "Daisaku Goto",
+   "Niraj Prakash Joshi",
+   "Duc Tran"
+  ],
+  "abstract": "Improper disposal of agricultural waste is widespread globally, yet accurately measuring its prevalence is challenging because self-reported data are susceptible to social desirability bias. We conducted list experiments (LE) with 535 rice farmers in Nam Dinh province, Vietnam, to estimate the prevalence of three discouraged practices: rice straw burning; improper disposal of pesticide containers and leftover pesticide. Indirect questioning revealed that 69.2% of farmers burned rice straw, 40.3% improperly disposed of pesticide containers, while 61.7% improperly disposed of leftover pesticides. While list experiment estimates exceeded direct-question estimates for pesticide-related behaviors, the gap was only statistically significant for leftover pesticide disposal. A reporting gap of 21.6 percentage points indicate substantial underreporting of this specific practice. Our subsample analysis further indicated that the number of cultivated lands parcels were negatively associated with improper container disposal and male respondents underreported improper container disposal. Respondents of both genders underreported improper disposal of leftover pesticides, although the extent of underreporting did not statistically differ by gender. We found no evidence of misreporting for rice straw burning; however, this practice was significantly more prevalent among female farmers than among male farmers. These findings demonstrate the value of list experiments for measuring sensitive agricultural waste management behaviors. It also suggest that monitoring and intervention strategies should account for substantial underreporting of improper pesticide waste disposal.",
+  "oa_url": "https://doi.org/10.1016/j.jenvman.2026.131110",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1016/j.jenvman.2026.131110"
+  ],
+  "oa_status": "hybrid",
+  "cited_by": 0,
+  "keywords": [
+   "list experiment",
+   "agricultural waste disposal",
+   "rice farmers",
+   "improper waste disposal",
+   "environmental compliance"
+  ],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-18",
+  "summary_id": null,
+  "relevance": 11
+ },
+ {
   "id": "W7222274299",
   "doi": "10.3390/agriculture16202234",
   "title": "Guiding Sustainable Innovation in Angolan Smallholder Agriculture: Toward a Farm Model Based on Agroecology and Water Harvesting",
@@ -167,7 +1343,8 @@
   "cited_by": 0,
   "keywords": [],
   "topics": [
-   "Kelembagaan petani & tindakan kolektif"
+   "Kelembagaan petani & tindakan kolektif",
+   "Pembangunan pedesaan & kebijakan pertanian"
   ],
   "priority_journal": true,
   "language": "en",
@@ -202,7 +1379,8 @@
   "cited_by": 0,
   "keywords": [],
   "topics": [
-   "Pemberdayaan petani & gender"
+   "Pemberdayaan petani & gender",
+   "Adopsi teknologi & pertanian digital"
   ],
   "priority_journal": true,
   "language": "en",
