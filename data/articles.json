@@ -1,5 +1,300 @@
 [
  {
+  "id": "W7222792669",
+  "doi": "10.1038/s41598-026-75360-z",
+  "title": "Food insecurity and its associated factors among lactating mothers in Ankesha Guagusa Woreda, Northwest Ethiopia: a community-based cross-sectional study",
+  "date": "2026-10-17",
+  "year": "2026",
+  "journal": "Scientific Reports",
+  "issn": "20452322",
+  "publisher": "Nature Portfolio",
+  "authors": [
+   "Menkir Wondale",
+   "bitewlign tiruneh",
+   "Habitamu Mekonen",
+   "Zelalem Aniley",
+   "Ayenew Negesse"
+  ],
+  "abstract": "Food insecurity is defined as the limited or uncertain availability of nutritious, adequate, and safe food, as well as a constrained potential to obtain suitable foods in socially acceptable manners. Food insecurity leads to both macro/micronutrient deficiency, making lactating women more vulnerable to inadequate human milk production and malnutrition during their optimal lactation period. However, data on the prevalence and associated factors that contribute to food insecurity are sparse within this specific population, where food insecurity might also be worsened in relatively highland areas. Thus, this study aimed to assess the prevalence of food insecurity and its associated factors among lactating mothers in Ankesha Guagusa Woreda, Awi Zone, Northwest Ethiopia. A community-based cross-sectional study was conducted from July 1 to August 30, 2025, in Ankesha Guagusa Woreda. The data were collected by a pretested structured questionnaire. The single-population proportion formula was used to estimate sample size. The final sample size was 464. To assess the food insecurity status of mothers, an eight-item Food Insecurity Experience Scale (FIES) was considered. Data were cleaned, coded and entered into EpiData version 4.6 and then exported to SPSS Version 25 for analysis. Both bivariable and multivariable logistic regression analyses were used to identify associated factors of food insecurity. The prevalence of food insecurity among lactating mothers was 70.9%. Mothers residing in rural areas (AOR = 1.97; 95% CI 1.2, 3.2), mothers experiencing an illness (AOR = 1.72; 95% CI 1.11, 2.68) and mothers who did not consume Vitamin A-rich vegetables, roots, or tubers (AOR = 1.99; 95% CI 1.06, 3.73) had higher odds of food insecurity. Conversely, meal frequency (> 3 meals) (AOR = 0.34, 95% CI 0.14, 0.76) and consuming milk and milk products (AOR = 0.5, 95% CI 0.3, 0.9) were inversely associated with food insecurity. The prevalence of food insecurity among lactating mothers was high in the study area. Therefore, to optimize food security, resources must prioritize remote rural kebeles during lean cycles while health extension workers screen for maternal illnesses during postnatal visits. Additionally, establishing community-based dairy cooperatives and supporting Vitamin A-rich home gardens will directly enhance nutrition and lower food access barriers for vulnerable, lactating households.",
+  "oa_url": "https://www.nature.com/articles/s41598-026-75360-z_reference.pdf",
+  "pdf_url": "https://www.nature.com/articles/s41598-026-75360-z_reference.pdf",
+  "pdf_urls": [
+   "https://www.nature.com/articles/s41598-026-75360-z_reference.pdf",
+   "https://doi.org/10.1038/s41598-026-75360-z"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender",
+   "Ketahanan pangan rumah tangga"
+  ],
+  "priority_journal": true,
+  "language": "en",
+  "found_at": "2026-10-19",
+  "summary_id": {
+   "tujuan": "Mengestimasi prevalensi ketidakamanan pangan dan faktor yang berhubungan pada ibu menyusui di Woreda Ankesha Guagusa, Zona Awi, Ethiopia Barat Laut. Studi ini juga menilai apakah wilayah dataran tinggi dan pedesaan memperburuk kondisi tersebut.",
+   "metode": "Studi cross-sectional berbasis komunitas pada 464 ibu menyusui, dikumpulkan 1 Juli–30 Agustus 2025 melalui kuesioner terstruktur yang telah diuji awal. Ketidakamanan pangan diukur dengan delapan item Food Insecurity Experience Scale (FIES); data dianalisis dengan regresi logistik bivariat dan multivariat (SPSS 25).",
+   "temuan": "Prevalensi ketidakamanan pangan sebesar 70,9%. Tinggal di pedesaan (AOR 1,97), mengalami sakit (AOR 1,72), dan tidak mengonsumsi sayur, akar, atau umbi kaya vitamin A (AOR 1,99) berhubungan dengan peningkatan odds. Frekuensi makan lebih dari tiga kali (AOR 0,34) dan konsumsi susu serta produk susu (AOR 0,50) berhubungan dengan penurunan odds; temuan bersifat asosiasi, bukan kausalitas.",
+   "keterbatasan": "Tidak disebutkan secara eksplisit oleh penulis. Dari desainnya, studi cross-sectional tidak dapat menetapkan arah kausal, dan data konsumsi serta riwayat sakit yang dilaporkan sendiri berpotensi mengalami bias ingatan.",
+   "relevansi": "Temuan tentang peran konsumsi susu dan kebun pekarangan bergizi relevan dengan kajian kelembagaan koperasi peternakan dan ketahanan pangan rumah tangga pedesaan, termasuk kemungkinan adaptasi FIES di Kalimantan Tengah. Namun, fokus klinis-gizi dan konteks Afrika Timur membuat keterkaitannya tidak langsung dengan pemasaran pertanian, sawit, atau adopsi digital.",
+   "skor": 3,
+   "model": "claude-haiku-5-5",
+   "sumber": "abstrak"
+  },
+  "relevance": 55
+ },
+ {
+  "id": "W7222812229",
+  "doi": "10.1080/13549839.2026.2726212",
+  "title": "Constructing community economies: a pathway toward just agri-food transitions?",
+  "date": "2026-10-17",
+  "year": "2026",
+  "journal": "Local Environment",
+  "issn": "13549839",
+  "publisher": "Routledge",
+  "authors": [
+   "Mingmin Pan"
+  ],
+  "abstract": "Exploring pathways toward just agri-food transitions has attracted increasing attention in political discourse and civic action. Community economies focus on alternative economic practices, reciprocity, and ethical commitments, aligning with the just transition goal of preventing new or intensified injustices in agri-food systems. This article develops a conceptual framework for analyzing the construction of community economies in agri-food systems and critically examines how economic alterity, performative interventions, and everyday practices can contribute to just transitions. Drawing on an in-depth case study of Mui Wo, an agricultural community in Hong Kong, this study investigates how a community economy model emerges, is constituted, and interacts with powerful actors and wider structural forces. The findings show that Mui Wo’s community economy has generated meaningful openings for a just agri-food transition, especially through recognition, community value chains, and capacity-building. However, government indifference to agriculture, structural constraints such as land ownership, insufficient support systems, and the absence of formal mechanisms for stakeholder participation in land-use decisions undermine the effectiveness of community economies in transforming agri-food systems. These findings highlight the need for transition interventions to re-examine policy frameworks and confront structural determinants, thereby empowering community economy pathways to advance just and sustainable transitions.",
+  "oa_url": "https://doi.org/10.1080/13549839.2026.2726212",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1080/13549839.2026.2726212"
+  ],
+  "oa_status": "hybrid",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemasaran, rantai pasok & rantai nilai",
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-19",
+  "summary_id": {
+   "tujuan": "Mengembangkan kerangka konseptual untuk menganalisis konstruksi ekonomi komunitas dalam sistem agri-pangan dan menguji kontribusinya terhadap transisi agri-pangan yang adil.",
+   "metode": "Studi kasus mendalam (in-depth case study) pada komunitas pertanian Mui Wo, Hong Kong. Periode pengumpulan data, jumlah responden, dan teknik analisis tidak disebutkan dalam abstrak.",
+   "temuan": "Ekonomi komunitas Mui Wo membuka peluang transisi agri-pangan yang adil, terutama melalui pengakuan (recognition), rantai nilai komunitas, dan penguatan kapasitas. Namun, ketidakpedulian pemerintah terhadap pertanian, kepemilikan lahan, minimnya sistem dukungan, dan ketiadaan mekanisme partisipasi pemangku kepentingan dalam keputusan tata guna lahan melemahkan efektivitasnya. Temuan bersifat deskriptif dan konseptual, bukan kausal.",
+   "keterbatasan": "Tidak disebutkan secara eksplisit. Dari desainnya, studi kasus tunggal membatasi generalisasi ke konteks lain, dan jumlah sampel serta prosedur analisis tidak dijelaskan dalam abstrak.",
+   "relevansi": "Kerangka rantai nilai komunitas, kelembagaan petani, dan hambatan struktural seperti penguasaan lahan relevan dengan studi akses pasar petani kecil dan pembangunan pedesaan di Kalimantan Tengah. Konteks urban-fringe Hong Kong berbeda dengan wilayah perdesaan dan perkebunan sawit di Indonesia, sehingga temuannya perlu diuji ulang secara kontekstual.",
+   "skor": 3,
+   "model": "claude-haiku-5-5",
+   "sumber": "abstrak"
+  },
+  "relevance": 40
+ },
+ {
+  "id": "W7222851351",
+  "doi": "10.1186/s40795-026-01516-9",
+  "title": "Agricultural input subsidy scheme, food security and nutrition among under-five children in Malawi",
+  "date": "2026-10-17",
+  "year": "2026",
+  "journal": "BMC Nutrition",
+  "issn": "20550928",
+  "publisher": "BioMed Central",
+  "authors": [
+   "Abigail Chari"
+  ],
+  "abstract": "Child undernutrition is a global health challenge, highly burdening developing countries, especially the poor residing in rural areas. Food insecurity, low agricultural productivity and child undernutrition remain a challenge regardless of the government's efforts to provide subsidised agricultural inputs to farmers. Although previous studies have established the factors affecting child nutrition, less is known about the interaction between input schemes, food security and nutrition among children under five in Malawi. This is especially important given the importance of input availability and food security in improving child nutrition. Understanding this interaction is essential in determining where undernutrition originates and contributes to policymaking, enhancing resource allocation for those who need it. This study adds to the existing literature by investigating the interaction between input availability, food security and nutrition among children under five in Malawi. The study used data from two waves of the Integrated Household Survey (2019/20 and 2024/25) from the Malawi National Statistics Office. The study used thematic maps and instrumental variable methods. The findings show regional disparities in child nutrition, the farm input subsidy program and food security in Malawi. The southern region had a higher proportion of households receiving farm input subsidy program coupons than the central and northern regions. Regardless, the southern region also experienced a high prevalence of food insecurity and child undernutrition in terms of low height-for-age, weight-for-age and weight-for-height. In addition, results indicated that agricultural input subsidies are associated with better child nutrition. The study indicated that food security insignificantly influences child nutrition in Malawi. Disaggregated results highlight that the association of inputs with child nutrition is stronger in children from rural and patrilineal households. Therefore, policymakers should integrate agricultural input subsidies into health and nutrition strategies to ensure significant improvement in nutrition status, as they contribute towards the attainment of the Sustainable Development Goals.",
+  "oa_url": "https://doi.org/10.1186/s40795-026-01516-9",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1186/s40795-026-01516-9"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Ketahanan pangan rumah tangga"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-19",
+  "summary_id": null,
+  "relevance": 25
+ },
+ {
+  "id": "W7222842217",
+  "doi": "10.1080/23311932.2026.2748146",
+  "title": "Climate-induced displacement and household food insecurity in Somalia: the role of drought, water access, and environmental shocks",
+  "date": "2026-10-17",
+  "year": "2026",
+  "journal": "Cogent Food & Agriculture",
+  "issn": "23311932",
+  "publisher": "Cogent OA",
+  "authors": [
+   "Mohamed Hassan Mohamed",
+   "Hassan Abdimalik Mohamed"
+  ],
+  "abstract": "",
+  "oa_url": "https://doi.org/10.1080/23311932.2026.2748146",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1080/23311932.2026.2748146"
+  ],
+  "oa_status": "diamond",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Ketahanan pangan rumah tangga"
+  ],
+  "priority_journal": true,
+  "language": "en",
+  "found_at": "2026-10-19",
+  "summary_id": null,
+  "relevance": 23
+ },
+ {
+  "id": "W7222842686",
+  "doi": "10.1007/s44163-026-02528-x",
+  "title": "An entropy-guided dynamic lightweight network for identification of wild edible vegetables of BTR",
+  "date": "2026-10-17",
+  "year": "2026",
+  "journal": "Discover Artificial Intelligence",
+  "issn": "27310809",
+  "publisher": "Springer Nature",
+  "authors": [
+   "Tania Sarkar",
+   "Pranav Kumar Singh",
+   "Parag Bhuyan",
+   "Anshuman Kalla"
+  ],
+  "abstract": "Wild edible vegetables of Bodoland Territorial Region (BTR) are the species of plants that grow naturally and are commonly consumed as food by the indigenous communities. These plants are important sources of nutritional and therapeutic properties and are essential for food security and socio-economic development of rural communities. Therefore, sustainable conservation and utilization of these unique plant resources are of great significance. Developing an efficient and accurate automatic identification system is an essential conservation strategy for them. Current plant identification methods are mainly based on classical machine learning (ML) methods and deep convolutional neural network (CNN) architectures for recognition and classification. These methods are effective for images taken under controlled or pristine conditions, but the performance is often far from ideal in the complex and natural environments of forest and grassland, where wild edible plants are found. This paper proposes an entropy-guided dynamic lightweight deep learning architecture for automatic detection of wild edible vegetables in BTR. The proposed model employs adaptive computation with Dynamic Kernel Selection (DKS), Region-wise Adaptive Feature Routing (RAFR), Ultra-Light Context Encoding (ULCE), and Entropy-Guided Global Pooling (EGGP) to capture multi-scale plant characteristics efficiently and reduce redundant computations. The novelty of our proposed framework lies in its coordinated integration of these modules that is designed to reduce computational overhead without compromising with performance. Experimental results show that the proposed model achieves excellent classification accuracy of 90.69% with significantly reduced parameter complexity and floating-point operations (FLOPs), which is well-suited for real-time precision agriculture and low-resource edge deployment applications.",
+  "oa_url": "https://doi.org/10.1007/s44163-026-02528-x",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1007/s44163-026-02528-x"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Ketahanan pangan rumah tangga"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-19",
+  "summary_id": null,
+  "relevance": 19
+ },
+ {
+  "id": "W7222814242",
+  "doi": "10.1186/s12872-026-06757-x",
+  "title": "Improving heart failure care in rural Africa: overcoming implementation barriers",
+  "date": "2026-10-17",
+  "year": "2026",
+  "journal": "BMC Cardiovascular Disorders",
+  "issn": "14712261",
+  "publisher": "BioMed Central",
+  "authors": [
+   "Andrew Katende",
+   "Samuel S. Mutasingwa",
+   "Victor Z. Urio",
+   "Felix Mahfoud",
+   "Thilo Burkard",
+   "Beat A. Kaufmann",
+   "Martin Rohacek"
+  ],
+  "abstract": "Abstract In this narrative review, we present the most important heart diseases causing heart failure in sub-Saharan Africa, discuss challenges, uncertainties and research gaps, and suggest strategies to lower the burden of disease. Hypertensive heart disease is the most common cause for heart failure in Africa causing the largest burden of disease. Only a small minority of hypertensive people achieve guideline-recommended blood pressure values. For rheumatic heart disease, current guidelines recommend screening programs with handheld ultrasound devices performed by trained non-experts to detect children with a mild stage of the disease, because secondary prophylaxis with penicillin lowers the progression of the disease. Women with peripartum cardiomyopathy need access to specialized care and follow-up, to fully recover their left ventricular function. Tuberculosis is the main cause for pericarditis and pericardial tamponade, and health care personnel requires training in diagnosis and therapy, including pericardiocentesis. Coronary heart disease is less prevalent in sub-Saharan Africa than elsewhere but also underdiagnosed because of lack of diagnostic tools. In those with an indication for anticoagulation, only a minority receives oral anticoagulation. Programs are needed to increase awareness for hypertension and heart failure, to implement referral systems, to ameliorate access to diagnostic equipment, medication, and specialized care including cardiac surgery, and to increase the availability of health insurance.",
+  "oa_url": "https://doi.org/10.1186/s12872-026-06757-x",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1186/s12872-026-06757-x"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-19",
+  "summary_id": null,
+  "relevance": 15
+ },
+ {
+  "id": "W7222806292",
+  "doi": "10.1016/j.ocecoaman.2026.108413",
+  "title": "Fisheries development in Al Wusta, Oman (2003–2023): Industrial growth, artisanal livelihoods and opportunities for sustainable co-development",
+  "date": "2026-10-17",
+  "year": "2026",
+  "journal": "Ocean & Coastal Management",
+  "issn": "09645691",
+  "publisher": "Elsevier BV",
+  "authors": [
+   "Sachinandan Dutta",
+   "Yousuf Al Owaisi"
+  ],
+  "abstract": "The study analyzes the development and interaction of the artisanal and industrial fishing sectors in the Al Wusta region of the Sultanate of Oman from 2003 to 2023. The research examines the development of the Port of Duqm and the spread of industrial fishing, driven by government initiatives and investments, in particular the establishment of the Al Wusta Fisheries Industries Company (AWF). Fisheries statistics from the Ministry of Agriculture, Fisheries and Water Resources (MAFWR) and the National Center for Statistics and Information (NCSI) (2003–2023) provided primary data on fishing effort and landings for both sectors in Al Wusta. Although Al Wusta has emerged as a prominent fisheries producer, with artisanal fishing consistently producing the highest catch volumes and employing the majority of fishermen. The expansion of industrial fishing in the same pelagic fisheries highlights the importance of assessing complementarity, resource-sharing, and sustainable co-development with artisanal fisheries. In order to evaluate trends in artisanal and industrial fishing over the past 20 years, a systematic 13-question questionnaire was given to 50 purposefully chosen artisanal fisherman in Duqm. The catch per unit effort (CPUE) of industrial fishery (mean = 1386.5 tons per boat) was much higher than the artisanal fishery (mean = 43.29 tons per boat). There is a statistically significant difference in the distribution of CPUE values of industrial and artisanal fisheries (W = 394, p < 0.001). The study reveals a significant increase in total fish landing and economic value, emphasizing the need for ongoing monitoring, study, and adaptive management to maintain the long-term sustainability of fish populations and the well-being of artisanal fishing communities. 50 artisanal fishers report changing catch patterns, occasional operational overlaps with industrial vessels, and a desire for clearer regulation, which together point to opportunities for stronger co-management. It is recommended to improve the enforcement of existing fisheries regulations, conduct further research on stock dynamics and inter-sectoral interaction, and empower small-scale fishers through knowledge dissemination and co-management strategies to manage potential overlaps and promote collaboration, sustainable resource use, and equitable fisheries management in the region.",
+  "oa_url": "https://doi.org/10.1016/j.ocecoaman.2026.108413",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1016/j.ocecoaman.2026.108413"
+  ],
+  "oa_status": "hybrid",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-19",
+  "summary_id": null,
+  "relevance": 0
+ },
+ {
+  "id": "W7222740664",
+  "doi": "10.1057/s41599-026-09019-5",
+  "title": "How extensive and coordinated is farmers’ participation in agricultural value chains in China? Evidence from contractual–digital chain coupling",
+  "date": "2026-10-16",
+  "year": "2026",
+  "journal": "Humanities and Social Sciences Communications",
+  "issn": "20551045",
+  "publisher": "Palgrave Macmillan",
+  "authors": [
+   "Rashid Latief",
+   "Yuanyuan Peng",
+   "Xuanheng Wu"
+  ],
+  "abstract": "Integrating smallholders into modern agricultural value chains is essential for agricultural modernization and rural development. Using survey data from the China Rural Revitalization Survey (CRRS), this study examines farmers’ participation in contractual and digital chains. An entropy-based index system is constructed to measure the depth of participation in both chains, and a coupling coordination model is employed to evaluate their interaction and coordinated development. The results indicate that the participation levels of Chinese farmers in both contractual and digital chains remain relatively low, although participation in digital chains is generally higher than that in contractual chains. The degree of coupling coordination between the two chains falls within the category of “slightly unbalanced,” suggesting considerable scope for improving systemic coordination. Further analysis reveals substantial heterogeneity in contractual-chain participation among farmers, whereas digital-chain participation exhibits comparatively lower inequality, despite persistent disparities in the distribution of digital engagement. However, the disparity in the coupling and synergistic development between the contractual and digital chains is relatively limited. These differences are associated with farmer heterogeneity and regional variation in chain participation. Within the surveyed sample, eastern regions demonstrate relatively higher participation in digital chains but comparatively weaker participation in contractual chains, resulting in lower levels of coupling coordination. In contrast, southern regions, benefiting from relative advantages in both chains, exhibit higher levels of coupling coordination. This study clarifies the developmental stage of farmers’ participation in contractual and digital chains and their coupling coordination, offering new insights into Chinese agricultural practices and the process of agricultural modernization.",
+  "oa_url": "https://www.nature.com/articles/s41599-026-09019-5_reference.pdf",
+  "pdf_url": "https://www.nature.com/articles/s41599-026-09019-5_reference.pdf",
+  "pdf_urls": [
+   "https://www.nature.com/articles/s41599-026-09019-5_reference.pdf",
+   "https://doi.org/10.1057/s41599-026-09019-5"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [
+   "farmer participation",
+   "agricultural value chains",
+   "chain coupling",
+   "agricultural digitalization",
+   "China"
+  ],
+  "topics": [
+   "Pemasaran, rantai pasok & rantai nilai",
+   "Pembangunan pedesaan & kebijakan pertanian"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-19",
+  "summary_id": {
+   "tujuan": "Mengukur kedalaman partisipasi petani dalam rantai nilai kontraktual dan digital di Tiongkok, serta menilai tingkat koordinasi kopling antara keduanya dan variasinya antarwilayah.",
+   "metode": "Studi kuantitatif berbasis survei China Rural Revitalization Survey (CRRS). Indeks partisipasi dibangun dengan metode entropi, lalu dianalisis dengan model koordinasi kopling. Periode, ukuran sampel, dan teknik uji ketimpangan tidak disebutkan dalam abstrak.",
+   "temuan": "Partisipasi petani pada rantai kontraktual dan digital sama-sama tergolong rendah, dengan partisipasi digital lebih tinggi. Koordinasi kopling kedua rantai berada pada kategori 'sedikit tidak seimbang'. Partisipasi kontraktual lebih timpang dibanding digital, sedangkan wilayah timur unggul di digital tetapi lemah di kontraktual, dan wilayah selatan memiliki koordinasi tertinggi. Temuan bersifat asosiasi, bukan kausal.",
+   "keterbatasan": "Tidak disebutkan. Dari desain, hasil bersifat deskriptif dan asosiatif, serta bergantung pada sampel survei yang disebut 'dalam sampel yang disurvei' sehingga generalisasi nasional perlu hati-hati.",
+   "relevansi": "Kerangka kemitraan kontraktual dan partisipasi digital petani kecil sangat dekat dengan agenda riset dosen, terutama untuk membandingkan pola kemitraan sawit (plasma/inti), koperasi, dan platform digital di Kalimantan Tengah. Metode entropi dan model kopling dapat diadaptasi untuk menguji keselarasan kedua jalur akses pasar di Indonesia.",
+   "skor": 4,
+   "model": "claude-haiku-5-5",
+   "sumber": "abstrak"
+  },
+  "relevance": 60
+ },
+ {
   "id": "W7222350379",
   "doi": "10.1016/j.agsy.2026.105000",
   "title": "When information is not enough: AI-enabled advisory and the fragile pathways of low-carbon transitions under system constraints",
