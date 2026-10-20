@@ -1,5 +1,357 @@
 [
  {
+  "id": "W7222870744",
+  "doi": "10.1007/s11367-026-02760-8",
+  "title": "Towards greater sensitivity: advancing social life cycle assessment for the coffee sector in Brazil and the Democratic Republic of the Congo",
+  "date": "2026-10-18",
+  "year": "2026",
+  "journal": "The International Journal of Life Cycle Assessment",
+  "issn": "09483349",
+  "publisher": "Springer Science+Business Media",
+  "authors": [
+   "Braida Thom",
+   "Lea Fabritius",
+   "Marie Sigrist",
+   "Didace Banyanga",
+   "Stephan Pfister",
+   "Réussite Bugale Malembaka",
+   "Gabriela Schneider",
+   "Kokou Kintché",
+   "Johanna Jacobi"
+  ],
+  "abstract": "Abstract Purpose Literature on coffee sustainability focuses on environmental and economic challenges and often falls short on social factors that strongly influence overall sustainability. For coffee producers, social aspects are existentially important, while environmental concerns take lower priority. Recognizing that social aspects are critical to sustainable development, we assessed the social impacts of nine coffee case studies in Brazil and the Democratic Republic of the Congo (DRC). Methods Social Life Cycle Assessment (S-LCA) has gained interest and importance to better understand and measure the positive and negative social impacts of products on various stakeholders. However, many challenges in its applicability still exist. Therefore, in this study, we operationalized and applied the S-LCA methodology for the coffee sector, based on the UNEP guidelines and the ISO standard 14,075. We used the reference scale approach based only on primary, site-specific data and systematically involved different actors at the upstream stages of the coffee value chain to capture multiple perspectives. In total, we conducted 170 inventory interviews and included six validation interviews. Results We found significant differences in social performance both within and across the two countries; cross-country differences are reported to contrast the two contexts rather than to rank performance. The differences we found within the two countries show that not only context but also organization matters. Especially in Brazil, the cooperative models scored higher than the commercial plantations. In the Brazilian case studies, mean performance scores were highest for the stakeholder category ‘farmer’, followed by ‘local community’, ‘worker’, and ‘value chain actors’. In the Congolese case studies, mean performance scores were highest for the stakeholder category ‘local community’, followed by ‘farmer’, ‘worker’, and ‘value chain actors’. The impact subcategories showing the lowest social performance scores, such as ‘fair salary’, ‘livelihood and well-being’, and ‘productivity’, are the ones that were ranked highest during the validation interviews. We found that workers mostly do not earn living wages, with only seven exceptions in Brazil and one in the DRC. Conclusions This study contributes to the limited body of S-LCA research on coffee production, and, to our knowledge, is among the first to be based on primary data collected in Brazil and the DRC. It presents a novel approach for achieving greater case sensitivity in S-LCA through primary data and context-specific reference scales, going beyond generic databases. This approach makes it possible to account for differences among case studies within the same country and sector.",
+  "oa_url": "https://doi.org/10.1007/s11367-026-02760-8",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1007/s11367-026-02760-8"
+  ],
+  "oa_status": "hybrid",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemasaran, rantai pasok & rantai nilai",
+   "Kelembagaan petani & tindakan kolektif",
+   "Tenaga kerja & produktivitas perkebunan"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-20",
+  "summary_id": {
+   "tujuan": "Menilai dampak sosial rantai nilai kopi di Brasil dan Republik Demokratik Kongo menggunakan S-LCA yang dioperasionalkan dengan pendekatan skala referensi berbasis data primer spesifik lokasi. Studi ini juga menguji kepekaan terhadap konteks kasus dalam satu negara dan sektor yang sama.",
+   "metode": "Desain studi kasus multi-kasus (sembilan kasus) dengan data primer dari Brasil dan Kongo. Penelitian mengacu pada pedoman UNEP dan ISO 14075, melibatkan 170 wawancara inventaris dan enam wawancara validasi. Periode pengumpulan data tidak disebutkan; teknik analisis utama berupa skor kinerja berbasis skala referensi dan perbandingan rata-rata per kategori pemangku kepentingan.",
+   "temuan": "Di Brasil, koperasi memperoleh skor sosial lebih tinggi daripada perkebunan komersial, dan petani menjadi kategori dengan skor rata-rata tertinggi. Subkategori dengan skor terendah adalah upah layak, penghidupan dan kesejahteraan, serta produktivitas; hanya tujuh pekerja di Brasil dan satu di Kongo yang menerima upah layak. Temuan ini bersifat asosiatif dan deskriptif, bukan kausal, dan perbandingan lintas negara hanya dimaksudkan untuk kontras konteks.",
+   "keterbatasan": "Tidak disebutkan secara eksplisit. Dari desain tampak bahwa jumlah kasus terbatas (sembilan), pemilihan kasus kemungkinan tidak acak, dan perbandingan lintas negara tidak sebanding secara statistik.",
+   "relevansi": "Perbandingan koperasi dengan perkebunan komersial relevan untuk mengkaji kelembagaan petani dan posisi petani kecil dalam rantai nilai. Pendekatan skala referensi berbasis data primer dapat diadaptasi untuk menilai dampak sosial sawit rakyat dan upah pekerja kebun di Kalimantan Tengah, meski studi ini tidak membahas adopsi teknologi digital.",
+   "skor": 3,
+   "model": "claude-haiku-5-5",
+   "sumber": "abstrak"
+  },
+  "relevance": 49
+ },
+ {
+  "id": "W7222872162",
+  "doi": "10.1080/23311932.2026.2748742",
+  "title": "Unlocking the future of farming: How digitalization transforms agriculture and enhances food security in rural China",
+  "date": "2026-10-18",
+  "year": "2026",
+  "journal": "Cogent Food & Agriculture",
+  "issn": "23311932",
+  "publisher": "Cogent OA",
+  "authors": [
+   "Fatma Mabrouk",
+   "Pomi Shahbaz",
+   "Ahmed A. Mashaal",
+   "Muhammad Nadeem"
+  ],
+  "abstract": "",
+  "oa_url": "https://doi.org/10.1080/23311932.2026.2748742",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1080/23311932.2026.2748742"
+  ],
+  "oa_status": "diamond",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Ketahanan pangan rumah tangga"
+  ],
+  "priority_journal": true,
+  "language": "en",
+  "found_at": "2026-10-20",
+  "summary_id": null,
+  "relevance": 40
+ },
+ {
+  "id": "W7222876804",
+  "doi": "10.1038/s41598-026-75146-3",
+  "title": "Resilience assessment and prediction of fresh agricultural product supply chains using variable fuzzy recognition and machine learning",
+  "date": "2026-10-18",
+  "year": "2026",
+  "journal": "Scientific Reports",
+  "issn": "20452322",
+  "publisher": "Nature Portfolio",
+  "authors": [
+   "Shangbing Gao",
+   "Anming Bai",
+   "Xinguo Sun",
+   "Anbang Peng",
+   "Shilan Li",
+   "Wei Zhao",
+   "Shuaifei Ma"
+  ],
+  "abstract": "Fresh agricultural products are highly perishable and sensitive to transportation, storage, and handling conditions, which makes their supply chains particularly vulnerable to disruptions. Such disruptions can interrupt product flows and reduce both quality and availability. Traditional risk analysis methods mainly focus on uncertainty and the probability of adverse events, but they do not adequately capture the ability of supply chains to recover and adapt following disruptions. To address this limitation, this study develops a resilience evaluation and prediction framework for fresh agricultural product supply chains (FAPSCs). The framework is structured around three dimensions: production, transportation, and consumption. A hybrid modeling approach is proposed by integrating variable fuzzy set theory with machine learning. The variable fuzzy set model is used for dynamic resilience assessment, while a convolutional neural network (CNN) is employed to capture temporal dynamics and perform prediction. Indicator weights are determined by combining the Analytic Hierarchy Process (AHP) and the CRITIC method to improve robustness and interpretability. Using panel data from 31 provinces in China from 2009 to 2023, the results show that the proposed framework effectively distinguishes different resilience levels across regions. The CNN model captures temporal variations, including peak and off-peak fluctuations, and outperforms baseline models such as Decision Tree, Random Forest, and Linear Regression, particularly in modeling nonlinear patterns and high-resilience cases. Overall, the proposed approach demonstrates strong robustness under limited or noisy data conditions and provides practical support for early warning, risk mitigation, and decision making in FAPSC management.",
+  "oa_url": "https://doi.org/10.1038/s41598-026-75146-3",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1038/s41598-026-75146-3"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemasaran, rantai pasok & rantai nilai"
+  ],
+  "priority_journal": true,
+  "language": "en",
+  "found_at": "2026-10-20",
+  "summary_id": null,
+  "relevance": 30
+ },
+ {
+  "id": "W7222889474",
+  "doi": "10.1007/s43621-026-04996-8",
+  "title": "Migration, remittances, and drivers of household food security in a post-conflict urban Tigray, Ethiopia",
+  "date": "2026-10-18",
+  "year": "2026",
+  "journal": "Discover Sustainability",
+  "issn": "26629984",
+  "publisher": "Springer Nature",
+  "authors": [
+   "Girma Nigusse Woldegebriel",
+   "Alemseged Gerezgiher Hailu",
+   "Zbelo Tesfamariam"
+  ],
+  "abstract": "Migration is widely recognized as a livelihood strategy in Africa and other less-developed regions. However, there is limited empirical evidence on the links between migration, remittances, and household food security, particularly in post-conflict urban settings. This study employed a cross-sectional mixed-methods convergent parallel design. Quantitative data were collected through surveys of 420 randomly selected households (139 migrant-sending and 281 non-migrant-sending) across five urban towns in Ethiopia’s Tigray region: Edaga Hamusee, Atsebi, Mekelle (Hawlity sub-city), Abi Adi, and Degua Tembein. Qualitative data were gathered from 12 focus groups and 15 key informant interviews. A Food Security Index was constructed using Principal Component Analysis. Quantitative analyses included chi-square, Gamma, ANOVA, generalized ordered logistic regression, and propensity score matching, while qualitative data were analyzed using thematic analysis. The findings indicate widespread food insecurity among post-conflict urban households in Tigray, with over 70% experiencing severe or moderate insecurity, characterized by limited dietary diversity and reduced consumption of nutrient-rich foods. Migration status demonstrated only a weak association with food security, whereas remittances receipt emerged as a key protective factor by supporting household consumption, preventing asset liquidation, enhancing resilience to shocks, and improving access to credit. In the post-conflict context, remittances have shifted from investment to survival, reflecting declining household resilience. The Generalized Ordered Logit Model revealed that migration was not a significant predictor of severe or moderate food insecurity ( p = 0.417). Family size, education, asset ownership, income, and formal employment positively influenced food security, while reduced aid, inflation, increased service costs, and political instability significantly undermined food security. The study recommends coordinated interventions that address both immediate needs and underlying structural causes rather than relying solely on international migration. Priority actions include strengthening household assets through education, housing, and income generation; restoring financial services and stabilizing markets; maintaining humanitarian assistance for vulnerable groups; targeting disadvantaged populations such as persons with disabilities, unemployed youth, lactating women, and children; and controlling inflation to improve urban food access.",
+  "oa_url": "https://doi.org/10.1007/s43621-026-04996-8",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1007/s43621-026-04996-8"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Ketahanan pangan rumah tangga"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-20",
+  "summary_id": null,
+  "relevance": 21
+ },
+ {
+  "id": "W7222886311",
+  "doi": "10.1002/hpja.70261",
+  "title": "Population‐Level Awareness of Water Safety Messages: An Analysis of a Representative Sample From New South Wales, Australia",
+  "date": "2026-10-18",
+  "year": "2026",
+  "journal": "Health Promotion Journal of Australia",
+  "issn": "10361073",
+  "publisher": "Wiley",
+  "authors": [
+   "Amy E. Peden",
+   "Lauren Miller",
+   "Rachel Irvine"
+  ],
+  "abstract": "ABSTRACT Issue Addressed The World Health Organisation recommends strengthening public awareness of drowning through strategic communications as a key drowning prevention strategy. This study aimed, for the first time, to assess population‐level awareness of water safety messages in New South Wales, Australia. Methods Via an age‐sex representative sample survey, community beliefs around the number of water safety messages and awareness of messages (defined as having seen or heard) were examined. Message awareness variance between different demographics (gender, age group, country of birth, rurality and socio‐economic classification of residence) and water use frequency groups was assessed using chi square tests. Results The sample comprised 1495 people (52% female; 33% 45–64 years; 84% Australian‐born and 78% metropolitan residents). Seventy‐six percent did not believe the number of water safety messages promoted to the community was confusing. ‘Swim between the flags’ had the highest awareness among the sample (68%), followed by ‘No flags, no swim’ (53%). Despite no longer being actively promoted, 36% were aware of the message ‘To escape a rip, swim parallel to the beach’. ‘Respect the River’ had significantly higher awareness among males, Australian‐born and regional residents, at‐risk cohorts for river drowning. Conclusions Message longevity supports increased awareness, though awareness varies by message and demographic groups. Funding support to increase awareness should reflect drowning burden. So what? Funding, time, and specific calls to action will support moving from awareness to behaviour change.",
+  "oa_url": "https://doi.org/10.1002/hpja.70261",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1002/hpja.70261"
+  ],
+  "oa_status": "hybrid",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-20",
+  "summary_id": null,
+  "relevance": 17
+ },
+ {
+  "id": "W7222838921",
+  "doi": "10.1080/23311932.2026.2748084",
+  "title": "Determinants and intensity of adoption of improved Robusta coffee in Uganda",
+  "date": "2026-10-17",
+  "year": "2026",
+  "journal": "Cogent Food & Agriculture",
+  "issn": "23311932",
+  "publisher": "Cogent OA",
+  "authors": [
+   "robert sabiiti",
+   "Fredrick Bagamba",
+   "Rosemary Emegu Isoto",
+   "Fred Kwizabigira",
+   "Robert Basaza"
+  ],
+  "abstract": "While many tropical countries have intensified plant breeding to foster productivity and economic transformation, farmers’ technology adoption is still dismal. Robusta coffee, Uganda’s top export crop, faces the same challenge, not yet conclusively addressed in scholarly literature. This study examined the intensity of adoption determinants of improved Robusta coffee using five waves of the Uganda National Panel Survey data and a random-effects Tobit model on an unbalanced pooled sample of 2037 household-wave observations from 192 unique coffee-growing households. The results indicate that male-headed households are significantly more likely to adopt. Residing in the Western region increases the probability of adoption, whereas residence in the Eastern region reduces adoption. Marital status was negatively associated with adoption. An increase in wage by one unit reduces adoption by 3.1% points, and an additional year of education reduces adoption by 0.87% points. Distance to the nearest murram road reduced the probability of adoption. Gender and residence in the West were positively associated with adoption likelihood and adoption intensity. On the other hand, residence in the East, marital status, and education negatively influenced adoption intensity. Policies should promote labour-saving innovations, gender inclusion, and infrastructure development.",
+  "oa_url": "https://www.tandfonline.com/doi/pdf/10.1080/23311932.2026.2748084?needAccess=true",
+  "pdf_url": "https://www.tandfonline.com/doi/pdf/10.1080/23311932.2026.2748084?needAccess=true",
+  "pdf_urls": [
+   "https://www.tandfonline.com/doi/pdf/10.1080/23311932.2026.2748084?needAccess=true",
+   "https://doi.org/10.1080/23311932.2026.2748084"
+  ],
+  "oa_status": "diamond",
+  "cited_by": 0,
+  "keywords": [
+   "Coffea canephora",
+   "technology adoption",
+   "adoption factors",
+   "adoption intensity",
+   "smallholder farmers",
+   "Uganda"
+  ],
+  "topics": [
+   "Pemberdayaan petani & gender",
+   "Adopsi teknologi & pertanian digital"
+  ],
+  "priority_journal": true,
+  "language": "en",
+  "found_at": "2026-10-20",
+  "summary_id": {
+   "tujuan": "Menganalisis determinan dan intensitas adopsi kopi Robusta unggul di Uganda, komoditas ekspor utama negara tersebut.",
+   "metode": "Data panel Uganda National Panel Survey lima gelombang (periode tidak dirinci dalam abstrak) dengan model Tobit random-effects pada sampel panel tidak seimbang berisi 2.037 observasi rumah tangga-gelombang dari 192 rumah tangga penanam kopi.",
+   "temuan": "Rumah tangga berkepala laki-laki lebih mungkin mengadopsi, sementara wilayah Barat meningkatkan dan wilayah Timur menurunkan peluang adopsi; status perkawinan berasosiasi negatif dengan adopsi. Kenaikan upah satu unit menurunkan adopsi 3,1 poin persentase, dan tambahan satu tahun pendidikan menurunkan adopsi 0,87 poin persentase; jarak ke jalan murram juga menurunkan peluang adopsi. Hasil ini bersifat asosiatif, bukan kausal.",
+   "keterbatasan": "Tidak disebutkan secara eksplisit; dari desain, tampak sampel relatif kecil (192 rumah tangga), panel tidak seimbang, dan temuan observasional sehingga rentan bias variabel tak teramati; asumsi distribusi Tobit juga perlu diperhatikan.",
+   "relevansi": "Temuan tentang gender, akses infrastruktur, dan upah tenaga kerja relevan untuk studi adopsi teknologi dan kelembagaan petani kecil; pola ini dapat diuji ulang pada komoditas perkebunan di Kalimantan Tengah, meski konteks Robusta di wilayah tersebut berbeda. Pendekatan panel dan Tobit juga dapat diadaptasi untuk studi adopsi teknologi digital.",
+   "skor": 4,
+   "model": "claude-haiku-5-5",
+   "sumber": "abstrak"
+  },
+  "relevance": 63
+ },
+ {
+  "id": "W7222841674",
+  "doi": "10.1016/j.wdp.2026.100841",
+  "title": "Localizing AI in Rural India: The Role of Talent Management in Reconfiguring Agricultural Knowledge Systems",
+  "date": "2026-10-17",
+  "year": "2026",
+  "journal": "World Development Perspectives",
+  "issn": "24522929",
+  "publisher": "Elsevier BV",
+  "authors": [
+   "Saloome Showkat Shah"
+  ],
+  "abstract": "As artificial intelligence (AI) is increasingly integrated into agriculture-focused development agendas, its use in rural field settings challenges current thinking about fit, equity, and sustainability. This paper examines the overlooked dimensions of how talent management processes impact the sociotechnical localization of AI in rural agricultural ecosystems in India. Based on multi-sited qualitative case studies in Karnataka, Bihar, and Maharashtra, we explore how talent pipelines, including agri-digital intermediaries, AI translators, and local facilitators, mediate the adoption, translation, and incorporation of AI tools by small institutional and professional farmers. The findings suggest that human infrastructure is not merely supportive but constitutive of the successful integration of AI, especially in settings characterized by educational asymmetries, caste hierarchies, and gendered exclusions. Informed by sociotechnical systems theory and the concepts of knowledge coproduction and epistemic justice, this research contends that talent management must be reimagined as a fundamental infrastructural and ethical spine for digital innovation. The analysis conceptualizes AI localization as a negotiated alignment between algorithmic systems and agrarian lifeworlds made possible by contextually embedded, culturally literate, and institutionally embedded human agents. This helps push the boundaries of what it means for AI to be technically feasible, socially situated, and democratically transformed in the Global South.",
+  "oa_url": "https://doi.org/10.1016/j.wdp.2026.100841",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1016/j.wdp.2026.100841"
+  ],
+  "oa_status": "hybrid",
+  "cited_by": 0,
+  "keywords": [
+   "artificial intelligence",
+   "rural India",
+   "talent management",
+   "agricultural knowledge systems",
+   "agricultural innovation"
+  ],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": true,
+  "language": "en",
+  "found_at": "2026-10-20",
+  "summary_id": {
+   "tujuan": "Menganalisis bagaimana manajemen talenta (intermediari agri-digital, penerjemah AI, dan fasilitator lokal) memediasi lokalisasi sosio-teknis AI pada ekosistem pertanian pedesaan India. Penelitian menekankan peran infrastruktur manusia dalam konteks ketimpangan pendidikan, hierarki kasta, dan eksklusi gender.",
+   "metode": "Studi kasus kualitatif multi-lokasi di Karnataka, Bihar, dan Maharashtra, dengan fokus pada petani kecil institusional dan profesional. Ukuran sampel, periode pengumpulan data, dan teknik analisis tidak disebutkan dalam abstrak. Kerangka konseptual yang digunakan adalah teori sistem sosio-teknis, koproduksi pengetahuan, dan keadilan epistemik.",
+   "temuan": "Infrastruktur manusia dinilai bersifat konstitutif, bukan sekadar pendukung, bagi keberhasilan integrasi AI di lapangan. Talenta lokal berperan menerjemahkan dan mengadopsi alat AI, terutama di konteks yang ditandai ketimpangan pendidikan, kasta, dan gender. Lokalisasi AI dikonseptualisasikan sebagai negosiasi keselarasan antara sistem algoritmik dan dunia hidup agraris.",
+   "keterbatasan": "Tidak disebutkan secara eksplisit dalam abstrak. Dari desain, studi kasus kualitatif dengan jumlah lokasi terbatas membatasi generalisasi, dan temuan bersifat asosiatif serta interpretatif, bukan kausal.",
+   "relevansi": "Temuan tentang peran intermediari dan fasilitator lokal relevan untuk mempelajari adopsi teknologi digital dan akses pasar petani kecil, termasuk kelembagaan petani di Kalimantan Tengah. Dimensi kasta dan gender dapat diuji ulang sebagai analogi untuk ketimpangan sosial, akses, dan kapasitas petani plasma atau mitra sawit.",
+   "skor": 4,
+   "model": "claude-haiku-5-5",
+   "sumber": "abstrak"
+  },
+  "relevance": 58
+ },
+ {
+  "id": "W7222844666",
+  "doi": "10.1080/23322039.2026.2740883",
+  "title": "From transfers to transformation: mobile money and the modernization of rice farming in Côte d’Ivoire",
+  "date": "2026-10-17",
+  "year": "2026",
+  "journal": "Cogent Economics & Finance",
+  "issn": "23322039",
+  "publisher": "Cogent OA",
+  "authors": [
+   "Innocent Daniel Gniza",
+   "Grakolet Arnold Gourene"
+  ],
+  "abstract": "In this study, we explore how Mobile Money (MM) adoption influences farm management choices of smallholder rice production in Côte d’Ivoire, a West African context characterised by rich agricultural potential and moderately low digital financial inclusion. Using an endogenous switching regression (ESR) framework to a sample of 1,370 smallholder producers from three rice-producing departments and complemented by an inverse probability weighted regression adjustment (IPWRA) estimator for robustness to estimate the impact of MM on both agricultural intensification (higher fertilizer use), extensification (greater expansion of cultivated areas for food and cash crops outside rice farming system), total rice productivity and better market participation. There is evidence to suggest that remittances may be a plausible channel through which these effects work, by alleviating liquidity constraints, thus allowing clients to invest seasonally in inputs and labor. Our findings extend the mobile money literature, which remains concentrated in East Africa, by providing new evidence from an under-explored West African context, and offers important implications for policies promoting digital financial inclusion as a means of rural transformation.",
+  "oa_url": "https://www.tandfonline.com/doi/pdf/10.1080/23322039.2026.2740883?needAccess=true",
+  "pdf_url": "https://www.tandfonline.com/doi/pdf/10.1080/23322039.2026.2740883?needAccess=true",
+  "pdf_urls": [
+   "https://www.tandfonline.com/doi/pdf/10.1080/23322039.2026.2740883?needAccess=true",
+   "https://doi.org/10.1080/23322039.2026.2740883"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [
+   "mobile money",
+   "rice cultivation",
+   "agricultural modernization",
+   "agricultural transformation",
+   "rural finance",
+   "cash transfers",
+   "Côte d'Ivoire"
+  ],
+  "topics": [
+   "Akses & informasi pasar petani"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-20",
+  "summary_id": null,
+  "relevance": 38
+ },
+ {
+  "id": "W7222803857",
+  "doi": "10.1007/s43621-026-05043-2",
+  "title": "Proof- of-use grants embed first users in sustainable agricultural innovation",
+  "date": "2026-10-17",
+  "year": "2026",
+  "journal": "Discover Sustainability",
+  "issn": "26629984",
+  "publisher": "Springer Nature",
+  "authors": [
+   "Ibrokhim Yulchievich Abdurakhmonov"
+  ],
+  "abstract": "Public agricultural research funds ideas, laboratories and scientific outputs but does not always include first-user risk in the grant. This Perspective proposes proof-of-use grants as a translational layer between proof-of-concept and wider commercialisation. Its objective is to show how public grants can finance a named first-user platform, first-use risk, local capability, benefit retention, sustainability measurement and an exit pathway. The argument synthesises literature on innovation systems, participatory research, learning networks, living labs and agricultural innovation funds, then uses an Uzbekistan programme as a preliminary administrative illustration rather than an impact evaluation. Existing approaches engage farmers and subsidise demonstrations. The contribution is therefore not first-user involvement itself, but an integrated grant architecture that makes the user platform an eligible and accountable component from project inception. Laboratory, station and farmer-managed work can proceed in parallel, while baseline, comparator, cost, distributional and post-grant evidence tests technical, economic, environmental and social performance. It illustrates programme design only and does not establish causal effects. Proof-of-use funding could advance Sustainable Development Goals 2, 6, 8, 9 and 12 by linking food security, resource efficiency, rural livelihoods, innovation capacity and responsible production. These benefits are conditional. Poor targeting, grant dependency, moral hazard, elite capture and crowding out of private supply can undermine viability. Time-bound or graduated support, transparent selection, independent verification and predefined post-grant pathways are essential. Proof-of-use should complement controlled research and conventional commercialisation by requiring credible evidence that an innovation works for intended users and can persist after public support ends.",
+  "oa_url": "https://doi.org/10.1007/s43621-026-05043-2",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1007/s43621-026-05043-2"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [
+   "technology adoption",
+   "agricultural innovation diffusion"
+  ],
+  "topics": [
+   "Ketahanan pangan rumah tangga"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-20",
+  "summary_id": null,
+  "relevance": 26
+ },
+ {
   "id": "W7222792669",
   "doi": "10.1038/s41598-026-75360-z",
   "title": "Food insecurity and its associated factors among lactating mothers in Ankesha Guagusa Woreda, Northwest Ethiopia: a community-based cross-sectional study",
