@@ -1,5 +1,489 @@
 [
  {
+  "id": "W7222947155",
+  "doi": "10.1007/s11540-026-10162-4",
+  "title": "Structural Changes and Supply Elasticity of Potato Production: The Case of Slovenia",
+  "date": "2026-10-20",
+  "year": "2026",
+  "journal": "Potato Research",
+  "issn": "00143065",
+  "publisher": "Springer Science+Business Media",
+  "authors": [
+   "Črtomir Rozman",
+   "Karmen Pažek",
+   "Lazar Pavić",
+   "Tina Lešnik"
+  ],
+  "abstract": "Abstract This study investigates the long-term structural transformation and supply responsiveness of potato production in Slovenia, a sector that has experienced a substantial and sustained contraction (more than 90% of total potato area in comparison to 1961) over the past several decades. Drawing on official statistical datasets covering the period from 1961 to 2024, we analyze trends in cultivated area, yields, price dynamics, and regional production patterns. Descriptive statistics, ANOVA, and spatial analyses reveal a marked decline of more than 90% in potato-growing area, contrasted by significant yield improvements attributable to technological progress and farm consolidation. Kernel density analysis of GERK parcel data confirms a highly fragmented production structure, with the vast majority of holdings cultivating less than one hectare and only a small proportion engaging in commercially meaningful production. To evaluate supply elasticity, we estimate a log–log regression model and a Nerlovian partial-adjustment model. The empirical results indicate negligible short-run price elasticity and strong path dependence, with lagged area emerging as the dominant predictor of current production. Long-run elasticity estimates remain weak, underscoring the limited capacity of Slovenian potato producers to adjust to market signals due to structural constraints, including small farm size, perishability of the product, and limited integration into commercial supply chains. The findings highlight a sector characterized by persistent contraction and low supply responsiveness. This evidence contributes to the understanding of supply behavior in structurally constrained agricultural systems and provides an analytical basis for future research and policy interventions targeting farm structure, market development, and regional production potential.",
+  "oa_url": "https://doi.org/10.1007/s11540-026-10162-4",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1007/s11540-026-10162-4"
+  ],
+  "oa_status": "hybrid",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemasaran, rantai pasok & rantai nilai"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-21",
+  "summary_id": null,
+  "relevance": 18
+ },
+ {
+  "id": "W7222985227",
+  "doi": "10.3390/math14203791",
+  "title": "Equilibrium Analysis of Power Structure and Farmer Risk Aversion in Green Technology Outsourcing for Agricultural Supply Chains",
+  "date": "2026-10-19",
+  "year": "2026",
+  "journal": "Mathematics",
+  "issn": "22277390",
+  "publisher": "Multidisciplinary Digital Publishing Institute",
+  "authors": [
+   "Zihan Xu",
+   "Shuaishuai Fu",
+   "Aijun Yang",
+   "Ligang Shi"
+  ],
+  "abstract": "Smallholder farmers often lack the capacity to adopt green technologies, and their risk aversion further limits green production. Outsourcing green technology to specialized service providers is a promising solution, but it remains unclear how power structure affects farmers’ adoption of such outsourcing, how supply chain members rank different power structures, and whether outsourcing always improves social welfare. To address these questions, this paper develops an equilibrium model of an agricultural supply chain consisting of a risk-averse farmer, a retailer, and a green technology service provider. The farmer may either continue traditional production or outsource green technology. Farmer risk aversion is captured by conditional value-at-risk (CVaR). We derive equilibrium decisions under three power structures: service-provider-led, retailer-led, and vertical Nash. We characterize the adoption threshold for green technology outsourcing, compare equilibrium planting acreage, green technology input, prices, and member payoffs, and evaluate social welfare. The results show that outsourcing becomes preferable when farmers are less risk averse, and the outsourcing threshold is lowest under service provider leadership. The farmer prefers vertical Nash when consumers’ green preference is low and service-provider leadership when it is high. Service providers benefit from leadership, while retailers do not always do so. Social welfare can improve under service-provider-led outsourcing but may decrease under retailer-led and vertical Nash regimes. An extension with exogenous service pricing is also analyzed. These findings provide equilibrium-based implications for sustainable agricultural outsourcing policy.",
+  "oa_url": "https://doi.org/10.3390/math14203791",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.3390/math14203791"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemasaran, rantai pasok & rantai nilai"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-21",
+  "summary_id": {
+   "tujuan": "Menganalisis pengaruh struktur kekuasaan (dipimpin penyedia layanan, dipimpin peritel, dan Nash vertikal) serta keengganan risiko petani terhadap adopsi outsourcing teknologi hijau dalam rantai pasok pertanian, beserta dampaknya pada kesejahteraan sosial.",
+   "metode": "Model keseimbangan teoretis pada rantai pasok tiga pihak (petani risk-averse, peritel, dan penyedia layanan teknologi hijau), dengan keengganan risiko dimodelkan melalui CVaR dan analisis perbandingan kesetimbangan. Abstrak tidak menyebutkan data empiris, lokasi, periode, atau ukuran sampel; ekstensi harga layanan eksogen juga dianalisis.",
+   "temuan": "Outsourcing lebih disukai ketika petani kurang menghindari risiko, dengan ambang adopsi terendah pada kepemimpinan penyedia layanan. Petani memilih Nash vertikal saat preferensi hijau konsumen rendah dan kepemimpinan penyedia layanan saat tinggi, sementara penyedia layanan diuntungkan oleh kepemimpinan dan peritel tidak selalu. Kesejahteraan sosial dapat meningkat pada outsourcing yang dipimpin penyedia layanan, tetapi berpotensi menurun pada rezim yang dipimpin peritel dan Nash vertikal; hasil ini bersifat implikasi keseimbangan model, bukan hubungan kausal yang diuji dengan data.",
+   "keterbatasan": "Abstrak tidak menyebutkan keterbatasan secara eksplisit; dari desainnya, hasil bergantung pada asumsi model dan tampak belum divalidasi dengan data empiris.",
+   "relevansi": "Sangat dekat dengan agenda kelembagaan petani dan akses pasar: dinamika kekuasaan dalam rantai nilai dan posisi petani kecil dapat diuji ulang di Kalimantan Tengah, termasuk pada rantai pasok sawit dan pangan. Namun, fokus pada teknologi hijau dan model formal menjadikannya lebih sebagai landasan teoretis dibanding bukti untuk adopsi teknologi digital.",
+   "skor": 4,
+   "model": "claude-haiku-5-5",
+   "sumber": "abstrak"
+  },
+  "relevance": 54
+ },
+ {
+  "id": "W7222930037",
+  "doi": "10.3390/su182010611",
+  "title": "How Does State Entrepreneurialism Shape Green Transformation? Rural Industrial Restructuring in Gengche Town, China",
+  "date": "2026-10-19",
+  "year": "2026",
+  "journal": "Sustainability",
+  "issn": "20711050",
+  "publisher": "Multidisciplinary Digital Publishing Institute",
+  "authors": [
+   "Yawen Yang"
+  ],
+  "abstract": "This paper examines how local governments deploy entrepreneurial governance to shape green industrial transformation in rural China. Once a nationally known model of rural industrialisation built on waste plastic recycling, Gengche experienced severe environmental degradation before the local government began to accelerate a green transition that was already emerging. Drawing on semi-structured interviews, documentary analysis, and participant observation, this study finds that rural entrepreneurialism differs fundamentally from its urban counterpart in four ways. First, under collective land ownership and fiscal constraints, rural governments rely on asset revitalisation, upward integration, and downward empowerment rather than land finance. Second, the central state acts as a “meta-entrepreneur”, creating policy windows and designating successful local experiments as national models to incentivise emulation and diffuse best practices. Third, a rural growth coalition comprising elites and ordinary villagers, grounded in dense social networks and low entry barriers to new industries, enables conditional and uneven participation in new industries after the compulsory closure of polluting activities. Fourth, spatial governance follows an asset-light yet coordination-heavy logic, using small-scale specialised parks and place branding instead of large-scale land redevelopment. These findings extend the theory of local entrepreneurialism to rural settings and offer practical implications for China’s Rural Revitalisation Strategy and for other developing countries seeking to align rural industrial development with environmental protection.",
+  "oa_url": "https://doi.org/10.3390/su182010611",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.3390/su182010611"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": true,
+  "language": "en",
+  "found_at": "2026-10-21",
+  "summary_id": {
+   "tujuan": "Menguji bagaimana pemerintah daerah di perdesaan Tiongkok menggunakan tata kelola kewirausahaan untuk membentuk transformasi industri hijau, serta membedakan kewirausahaan perdesaan dari kewirausahaan perkotaan. Penelitian ini juga memperluas teori kewirausahaan lokal ke konteks perdesaan.",
+   "metode": "Studi kualitatif studi kasus di Kota Gengche, Tiongkok, dengan wawancara semi-terstruktur, analisis dokumen, dan observasi partisipan. Jumlah informan, periode pengumpulan data, dan teknik analisis tidak disebutkan dalam abstrak.",
+   "temuan": "Kewirausahaan perdesaan berbeda dari perkotaan dalam empat hal: pemerintah desa mengandalkan revitalisasi aset, integrasi ke hulu, dan pemberdayaan ke hilir, bukan pembiayaan dari tanah. Negara pusat berperan sebagai 'meta-entrepreneur' dengan menciptakan jendela kebijakan dan menetapkan model nasional. Temuan ini bersifat deskriptif-konseptual, sehingga menunjukkan asosiasi pola tata kelola, bukan hubungan kausal yang diuji.",
+   "keterbatasan": "Tidak disebutkan secara eksplisit dalam abstrak. Dari desain, generalisasi terbatas karena studi satu kasus di satu kota, dan hasil bergantung pada persepsi informan.",
+   "relevansi": "Penelitian ini relevan untuk kajian kelembagaan dan peran pemerintah desa dalam pengembangan industri perdesaan, khususnya dalam konteks pemberdayaan ekonomi desa di Kalimantan Tengah. Namun, abstrak tidak membahas pemasaran, akses pasar petani kecil, atau kelapa sawit, sehingga kaitannya dengan agenda riset inti bersifat tidak langsung.",
+   "skor": 3,
+   "model": "claude-haiku-5-5",
+   "sumber": "abstrak"
+  },
+  "relevance": 44
+ },
+ {
+  "id": "W7222930938",
+  "doi": "10.1038/s41598-026-73844-6",
+  "title": "Comparative drying kinetics and quality analysis of dried tomatoes through improving air distribution in a bin-type solar dryer versus conventional systems",
+  "date": "2026-10-19",
+  "year": "2026",
+  "journal": "Scientific Reports",
+  "issn": "20452322",
+  "publisher": "Nature Portfolio",
+  "authors": [
+   "Kamran Ikram",
+   "Muhammad Mubashar Omer",
+   "Akhtar Hameed",
+   "Atif Liaqat",
+   "Hafiz Muhammad Usman Aslam",
+   "Muhammad Saqlain Zaheer",
+   "Arslan Afzal",
+   "Yasir Niaz",
+   "Muhammad Waheed Riaz",
+   "Mohammad Yaqoob Sharafat",
+   "Muhammad Aamir Manzoor",
+   "Jameel Al‐Tamimi"
+  ],
+  "abstract": "Abstract Tomato is considered among widely consumed horticulture crops which provide essential nutrients and antioxidants to the human body. Being perishable crop, tomatoes require to dry for preservation. Solar drying provides a facility to dry the perishable crops efficiently and at low cost. These dryers are categorized for their efficiency and drying mechanism. In this study a Bin type solar dryer (BSD) with improved air distribution system was compared in terms of quality of dried product, moisture removal rate, thermal efficiency and techno-economic analysis with tray type solar dryer (TSD) and conventional type solar dryer (CSD). Three air velocities V 1 (1.5 ms −1 ), V 2 (2.5 ms −1 ), V 3 ((3.5 ms −1 ), and three different slice thickness S 1 (3 mm), S 2 (5 mm) and S 3 (7 mm) were selected for evaluation. Page model, Henderson and Pabi model, Modified Henderson and Pabi model, Midili-Kucuk model, Logarithm model and Approximate Diffusion Model were selected to study the kinetics of drying process in three drying systems. The moisture content of tomato slices was reduced from 89.63 to 9.95%. The results revealed with higher drying rate tomato slices dried in BSD had higher color changes than TSD and CSD. BSD exhibited better drying performance than TSD and CSD. Slice thickness directly affected the drying performance as with increase of slice thickness, drying rate was reduced. At optimum velocity (V 2 ), BSD took 10–12 h, TSD took 14–16, and CSD took 16–18 h to dry the tomato slices depending upon thickness. BSD, TSD and CSD had 19.17, 16.83 and 15.42% thermal efficiency respectively which support the improvement in design for better drying results. The specific energy consumption was 1.86, 2.12 and 2.31 kWh/kg water for BSD, TSD and CSD respectively. With four model parameters, Midili-Kucuk model had better fit with experimental data than other models with R 2 of 0.9998, χ 2 of 0.0002 and RMSE of 0.0048. The techno-economic analysis proves the economic feasibility of BSD with higher drying capacity and lower drying time with payback period of 1.10 years. BSD offers a sustainable and economically viable solution for small-scale farmers. Future integration of AI and thermal storage could further enhance drying efficiency, reducing postharvest losses and improving food security.",
+  "oa_url": "https://doi.org/10.1038/s41598-026-73844-6",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1038/s41598-026-73844-6"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Ketahanan pangan rumah tangga"
+  ],
+  "priority_journal": true,
+  "language": "en",
+  "found_at": "2026-10-21",
+  "summary_id": {
+   "tujuan": "Membandingkan kinetika pengeringan, kualitas produk, efisiensi termal, dan kelayakan teknoekonomi pengering surya tipe bin dengan distribusi udara yang diperbaiki terhadap pengering surya tipe rak dan pengeringan konvensional pada irisan tomat.",
+   "metode": "Studi eksperimental komparatif terhadap tiga sistem pengeringan (BSD, TSD, CSD) dengan tiga kecepatan udara (1,5; 2,5; 3,5 m/s) dan tiga ketebalan irisan (3, 5, 7 mm). Enam model kinetika (Page, Henderson and Pabi, Modified Henderson and Pabi, Midili-Kucuk, Logarithm, Approximate Diffusion) dibandingkan dengan R², χ², dan RMSE, serta dilakukan analisis teknoekonomi. Lokasi, periode, dan ukuran sampel tidak disebutkan.",
+   "temuan": "Pada kecepatan udara optimum V2, BSD membutuhkan 10–12 jam, TSD 14–16 jam, dan CSD 16–18 jam untuk mengeringkan irisan tomat, dengan efisiensi termal masing-masing 19,17%, 16,83%, dan 15,42%. Konsumsi energi spesifik BSD 1,86 kWh/kg air, lebih rendah dibanding TSD (2,12) dan CSD (2,31). Model Midili-Kucuk paling sesuai (R² 0,9998; RMSE 0,0048), dan BSD memiliki periode pengembalian modal 1,10 tahun.",
+   "keterbatasan": "Hanya satu komoditas (tomat) dan rentang kecepatan udara serta ketebalan irisan yang terbatas. Asumsi analisis teknoekonomi, replikasi percobaan, dan kondisi lingkungan pengujian tidak dijelaskan dalam abstrak. Klaim integrasi AI dan penyimpanan termal merupakan rekomendasi masa depan yang belum diuji.",
+   "relevansi": "Relevansi rendah terhadap agenda utama pemasaran dan kelembagaan, tetapi berkaitan dengan pengolahan pascapanen untuk nilai tambah dan pengurangan kehilangan hasil pada petani kecil. Dapat menjadi bahan pembanding bila dosen meneliti rantai nilai hortikultura atau kelayakan teknologi skala kecil di Kalimantan Tengah yang beriklim lembap.",
+   "skor": 2,
+   "model": "claude-haiku-5-5",
+   "sumber": "abstrak"
+  },
+  "relevance": 35
+ },
+ {
+  "id": "W7222942763",
+  "doi": "10.3390/su182010606",
+  "title": "Coupling Coordination Between New Quality Productive Forces and Agricultural Economic Resilience Under a Three-Dimensional Spatial Framework: Spatio-Temporal Evolution, Spatial Agglomeration, and Configurational Pathways",
+  "date": "2026-10-19",
+  "year": "2026",
+  "journal": "Sustainability",
+  "issn": "20711050",
+  "publisher": "Multidisciplinary Digital Publishing Institute",
+  "authors": [
+   "Mei Yang",
+   "Shuhan Liu",
+   "Yueru Fan",
+   "Yanan Pu",
+   "Bing Xie"
+  ],
+  "abstract": "Aligning with the global sustainability and sustainable development agenda, the synergistic development of new quality productive forces and agricultural economic resilience constitutes a core issue that is both theoretically pioneering and policy-urgent. This study examines the coupling coordination between new quality productive forces and agricultural economic resilience using Chinese provincial panel data (2014–2023) via coupling coordination degree, spatial autocorrelation, and fsQCA. Results show: (1) Coordination remains below 0.5, indicating a low-level equilibrium trap. (2) Spatial gradients persist: Eastern > Central > Western; grain-consuming > producing > balanced; southeast > northwest of the Hu Huanyong Line. (3) Spatial agglomeration reveals eastward hotspot consolidation and westward coldspot contraction, with the Hu Huanyong Line as a clear high–low divide. (4) QCA identifies one high-level pathway—endogenous synergy—and three low-level types: comprehensive scarcity, innovation ecosystem fragmentation, and network-organizational bottlenecks, none solvable by single-factor fixes. Contributions: It moves beyond unidirectional empowerment to a bidirectional coupling framework, integrates spatial and configurational methods to reveal equivalent causal pathways, and identifies a “triple overlap” of economic gradients, functional division, and geographic constraints that produces either cumulative advantages or disadvantages. These findings offer spatially explicit policy targeting for escaping low-level traps and achieving structural agricultural transitions, with relevance for developing economies facing dual productivity and systemic challenges.",
+  "oa_url": "https://doi.org/10.3390/su182010606",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.3390/su182010606"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": true,
+  "language": "en",
+  "found_at": "2026-10-21",
+  "summary_id": null,
+  "relevance": 30
+ },
+ {
+  "id": "W7222982966",
+  "doi": "10.1186/s12884-026-10048-w",
+  "title": "Feasibility and usability of an obstetric ultrasound video colour overlay to assist placenta localisation to risk stratify high-risk pregnancies in rural and low- and middle-income country settings",
+  "date": "2026-10-19",
+  "year": "2026",
+  "journal": "BMC Pregnancy and Childbirth",
+  "issn": "14712393",
+  "publisher": "BioMed Central",
+  "authors": [
+   "Alexander D Gleed",
+   "Mudita Gosain",
+   "Ramachandran Thiruvengadam",
+   "Sowmya T. Rajaram",
+   "Niranjan Rajasekar",
+   "Bapu Koundinya Desiraju",
+   "Rahul S Jain",
+   "Manjineesha Siva",
+   "Divyanshu Mishra",
+   "Jayne Lander",
+   "Prabakaran Stalin",
+   "Angus Nicolson"
+  ],
+  "abstract": "Abstract Background In this study, we use quantitative and qualitative assessments to evaluate the feasibility and usability of an obstetric ultrasound video colour overlay to assist placenta localisation and hence risk stratify high-risk pregnancies that have a low-lying placenta. The colour overlay (designed in a previous study) simplifies clinical interpretation of ultrasound video to support screening for pregnant women in rural and low- and middle-income country (LMIC) settings who do not receive care, partly because of a trained operator shortage. Methods For feasibility, we assessed risk stratification (or checking for a low-lying placenta) of a trained sonographer (6.5 years of experience) using the combined video and colour overlay compared with a hospital freehand scan without a colour overlay. For usability, we recruited 31 Indian healthcare system clinicians in both north and south India hospital sites. We assessed clinical opinions and perceptions of the colour overlay over four study rounds of written questionnaires and a single round of oral interviews. In each round, participants interacted with 20 colour overlays on a portable tablet computer. Results For feasibility, the sonographer successfully risk stratified the 2 low-lying, high-risk placentas out of a cohort of 55 unique pregnancies (1 video per pregnancy). However, this approach also resulted in 18 false positives (normal placentas that were incorrectly labelled as low-lying). Future feasibility assessment would need to use a larger cohort of pregnancies to strengthen the preliminary findings reported here. For usability, participants gave positive written responses and reported an increase in both confidence when using the colour overlay, and trust in the colour overlay post-study compared to pre-study. From qualitative coding of interview transcripts (1,643 codes and 13 themes generated), the colour overlay was overwhelmingly perceived as an effective risk stratification tool and usable by healthcare workers in rural and LMIC settings. Non-trivial perceived challenges to translation included compliance of the colour overlay with India’s current fetal sex determination law (Pre-Conception and Pre-Natal Diagnostic Techniques Act, 1994), including compliance of targeted users of rural healthcare workers (who cannot currently legally use ultrasound devices), and ultrasound device purchase and maintenance costs. Conclusions Overall, the colour overlay was perceived favourably by clinicians. For successful adoption of the technology in the Indian healthcare system, the non-technical issues raised would need to be carefully and sensitively addressed.",
+  "oa_url": "https://doi.org/10.1186/s12884-026-10048-w",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1186/s12884-026-10048-w"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-21",
+  "summary_id": null,
+  "relevance": 23
+ },
+ {
+  "id": "W7222968939",
+  "doi": "10.1007/s42532-026-00274-z",
+  "title": "Context-specific collaborative learning for locally led adaptation to climate change: a case study in Kiboga district, Uganda",
+  "date": "2026-10-19",
+  "year": "2026",
+  "journal": "Socio-Ecological Practice Research",
+  "issn": "25245279",
+  "publisher": "Springer Science+Business Media",
+  "authors": [
+   "David Mfitumukiza",
+   "Celia Kenyangye",
+   "Patience Kekirunga",
+   "Fatuma Mutesi"
+  ],
+  "abstract": "Effective local adaptation to climate change requires bottom-up influence on knowledge creation systems for context relevant decision making. This calls for locally led collaborative learning (CL) approaches, whose establishment processes are currently not understood and documented, especially in the context of least developed countries and communities. This paper is part of a larger study aimed at generating an understanding of what bottom-up collaborative learning processes for climate adaptation look like at local community level. The specific objective of the paper is to communicate the context specific entry points and considerations for initiating locally led collaborative learning. The context of this paper is based on a case study in Kiboga District, which is one of the most drought hazard prone areas in Uganda. This is a qualitative, participatory action-oriented research study involving farmer-led experiential learning with researchers, practitioners and local government personnel. It was exploratory in nature, involving eight farmer groups in a hands-on establishment of collaborative learning activities. This was coupled with participant observations, discussions and interviews to gain understanding of what a farmer-led action-oriented collaborative learning process entailed. Findings show that alignment of meeting schedules to socio-economic activities, events, and respect for socio-cultural differences are very important aspects in establishment of CL. The study shows that important factors for participation in the establishment of CL include the need for new actionable knowledge, existence of farming groups, and farmers’ desire to improve their livelihoods through income generating activities. The most dominant learning needs were the establishment of water and soil conservation structures, identifying appropriate tree species for agroforestry, and knowledge on water harvesting techniques. Ultimately, the findings demonstrate that sustainable local adaptation requires practical climate interventions that intersect with socio-cultural contexts and community livelihood goals. The study offers actionable insights for context relevant community-based collaborative learning for local adaptation to climate change.",
+  "oa_url": "https://doi.org/10.1007/s42532-026-00274-z",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1007/s42532-026-00274-z"
+  ],
+  "oa_status": "hybrid",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Kelembagaan petani & tindakan kolektif"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-21",
+  "summary_id": null,
+  "relevance": 19
+ },
+ {
+  "id": "W7222916300",
+  "doi": "10.1007/s44187-026-01309-w",
+  "title": "Indigenous mushrooms for nutrition, medicine, and sustainable food systems: insights from Ethiopia and beyond",
+  "date": "2026-10-19",
+  "year": "2026",
+  "journal": "Discover Food",
+  "issn": "27314286",
+  "publisher": "Springer Nature",
+  "authors": [
+   "Etsay Mesele",
+   "Gebreselema Gebreyohannes",
+   "Gebremedhin Gebreslassie",
+   "Ashenafi Teklay Yaekob",
+   "Tesfakiros Semere"
+  ],
+  "abstract": "Food insecurity, driven by population growth, climate change, land degradation, and nutrient deficiencies, remains a critical global challenge. Indigenous mushrooms, encompassing wild and endemic species conserved by local communities, represent an underutilized resource with significant potential to enhance nutrition, support food security, and promote sustainable food systems. Rich in high-quality proteins, essential amino acids, polysaccharides, vitamins, minerals, and diverse bioactive compounds, these mushrooms provide antioxidant, immunomodulatory, antimicrobial, anticancer, and gut microbiota–modulating benefits. Protein content of indigenous mushrooms ranged from ≈ 12 to 51% on a dry-weight basis, while total phenolic contents can exceed 278 mg GAE/g in selected species. They also contribute to biodiversity conservation, ecosystem functioning, and the preservation of traditional knowledge and cultural heritage. Despite their ecological, nutritional, and socio-economic value, challenges persist in domestication, low-cost cultivation, postharvest safety, and commercialization. Advances in taxonomic, molecular, ecological, and nutritional research, combined with participatory cultivation strategies using locally available substrates, offer pathways for sustainable utilization. Effective policy frameworks, food safety measures, public awareness, and cross-sector partnerships are essential for integrating indigenous mushrooms into food security programs, supporting rural livelihoods, and developing resilient, health-promoting food systems. This review synthesizes current knowledge on the diversity, nutritional and medicinal properties, cultivation potential, safety, and socio-economic contributions of indigenous mushrooms, highlighting research gaps and opportunities for their sustainable exploitation.",
+  "oa_url": "https://doi.org/10.1007/s44187-026-01309-w",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1007/s44187-026-01309-w"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Ketahanan pangan rumah tangga"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-21",
+  "summary_id": null,
+  "relevance": 19
+ },
+ {
+  "id": "W7222963543",
+  "doi": "10.1186/s40795-026-01524-9",
+  "title": "Assessing the unfolding food crisis in rural South Wollo, Ethiopia: severity through HFIAS and food consumption scores",
+  "date": "2026-10-19",
+  "year": "2026",
+  "journal": "BMC Nutrition",
+  "issn": "20550928",
+  "publisher": "BioMed Central",
+  "authors": [
+   "Tadsual Asfaw Dessie",
+   "Mulugeta Amsalu Mekonen"
+  ],
+  "abstract": "Ethiopia is currently in a severe food crisis, with conflict, drought, high living costs, and natural disasters leading to widespread acute food insecurity. This study analyzes the extent and characteristics of rural household food insecurity in the Southwest Districts of South Wollo, Ethiopia, where recurrent shocks and livelihood instability continue to undermine food access and utilization. Using primary data from 366 randomly selected households, food security status was assessed through two internationally recognized indicators: the Household Food Insecurity Access Scale (HFIAS) and the Food Consumption Score (FCS). The results reveal a severe food insecurity situation: 51.09% of households are classified as severely food insecure under HFIAS, while only 14.48%% is food secure. Similarly, the FCS indicates that 57.11% of households fall within poor or borderline food consumption categories. Food insecurity patterns vary across districts and household characteristics, particularly education level and sex of household head, with Legambo district, uneducated households, and female-headed households exhibiting the highest vulnerability. The findings demonstrate that food insecurity in the study area is driven largely by limited access to services, weak livelihood diversification, and structural socioeconomic constraints. The study highlights the need for geographically targeted and socially differentiated interventions to address chronic food insecurity and enhance rural household wellbeing in the region.",
+  "oa_url": "https://doi.org/10.1186/s40795-026-01524-9",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1186/s40795-026-01524-9"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Ketahanan pangan rumah tangga"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-21",
+  "summary_id": null,
+  "relevance": 19
+ },
+ {
+  "id": "W7222982938",
+  "doi": "10.1093/qopen/qoag031",
+  "title": "Trade Liberalization under Climate Pressure: A Recursive Dynamic CGE Analysis of Ethiopia",
+  "date": "2026-10-19",
+  "year": "2026",
+  "journal": "Q Open",
+  "issn": "26339048",
+  "publisher": "Oxford University Press",
+  "authors": [
+   "Mengistu Alamneh Wassie",
+   "Lukas Kornher",
+   "Joachim von Braun"
+  ],
+  "abstract": "Abstract This paper assesses whether regional trade integration under the African Continental Free Trade Area (AfCFTA) can mitigate the economic and distributional impacts of climate-induced agricultural productivity losses in Ethiopia. A recursive dynamic Computable General Equilibrium (CGE) model is applied, incorporating crop-specific yield projections under RCP4.5 and RCP8.5 climate scenarios alongside tariff reductions and trade facilitation reforms. Results show that AfCFTA generates modest but sustained gains: real GDP increases by 0.21–0.55 per cent by 2035, with gains of over 5 per cent relative to the initial level over the 2021–2035 projection period, while private consumption rises by 0.42–0.75 per cent and imports expand by 1.80 per cent. Sectoral outcomes indicate a climate-constrained structural transformation, with manufacturing and services expanding while the agriculture sector contracts, as the sector hardest hit by climate change. Trade liberalization accelerates labor reallocation toward less climate-sensitive sectors, boosting employment among unskilled and semi-skilled workers and progressively affecting welfare, with the poorest rural households experiencing the largest gains in consumption. Despite these benefits, AfCFTA only partially offsets climate impacts. Our findings highlight that trade integration can support resilience, food security, and structural change when complemented by targeted climate adaptation and industrial policies.",
+  "oa_url": "https://doi.org/10.1093/qopen/qoag031",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1093/qopen/qoag031"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Ketahanan pangan rumah tangga"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-21",
+  "summary_id": null,
+  "relevance": 19
+ },
+ {
+  "id": "W7222926000",
+  "doi": "10.3390/vaccines14100911",
+  "title": "Beyond Access: A Qualitative Exploration of the Social and Behavioural Drivers of Routine Childhood Immunisation in the Solomon Islands",
+  "date": "2026-10-19",
+  "year": "2026",
+  "journal": "Vaccines",
+  "issn": "2076393X",
+  "publisher": "Multidisciplinary Digital Publishing Institute",
+  "authors": [
+   "Jake Turvey",
+   "Ben Sanderson",
+   "Jenniffer Anga",
+   "Rechelle Anga",
+   "Susan Mete",
+   "Chelsea Taylor",
+   "Stefanie J. Vaccher",
+   "Milena Dalton",
+   "Catherine L. King"
+  ],
+  "abstract": "Background/Objectives: Gaps in routine childhood immunisation coverage persist in the Solomon Islands, with completion of the vaccination schedule varying considerably between remote and geographically isolated communities. While structural and logistical barriers to immunisation, such as vaccine supply constraints and inadequate cold chain infrastructure, are frequently documented in such settings, far less is known about the attitudes, norms, and relationships that shape caregiver and community engagement with immunisation services. This study aimed to apply the WHO Behavioural and Social Drivers of Vaccination (BeSD) framework to generate locally grounded evidence on the drivers of routine childhood immunisation in the Solomon Islands. Methods: An exploratory qualitative study was undertaken across three rural and peri-urban sites in Guadalcanal Province. Semi-structured in-depth interviews were conducted in Solomon Pijin with 16 participants, including caregivers, community influencers, healthcare workers, and immunisation program managers. Data collection was guided by the BeSD framework, with tools adapted through cognitive interviewing and pre-testing. Data were analysed using framework analysis, organised around the four BeSD domains. Results: Caregivers expressed broadly positive attitudes towards vaccination, though this coexisted alongside concerns about post-vaccination side effects and confusion about specific vaccine types. Social norms, community and religious leaders, and gendered caregiving expectations shaped engagement with immunisation services. Geographic isolation, financial cost, and facility-level constraints further impeded routine vaccination uptake. Conclusions: Addressing immunisation gaps in the Solomon Islands requires strategies that extend beyond structural and logistical improvements alone, integrating trusted caregiver communication, meaningful engagement with community and religious leaders, and sustained investment in health system capacity and outreach reliability to build lasting, community-driven improvements in routine childhood vaccination coverage.",
+  "oa_url": "https://doi.org/10.3390/vaccines14100911",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.3390/vaccines14100911"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-21",
+  "summary_id": null,
+  "relevance": 17
+ },
+ {
+  "id": "W7222952791",
+  "doi": "10.1007/s00267-026-02637-4",
+  "title": "Patterns and Drivers of Sustainable Agricultural Practice Adoption Among Mennonite Farmers in a Closed Endorheic Basin of Northern Mexico",
+  "date": "2026-10-19",
+  "year": "2026",
+  "journal": "Environmental Management",
+  "issn": "0364152X",
+  "publisher": "Springer Science+Business Media",
+  "authors": [
+   "Emmanuel Yeboah Okyere",
+   "Jesús Manuel Ochoa-Rivero",
+   "Mercedes Borja Bravo",
+   "John Amoah-Nuamah",
+   "Omar Castor Ponce-Garcia",
+   "Sergio Arellano‐Arciniega",
+   "H. A. Gutiérrez‐Jurado"
+  ],
+  "abstract": "Agricultural sustainability in closed endorheic basins is constrained by periodic water scarcity, hydrological isolation, and the cumulative effects of intensive land use. The Cuauhtémoc region of northern Mexico hosts long-established Mennonite farming communities whose mechanized and irrigation-dependent agriculture constitutes an important component of the regional economy and resource-use system. This study examined the prevalence, diversity, and drivers of sustainable agricultural practices among 95 Mennonite farmers in the Bustillos Lagoon region. Thirteen practices spanning soil and residue management, water conservation, biological soil-fertility management, and agrochemical stewardship were assessed, while a conservation-practice breadth indicator quantified the number of ten resource-management practices used by individual farmers. Among 92 farmers with complete practice data, conservation-practice breadth ranged from 2 to 8 practices (mean = 3.76 ± 1.06). Residue incorporation (98.9%), residue cover (89.4%), and rainwater collection (71.0%) were widespread, whereas zero tillage (1.1%), compost/leachate use (5.3%), mycorrhiza application (5.3%), and reduced tillage (8.5%) were uncommon. Robust Poisson regression showed that technical assistance was associated with a 37.8% higher expected conservation-practice count (IRR = 1.378, 95% CI 1.168-1.626, p < 0.001), while environmental concern was associated with an 18.7% higher count (IRR = 1.187, 95% CI 1.017-1.385, p = 0.030). Water-supply problems, farm area, producer-organization membership, and education showed no independent associations. The findings demonstrate that sustainable management is better characterized as a heterogeneous portfolio of practices than as a binary adoption decision and highlight institutional support and environmental orientation as important correlates of management diversification in water-constrained agricultural landscapes.",
+  "oa_url": "https://link.springer.com/content/pdf/10.1007/s00267-026-02637-4.pdf",
+  "pdf_url": "https://link.springer.com/content/pdf/10.1007/s00267-026-02637-4.pdf",
+  "pdf_urls": [
+   "https://link.springer.com/content/pdf/10.1007/s00267-026-02637-4.pdf",
+   "https://doi.org/10.1007/s00267-026-02637-4"
+  ],
+  "oa_status": "hybrid",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Kelembagaan petani & tindakan kolektif"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-21",
+  "summary_id": null,
+  "relevance": 15
+ },
+ {
+  "id": "W7222936684",
+  "doi": "10.1021/ehp.6c00927",
+  "title": "Contributions of Household Environmental Exposures and Early-Life Factors to Infant Gut Microbiome Development in a Low-Resource Setting in Mozambique",
+  "date": "2026-10-19",
+  "year": "2026",
+  "journal": "Environmental Health Perspectives",
+  "issn": "00916765",
+  "publisher": "National Institute of Environmental Health Sciences",
+  "authors": [
+   "Rina Das",
+   "Courtney P. Victor",
+   "Janet K. Hatt",
+   "Ana Durán‐Viseras",
+   "Konstantinos T. Konstantinidis",
+   "Sheela Selin Sinharoy",
+   "Lance Allyn Waller",
+   "Rassul Nalá",
+   "Matthew C. Freeman",
+   "Karen Lévy",
+   "Kelsey J. Jesser"
+  ],
+  "abstract": "Abstract Household environmental conditions in low-resource settings influence infant gut microbiome development, yet longitudinal evidence from such settings remains limited. We leveraged data from PAASIM, a prospective mother–infant cohort in Beira, Mozambique, to examine how measured household environmental exposures were associated with infant gut microbiome development across the first year of life, and how these associations related to other early-life factors. We collected infant stool samples at 3, 6, 9, and 12 months and profiled them using 16S rRNA gene sequencing. We evaluated visit-specific household environmental indicators, including water, sanitation, and hygiene (WASH) conditions, household water insecurity, animal contact, animal fecal exposure, and household crowding, along with contextual early-life factors such as breastfeeding, diet, socioeconomic status, and food insecurity. Infants with higher Shannon diversity at earlier time points tended to maintain higher diversity later in infancy, suggesting temporal tracking of microbiome development. Measured household environmental exposures showed modest and time-specific associations with Shannon diversity, with the most pronounced exposure–diversity signals observed around mid-infancy. Weighted UniFrac community structure showed substantial overlap across measured environmental exposure groups, indicating that these indicators explained limited variation in overall community composition. However, specific environmental and contextual factors were associated with taxonomic differences. Each additional child under 5 years in the household was associated with a higher relative abundance of Campylobacterota at 6 months (β = 1.28; 95% CI: 0.54–2.03). Early weaning by 3 months was associated with higher 6-month relative abundance of Clostridioides, Bilophila, and Desulfobacterota, and with higher Roseburia at 9 months. Together, our findings suggest that measured household environmental indicators, particularly household crowding, may contribute to infant gut microbiome development. However, their overall contribution to community structure was modest compared with prior microbiome state and feeding-related factors. Limited explained variation should be interpreted cautiously, as commonly measured household indicators may capture only part of the broader environmental microbial exposure landscape relevant to early-life microbiome assembly.",
+  "oa_url": "https://doi.org/10.1021/ehp.6c00927",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1021/ehp.6c00927"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Ketahanan pangan rumah tangga"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-21",
+  "summary_id": null,
+  "relevance": 0
+ },
+ {
   "id": "W7222870744",
   "doi": "10.1007/s11367-026-02760-8",
   "title": "Towards greater sensitivity: advancing social life cycle assessment for the coffee sector in Brazil and the Democratic Republic of the Congo",
