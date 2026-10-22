@@ -1,5 +1,569 @@
 [
  {
+  "id": "W7223061946",
+  "doi": "10.1186/s12889-026-30042-3",
+  "title": "Knowledge, attitudes, and preventive practices related to breast and cervical cancer among rural women in Sidama, Ethiopia: a facility-based cross-sectional study",
+  "date": "2026-10-21",
+  "year": "2026",
+  "journal": "BMC Public Health",
+  "issn": "14712458",
+  "publisher": "BioMed Central",
+  "authors": [
+   "Nigatu Tuasha",
+   "Muse Rike",
+   "Tihun Anato"
+  ],
+  "abstract": "Abstract Background Breast and cervical cancers are the leading causes of cancer-related morbidity and mortality among women worldwide. In Ethiopia, there is limited context-specific evidence regarding women’s knowledge, attitudes, and preventive practices related to breast and cervical cancer in rural communities. This study evaluated knowledge, attitudes, and preventive practices regarding breast and cervical cancer among rural women in Dalle district, Sidama National Regional State, Ethiopia. Methods A facility-based cross-sectional study was conducted among 356 women aged ≥ 18 years who were residents of rural kebeles in Dalle District, Sidama National Regional State, Ethiopia, and attended the selected public health facilities for reproductive health services during the study period. Data were collected using a pretested structured questionnaire. Descriptive statistics were used to summarize participant characteristics and the distribution of study variables, while binary and multivariable logistic regression analyses identified factors associated with breast cancer knowledge. Statistical significance was set at p < 0.05 with 95% confidence intervals. Results Overall, 84.83% of participants had poor knowledge of breast cancer, while 38.76% had inadequate knowledge of cervical cancer. Negative attitudes toward breast and cervical cancer were reported by 53.36% and 54.71% of participants, respectively. Only 32% had ever practiced breast self-examination. Better breast cancer knowledge was significantly associated with younger age (AOR = 5.22; 95% CI: 1.72–15.90), higher educational attainment (AOR = 6.54; 95% CI: 2.91–14.73), and access to information (AOR = 3.21; 95% CI: 1.66–6.21). Conclusion Among rural women, knowledge and preventive practices related to breast and cervical cancer were limited, with substantial gaps in cancer-related knowledge, unfavorable attitudes, and low breast self-examination practice. Better breast cancer knowledge was associated with younger age, higher educational attainment, and access to information. Strengthening community-based and school-based, age-appropriate health education through accessible information channels will improve cancer knowledge, attitudes, and preventive practices among rural women.",
+  "oa_url": "https://doi.org/10.1186/s12889-026-30042-3",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1186/s12889-026-30042-3"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-22",
+  "summary_id": null,
+  "relevance": 15
+ },
+ {
+  "id": "W7223005655",
+  "doi": "10.3390/su182010656",
+  "title": "Analysis of the Impact of Digital Technology on the Resilience of Anhui’s Agricultural Industry Chain: Threshold Effect of Relative Grain Yield",
+  "date": "2026-10-20",
+  "year": "2026",
+  "journal": "Sustainability",
+  "issn": "20711050",
+  "publisher": "Multidisciplinary Digital Publishing Institute",
+  "authors": [
+   "Lan Ma",
+   "Yuyan Li",
+   "张国亮",
+   "Yaoyao Li"
+  ],
+  "abstract": "Improving the resilience of the agricultural industry chain to frequent external shocks and the intertwined agricultural production risks is critical for ensuring national food security and sustainable agricultural development. Taking the 16 prefecture-level cities in Anhui Province—a major grain-producing region in China—as the research sample, two composite proxy indices were constructed in this study; namely, an agricultural industry chain resilience index built upon aggregate official statistics (rather than direct observed shock-response outcomes) and an index capturing broad rural digital development instead of purely agriculture-specific digital adoption. Based on balanced panel data from 2015 to 2024, two-way fixed-effect, mediation-effect, and panel-threshold models were adopted in this study to examine the association, mediating mechanism, regional heterogeneity, and threshold characteristics conditioned on the relative grain yield. The empirical results show that the rural-oriented digital development index is significantly and robustly positively associated with our composite agricultural industry chain resilience proxy. Although agricultural TFP exhibits a statistically detectable partial mediating pattern in this correlational relationship, the economic magnitude of this indirect channel is extremely modest. As such, this finding indicates a potential theoretical transmission pathway rather than providing definitive empirical evidence for a causal mechanism. The promotion effect exhibits clear regional heterogeneity, with the strongest effect in Northern Anhui, followed by Central Anhui, while the coefficient is positive but insignificant in Southern Anhui. Furthermore, a single-threshold effect of the relative grain yield is identified; that is, the positive association between rural-oriented digital development and resilience proxy cannot be statistically detected when the grain yield remains below the threshold. Only after the agricultural grain yield increases can digital-related rural development release its resilience-related empowering dividends. We note that both composite indices are subject to measurement constraints linked to the local agricultural economic scale and broad rural digital conditions; these limitations are further discussed in the paper. This study provides empirical correlational evidence for the implementation of differentiated digital agriculture policies in major grain-producing provinces.",
+  "oa_url": "https://doi.org/10.3390/su182010656",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.3390/su182010656"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender",
+   "Ketahanan pangan rumah tangga"
+  ],
+  "priority_journal": true,
+  "language": "en",
+  "found_at": "2026-10-22",
+  "summary_id": {
+   "tujuan": "Menguji hubungan antara pengembangan digital perdesaan dan ketahanan rantai nilai pertanian di Provinsi Anhui, Tiongkok, termasuk mekanisme mediasi TFP pertanian dan ambang batas hasil biji-bijian relatif.",
+   "metode": "Desain panel seimbang 16 kota prefektur di Anhui periode 2015–2024 dengan model two-way fixed effect, mediasi, dan panel threshold. Ketahanan dan digital perdesaan diukur melalui indeks komposit yang dibangun dari statistik resmi agregat.",
+   "temuan": "Indeks pengembangan digital perdesaan berasosiasi positif dan signifikan dengan indeks ketahanan rantai nilai pertanian. TFP pertanian memediasi secara parsial, tetapi besaran efek tidak lazim sangat kecil. Efek terkuat di Anhui Utara, diikuti Anhui Tengah, dan tidak signifikan di Anhui Selatan; hubungan tidak terdeteksi saat hasil biji-bijian relatif berada di bawah satu ambang tunggal.",
+   "keterbatasan": "Desain bersifat korelasional sehingga tidak membuktikan kausalitas. Indeks komposit dibatasi skala ekonomi pertanian lokal dan kondisi digital perdesaan yang luas, serta ketahanan tidak diukur dari respons nyata terhadap guncangan.",
+   "relevansi": "Kerangka ambang batas produksi dan indeks digital perdesaan dapat diadaptasi untuk menguji ketahanan pangan dan rantai nilai di Kalimantan Tengah, meski struktur produksinya didominasi sawit dan padi lahan rawa sehingga indikatornya perlu disesuaikan. Temuan heterogenitas antarwilayah juga relevan untuk membandingkan akses pasar petani kecil antarkabupaten.",
+   "skor": 4,
+   "model": "claude-haiku-5-5",
+   "sumber": "abstrak"
+  },
+  "relevance": 61
+ },
+ {
+  "id": "W7223008726",
+  "doi": "10.3390/soc16100359",
+  "title": "Financial Inclusion or Digital Discrimination? Algorithmic Credit Decisions and Gender Inequalities: A Scoping Review",
+  "date": "2026-10-20",
+  "year": "2026",
+  "journal": "Societies",
+  "issn": "20754698",
+  "publisher": "Multidisciplinary Digital Publishing Institute",
+  "authors": [
+   "Alexander Haro-Sarango",
+   "Silvia Cachay-Salcedo",
+   "Jessica Karina Saavedra-Vasconez",
+   "Freddy Jesús Robles-Lirio",
+   "José Ismael Campos-Ku"
+  ],
+  "abstract": "The rapid expansion of financial technologies has repositioned algorithmic credit decision systems as central gatekeepers of economic opportunity, raising a fundamental sociological question: Do these systems broaden financial inclusion or do they reproduce—and potentially amplify—gender inequalities under a veneer of technical neutrality? This scoping review maps the scientific literature at the intersection of algorithmic credit decisions, financial inclusion, and gender, following the PRISMA-ScR protocol and combining bibliometric and thematic analysis. A corpus of 279 peer-reviewed documents (English-language articles and reviews, 2022–2026) indexed in Scopus was charted, exhibiting a compound annual growth rate of 31.6%, 4445 accumulated citations (h-index = 32), and a highly skewed citation distribution (Gini = 0.819). Production is led by the Global South—India (n = 64), Indonesia (n = 32), and South Africa (n = 19)—while co-word and semantic cluster analysis reveals five research fronts organized around digital financial literacy, gender and banking, artificial intelligence and blockchain, microfinance and the Sustainable Development Goals, and algorithmic risk assessment. The gender-focused subcorpus (n = 58; 20.8%) and the algorithmic credit subcorpus (n = 49; 17.6%) intersect in only 11 documents (3.9%), exposing a critical research gap precisely where the promise of inclusion and the risk of discrimination collide. This overlap is no larger than independence would predict (expected = 10.2; Fisher’s exact p = 0.85) and stays below 5% under alternative tagging dictionaries, while documents authored exclusively by Global South institutions receive 44% fewer citations than comparable documents. Evidence charted from the corpus documents both inclusionary effects (expanded access for thin-file borrowers, reduced transaction costs) and exclusionary dynamics (gender-miscalibrated credit scores, predatory digital lending, algorithmic opacity, and intersectional data gaps). Rurality, informal employment, ethnicity, and migration status are rarely analyzed together with gender, and an integrative conceptual model links structural conditions, intersecting social positions, data regimes, and algorithmic pipelines to inclusionary, predatory, and exclusionary outcomes. The review proposes an agenda oriented toward algorithmic auditing with gender-disaggregated data, regulatory frameworks for fairness in credit scoring, and the integration of feminist data perspectives into fintech design, arguing that financial inclusion and digital discrimination are not mutually exclusive outcomes but coexisting logics of the same socio-technical infrastructure.",
+  "oa_url": "https://doi.org/10.3390/soc16100359",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.3390/soc16100359"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-22",
+  "summary_id": {
+   "tujuan": "Memetakan literatur keputusan kredit algoritmik, inklusi keuangan, dan gender, serta menilai apakah sistem tersebut memperluas inklusi atau mereproduksi ketimpangan gender.",
+   "metode": "Scoping review mengikuti PRISMA-ScR dengan analisis bibliometrik dan tematik terhadap 279 dokumen peer-reviewed berbahasa Inggris (2022–2026) dari Scopus, menggunakan co-word dan semantic cluster analysis serta uji Fisher's exact.",
+   "temuan": "Riset dipimpin India (n=64), Indonesia (n=32), dan Afrika Selatan (n=19). Hanya 11 dokumen (3,9%) beririsan antara subkorpus gender dan kredit algoritmik, tidak melebihi proporsi yang diprediksi jika independen (p=0,85). Dokumen yang ditulis eksklusif institusi Global South memperoleh sitasi 44% lebih rendah, dan temuan ini bersifat asosiatif.",
+   "keterbatasan": "Tidak disebutkan secara eksplisit. Dari desain tampak cakupan terbatas pada Scopus, bahasa Inggris, rentang waktu pendek, dan penandaan berbasis kamus kata kunci.",
+   "relevansi": "Relevan untuk kajian adopsi fintech dan akses kredit petani kecil di Indonesia, termasuk potensi diskriminasi gender pada kredit digital petani perempuan di Kalimantan Tengah. Tinjauan ini belum membahas sektor pertanian, rantai nilai, atau sawit.",
+   "skor": 3,
+   "model": "claude-haiku-5-5",
+   "sumber": "abstrak"
+  },
+  "relevance": 51
+ },
+ {
+  "id": "W7223041527",
+  "doi": "10.1016/j.jrurstud.2026.104079",
+  "title": "Evaluating the role of social capital in land reform: Empirical evidence from rural China",
+  "date": "2026-10-20",
+  "year": "2026",
+  "journal": "Journal of Rural Studies",
+  "issn": "07430167",
+  "publisher": "Elsevier BV",
+  "authors": [
+   "Sudan Zhao",
+   "Philip Arestis",
+   "Runqiu Liu"
+  ],
+  "abstract": "Achieving effective land use is a key objective for national and local governments. This study, proceeds from the angle of social capital, demonstrates the impact of its different types, i.e., social networks, social norms, and trust on the efficacy of land-use policies with respect to China's recent 'Three Rights Separation' (TRS) reforms, evidenced by household survey data from six provinces in eastern, central, and western China. Unlike existing literature, we reconstruct the second-generation collective action framework, shedding light on the more complex role of trust with a new conceptual approach. Furthermore, we develop a multidimensional framework for measurement of social capital and policy effects and use a Structural Equation Model (SEM) approach to provide robust estimates of the relationships between these factors, attending to both economic and social outcomes. The findings reveal three key insights. First, social norms exert a direct effect on social performance of land-use policy, as measured by policy satisfaction, while also having indirect effects through the mediating role of trust. Trust proves to be not only a mere form of social capital but also a critical outcome and driver of effectiveness. Second, well-established social networks and norms significantly promote economic outcomes measured by land investments, with social networks producing a more pronounced effect. Third, building robust social networks enhances another aspect of economic performance, namely farmers' willingness to participate in land transactions and agricultural cooperation. These findings provide valuable implications for how policymakers can harness various forms of social capital to achieve various objectives.",
+  "oa_url": "https://doi.org/10.1016/j.jrurstud.2026.104079",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1016/j.jrurstud.2026.104079"
+  ],
+  "oa_status": "hybrid",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Kelembagaan petani & tindakan kolektif"
+  ],
+  "priority_journal": true,
+  "language": "en",
+  "found_at": "2026-10-22",
+  "summary_id": {
+   "tujuan": "Menguji peran tiga bentuk modal sosial (jaringan sosial, norma sosial, dan kepercayaan) terhadap efektivitas kebijakan pemisahan tiga hak atas lahan ('Three Rights Separation', TRS) di China, pada hasil sosial maupun ekonomi.",
+   "metode": "Survei rumah tangga di enam provinsi wilayah timur, tengah, dan barat China, dianalisis dengan Structural Equation Model (SEM) menggunakan kerangka pengukuran multidimensi modal sosial dan efek kebijakan. Ukuran sampel dan periode pengumpulan data tidak disebutkan dalam abstrak.",
+   "temuan": "Norma sosial berpengaruh langsung terhadap kepuasan kebijakan dan juga secara tidak langsung melalui kepercayaan, yang berperan sebagai modal sosial sekaligus hasil dan pendorong efektivitas. Jaringan sosial dan norma sosial berasosiasi dengan investasi lahan yang lebih tinggi, dengan pengaruh jaringan sosial yang lebih kuat. Jaringan sosial yang mapan juga berasosiasi dengan kesediaan petani berpartisipasi dalam transaksi lahan dan kerja sama pertanian.",
+   "keterbatasan": "Tidak disebutkan secara eksplisit dalam abstrak; dari desain survei rumah tangga berbasis SEM, hubungan yang ditemukan bersifat asosiatif, rentan endogenitas, dan berpotensi bias laporan diri.",
+   "relevansi": "Memberi kerangka untuk meneliti peran modal sosial dalam kelembagaan petani, kerja sama, dan transaksi lahan di Kalimantan Tengah, termasuk pada skema kemitraan perkebunan sawit. Temuan bahwa kepercayaan dapat menjadi hasil sekaligus pendorong layak diuji ulang pada kelompok tani dan koperasi lokal, meskipun konteks kebijakan TRS berbeda dari Indonesia.",
+   "skor": 3,
+   "model": "claude-haiku-5-5",
+   "sumber": "abstrak"
+  },
+  "relevance": 50
+ },
+ {
+  "id": "W7223060027",
+  "doi": "10.1016/j.ssaho.2026.103713",
+  "title": "The Agency of women and men in urban vertical gardening: qualitative insights from Nairobi's informal settlements of Kibra",
+  "date": "2026-10-20",
+  "year": "2026",
+  "journal": "Social Sciences & Humanities Open",
+  "issn": "25902911",
+  "publisher": "Elsevier BV",
+  "authors": [
+   "Judith Akoth Otieno",
+   "Dalmas Ochieng Omia",
+   "Dorothy Akinyi Amwata"
+  ],
+  "abstract": "The rapid pace of urbanization in Nairobi's informal settlements has heightened challenges of food insecurity, compelling households to adopt vertical gardening as a locally adapted response. Yet the sustainability and impact of such practices are deeply shaped by gender dynamics that influence access to resources, participation, and agency. This study explores how women and men engage with vertical gardening in Kibera, examining the intersections of gender roles, structural constraints, and collective empowerment. Drawing on fifty in-depth interviews, four focus group discussions, unstructured observations, and key informant interviews, the research reveals a gendered division of labour: women predominantly undertake routine caregiving-aligned tasks such as watering, pruning, pest control, and monitoring plant health, while men assume labour-intensive roles including construction, fencing, and soil preparation. Access to essential inputs like land tenure, quality seeds, tools, training, market linkages, and financial services remains unequal, with women facing structural barriers such as limited land ownership, male-dominated extension services, and mobility restrictions. Despite these constraints, vertical gardening groups have emerged as important spaces for women to exercise collective empowerment, exercise agency, and negotiate for resource and decision making, thereby reshaping household and community power dynamics. This paper advances theory by situating vertical gardening within debates on gendered agency, urban resilience, and food systems transformation, demonstrating how everyday practices in informal settlements reconfigure power relations and expand women's strategic influence within food systems. Policy recommendations include municipal recognition of vertical gardens, subsidies, inclusive training, and microfinance tailored to women. Limitations of qualitative scope are acknowledged, but findings highlight vertical gardening's potential to advance SDGs 2, 5, 11, and 13. Embedding a gender lens within urban agriculture policy will position vertical gardening not only as a pathway for household food security and economic inclusion but also as a catalyst for equitable and sustainable urban food systems.",
+  "oa_url": "https://doi.org/10.1016/j.ssaho.2026.103713",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1016/j.ssaho.2026.103713"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender",
+   "Ketahanan pangan rumah tangga"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-22",
+  "summary_id": null,
+  "relevance": 41
+ },
+ {
+  "id": "W7223042653",
+  "doi": "10.1080/23311932.2026.2745207",
+  "title": "Overcoming insect pest challenges for sustainable rice production in the Americas",
+  "date": "2026-10-20",
+  "year": "2026",
+  "journal": "Cogent Food & Agriculture",
+  "issn": "23311932",
+  "publisher": "Cogent OA",
+  "authors": [
+   "Roland Bocco",
+   "Stanley Omar PB. Samonte",
+   "Kimberly S. Ponce",
+   "Esther Pegalepo",
+   "Zakaria Hossain Prodhan",
+   "Darlene L. Sanchez",
+   "Yedomon Ange Bovys Zoclanclounon",
+   "Abou Togola"
+  ],
+  "abstract": "Rice production in the Americas has expanded to meet a rising demand, but insect pests continue to threaten yields, grain quality, and farmer incomes. This review synthesizes current knowledge of the major insect pests affecting rice systems across the Americas and evaluates the performance, trade-offs, and complementarities of existing and emerging controls. It describes regional pest complexes, such as rice water weevil in the United States, Hoja Blanca vectors and stem borers in tropical areas, and late-season stink bugs across the continent. It examines how climate change, land use, and trade change invasion risk and pest activity timing. The review examines integrated pest management components: surveillance that blends field/edge scouting with decision-support tools and predictive modeling; cultural and agronomic practices that reduce baseline risk; biological control via parasitoids, predators, and entomopathogens using classical, augmentative, and conservation strategies; and threshold-based chemical control emphasizing resistance management, and residue stewardship. Innovative approaches, including AI-enabled forecasting, genomics-assisted resistance, and RNA interference technologies (RNAi) are also examined, alongside socioeconomic conditions that governing their adoption. Ultimately, the review develops adaptable, research-supported strategies that protect crop yields, preserve natural predators, increase farmers’ incomes, and bolster local food security, while tackling escalating environmental and climate issues through ecological, technological, and socioeconomic dimensions.",
+  "oa_url": "https://www.tandfonline.com/doi/pdf/10.1080/23311932.2026.2745207?needAccess=true",
+  "pdf_url": "https://www.tandfonline.com/doi/pdf/10.1080/23311932.2026.2745207?needAccess=true",
+  "pdf_urls": [
+   "https://www.tandfonline.com/doi/pdf/10.1080/23311932.2026.2745207?needAccess=true",
+   "https://doi.org/10.1080/23311932.2026.2745207"
+  ],
+  "oa_status": "diamond",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Ketahanan pangan rumah tangga"
+  ],
+  "priority_journal": true,
+  "language": "en",
+  "found_at": "2026-10-22",
+  "summary_id": null,
+  "relevance": 39
+ },
+ {
+  "id": "W7223033971",
+  "doi": "10.1016/j.jrurstud.2026.104479",
+  "title": "Sustainable rural settlements in question: Testing synergy and processes within the agricultural transition–human capital–amenities nexus in Northeast China",
+  "date": "2026-10-20",
+  "year": "2026",
+  "journal": "Journal of Rural Studies",
+  "issn": "07430167",
+  "publisher": "Elsevier BV",
+  "authors": [
+   "Bonoua Faye",
+   "Guoming Du",
+   "Rui Zhang",
+   "Yuheng Li"
+  ],
+  "abstract": "Enhancing rural sustainability has become a prominent issue in the global academic debate, calling for a synergistic framework that integrates multiple dimensions of rural development. Therefore, this study develops the Agricultural Transition- Human Capital- Amenities (ACA) nexus model to explain how these three dimensions jointly contribute to and advance the theoretical framework of Sustainable Rural Settlement (SRS). Agricultural transition creates economic opportunities and supports human capital development, which in turn improves rural amenities and living conditions, ultimately promoting SRS. This research focuses on Heilongjiang Province in Northeast China, a key region for food security that faces several challenges. It examines the contradiction between agricultural modernization and sustainable rural development using panel data from 2003 to 2022. The Coupling Coordination Degree Model (CCDM) is used to measure synergy within the ACA nexus, while Method of Moments Quantile Regression (MM-QREG) identifies the heterogeneous drivers of SRS across different levels of development. The results demonstrate a convergent yet uneven sustainability trajectory across regions, with SRS scores increasing from 2003 to 2022. Despite overall progress, persistent disparities remained, as Mudanjiang consistently outperformed Heihe throughout the study period. This convergence was primarily driven by agricultural modernization after 2012, whereas improvements in amenities and living conditions lagged, revealing structural imbalances within the ACA nexus. Quantile regression results highlight mechanization, education, and village planning as key determinants, with education's effect strengthening and planning's diminishing along sustainability gradients. Rural income exhibited only negative associations rather than causal impacts, while Granger tests indicated limited short-term causality. This highlights the necessity of incorporating place-based rural policies that should no longer be sectoral to tackle multifunctional rural challenges.",
+  "oa_url": "https://doi.org/10.1016/j.jrurstud.2026.104479",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1016/j.jrurstud.2026.104479"
+  ],
+  "oa_status": "hybrid",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Ketahanan pangan rumah tangga"
+  ],
+  "priority_journal": true,
+  "language": "en",
+  "found_at": "2026-10-22",
+  "summary_id": null,
+  "relevance": 35
+ },
+ {
+  "id": "W7222994334",
+  "doi": "10.3390/fib14100123",
+  "title": "From Local Biomass to 3D-Printing Feedstocks: Evaluating Lebanese Natural Fiber Resources for Additive Manufacturing",
+  "date": "2026-10-20",
+  "year": "2026",
+  "journal": "Fibers",
+  "issn": "20796439",
+  "publisher": "Multidisciplinary Digital Publishing Institute",
+  "authors": [
+   "Anna-Maria ElBayssari",
+   "Melissa Said"
+  ],
+  "abstract": "Natural-fiber-reinforced polymer composites have received increasing attention in additive manufacturing (AM), particularly in material extrusion and vat photopolymerization. Natural fibers are attractive for these applications because they are biodegradable, relatively inexpensive, and can provide an alternative to conventional reinforcements. However, most studies have focused on a limited number of widely used fibers, such as flax, hemp, jute, and kenaf. Other natural fibers that are locally available in regions such as the Eastern Mediterranean and the Levant remain much less studied, especially in Lebanon. This review focuses on the potential of natural fibers available in Lebanon for additive manufacturing applications. Three types of information are considered. First, national agricultural data are used to identify crops and biomass sources that are actually available in the country. Second, previous studies carried out by Lebanese researchers are examined. These studies have investigated several local fibers, including hemp, banana, fan palm, and reed (Phragmites australis), although most of this work has focused on cement-based materials rather than polymer composites. Finally, these findings are compared with the international literature on natural fiber additive manufacturing, where direct experimental studies are already available for six of the eight fibers considered in this review. Olive wood waste has been compounded into PLA and fused-filament-fabricated with full mechanical and life-cycle characterization; artichoke stem waste has been compounded into epoxy and stereolithography-printed, with a tensile strength increase near 55%; hemp fiber has been compounded into PLA and fused-deposition-printed, with a 29.6% tensile strength increase at 2.5 wt% loading; and banana fiber, in combination with jute, has recently been fused-deposition-printed in PLA with full mechanical characterization; date palm fiber has been compounded into PLA and fused-deposition-printed, with an increase of 10.12% and 6.53% in yield and tensile strengths, respectively, compared to neat PLA; and tobacco stalk fiber has been compounded into PLA and FDM-printed, with infill pattern shown to substantially affect tensile and impact strength. These percentage improvements are not directly comparable across fibers, since each study used a different polymer matrix, fiber loading, and printing process. Hemp carries an additional regional dimension: a 2009 Lebanese Ministry of Agriculture/UNDP cultivation pilot, whose locally grown fiber outperformed imported industrial hemp in mechanical testing, together with Lebanon’s 2020 legalization of industrial hemp cultivation. Both the pilot and the legal pathway remain far from an active domestic supply chain, and neither should be confused with the large-scale, high-THC drug-type cannabis cultivated in the Bekaa Valley. Three further candidates, reed, fan palm, and cereal straw, have strong Lebanese experimental or agricultural grounding but no 3D-printing validation (cereal straw has only non-printed polymer data), representing the clearest targets for new experimental work. We synthesize this evidence against the known processing constraints of natural fiber 3D-printing (hydrophilicity, thermal degradation, interfacial bonding) and propose a prioritized research agenda for closing the identified gaps.",
+  "oa_url": "https://doi.org/10.3390/fib14100123",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.3390/fib14100123"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemasaran, rantai pasok & rantai nilai",
+   "Komoditas: pisang, nanas, padi rawa"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-22",
+  "summary_id": null,
+  "relevance": 34
+ },
+ {
+  "id": "W7223015463",
+  "doi": "10.1007/s13593-026-01147-1",
+  "title": "Linking serious game decisions to real-world farmer land use: a case study from the Peruvian Amazon",
+  "date": "2026-10-20",
+  "year": "2026",
+  "journal": "Agronomy for Sustainable Development",
+  "issn": "17730155",
+  "publisher": "Springer Science+Business Media",
+  "authors": [
+   "Elisabeth Ginette Lagneaux",
+   "Tomás Abdala",
+   "Katrien Descheemaeker",
+   "Daniel Callo-Concha",
+   "Erika N. Speelman"
+  ],
+  "abstract": "Abstract Tropical landscapes are largely shaped by the daily decisions of smallholder farmers. Public institutions and private companies increasingly aim to shape agricultural landscapes by influencing farmer decisions. Farmer land-use decision-making is complex and highly dynamic, especially in tropical smallholder systems. The use of serious games has been proposed as a promising research approach to understand these processes. However, it is often unclear how land-use decisions in such simulated settings relate to real life. In this paper, we explore how decisions in games made by farmers relate to their real-life decisions. We draw on a case study in Madre de Dios, Peru, where we interviewed farmers to design a game representing key components of the local farming system and external interventions. The game was played during 20 sessions involving 103 farmers. This dataset enabled the first systematic comparison in land-use serious gaming between decisions made in a game and the same farmers’ documented real-life decisions. We explored the game’s credibility, salience, and legitimacy by comparing farmer decisions in the game, including deforestation, crop choice, and participation in support programs, with those made in real life. Results show significant relations between farmers’ realities and their game decisions. The degree to which farmers receive support in real life predicts their preference for support in the game, and crop choices in real life resemble those made in the game. Cooperative membership in real life is associated with less clearing of primary forest in the game, and governmental support with larger loans. Overall, farmers found the game to be a good representation of their reality, which allowed them to discuss complex land-use decisions. We conclude that serious games can be credible, salient, and legitimate tools to explore farmer decision-making around land use, allowing exploration of the impact of present and future interventions.",
+  "oa_url": "https://doi.org/10.1007/s13593-026-01147-1",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1007/s13593-026-01147-1"
+  ],
+  "oa_status": "hybrid",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Kelembagaan petani & tindakan kolektif"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-22",
+  "summary_id": null,
+  "relevance": 29
+ },
+ {
+  "id": "W7223028182",
+  "doi": "10.1080/23311886.2026.2749228",
+  "title": "Structural pathways from agricultural finance to community health outcomes: evidence from rice farmers in Nigeria",
+  "date": "2026-10-20",
+  "year": "2026",
+  "journal": "Cogent Social Sciences",
+  "issn": "23311886",
+  "publisher": "Cogent OA",
+  "authors": [
+   "Ayoyinka Nurudeen Jatto",
+   "Gabriel Olaoluwa Abayomi"
+  ],
+  "abstract": "This study investigates pathways from agricultural finance to community health outcomes in Nigeria, emphasizing the mediating roles of food security and rural livelihoods. The analysis focused on 300 rice farmers benefiting from the anchor borrowers’ program, selected through purposive and random sampling. Primary data were analyzed using structural equation modeling to estimate direct and indirect effects. Findings show agricultural finance significantly improves food security (p < 0.01), enhances rural livelihoods (p < 0.01), and positively influences community health outcomes (p < 0.05). Food security (p < 0.01) and rural livelihoods (p < 0.01) both have significant positive relationships with community health, measured by self-reported illness frequency and healthcare visits, with livelihoods showing a stronger effect. Mediation analysis confirms food security and rural livelihoods are important pathways through which agricultural finance translates into improved community health. Agricultural finance explains 41% of variation in food security, 51% in rural livelihoods and 66% in community health outcomes. The model showed a good fit (χ2/df = 2.10, CFI = 0.93, TLI = 0.91, RMSEA = 0.065 and SRMR = 0.052). The study concludes that agricultural finance improves community health directly and indirectly via strengthened food security and improved rural livelihoods. Policy interventions should adopt integrated approaches expanding financial access while enhancing food systems, supporting livelihood diversification and building rural resilience.",
+  "oa_url": "https://doi.org/10.1080/23311886.2026.2749228",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1080/23311886.2026.2749228"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Ketahanan pangan rumah tangga"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-22",
+  "summary_id": null,
+  "relevance": 26
+ },
+ {
+  "id": "W7222971745",
+  "doi": "10.1007/s44155-026-00502-7",
+  "title": "Explaining socioeconomic inequalities in cervical and breast cancer screening among women in Ghana using decomposition analysis",
+  "date": "2026-10-20",
+  "year": "2026",
+  "journal": "Discover Social Science and Health",
+  "issn": "27310469",
+  "publisher": "Springer Nature",
+  "authors": [
+   "Fidelis Zumah",
+   "Amanda Debuo Der",
+   "Gowokani Chijere Chirwa"
+  ],
+  "abstract": "Cervical and breast cancers are the most common cancers among women in Ghana. Breast cancer accounts for the highest number of cancer-related deaths, while cervical cancer ranks second. Screening uptake remains low, partly due to the absence of national screening programs. This study is the first to examine socioeconomic inequalities in cervical and breast cancer screening uptake in Ghana, applying the Wagstaff approach. It further decomposed these indices and determined the contribution of individual factors to observed inequalities. We analyzed data from 14,972 women aged 15–49 years using the 2022 Ghana Demographic and Health Survey. Cervical and breast cancer screening were each measured as a self-reported binary outcome. Cervical cancer screening was defined as an affirmative response to: “Have you ever been tested for cervical cancer by a healthcare provider?” Breast cancer screening was defined as an affirmative response to: “Has a doctor or other healthcare provider examined your breasts to check for breast cancer?” To assess socioeconomic inequalities in cervical and breast cancer screening, we used concentration curves and the Erreygers-corrected concentration index (ECCI), with the household wealth index as a proxy measure for socioeconomic status. We conducted decomposition analysis to identify key drivers of inequalities using the Wagstaff approach. Survey weights were applied in all analyses. Overall, 4.96% and 18.41% of the 14,972 women had undergone cervical and breast cancer screening, respectively. Both concentration curves lay below the line of equality, and positive ECIs, indicating pro-rich inequalities in screening uptake. The overall ECIs were 0.068 (95% CI 0.06–0.08) for cervical cancer screening and 0.210 (95% CI 0.20–0.22) for breast cancer screening. Cervical cancer screening inequality was lower in rural areas (ECI = 0.037; 95% CI 0.03–0.05) than in urban areas (ECI = 0.067; 95% CI 0.05–0.08). The rural-urban gap was wider for breast cancer screening: rural (ECI = 0.121; 95% CI 0.10–0.14) versus urban (ECI = 0.202; 95% CI 0.18–0.22). Regionally, cervical cancer screening inequality was highest in Northern Ghana (ECI = 0.069; 95% CI 0.05–0.08) and similar across the Middle Belt and Southern Ghana. Breast cancer screening inequality was lower in Northern Ghana (ECI = 0.187; 95% CI 0.16–0.21) than in Middle and Southern Ghana (ECI = 0.207; 95% CI 0.18–0.23). Decomposition analysis showed that education was the largest contributor to pro-rich inequality, accounting for 54.6% of cervical and 44.5% of breast cancer screening disparities, followed by wealth status, which explained 37.9% and 36.3% of inequalities, respectively. Urban residence, media exposure, and health insurance coverage also contributed to pro-rich inequalities in both screening outcomes. There is a critical need to address the healthcare needs of poorer women to reduce inequalities in cancer screening in Ghana. Policymakers should expand insurance coverage, increase access to quality education, improve media access, promote women’s economic empowerment to address socioeconomic barriers to cancer screening, and integrate cervical and breast cancer screening into all primary healthcare facilities to improve equitable access. Despite these important findings, the cross-sectional study design limits causal inference, and the findings should be interpreted as associative rather than causal.",
+  "oa_url": "https://doi.org/10.1007/s44155-026-00502-7",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1007/s44155-026-00502-7"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [
+   "socioeconomic disparities",
+   "cervical cancer screening",
+   "breast cancer screening",
+   "women's health",
+   "health disparities",
+   "Ghana"
+  ],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-22",
+  "summary_id": null,
+  "relevance": 23
+ },
+ {
+  "id": "W7223043874",
+  "doi": "10.1016/j.jenvman.2026.131172",
+  "title": "How does integrated white mango scale management affect mango production in Ethiopia?",
+  "date": "2026-10-20",
+  "year": "2026",
+  "journal": "Journal of Environmental Management",
+  "issn": "03014797",
+  "publisher": "Elsevier BV",
+  "authors": [
+   "Amente Negussa Bayata",
+   "Jiqin Han",
+   "Dirriba Idahe",
+   "Dabesa Wegari",
+   "Zhanguo Zhu"
+  ],
+  "abstract": "White mango scale (WMS) infestation poses a serious threat to mango production in Ethiopia, leading to yield losses, reduced fruit quality, and declining farmer income. This study assesses the impacts of adopting integrated WMS management—combining cultural, chemical, and biological control methods—on mango yield, income, and environmental outcomes using data from 770 households. Results from a multinomial endogenous switching regression (MESR) model indicate that education, access to extension services, cooperative membership, credit availability, and farming experience significantly influence adoption decisions. Integrated management practices significantly improve yield and fruit quality, with the highest gains observed under combined strategies. In addition, the environmental assessment, based on farmers' perceived changes, suggests that integrated approaches are associated with improved soil fertility, water quality, biodiversity, and air conditions, while reducing chemical-related waste and pest resistance, thereby supporting a cleaner and more sustainable production system. The study underscores the importance of strengthening access to credit and enhancing extension and training services to promote wider adoption, ultimately improving productivity, farmers’ income from mangoes, and environmental sustainability in the region.",
+  "oa_url": "https://doi.org/10.1016/j.jenvman.2026.131172",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1016/j.jenvman.2026.131172"
+  ],
+  "oa_status": "hybrid",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Kelembagaan petani & tindakan kolektif"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-22",
+  "summary_id": null,
+  "relevance": 22
+ },
+ {
+  "id": "W7223055630",
+  "doi": "10.1007/s12061-026-10042-x",
+  "title": "Urban Expansion and Agricultural Land Use Change in Robe Town, Southeastern Ethiopia: A Spatio-Temporal Analysis Using Geospatial Technique",
+  "date": "2026-10-20",
+  "year": "2026",
+  "journal": "Applied Spatial Analysis and Policy",
+  "issn": "18744621",
+  "publisher": "Springer Science+Business Media",
+  "authors": [
+   "Adimasu Tafesse",
+   "dagne ketema"
+  ],
+  "abstract": "Rapid urbanization in Ethiopia’s emerging towns, including Robe, has intensified pressure on surrounding agricultural lands; unchecked expansion there is converting farmland, threatening food security, livelihoods, ecosystem services, and outpacing planning and land-management. This study examines the spatio-temporal dynamics of urban expansion and its impacts on agricultural land use in Robe town, southeastern Ethiopia. Landsat imagery from 1996 (TM), 2006 (ETM+), and 2016 and 2023 (OLI) was analyzed to map land-use and land-cover changes, complemented by a household survey to capture community perceptions of peri-urban land conversion. Data processing and analysis were conducted using QGIS 3.16, ERDAS Imagine 2015, and IDRISI V.17. Findings show that built-up areas expanded from 619.03 ha (6.55%) in 1996 to 2089.27 ha (22.11%) in 2023, while agricultural land declined from 7959.06 ha (84.21%) in 1996 to 6482.52 ha (68.59%) over the same period. Projections indicate that built-up land will increase to 2810.17 ha (29.73%) in 2030, 3698.38 ha (39.13%) in 2040, and 4026.34 (42.60%) ha in 2050, accompanied by a corresponding reduction in agricultural land to 5866.56 ha (62.07%), 5101.20 ha (53.98%), and 4770.27 ha (50.47), respectively. Findings demonstrate a persistent trend of farmland loss driven by rapid urban expansion. The study underscores the need for integrated urban planning and sustainable land management strategies to curb agricultural land conversion and guide balanced urban development.",
+  "oa_url": "https://doi.org/10.1007/s12061-026-10042-x",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1007/s12061-026-10042-x"
+  ],
+  "oa_status": "hybrid",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Ketahanan pangan rumah tangga"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-22",
+  "summary_id": null,
+  "relevance": 21
+ },
+ {
+  "id": "W7223036875",
+  "doi": "10.1002/fpf2.70069",
+  "title": "Postharvest Management to Preserve the Nutritional Quality of Vegetables: An Overview Based on Current Research Findings Across the Globe",
+  "date": "2026-10-20",
+  "year": "2026",
+  "journal": "Future Postharvest and Food",
+  "issn": "28376846",
+  "publisher": "Wiley",
+  "authors": [
+   "Md Abdul Kader",
+   "Kazi N.S. Rafi",
+   "Annika Jahan Aonti",
+   "Md. Parvez Kabir",
+   "Akbar Hossain"
+  ],
+  "abstract": "ABSTRACT Vegetables are very important foods that provide vitamins, minerals, antioxidants, dietary fiber, and other beneficial compounds that help keep people healthy. Unfortunately, a large amount of vegetables is lost or damaged after harvesting due to natural deterioration processes, growth of harmful microorganisms, and poor handling during storage and transportation, all of which reduce their nutritional value considerably. This chapter reviews the main factors that affect how vegetables maintain their nutritional quality after being harvested and also discusses various management approaches that can help reduce these nutrient losses. Across these areas—including preharvest growing conditions, harvest timing, temperature and humidity control, modified atmosphere packaging, and emerging preservation technologies—the literature indicates that combining rapid cooling, cold‐chain maintenance, and controlled atmosphere conditions consistently preserves more vitamin C, carotenoids, and phenolic content than any single intervention applied alone. Newer technologies, such as UV‐C treatment, edible coatings, and high‐pressure processing, offer additional commodity‐specific gains. However, they require careful optimization to avoid tissue damage or quality loss. Despite this progress, important gaps remain: commodity‐specific protocols are still lacking for many minor and tropical vegetables, predictive modeling and real‐time monitoring tools are rarely used to guide postharvest decisions, and biofortification and supply‐chain‐level interventions remain underexploited in smallholder settings; closing these gaps is a priority for future research. Overall, this chapter shows that better postharvest management practices can help reduce nutritional losses, improve food availability, and increase income for farmers and other people involved in vegetable production, especially in developing countries where postharvest losses are still very high and remain a major problem that needs urgent attention.",
+  "oa_url": "https://doi.org/10.1002/fpf2.70069",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1002/fpf2.70069"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemasaran, rantai pasok & rantai nilai"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-22",
+  "summary_id": null,
+  "relevance": 19
+ },
+ {
+  "id": "W7222996976",
+  "doi": "10.3390/challe17040042",
+  "title": "Household Energy Poverty in South Africa: Dimensions, Drivers, Disparities, and Implications for Health, Justice, and Sustainability",
+  "date": "2026-10-20",
+  "year": "2026",
+  "journal": "Challenges",
+  "issn": "20781547",
+  "publisher": "Multidisciplinary Digital Publishing Institute",
+  "authors": [
+   "Mahali Elizabeth Lesala",
+   "Patrick Mukumba"
+  ],
+  "abstract": "Although South Africa has achieved near-universal grid electrification, many connected households experience inadequate, unreliable, and unaffordable energy. This review asks why energy poverty persists despite improved access, a question at the intersection of social inequality, human health, and environmental sustainability, the core concerns of planetary health. Drawing on 143 sources (peer-reviewed studies, reports, and theses) from a structured search of Scopus and Google Scholar (1994–2026) and citation tracking, the review examines conceptual foundations, drivers, and disparities of household energy poverty by income, gender, location, and province; its associations with welfare, health, education, livelihoods, and the environment; and South Africa’s policy responses. Building on South African reviews that addressed measurement within the Just Energy Transition or focused on rural households, it makes three contributions: it covers urban, peri-urban, informal, and rural settings; it proposes a conceptual framework linking structural drivers, household energy conditions, well-being and environmental outcomes, and policy responses through multidimensional energy poverty, energy justice, and planetary health; and it appraises where the evidence is consistent, mixed, or limited. Evidence of the persistence and unequal distribution of energy poverty after connection is consistent, whereas evidence of its consequences is weaker. Energy transitions are not driven by electrification or decarbonization alone but by household energy well-being: whether households can obtain adequate, affordable, reliable, and safe energy that supports health and livelihoods while reducing environmental harm. Limitations include purposive source selection and mostly cross-sectional evidence; most reported relationships should therefore be read as associations rather than demonstrated causal effects.",
+  "oa_url": "https://doi.org/10.3390/challe17040042",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.3390/challe17040042"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-22",
+  "summary_id": null,
+  "relevance": 17
+ },
+ {
+  "id": "W7223048438",
+  "doi": "10.1186/s12913-026-15875-3",
+  "title": "Community health worker–reported observations of physical and mental disabilities among children in rural setting in Rwanda",
+  "date": "2026-10-20",
+  "year": "2026",
+  "journal": "BMC Health Services Research",
+  "issn": "14726963",
+  "publisher": "BioMed Central",
+  "authors": [
+   "Mignonne Umurerwa",
+   "Diane uwimpuhwe",
+   "Marie Josée Dukuzimana",
+   "Mara Anna Franke",
+   "Pierrette Ngutete Mukundwa",
+   "Emmanuel Ngwakongnwi"
+  ],
+  "abstract": "Abstract Background Physical and mental disabilities in childhood affect growth, development, and social participation, particularly in rural, low-resource settings where access to early diagnosis, care, and support systems is limited. Globally, 10–11% of children aged 0–17 years live with moderate-to-severe disabilities, more than half of whom reside in Sub-Saharan Africa and South Asia. In Rwanda, reported prevalence remains low, suggesting potential under-identification. Community Health Workers (CHWs) play a key role in identifying children with disabilities and facilitating referral to care. However, their capacity to identify physical and mental disabilities remains poorly understood. This study describes CHW-reported observations of childhood disabilities and examines factors associated with these observations. Methods We conducted a quantitative study using secondary data from 358 CHWs. CHWs reported whether they had observed at least one child with a physical or mental disability (yes/no) in their communities. Descriptive statistics summarized CHW characteristics and reported observations. Bivariate and multivariable logistic regression analyses were used to examine factors associated with CHWs’ observation of childhood disabilities. Results Among 358 CHWs (median age 45 years; 57.7% female), 63.6% reported observing at least one child with a disability. Frequently reported physical disabilities included genou valgum (38.3%), clubfoot (36.1%), and hearing impairment (34.0%). Commonly reported mental disabilities included developmental delay (40.1%) and epilepsy (21.7%). Most CHWs (94.6%) reported referring cases to health facilities. Female CHWs were more likely to report identifying disabilities than males (AOR = 2.03, 95% CI: 1.27–3.23; p = 0.003), while CHWs with 11–15 years of experience had higher odds of reporting childhood disabilities than those with less than 5 years of experience (AOR = 2.22, 95% CI: 1.08–4.56; p = 0.030). Conclusion CHWs play a critical role in community-based identification and referral of children with disabilities. Gender and experience influence observation patterns. Strengthening CHW capacity through targeted training, screening tools, and improved referral systems may enhance early identification and equitable access to care in rural settings.",
+  "oa_url": "https://doi.org/10.1186/s12913-026-15875-3",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1186/s12913-026-15875-3"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-22",
+  "summary_id": null,
+  "relevance": 17
+ },
+ {
   "id": "W7222947155",
   "doi": "10.1007/s11540-026-10162-4",
   "title": "Structural Changes and Supply Elasticity of Potato Production: The Case of Slovenia",
@@ -31,6 +595,50 @@
   "found_at": "2026-10-21",
   "summary_id": null,
   "relevance": 18
+ },
+ {
+  "id": "W7222953826",
+  "doi": "10.1016/j.scitotenv.2026.182357",
+  "title": "Knowledge and perceptions of climate change impacts on mental health in vulnerable populations in Africa: A scoping review",
+  "date": "2026-10-19",
+  "year": "2026",
+  "journal": "The Science of The Total Environment",
+  "issn": "00489697",
+  "publisher": "Elsevier BV",
+  "authors": [
+   "Israel Opeyemi Fawole",
+   "Monisayo Olayemi Komolafe",
+   "Ayodeji Oluwatobi Ojetunde",
+   "Ibiyosi Samuel Oluwole",
+   "Oyama Blessed Obem",
+   "AF Ajayi",
+   "Adesina Afeez Sulaiman",
+   "Adeyinka Ganiyat Ishola"
+  ],
+  "abstract": "Background Climate change is an escalating global health threat with underexplored implications for mental health. In Africa, vulnerable populations face disproportionate exposure to climate-related stressors; however, evidence regarding their knowledge and perceptions of climate-related mental health impacts remains fragmented. This scoping review mapped and synthesized evidence on how vulnerable populations in Africa understand and perceive the mental health impacts of climate change, and identified key geographical, methodological, and conceptual gaps to inform future research and policy. Methods This review followed the Arksey and O'Malley methodological framework and was reported in accordance with PRISMA-ScR guidelines. Comprehensive searches were conducted across PubMed, Scopus, Embase, Web of Science, The Lancet, and Google Scholar for studies published between 2010 and 2025. Eligible studies examined knowledge, perceptions, or awareness of climate change–related mental health outcomes among vulnerable populations in Africa. Data were extracted and synthesized using descriptive and thematic analysis. Results From 1299 records identified, 11 studies met the inclusion criteria. Most studies were conducted in East and West Africa, particularly Kenya and Ghana, and predominantly employed mixed-methods designs. Climate-related exposures included drought, flooding, extreme heat, storms, and water insecurity. Across studies, these exposures were repeatedly reported with adverse mental health outcomes, including anxiety, depression, stress, post-traumatic stress disorder, insomnia, and suicidal ideation. Knowledge and perceptions of climate change were experiential and culturally mediated, rather than grounded in formal scientific frameworks. Women, pastoralists, rural communities, migrants, and marginalized groups were identified as disproportionately vulnerable. Conclusion This scoping review maps a small and geographically uneven body of African literature in which climate-related stressors and adverse mental health outcomes are repeatedly reported together among vulnerable populations. Integrating mental health considerations into climate adaptation and disaster response strategies is warranted. Future research should prioritize longitudinal designs and underrepresented regions to strengthen the evidence base and guide appropriate policy interventions.",
+  "oa_url": "https://doi.org/10.1016/j.scitotenv.2026.182357",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1016/j.scitotenv.2026.182357"
+  ],
+  "oa_status": "hybrid",
+  "cited_by": 0,
+  "keywords": [
+   "climate change impacts",
+   "mental health",
+   "vulnerable populations",
+   "knowledge and perception",
+   "Africa",
+   "climate change adaptation"
+  ],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-22",
+  "summary_id": null,
+  "relevance": 25
  },
  {
   "id": "W7222985227",
