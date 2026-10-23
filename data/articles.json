@@ -1,5 +1,1000 @@
 [
  {
+  "id": "W7223176088",
+  "doi": "10.1002/pop4.70076",
+  "title": "Gender Differences in the Impact of Domestic and International Remittances on Household Food Security. Evidence From Rural Zimbabwe",
+  "date": "2026-10-22",
+  "year": "2026",
+  "journal": "Poverty & Public Policy",
+  "issn": "19442858",
+  "publisher": "Wiley",
+  "authors": [
+   "Dephine Mazambani",
+   "Obianuju E. Okeke-Uzodike",
+   "Tolulope Jolaade Adeogun"
+  ],
+  "abstract": "ABSTRACT Despite efforts, food security remains an elusive goal in rural Africa. Without robust safety nets, households employ alternative coping strategies, including internal and international migration to leverage remittances. Using data from a 2024 nationally representative cross‐sectional survey of 17,942 rural households conducted by the Zimbabwe Livelihoods Assessment Committee, we investigate whether domestic and international remittances reduce food insecurity and whether these effects are gendered. We use Propensity Score Matching (PSM) to address self‐selection bias, augmented by Inverse Probability Weighting Regression Adjustment (IPWRA) method. We find that: First, women‐headed households are more likely to receive both domestic and international remittances compared to men‐headed households. Second, both domestic and international remittances reduce food insecurity. Third, domestic remittances are more likely than international remittances to reduce mild food insecurity, but less likely to reduce extreme food insecurity. Fourth, international remittances are more likely than domestic remittances to reduce extreme food insecurity than mild food insecurity. Lastly, international remittances reduce extreme food insecurity more if a household is headed by a woman than a man, while domestic remittances have a similar effect on mild food insecurity. Policy should enable affordable remittance transfers to rural areas and increase women's power in using remittance income.",
+  "oa_url": "https://doi.org/10.1002/pop4.70076",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1002/pop4.70076"
+  ],
+  "oa_status": "hybrid",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender",
+   "Ketahanan pangan rumah tangga"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-23",
+  "summary_id": null,
+  "relevance": 40
+ },
+ {
+  "id": "W7223188893",
+  "doi": "10.1007/s13593-026-01142-6",
+  "title": "Assessing diversified farming’s effects on Central American cacao and coffee smallholders’ food security and vulnerability",
+  "date": "2026-10-22",
+  "year": "2026",
+  "journal": "Agronomy for Sustainable Development",
+  "issn": "17730155",
+  "publisher": "Springer Science+Business Media",
+  "authors": [
+   "Christopher M. Bacon",
+   "William A. Sundstrom"
+  ],
+  "abstract": "Abstract Diversified farming is one of several agroecological strategies for reducing smallholders’ risk and building resilience to climate change and other hazards. Accumulating evidence shows that farmers can use agroecology to improve household food security and influence food system transformations. However, additional research is needed to identify which agroecological strategies are used by whom and to what degree diversification, household characteristics, context, or other strategies contribute to farmer well-being and resilience. In 2022, we conducted a livelihood, agriculture, and food security survey with 429 randomly sampled smallholders, including 309 coffee farmers in northern Nicaragua’s Segovias region and 120 cacao farmers in north-central Nicaragua’s Waslala region. We examined the relationships linking diversified production—and other key agroecological principles—to food security, water security, and dietary diversity. We integrated statistical analysis into our participatory mixed methods approach using partner feedback to help design the survey and 13 farmer interviews to inform and interpret the statistical models. We found that cacao farmers in the wetter growing zone reported more crop diversity and organic production and less seasonal hunger than coffee growers. Food and input price inflation were more pressing concerns than the impact of hurricanes Eta and Iota for all producers. Our multivariate analysis found that significant correlates of food security included surplus subsistence (corn and bean) production, water security, farm size, and income. Product diversity and farmers’ formal education correlated significantly with household dietary diversity. This study finds evidence that agroecological diversified farming can enhance food security and dietary diversity among coffee and cacao smallholders. This is among the first studies comparing how cacao and coffee farmers’ diversified and agroecological production strategies relate to food security, water security, nutrition, and vulnerability, potentially holding implications for the 15 million plus smallholder coffee and cacao growers seeking more sustainable livelihoods and landscapes.",
+  "oa_url": "https://doi.org/10.1007/s13593-026-01142-6",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1007/s13593-026-01142-6"
+  ],
+  "oa_status": "hybrid",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Ketahanan pangan rumah tangga"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-23",
+  "summary_id": null,
+  "relevance": 37
+ },
+ {
+  "id": "W7223184050",
+  "doi": "10.1007/s11111-026-00542-w",
+  "title": "Weather shocks and fertility: evidence from drought exposure in rural India",
+  "date": "2026-10-22",
+  "year": "2026",
+  "journal": "Population and Environment",
+  "issn": "01990039",
+  "publisher": "Springer Science+Business Media",
+  "authors": [
+   "Divya Pandey"
+  ],
+  "abstract": "Abstract The total fertility rate in rural India has fallen by half in recent decades. This paper seeks to understand the role of negative weather shocks in decreasing fertility rates in rural India. Using birth histories of a cohort of rural women and a difference-in-differences framework, I find that the average probability of birth to a woman shows a significant decline of about 1.4 percentage points in the ten years following a drought, suggesting adjustment in fertility rates by households following a weather-induced economic shock. I also find that this decline is concentrated at higher birth parities. Using an event-study framework, I further show that while part of the decline in births occurs immediately and persists in the first few years after exposure to droughts, there is also a delayed effect, with the probability of birth most visibly declining six years after the initial shock. I also find suggestive evidence that women in more drought-prone regions are more likely to report a desire for fewer children, highlighting the role of repeated environmental shocks on desired family size.",
+  "oa_url": "https://doi.org/10.1007/s11111-026-00542-w",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1007/s11111-026-00542-w"
+  ],
+  "oa_status": "hybrid",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-23",
+  "summary_id": null,
+  "relevance": 25
+ },
+ {
+  "id": "W7223168634",
+  "doi": "10.1017/s1740022826100734",
+  "title": "Following East African cowries: Currency supply, transoceanic exchange, and monetary transformation in the nineteenth century",
+  "date": "2026-10-22",
+  "year": "2026",
+  "journal": "Journal of Global History",
+  "issn": "17400228",
+  "publisher": "Cambridge University Press",
+  "authors": [
+   "Karin Pallaver"
+  ],
+  "abstract": "Abstract This article recentres East Africa in the global history of cowrie shells by tracing the trajectories of Monetaria annulus —the East African cowrie species—across interconnected monetary arenas in the nineteenth century. Situating African monetary history within transoceanic processes, it argues that the ‘great cowrie inflation’ in West Africa was closely tied to the reorganization of procurement networks, labour regimes, and commercial infrastructures in the Western Indian Ocean. Viewed from Zanzibar, the massive export of East African cowries emerges as the outcome of intersecting processes: price fluctuations in Maldivian shells, the expansion of the palm oil trade, extractive labour networks, and imperial interests. The article further shows that the same infrastructures were later reoriented toward the Great Lakes region, tracing how a single commodity connected East and West Africa, the Indian Ocean, and the Atlantic world. Following cowries across these overlapping spaces demonstrates that monetary history—wherever it is written—cannot be fully understood without attending to the supply-side infrastructures that made money available.",
+  "oa_url": "https://doi.org/10.1017/s1740022826100734",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1017/s1740022826100734"
+  ],
+  "oa_status": "hybrid",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Kelapa sawit"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-23",
+  "summary_id": null,
+  "relevance": 23
+ },
+ {
+  "id": "W7223112547",
+  "doi": "10.1186/s12903-026-10214-8",
+  "title": "Cross-sectional survey and analysis of factors associated with adult dental caries in Ngari Prefecture, Tibet, China (2021–2022)",
+  "date": "2026-10-22",
+  "year": "2026",
+  "journal": "BMC Oral Health",
+  "issn": "14726831",
+  "publisher": "BioMed Central",
+  "authors": [
+   "Yueping Wang",
+   "Lamu Suonan",
+   "Jiangcuo Zhaxi",
+   "Shique Qiangjiu",
+   "Ming Gong",
+   "Linghan Qu",
+   "Bing Lei",
+   "Qin Zhou",
+   "Cheng Chen"
+  ],
+  "abstract": "Ngari Prefecture, Tibet, a typical cold and hypoxic region with an average altitude over 4,500 m, lacks sufficient oral health survey data on local dental caries. This study estimated the prevalence of dental caries and explored its associations with sociodemographic characteristics and oral health behaviors. Adults aged 25–74 years were recruited using a multistage design with quota sampling at the final stage. Decayed, missing, and filled tooth (DMFT), decayed and filled root (DF-Root), oral-health awareness, and behaviors were assessed. Statistical analyses included independent-samples t tests, chi-square tests, multivariable logistic regression, and a modified Poisson sensitivity analysis with robust variance estimation. A total of 607 participants were divided into five age groups:25–34, 35–44, 45–54, 55–64 and 65–74 years. The mean DMFT(SD) of each group was 4.00(1.98), 7.50(3.38), 8.59(4.59), 11.63(4.77), and 17.40(5.61). Coronal caries restoration rates were 36.59%, 18.85%, 15.83%, 9.84%, and 10.00%, with Crown Caries Filling Ratio (CCFR) of 26.64%, 7.11%, 5.68%, 2.73%, and 2.15%. The mean DF-Root (SD) was 0.31 (0.62), 0.76 (1.38), 1.15 (1.50), 1.98 (2.32), and 2.63 (2.65). Multivariable logistic regression showed that female gender (aOR = 1.86, 95% CI:1.11–3.11), rural residency (aOR = 2.19, 95% CI:1.29–3.70), 45–54,55–64,65–74 year age groups (aOR = 5.04, 95% CI:2.17–11.68; aOR = 12.30, 95% CI:5.60-27.01; aOR = 73.91, 95% CI: 30.97-176.38; modified Poisson sensitivity analysis: aPR = 12.62, 95% CI: 6.76–23.55) and valuing oral health and dental aesthetics (aOR = 2.93, 95% CI:1.23–6.99) were positively associated with coronal caries, while annual household income ≥CNY30,000 (aOR = 0.25, 95% CI:0.10–0.67) showed a negative association with this outcome. For root caries, female gender (aOR = 1.67,95% CI:1.13–2.48), rural residency (aOR = 2.99,95% CI:1.99–4.50), and 45–54,55–64, 65-74y age groups (aOR = 2.15, 95% CI:1.06–4.34; aOR = 3.24, 95% CI:1.59–6.60; aOR = 3.69, 95% CI:1.73–7.89) were positively associated with root caries. Factors inversely associated with root caries included primary school education (aOR = 0.35,95% CI:0.19–0.63), Dental checkup frequency above 1 year (aOR = 0.62, 95% CI:0.40–0.98),annual household income of CNY10,000-<30,000 (aOR = 0.37,95% CI:0.24–0.59),and ≥CNY30,000 (aOR = 0.39,95% CI:0.21–0.72). Adults in Ngari Prefecture have a high burden of severe dental caries. Coronal caries is correlated with region, gender, age, oral health awareness, and income, while root caries is associated with region, gender, age, educational attainment, and income. These findings may inform the reduction of caries prevalence in Ngari Prefecture.",
+  "oa_url": "https://doi.org/10.1186/s12903-026-10214-8",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1186/s12903-026-10214-8"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-23",
+  "summary_id": null,
+  "relevance": 17
+ },
+ {
+  "id": "W7223171666",
+  "doi": "10.1186/s12885-026-17222-5",
+  "title": "Individual, social, economic, and health system determinants of cervical cancer screening uptake among women in Rubanda District, Uganda",
+  "date": "2026-10-22",
+  "year": "2026",
+  "journal": "BMC Cancer",
+  "issn": "14712407",
+  "publisher": "BioMed Central",
+  "authors": [
+   "Gervase Centinary",
+   "Sebastian Olikira Baine",
+   "Sezalio Masembe",
+   "Ronald Kibonire Arineitwe"
+  ],
+  "abstract": "Cervical cancer screening uptake in Sub-Saharan Africa is shaped by individual, social, economic, and health system factors, yet few studies test all four domains simultaneously within a single rural district. This study examined individual, social, economic, and health system determinants of screening uptake among women aged 18 years and above in Rubanda District, Uganda, a district with critically low screening coverage. A community-based cross-sectional study was conducted among 418 women aged 18 years and above across four sub-counties of Rubanda District, selected through multi-stage sampling. Individual, social, economic, and health system characteristics were collected via structured questionnaire. Univariable logistic regression tested associations with uptake; variables meeting p < 0.05 were entered into a single multivariable model adjusting for all four domains. At the univariable level, education, parity, cost awareness, and waiting time were significantly associated with uptake. Seven variables retained independent significance in the multivariable model, spanning two of the four domains. Women with no children had lower odds of screening than those with 1–4 children (AOR = 0.20). Knowing payment was required for screening was associated with markedly higher odds than being unsure about cost (AOR = 12.34); believing screening was free was no longer significant after adjustment. Waiting time showed a threshold effect: one hour raised odds of screening (AOR = 6.96) while over two hours lowered them sharply (AOR = 0.08). Longer or unspecified procedure duration lowered odds (AOR = 0.23), and both fair (AOR = 7.64) and good (AOR = 10.78) provider attitudes raised odds relative to a bad attitude. No other factor retained significance after adjustment. Reproductive history, cost clarity, and health system factors, specifically waiting time, procedure duration, and provider attitude, are the dominant independent determinants of screening uptake in Rubanda District. Education and risk perception, though associated with uptake before adjustment, lose significance once economic and health system factors are accounted for; religious affiliation showed no association at any stage. Interventions should prioritise clear cost communication, shorter waiting times, simplified procedures, better provider-patient interactions, and outreach to women without children.",
+  "oa_url": "https://doi.org/10.1186/s12885-026-17222-5",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1186/s12885-026-17222-5"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-23",
+  "summary_id": null,
+  "relevance": 15
+ },
+ {
+  "id": "W7223173231",
+  "doi": "10.1186/s40795-026-01527-6",
+  "title": "Dietary patterns and their association with glycated haemoglobin among adults with type 2 diabetes mellitus in urban DR Congo in 2025: a cross-sectional study",
+  "date": "2026-10-22",
+  "year": "2026",
+  "journal": "BMC Nutrition",
+  "issn": "20550928",
+  "publisher": "BioMed Central",
+  "authors": [
+   "Steve Botomba",
+   "Christiane Horwood",
+   "Branly Kilola Mbunga",
+   "Marie-Claire Muyer",
+   "Lyn Haskins",
+   "Nickson Poka",
+   "Mala Ali Mapatano",
+   "Pierre Zalagile Akilimali"
+  ],
+  "abstract": "Type 2 diabetes mellitus (T2DM) is a growing public health concern in sub-Saharan Africa, where rapid urbanisation and dietary changes contribute to poor glycaemic control among diabetic patients. In the Democratic Republic of the Congo, little is known about how dietary practices affect glycaemic control among diabetic adults. This study assessed dietary patterns and their associations with glycated haemoglobin (HbA1c) among adults with T2DM in Kinshasa, with a focus on socioeconomic factors influencing diet. A cross-sectional survey was conducted in a random sample of 540 adults with T2DM attending 27 primary and 27 secondary health facilities in April 2025. Dietary practices were assessed using an adapted qualitative 7-day food-frequency questionnaire covering 20 food groups. Principal component analysis identified dietary patterns, and survey-clustered generalised linear models were used to examine associations between dietary pattern quintiles and mean HbA1c, adjusting for sociodemographic, lifestyle, and food-insecurity variables. Overall, 442/509 (86.8%) of participants had uncontrolled diabetes (HbA1c ≥ 7%), 40% reported severe household food insecurity, and 60.9% were obese or overweight. Four dietary patterns explained 36.8% of the total variance: 1) vegetable, fish & plant-rich; 2) mixed protein & staple; 3) refined-grain & dairy-sweet; and oil & dairy. Higher adherence to the refined-grain and dairy-sweet pattern was associated with higher HbA1c in Q2 (Adjusted Exp(β) = 1.10; 95% CI: 1.02–1.18), Q3 (Adjusted Exp(β) = 1.09; 95% CI: 1.03–1.15), and Q4 (Adjusted Exp(β) = 1.08; 95% CI: 1.01–1.16), compared with Q1. No clear associations were observed for other dietary patterns. Longer diabetes duration (> 5 years) was associated with higher HbA1c (Adjusted Exp(β) = 1.05; 95% CI: 1.01–1.10), while age was inversely associated (Adjusted Exp(β) = 0.9965; 95% CI: 0.994–0.999). Among clinic-attending adults with T2DM in Kinshasa, a diet high in refined grains and dairy-sweets was associated with poorer glycaemic control. Poor glycaemic control was widespread despite reported dietary adherence, suggesting ineffective nutrition guidance and systemic barriers like food insecurity. The findings argue for the need to integrate culturally adapted nutrition counselling and affordable food-based interventions into diabetes management.",
+  "oa_url": "https://doi.org/10.1186/s40795-026-01527-6",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1186/s40795-026-01527-6"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Ketahanan pangan rumah tangga"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-23",
+  "summary_id": null,
+  "relevance": 0
+ },
+ {
+  "id": "W7223083246",
+  "doi": "10.1007/s43621-026-04858-3",
+  "title": "Traceability technologies and smallholder farm gate prices and export readiness in Sub Saharan African agri food chains an exploratory systematic review and meta analysis",
+  "date": "2026-10-21",
+  "year": "2026",
+  "journal": "Discover Sustainability",
+  "issn": "26629984",
+  "publisher": "Springer Nature",
+  "authors": [
+   "Edamisan Stephen Ikuemonisan",
+   "Taiwo Ejiola Mafimisebi"
+  ],
+  "abstract": "Across Sub-Saharan Africa (SSA), blockchain, Internet of Things (IoT), QR codes, and mobile-based traceability technologies are promoted as transformative solutions to reconcile smallholder inclusion with stringent export market demands. After a decade of pilots, a fundamental paradox persists: strong technological optimism coexists with weak evidence of farm-gate price effects. This systematic review and meta-analysis quantified the pooled association between traceability technology adoption and smallholder farm-gate prices and export readiness. The study tested whether technology type or institutional organisation moderated these effects. Scopus, Web of Science, CAB Abstracts, and AgEcon Search were systematically searched for the period 2015–2025. Forty-one eligible studies were identified. Thirty-four studies reported farm-gate price outcomes, and 23 studies reported export compliance outcomes. Random-effects meta-analysis, mixed-effects meta-regression, and publication bias diagnostics (Egger’s test, trim-and-fill, small-study meta-regression) were employed. Effect sizes were reported as Hedges’ *g* and interpreted using Cohen’s [18] conventions. Traceability adoption was associated with a small-to-moderate positive effect on farm-gate prices (pooled *g* = 0.38; 95% CI: 0.24–0.52; I 2 = 82.4%; k = 34) and a 2.48-fold increase in export compliance odds (95% CI: 1.86–3.32; I 2 = 67.3%; k = 23). Technology type did not predict effect size. Blockchain (*g* = 0.29), IoT (*g* = 0.52; k = 4, provisional), and QR codes (*g* = 0.21) showed no statistically significant difference from basic digital tools (*g* = 0.44) after controlling for institutional context. Cooperative organisation dominated as the effect modifier. Cooperative members achieved a moderate-to-large effect (*g* = 0.53; 95% CI: 0.38–0.68), nearly three times that of individual farmers (*g* = 0.19; 95% CI: 0.02–0.36). Exporter-controlled traceability systems were associated with significantly lower farm-gate price benefits (β = − 0.18; p = 0.027). Publication bias was present (Egger’s intercept = 1.84; p = 0.008). The bias-corrected effect remained a small positive (*g* = 0.31; 95% CI: 0.17–0.45). The evidence base was predominantly pilot-scale (80.5% of studies <1000 farmers) and geographically concentrated (Kenya 34.1%, Ghana 14.6%, Nigeria 12.2%). Traceability technologies generated genuine but modest farm-gate price benefits. These benefits were not intrinsic to any technology. Blockchain conferred no advantage over basic.",
+  "oa_url": "https://doi.org/10.1007/s43621-026-04858-3",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1007/s43621-026-04858-3"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Akses & informasi pasar petani",
+   "Kelembagaan petani & tindakan kolektif",
+   "Adopsi teknologi & pertanian digital"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-23",
+  "summary_id": {
+   "tujuan": "Meringkas dan mengukur secara gabungan hubungan antara adopsi teknologi ketertelusuran (traceability) dengan harga di tingkat petani (farm-gate) dan kesiapan ekspor petani kecil di rantai agri-pangan Afrika Sub-Sahara, serta menguji apakah jenis teknologi dan bentuk kelembagaan memoderasi efek tersebut. Studi ini juga memeriksa seberapa besar bias publikasi memengaruhi temuan.",
+   "metode": "Systematic review dan meta-analisis dengan pencarian di Scopus, Web of Science, CAB Abstracts, dan AgEcon Search untuk periode 2015–2025; sebanyak 41 studi memenuhi syarat (34 studi hasil harga, 23 studi kepatuhan ekspor). Analisis memakai random-effects, mixed-effects meta-regression, serta uji bias publikasi (Egger, trim-and-fill, small-study meta-regression) dengan ukuran efek Hedges' g dan odds ratio.",
+   "temuan": "Adopsi ketertelusuran berasosiasi dengan efek positif kecil-sedang pada harga petani (g = 0,38; 95% CI 0,24–0,52; I² = 82,4%; k = 34) dan peningkatan odds kepatuhan ekspor 2,48 kali (95% CI 1,86–3,32). Jenis teknologi tidak memprediksi ukuran efek, sedangkan petani anggota koperasi memperoleh efek lebih besar (g = 0,53) dibanding petani individu (g = 0,19); sistem yang dikendalikan eksportir berasosiasi dengan manfaat harga lebih rendah (β = −0,18; p = 0,027). Setelah koreksi bias publikasi, efek tersisa g = 0,31, sehingga temuan bersifat asosiatif, bukan kausal.",
+   "keterbatasan": "Terdapat bias publikasi (Egger p = 0,008) dan heterogenitas sangat tinggi; 80,5% studi berskala pilot (<1.000 petani) dan bukti terkonsentrasi di Kenya, Ghana, dan Nigeria. Estimasi IoT (k = 4) bersifat provisional, dan abstrak terpotong di bagian akhir sehingga temuan terkait blockchain tidak sepenuhnya terbaca.",
+   "relevansi": "Temuan tentang peran koperasi sebagai pemoderasi dan dominasi sistem yang dikendalikan eksportir relevan dengan kajian kelembagaan petani, akses pasar, dan posisi tawar petani dalam rantai nilai. Kerangka ini dapat diuji ulang pada komoditas ekspor Kalimantan Tengah seperti sawit, karet, atau kakao, meski konteks Indonesia belum tercakup dalam studi ini.",
+   "skor": 4,
+   "model": "claude-haiku-5-5",
+   "sumber": "abstrak"
+  },
+  "relevance": 64
+ },
+ {
+  "id": "W7223095119",
+  "doi": "10.1371/journal.pntd.0014815",
+  "title": "“I will not accept to bury my pig”: Taenia solium, WASH, and gender roles in the smallholder pork value chain in Southern Province, Rwanda",
+  "date": "2026-10-21",
+  "year": "2026",
+  "journal": "PLoS neglected tropical diseases",
+  "issn": "19352727",
+  "publisher": "Public Library of Science",
+  "authors": [
+   "Janna M. Schurer",
+   "Ruth Zihiga Uwase",
+   "Prince Rwagasore",
+   "Kristen Rodrigues",
+   "Anselme Shyaka",
+   "Tayechalem Moges"
+  ],
+  "abstract": "Taenia solium is a zoonotic cestode and the causative agent of human taeniasis/cysticercosis and porcine cysticercosis. The burden in Rwanda is significant, including death and disability in people and income losses across the pork sector. Despite widespread recognition on the need for multi-sectoral and inclusive T. solium control programming, little is known about water, sanitation and hygiene (WASH) access and gendered disease exposure among rural smallholders involved in the formal and informal pork sectors. This study aimed to characterize gender roles and WASH access in the Nyamagabe District (Southern Province) pork value chain (PVC) to better inform future interventions for disrupting T. solium transmission. We conducted Focus Group Discussions with 23 men and 21 women across five nodes of the PVC (farmers, animal health workers, butchers, vendors, consumers) and interviewed six key informants. Audio-recordings were transcribed verbatim, translated into English and coded as part of inductive thematic analysis. PVC participants identified numerous biosecurity gaps in the Nyamagabe PVC, such as free-range pig production, re-use of human waste, lack of prevention services (deworming, vaccination), informal slaughter, and consumption of infected and/or undercooked pork. Traditional gender roles were prevalent, with women managing domestic roles related to pig husbandry and men managing roles related to building pens, buying/selling pigs and slaughtering/butchering. Water and sanitation facilities were frequently inadequate, causing serious lapses in human and pig hygiene. Participants identified poverty as a major barrier for implementing T. solium control but demonstrated enthusiasm for receiving information and resources to support this goal. Altogether, these findings support the need for One Health programming to reduce the burden of T. solium and other zoonotic diseases in people and pigs in Rwanda. Gendered norms among rural smallholders indicated a need for gender transformative information campaigns targeting specific recipients along the PVC nodes.",
+  "oa_url": "https://doi.org/10.1371/journal.pntd.0014815",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1371/journal.pntd.0014815"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemasaran, rantai pasok & rantai nilai",
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-23",
+  "summary_id": null,
+  "relevance": 47
+ },
+ {
+  "id": "W7223086078",
+  "doi": "10.3390/land15102009",
+  "title": "Climate Extremes and Land Transfer Decisions Among Grain Farmers: Evidence from China’s Rural Fixed Observation Points",
+  "date": "2026-10-21",
+  "year": "2026",
+  "journal": "Land",
+  "issn": "2073445X",
+  "publisher": "Multidisciplinary Digital Publishing Institute",
+  "authors": [
+   "Song Yu",
+   "Zegang Li",
+   "Lulu Yang",
+   "Wen Li"
+  ],
+  "abstract": "Global warming is increasing the frequency of extreme weather events and threatening agricultural production and food security. As land is a core input in grain production, adjustments in land allocation represent a key adaptation pathway. Using national fixed-point survey data from China’s Ministry of Agriculture and Rural Affairs and multi-dimensional fixed-effects framework, we examine how extreme weather shapes grain farmers’ land transfer (rental) decisions. Linear probability models (LPMs) are employed for binary transfer decisions, and standard linear models for transfer area, both controlling for year fixed effects, regional fixed effects and their interactive effects. We find that extreme weather discourages grain farmers from renting land and encourages them to rent out land. Farmers with stronger resource endowments attenuate this response—showing smaller reductions in land renting and smaller increases in land renting-out—consistent with factor substitution, asset specificity, and risk-buffering effects. Market and policy factors both moderate the extreme weather–land transfer relationship but in opposite directions: market factors primarily ease labor mobility constraints, whereas policy factors focus on stabilizing agricultural production. The effects also vary substantially by gender, income, and region.",
+  "oa_url": "https://doi.org/10.3390/land15102009",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.3390/land15102009"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender",
+   "Ketahanan pangan rumah tangga"
+  ],
+  "priority_journal": true,
+  "language": "en",
+  "found_at": "2026-10-23",
+  "summary_id": null,
+  "relevance": 46
+ },
+ {
+  "id": "W7223183416",
+  "doi": "10.3390/agriculture16202298",
+  "title": "How Does the Adoption of Digital and Intelligent Technologies Affect Farmers’ Farmland Rental-In Behavior? Evidence from Grain-Growing Farmers in China",
+  "date": "2026-10-21",
+  "year": "2026",
+  "journal": "Agriculture",
+  "issn": "20770472",
+  "publisher": "Multidisciplinary Digital Publishing Institute",
+  "authors": [
+   "Guoying Han",
+   "Gang Wu",
+   "Jianhua Wang",
+   "Qiang Gao"
+  ],
+  "abstract": "Farmland rental is an important means of optimizing agricultural land allocation and promoting appropriately scaled farming. Against the backdrop of accelerating digital and intelligent transformation in agricultural, how digital and intelligent technology (DIT) adoption relates to farmers’ farmland rental-in behavior require clear theoretical explanation and empirical validation. Using 2024 survey data from 385 grain-growing farmers in Jiangsu Province, China, this study examines the relationship between DIT adoption and farmland rental-in behavior using Probit, endogenous switching regression, IV-Probit, and conditional mixed-process models. The results show that DIT adoption is significantly and positively associated with both farmland rental-in decisions and rented-in scale. These findings remain robust across alternative samples and estimation specifications. Heterogeneity analyses indicate that this positive association is more pronounced for production-oriented than information-oriented DIT applications, for farms with larger baseline operational scales than smallholders, and for households with lower aging ratios. Mechanism analyses suggest that DIT adoption corresponds to farmland rental-in primarily through labor substitution effects and transaction cost reductions in rural land markets. This study extends farmland rental research to the context of agricultural digitalization, offering empirical insights for advancing digital agriculture, improving farmland rental markets, and fostering appropriately scaled farming operations.",
+  "oa_url": "https://doi.org/10.3390/agriculture16202298",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.3390/agriculture16202298"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Adopsi teknologi & pertanian digital"
+  ],
+  "priority_journal": true,
+  "language": "en",
+  "found_at": "2026-10-23",
+  "summary_id": null,
+  "relevance": 46
+ },
+ {
+  "id": "W7223107004",
+  "doi": "10.1007/s10460-026-10977-4",
+  "title": "Gender matters in seed system assessments: evidence from smallholder farms in Morocco, Senegal, and Madagascar",
+  "date": "2026-10-21",
+  "year": "2026",
+  "journal": "Agriculture and Human Values",
+  "issn": "0889048X",
+  "publisher": "Springer Nature (Netherlands)",
+  "authors": [
+   "Vanesse Labeyrie",
+   "Florence Lebeaupin",
+   "Juliette Mariel",
+   "Katina Floride Olodo",
+   "Irene Teixidor‐Toneu",
+   "Justine Stutz",
+   "Océane Cobelli",
+   "Ewen Menguy",
+   "Samba Sy",
+   "Santatra Malala Elodie Raharinajaina",
+   "Hasina Fabrice Rajoharison",
+   "Nomenjanahary Clairence Ninah Ravoniarimalala"
+  ],
+  "abstract": "Despite growing recognition of the importance of involving smallholder farmers in seed systems governance, gender remains a critical but overlooked dimension. Women’s seed practices are often misunderstood, underdocumented, and excluded from policy and research, leading to governance frameworks that fail to address their needs or even exacerbate inequalities. This calls for collecting gender-disaggregated data and developing more inclusive methodologies in seed system assessments. However, the challenges that this raises and the benefits of doing so are as yet unknown. Drawing on surveys from 1,054 smallholder farms in Morocco, Senegal, and Madagascar, this research first identifies the methodological challenges in capturing women’s seed knowledge and practices. It then evaluates gender bias in seed data by comparing responses from male and female household members regarding seeds and their sourcing practices. The findings reveal significant barriers to including women in seed surveys, notably the gendered organization of care work and the limited recognition of women as legitimate holders of agricultural knowledge. These barriers generate systematic biases that under-represent women’s roles in seed systems. The results further reveal significant differences in the crops and seed sources reported by men and women, demonstrating that interviewing only male household heads - a common practice in seed system research- produces substantial biases. Interpreting the findings through the lenses of epistemic justice and social reproduction theory, the study argues that research practices can both reproduce and challenge the systemic devaluation of women’s seed knowledge. It proposes a set of principles to move beyond the productive–reproductive dichotomy and support the collection of gender-disaggregated data for more inclusive seed system research and governance.",
+  "oa_url": "https://doi.org/10.1007/s10460-026-10977-4",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1007/s10460-026-10977-4"
+  ],
+  "oa_status": "hybrid",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": true,
+  "language": "en",
+  "found_at": "2026-10-23",
+  "summary_id": null,
+  "relevance": 43
+ },
+ {
+  "id": "W7223007550",
+  "doi": "10.1016/j.geoderma.2026.118088",
+  "title": "An adaptive framework to bridge soil health gaps in tropical smallholder farming contexts",
+  "date": "2026-10-21",
+  "year": "2026",
+  "journal": "Geoderma",
+  "issn": "00167061",
+  "publisher": "Elsevier BV",
+  "authors": [
+   "Anna M. Visscher",
+   "Frank Rasche",
+   "Giulia Bongiorno",
+   "Rachel Creamer",
+   "Steven J. Fonte",
+   "Samuel Mathu Ndungu",
+   "Rachid Moussadek",
+   "Joyce C. Mutai",
+   "Didier Lesueur",
+   "David A. Ramírez",
+   "Johan Six",
+   "Bernard Vanlauwe"
+  ],
+  "abstract": "Declining soil health threatens food security and the livelihoods of millions of smallholder farmers across the Global South, while increasing their vulnerability to climate change. Yet, existing soil health frameworks are mostly focused on the Global North and fail to guide practical decision-making that is tailored to local contexts. Here, we conceptualize soil health as a foundational pillar of agronomic performance of smallholder crop systems and present a purpose-led and adaptive soil health framework to bridge soil health gaps. Similar to the yield gap concept, we define the ‘soil health gap’ as a benchmark of the soil’s current performance relative to its potential under improved management with respect to ecological functions, including crop production, carbon storage, nutrient cycling and water regulation. Integration of soil chemical, physical, and biological indicators provides a tool to identify the specific soil health gap to be addressed in a given context, and to monitor improvement. The framework follows four iterative phases: (i) Contextualize: characterize local conditions and engage stakeholders; (ii) Diagnose: identify functional soil health constraints using context-sensitive indicators; (iii) Advise: translate diagnostics into actionable recommendations; and (iv) Monitor: track changes in soil health, agronomic and livelihood outcomes. Based on examples from Peru, Kenya and Vietnam we illustrate the applicability of the framework and draw lessons from existing experiences in contrasting smallholder contexts. Finally, we highlight priorities for further research and implementation. The proposed approach bridges scientific knowledge and smallholder realities, proposing a pathway to address soil health gaps and enhance the resilience of tropical smallholder crop systems.",
+  "oa_url": "https://doi.org/10.1016/j.geoderma.2026.118088",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1016/j.geoderma.2026.118088"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [
+   "soil health",
+   "smallholder farming",
+   "tropical agriculture",
+   "adaptive framework",
+   "soil management",
+   "sustainable agriculture"
+  ],
+  "topics": [
+   "Ketahanan pangan rumah tangga"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-23",
+  "summary_id": null,
+  "relevance": 39
+ },
+ {
+  "id": "W7223105459",
+  "doi": "10.3390/su182010689",
+  "title": "How Does Digital Literacy Promote Inclusive Rural Growth? Micro-Level Evidence from Income Inequality Among Farm Households",
+  "date": "2026-10-21",
+  "year": "2026",
+  "journal": "Sustainability",
+  "issn": "20711050",
+  "publisher": "Multidisciplinary Digital Publishing Institute",
+  "authors": [
+   "Yong Feng",
+   "Shuokai  kai Wang",
+   "Fangping Cao"
+  ],
+  "abstract": "Against the backdrop of the coordinated advancement of digital village construction and the common prosperity strategy, the widespread improvement in rural households’ digital literacy is emerging as a key force in reshaping rural income distribution and enabling sustainable rural development. Whether digital dividends can equitably benefit farm households with heterogeneous endowments has a direct bearing on the inclusive growth outcomes of digital village construction and the sustainable advancement of the common prosperity goal. Using three waves of panel data from the China Family Panel Studies (CFPS) covering 2018 to 2022, this paper empirically examines the impact of digital literacy on income inequality among rural households. The findings indicate that improvements in digital literacy significantly reduce rural household income inequality, and this conclusion remains robust across a series of robustness checks. Mechanism analysis reveals that digital literacy mainly curbs the widening of rural household income gaps through two core channels: expanding social capital and alleviating credit constraints. Heterogeneity analysis shows that the inequality-reducing effect of digital literacy is more pronounced among households that depend on non-agricultural income, have lower levels of human capital, or fall into relatively lower income brackets. Further analysis demonstrates that digital literacy significantly reduces inequalities in wage income, business income, and property income across rural households, whereas its mitigating effect on transfer income inequality is not statistically significant. Meanwhile, digital literacy significantly raises the probability of upward income mobility among rural households, thereby alleviating income inequality from a dynamic perspective. On the basis of these findings, this paper proposes policy implications in several areas: building a hierarchical and categorized rural digital literacy cultivation system, fostering a virtuous cycle of digital empowerment, equal opportunity, and income convergence, and optimizing income distribution structures and dynamic mobility mechanisms, with the aim of accelerating progress toward common prosperity.",
+  "oa_url": "https://doi.org/10.3390/su182010689",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.3390/su182010689"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": true,
+  "language": "en",
+  "found_at": "2026-10-23",
+  "summary_id": null,
+  "relevance": 38
+ },
+ {
+  "id": "W7223133996",
+  "doi": "10.1371/journal.pone.0361129",
+  "title": "Dual burden of malnutrition among mother-child dyads in Mozambique: Findings from the Demographic and Health Survey 2022–2023",
+  "date": "2026-10-21",
+  "year": "2026",
+  "journal": "PLoS ONE",
+  "issn": "19326203",
+  "publisher": "Public Library of Science",
+  "authors": [
+   "Nahin Shakurun",
+   "Fernanda Andre",
+   "Nazeem Muhajarine"
+  ],
+  "abstract": "Introduction Nutritional challenges are a global public health concern, especially among children under five in sub-Saharan African countries. The coexistence of an overweight/obese mother and an underweight child in the same household is recognized as a dual burden of malnutrition (DBM). This study estimated the prevalence, identified associated factors, and assessed socioeconomic inequalities in DBM among mother-child dyads in Mozambique. Methods We used nationally representative, cross-sectional data from the Mozambique Demographic and Health Survey 2022–2023 (n = 3,605 mother-child dyads). Child undernutrition and maternal BMI status were calculated using the World Health Organisation (WHO) standard guidelines. The outcome variable, DBM, was defined as the presence of child undernutrition condition (stunting, wasting or underweight) with corresponding maternal overweight/obesity. Multivariable binary logistic regression, Erreygers’s concentration index, and concentration curve analyses were performed, accounting for the complex survey design, to determine associated factors and social inequalities. Results The prevalence of DBM was 5.5% [95% CI: 4.6, 6.6]. Mothers aged ≥ 34 years [aOR (95% CI): 4.01(1.44, 11.14); p < 0.05] and mothers with four or more children [aOR (95% CI): 2.68(1.29, 5.57); p < 0.05] had higher odds of DBM. Rural residence and using unimproved toilet facilities (latter an indicator) were also significantly associated with DBM. Additionally, maternal age modified the association between women’s empowerment and mother-child DBM. Women aged 15–19 years at the lowest and highest empowerment levels were more likely to experience DBM than women 20 years or older. A positive and statistically significant concentration index indicates that wealth-related inequalities exist, with DBM more concentrated among wealthier mother-child dyads. Conclusion Our study highlights the occurrence of household-level DBM in Mozambique. These findings emphasize the need for targeted interventions addressing social and economic inequalities, including poor sanitation, a marker of broader household deprivation. Prioritizing integrated maternal-child nutrition interventions within national strategies is essential to improving equity in nutrition and health outcomes.",
+  "oa_url": "https://doi.org/10.1371/journal.pone.0361129",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1371/journal.pone.0361129"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": true,
+  "language": "en",
+  "found_at": "2026-10-23",
+  "summary_id": null,
+  "relevance": 38
+ },
+ {
+  "id": "W7223138234",
+  "doi": "10.1080/16549716.2026.2750047",
+  "title": "Pathways, consequences, and community-proposed responses to school discontinuation in rural eastern Uganda: a qualitative study",
+  "date": "2026-10-21",
+  "year": "2026",
+  "journal": "Global Health Action",
+  "issn": "16549716",
+  "publisher": "Taylor & Francis",
+  "authors": [
+   "Yang Jae Lee",
+   "Matthew D. Edwards",
+   "Anne C. Carrier",
+   "Charlotte Reynolds",
+   "Hernando Magallanes",
+   "Tubenawe Bruno",
+   "Marcella Nakate Ingrid",
+   "Irene Chau",
+   "Shakira Nakaweesi",
+   "Johanna Hvalic-Mwase",
+   "Gladys Namuluta",
+   "Rauben Kazungu"
+  ],
+  "abstract": "Background Education is a social determinant of health, and incomplete schooling is associated with poorer sexual and reproductive health, psychosocial distress, and reduced economic opportunity. In Africa, many young people leave school before completing their educational cycle, yet qualitative evidence on the social and health consequences of discontinuation and on what affected communities view as appropriate responses remains limited.Objective To explore perspectives on the pathways, consequences, and proposed responses to school discontinuation in rural eastern Uganda.Methods This qualitative descriptive study drew on 59 in-depth interviews with young adults who had discontinued school (n = 15), family members (n = 14), teachers (n = 15), and community leaders (n = 15), purposively sampled with community assistance in Buyende and Kamuli districts in eastern Uganda. Data were analyzed using framework analysis.Results Three themes emerged. First, participants described discontinuation as driven by intersecting household poverty, school-level barriers, and gendered pressures including early marriage, teenage pregnancy, and sexual exploitation. Second, discontinuation was followed by psychological distress, social stigma, economic marginalization, and heightened vulnerability, particularly for young women. Third, participants proposed complementary supports spanning counseling and mentorship, vocational training and economic empowerment, and interpersonal and community-based engagement.Conclusions School discontinuation in rural eastern Uganda is experienced as a cumulative process with cascading social, psychological, and economic consequences rather than a single educational event. Community members identified multi-domain responses addressing emotional recovery, livelihoods, and social reintegration together. These findings highlight the value of centering community perspectives when designing integrated interventions for young people affected by school discontinuation.",
+  "oa_url": "https://doi.org/10.1080/16549716.2026.2750047",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1080/16549716.2026.2750047"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-23",
+  "summary_id": null,
+  "relevance": 30
+ },
+ {
+  "id": "W7223105758",
+  "doi": "10.1371/journal.pone.0361296",
+  "title": "Occupational health risks from climate-related and infectious-disease stressors: A scoping review of worker safety and resilience",
+  "date": "2026-10-21",
+  "year": "2026",
+  "journal": "PLoS ONE",
+  "issn": "19326203",
+  "publisher": "Public Library of Science",
+  "authors": [
+   "Muhammed Abdul Odud",
+   "Omar I. Abdul‐Aziz"
+  ],
+  "abstract": "Objective This scoping review examines how climate-related stressors and infectious-disease conditions, including pandemic-related workplace disruptions, interact to influence worker health, vulnerability, and occupational resilience. The review focuses on shared exposure pathways, vulnerable worker populations, methodological patterns, policy gaps, and strategies for strengthening worker safety under compound hazards. Rather than treating pandemics as isolated events, the review uses pandemic conditions as a lens to understand broader, recurring occupational risks and to inform strategies for building safer and more resilient workplaces under compound hazards. Methods Following PRISMA-ScR guidelines, a structured literature search was conducted in PubMed, Scopus, Web of Science, and Google Scholar for English-language peer-reviewed and formally structured evidence sources published primarily between January 2020 and April 2025, with one pre-2020 policy study retained for foundational context. Out of 612 records initially identified, 10 studies or sources met the inclusion criteria across healthcare, agriculture, construction, emergency response, and other high-exposure sectors after systematic screening and eligibility assessment. Data were charted and synthesized by occupational sector, geographic region, exposure type, worker vulnerability, and methodological approach. Results The evidence indicates that climate-related and infectious-disease stressors frequently converge, amplifying physical, environmental, and psychosocial pressures on workers. Disproportionate risks were observed among migrant workers, informal laborers, low-income populations, older adults, women, and seasonal or cross-border agricultural workers, particularly where access to healthcare, legal protections, or adaptive infrastructure was limited. Most studies relied on descriptive, qualitative, cross-sectional, conceptual, or review-based designs, with limited use of predictive modeling, geospatial analysis, longitudinal evidence, or integrated datasets. Policy responses were often fragmented, with climate adaptation and infection-control measures addressed separately despite overlapping benefits. Conclusions Climate-related and infectious-disease stressors interact to reinforce occupational health inequities and expose persistent gaps in worker protection. The findings highlight the need for integrated, multi-hazard occupational health strategies that align climate adaptation, infection prevention, and psychosocial support. Embedding data-driven early-warning systems, equitable protections for vulnerable workers, and cross-sector coordination into occupational policies may help strengthen workforce resilience during routine operations as well as future climate extremes and public health crises. However, the findings should be interpreted with caution because of the limited number of available studies combining climate-related and infectious-disease occupational risks, heterogeneous study designs, and the emerging nature of the evidence base. Furthermore, since this scoping review maps evidence rather than formally grading evidence strength or testing causal relationships, recommendations should be interpreted as evidence-informed directions for future occupational-health planning and research.",
+  "oa_url": "https://doi.org/10.1371/journal.pone.0361296",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1371/journal.pone.0361296"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": true,
+  "language": "en",
+  "found_at": "2026-10-23",
+  "summary_id": null,
+  "relevance": 29
+ },
+ {
+  "id": "W7223029906",
+  "doi": "10.1007/s42773-026-00657-1",
+  "title": "Field application of biochar-based amendments for safe crop production in karst paddy with a high geological background: Unraveling Cd-Se dynamics",
+  "date": "2026-10-21",
+  "year": "2026",
+  "journal": "Biochar",
+  "issn": "25247867",
+  "publisher": "Springer Nature",
+  "authors": [
+   "Pingfan Zhou",
+   "Yuanyuan Xu",
+   "Jing Guo",
+   "Caide Huang",
+   "Rong Su",
+   "Deyi Hou"
+  ],
+  "abstract": "The global prevalence of geogenically derived cadmium (Cd) enrichment poses significant risks to agricultural sustainability and food security. Micronutrients such as selenium (Se) usually co-occur with Cd in such regions but exhibit low bioavailability in soils, further causing a “hidden hunger” of nutrient depletion in the food supply chain. Through controlled field experiments, we tested strategically designed biochar-based amendments (clay-, manure-, and iron-enriched variants) at 5–20 t ha −1 on limestone-derived paddy soils to synchronously mitigate Cd mobility while enhancing grain Se accumulation. Biochar amendments decreased grain Cd bioaccumulation by 42.3–85.4% and increased grain Se bioaccumulation by 91.6–357.5% across both growing seasons, with a better effect observed in synergy with yield increase in the second growing season, reflecting longer-term soil conditioning and progressive weathering of the amendments. Among the three amendments, BC-ZVI at 10–20 t ha −1 achieved the fastest and most consistent Cd immobilization, lowering grain Cd below the national safety threshold (0.2 mg kg −1 ) in both growing seasons while increasing grain Se by 91.6–357.5%. BC-Clay and BC-Manure required the second season to reach comparable Cd performance across all application rates. Elevations in soil pH, CEC, and available phosphorus may have accounted for the (im)mobilization effect. Field and literature data further indicated a decoupling between soil total Cd-Se co-enrichment and their mobile or plant-accumulated pools. Findings from this study demonstrate a practical and effective strategy for producing Se-enriched, low-Cd rice in regions with elevated geogenic Cd-Se background.",
+  "oa_url": "https://link.springer.com/content/pdf/10.1007/s42773-026-00657-1.pdf",
+  "pdf_url": "https://link.springer.com/content/pdf/10.1007/s42773-026-00657-1.pdf",
+  "pdf_urls": [
+   "https://link.springer.com/content/pdf/10.1007/s42773-026-00657-1.pdf",
+   "https://doi.org/10.1007/s42773-026-00657-1"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [
+   "biochar amendment",
+   "cadmium",
+   "selenium",
+   "geological background",
+   "paddy soil remediation",
+   "crop safety",
+   "field application"
+  ],
+  "topics": [
+   "Pemasaran, rantai pasok & rantai nilai"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-23",
+  "summary_id": null,
+  "relevance": 25
+ },
+ {
+  "id": "W7223091156",
+  "doi": "10.1080/13549839.2026.2749833",
+  "title": "How ‘Galamsey’ reshapes land, livelihoods, and education in rural Ghana",
+  "date": "2026-10-21",
+  "year": "2026",
+  "journal": "Local Environment",
+  "issn": "13549839",
+  "publisher": "Routledge",
+  "authors": [
+   "Michael Ampadu",
+   "Stella Agyemang Duah",
+   "Augustine Tankong"
+  ],
+  "abstract": "Illegal small-scale mining, locally known as “galamsey”, has intensified across Ghana, with far-reaching environmental, social and economic consequences for rural communities. Although previous studies have often examined its environmental and livelihood effects separately, less attention has been paid to how these disruptions interact in everyday rural life. This study examines how galamsey reshapes livelihoods, educational participation, environmental wellbeing, and local governance in two mining-affected communities in southern Ghana. Using a qualitative case study design, data were generated through semi-structured interviews with 15 participants, four focus group discussions involving 27 participants, and field observations. The data were analysed using Braun and Clarke's reflexive thematic analysis and interpreted through the Sustainable Livelihoods Framework, Environmental Justice and Political Ecology. The findings show that galamsey constitutes a multidimensional rural development challenge rather than solely an environmental problem. It undermined agricultural livelihoods, increased household insecurity, disrupted children's education, intensified gendered vulnerabilities, reshaped youth aspirations and weakened confidence in environmental governance. The study identifies a double-victim dynamic in which declining livelihood opportunities drew young people into mining, while their participation contributed to the further degradation of resources needed for future livelihoods. Effective responses therefore require integrated, community-centred and justice-oriented approaches combining livelihood diversification, environmental restoration, educational support, youth employment and participatory governance. By showing how environmental degradation, economic insecurity and governance failures reinforce rural vulnerability, the study contributes to debates on sustainable rural development and environmental justice in mining-affected contexts. Policy highlightsGalamsey disrupts land, water, livelihoods and schooling, requiring coordinated rather than sector-specific responses.Farmland degradation and unstable household incomes contribute to absenteeism, child labour and gendered vulnerabilities, particularly among girls and young women.Polluted water and unsafe mining landscapes create perceived health risks and weaken children’s educational participation.Inconsistent enforcement, weak accountability and limited community participation undermine trust in environmental governance.Sustainable responses should combine livelihood diversification, educational support, environmental restoration, youth employment and participatory governance.",
+  "oa_url": "https://doi.org/10.1080/13549839.2026.2749833",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1080/13549839.2026.2749833"
+  ],
+  "oa_status": "hybrid",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-23",
+  "summary_id": null,
+  "relevance": 23
+ },
+ {
+  "id": "W7223093272",
+  "doi": "10.1002/ppp3.70294",
+  "title": "Carbon sequestration strategies for climate resilience: Sorghum‐based innovations for sustainable agriculture in dryland regions",
+  "date": "2026-10-21",
+  "year": "2026",
+  "journal": "Plants People Planet",
+  "issn": "25722611",
+  "publisher": "Wiley",
+  "authors": [
+   "Monir Idres Yahya Ahmed",
+   "Ahmed Khaled Hassan Mohammedali",
+   "Nasrein Mohamed Kamal",
+   "Takashi Okamoto",
+   "Takayoshi Ishii"
+  ],
+  "abstract": "Societal Impact Statement Climate change is intensifying heat, drought, and food insecurity, threatening dryland farming and carbon management worldwide. We reviewed research on sorghum, a drought‐adapted C4 crop, covering physiology, roots, biomass allocation, soil carbon, bioenergy, breeding, phenotyping, management, and policy. Sorghum can sustain production under water‐limited conditions and may support durable soil‐carbon storage via deep roots, residues, mycorrhizal pathways, and conservation practices, though long‐term validation is needed. These findings underscore sorghum's value for sustainable, climate‐resilient agriculture, and the urgent need for carbon‐aware breeding, farmer‐centered adoption, improved residue management, and credible, affordable, and accessible carbon accounting for farmers and policymakers in drylands globally. Summary Sorghum ( Sorghum bicolor L. Moench), a hardy C4 crop, uniquely addresses the dual challenges of rising atmospheric CO 2 and global food security. Its high biomass production, deep roots, and drought tolerance make it ideal for dryland farming. This review explores how sorghum captures atmospheric CO 2 , distributes it within the plant, and adds to soil carbon stores. It emphasizes processes such as photosynthesis efficiency, biomass allocation, and residue breakdown, which are affected by soil microbes and sorghum's residue chemistry. The review also explores the balance between grain yield and carbon storage, highlighting how breeding, genetics, and management can optimize these traits. Advances in breeding, gene editing, and high‐throughput phenotyping provide promising tools to enhance sorghum's carbon sequestration capacity. By identifying traits and management practices that can increase long‐term soil carbon storage while maintaining grain yield, this review highlights sorghum's potential to support climate‐change mitigation and food security.",
+  "oa_url": "https://doi.org/10.1002/ppp3.70294",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1002/ppp3.70294"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Ketahanan pangan rumah tangga"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-23",
+  "summary_id": null,
+  "relevance": 22
+ },
+ {
+  "id": "W7223098748",
+  "doi": "10.1080/21645698.2026.2746154",
+  "title": "Genetically modified crops in Africa: progress, challenges, and future prospects",
+  "date": "2026-10-21",
+  "year": "2026",
+  "journal": "GM crops & food",
+  "issn": "21645698",
+  "publisher": "Landes Bioscience",
+  "authors": [
+   "Samuel Oluwasegun Ipinyomi",
+   "Aminu Aliyu",
+   "C.C. Obasi",
+   "Lilian Noela Wesonga",
+   "Wagatua Njoroge",
+   "Joseph Ayitey Nunoo",
+   "Matilda Owusu-Ansah",
+   "Rukiya Danful",
+   "Wilfred Abincha",
+   "Nana Mohammed Opuni",
+   "Richard Katembo Kataliko"
+  ],
+  "abstract": "Genetically modified (GM) crops represent a promising solution to address the challenges of food security and economic growth in Africa. This review provides a comprehensive analysis of the current state of GM crop adoption in Africa, highlighting the achievements, obstacles, and prospects. Case studies from nine African countries, namely South Africa, Burkina Faso, Sudan, Egypt, Kenya, Ethiopia, Nigeria, Uganda, and Ghana, illustrate the diverse approaches and outcomes of GM crop cultivation in different African contexts. Key factors influencing adoption include biosafety regulation, institutional capacity, public perception, seed systems, market considerations, stakeholder engagement, and regional policy coordination. The review also highlights the potential of emerging technologies, including genome editing and gene stacking, for developing climate-resilient and nutritionally improved crops. To fully realize the potential of GM technology in Africa, stakeholders must collaborate to establish consistent, science-based regulatory frameworks, raise public awareness, foster public-private partnerships, support farmer-oriented research, and strengthen regional coordination.",
+  "oa_url": "https://doi.org/10.1080/21645698.2026.2746154",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1080/21645698.2026.2746154"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Ketahanan pangan rumah tangga"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-23",
+  "summary_id": null,
+  "relevance": 22
+ },
+ {
+  "id": "W7223145797",
+  "doi": "10.1007/s12664-026-02075-4",
+  "title": "Central Asian-Mongolian-Iranian celiac disease taskforce: A look into the future– 2026-2035 and beyond",
+  "date": "2026-10-21",
+  "year": "2026",
+  "journal": "Indian Journal of Gastroenterology",
+  "issn": "02548860",
+  "publisher": "Springer Science+Business Media",
+  "authors": [
+   "Svetlana I. Geller",
+   "Mohammad Rostami‐Nejad",
+   "Tungalag Byambadorj",
+   "Kanat Batyrbekov",
+   "Baktygul Chubakova",
+   "Dimitri Poddighe",
+   "Gulnoza Azizova",
+   "Zulfiya Abdujabarova",
+   "Nigora Alieva",
+   "Dinora Dustmukhamedova",
+   "Aissulu Kapassova",
+   "Барно Мусаева"
+  ],
+  "abstract": "Abstract Background There is limited data on celiac disease (CeD) from Central Asia and Mongolia. In contrast, data from Iran shows a rapid increase in the number of diagnosed cases since early 2000s. Limited data is available and likely due to low awareness, limited diagnostic access and the current belief that CeD is uncommon. Objectives The first international Task Force for CeD met to have a look into the future at the Republican Specialized Centre of Pediatrics, Tashkent, Uzbekistan (March 2026) to (1) focus on diagnosis and prevalence research; (2) promote affordable serological testing for all socio-economic strata; (3) improve involvement of medical sub-specialties; (4) suggest proper gluten-free legislation for wheat food labeling and (5) organize affordable gluten-free food for CeD patients in general. Key recommendations (2026–2030) Standardize local tissue transglutaminase antibodies (tTGA) testing to ≤ 5–10$/test; evaluate point-of-care tests in rural clinics Conduct population-based serosurveys in Central Asia, Iran and Mongolia ( n ≥ 1000 each) Advocate for mandatory gluten-free labeling standards (≤ 20 ppm) Evaluation of abdominal ultrasound in CeD recognition Establish CeD patient associations to improve patient empowerment in Central Asia, Mongolia and Iran Develop online CeD training modules for clinicians in local languages",
+  "oa_url": "https://link.springer.com/content/pdf/10.1007/s12664-026-02075-4.pdf",
+  "pdf_url": "https://link.springer.com/content/pdf/10.1007/s12664-026-02075-4.pdf",
+  "pdf_urls": [
+   "https://link.springer.com/content/pdf/10.1007/s12664-026-02075-4.pdf",
+   "https://doi.org/10.1007/s12664-026-02075-4"
+  ],
+  "oa_status": "hybrid",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-23",
+  "summary_id": null,
+  "relevance": 21
+ },
+ {
+  "id": "W7223098829",
+  "doi": "10.1016/j.scitotenv.2026.182368",
+  "title": "Agroecological and biological crop-protection practices for climate adaptation and food security in Nigeria: context dependence, trade-offs and evidence gaps",
+  "date": "2026-10-21",
+  "year": "2026",
+  "journal": "The Science of The Total Environment",
+  "issn": "00489697",
+  "publisher": "Elsevier BV",
+  "authors": [
+   "Godspower Oke Omokaro"
+  ],
+  "abstract": "Nigeria requires crop-production strategies that address climatic stress, soil degradation, pest pressure and food insecurity. This review evaluated agroecological and biological crop-protection practices as pathways to climate resilience and food security in Nigeria. A PRISMA-guided systematic evidence review and narrative synthesis were conducted using Scopus, Web of Science Core Collection, CAB Abstracts, Google Scholar and African Journals Online. Ninety substantive evidence sources were included, comprising Nigerian primary studies and contextual regional and international evidence. Nigerian primary evidence included field experiments, observational studies, household surveys and economic evaluations, while reviews, meta-analyses and mechanistic studies were used for contextual interpretation. Intercropping and crop-density management affected component-crop yields, soil moisture and resource capture; higher cassava density increased storage-root yield by 16%, whereas higher maize density increased maize yield by 11% but reduced second-cycle cassava yield by 7%. Maize–legume systems improved soil carbon, nitrogen and aggregation. Combined phosphorus and rhizobial inoculation increased soybean yield by 777 kg ha −1 , although the highest-yielding combinations were not always the most profitable. Atoxigenic Aspergillus flavus reduced aflatoxin by 82%–95% at harvest and 80%–100% after storage. Botanical pesticides reduced pest survival and crop damage, but yield responses were inconsistent. Observational evidence associated conservation and climate-smart practices with higher productivity, efficiency and income, whereas household food-security outcomes were less consistent. Most evidence concerned adaptive-capacity indicators rather than performance or recovery under defined climatic shocks. Scaling requires locally tested practices, reliable biological products, extension, finance, regulatory oversight and longer-term evaluation of climatic, ecological, economic and nutritional outcomes.",
+  "oa_url": "https://doi.org/10.1016/j.scitotenv.2026.182368",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1016/j.scitotenv.2026.182368"
+  ],
+  "oa_status": "hybrid",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Ketahanan pangan rumah tangga"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-23",
+  "summary_id": null,
+  "relevance": 21
+ },
+ {
+  "id": "W7223171257",
+  "doi": "10.1093/heapol/czag120",
+  "title": "Interventions to address the effects of climate change on human health in sub-Saharan Africa: A scoping review",
+  "date": "2026-10-21",
+  "year": "2026",
+  "journal": "Health Policy and Planning",
+  "issn": "02681080",
+  "publisher": "Oxford University Press",
+  "authors": [
+   "Gordon Dugle",
+   "Gordon Niboyenyel Dakuu",
+   "Abraham Marshall Nunbogu",
+   "Dramani Juah M-Buu File",
+   "Esther Onyango",
+   "Shannon Rutherford"
+  ],
+  "abstract": "Abstract Climate change poses disproportionate threats to human health in sub-Saharan Africa (SSA), yet comprehensive evidence on implemented interventions remains under-researched. Understanding the scope and characteristics of existing climate-health interventions is essential for informing policy priorities and action in the region. We conducted a scoping review following Arksey and O'Malley's framework and PRISMA-ScR reporting guidelines. We systematically searched Google Scholar, PubMed, Web of Science, and Scopus for peer-reviewed empirical studies on climate-health interventions in SSA, with no date restrictions. Two reviewers independently screened 3009 records. A total of 36 studies reporting 350 interventions were included. The majority of the studies (83.3%) focused exclusively on adaptation, while a smaller proportion (16.7%) combined both adaptation and mitigation strategies. Four overarching intervention categories were identified inductively from the included studies, each comprising distinct but conceptually related sub-categories: health systems strengthening and governance; disease surveillance, monitoring, and early warning; environmental health and infrastructure; and community resilience and social wellbeing. Vector-borne diseases, particularly malaria, constituted the primary health focus, while heat-related illnesses, occupational health, and mental health received limited attention. Studies mostly reported interventions in West Africa, East Africa, Southern Africa, and multi-regional settings, with Central Africa receiving limited attention. The evidence is predominantly rural-focused (n = 18; 50%), with urban-focused studies accounting for 10 studies (27.8%) and mixed urban-rural settings for the remaining 8 (22.2%). Notably, no dedicated study investigated interventions specifically targeting coastal areas. People-centred interventions predominated over nature-based solutions. Key evidence gaps included cross-sectional study designs limiting causal inference, insufficient cost-effectiveness evaluations, limited integration of indigenous knowledge, and inadequate attention to gender-specific and occupational vulnerabilities. Policy efforts must go beyond disease-specific responses toward integrated strategies addressing multiple climate-health pathways while prioritising underrepresented regions and mitigation opportunities to build comprehensive, equitable climate resilience across the region.",
+  "oa_url": "https://doi.org/10.1093/heapol/czag120",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1093/heapol/czag120"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-23",
+  "summary_id": null,
+  "relevance": 17
+ },
+ {
+  "id": "W7223142262",
+  "doi": "10.1186/s12889-026-29599-w",
+  "title": "Sex-stratified associations between movement behaviors and QUS-defined osteoporosis in rural adults: an isotemporal substitution analysis",
+  "date": "2026-10-21",
+  "year": "2026",
+  "journal": "BMC Public Health",
+  "issn": "14712458",
+  "publisher": "BioMed Central",
+  "authors": [
+   "Haidong Jin",
+   "Xueru Shi",
+   "Hongfei Zhao",
+   "Chengrui Zhang",
+   "Chongjian Wang",
+   "王凤玲",
+   "Jun Pan"
+  ],
+  "abstract": "Abstract Background Previous studies have explored the independent effects of different movement behaviors on osteoporosis (OP), but limited research on their substitution effects, especially among rural adults in resource-limited areas. This study investigates the associations between hypothetical time reallocations among different movement behaviors and QUS-defined osteoporosis. Methods This cross-sectional study included 7368 participants selected from the second wave survey of the Henan Rural Cohort Study. Osteoporosis was defined using calcaneal quantitative ultrasound (QUS), and participants with a QUS T-score ≤ − 2.5 were classified as having QUS-defined osteoporosis. Logistic regression and restricted cubic spline were applied to examine the relationships between movement behaviors and QUS-defined osteoporosis. The isotemporal substitution model was employed to evaluate associations under hypothetical time reallocations among behaviors. Results Long nocturnal sleep duration was associated with higher odds of QUS-defined osteoporosis in both sexes, while daytime napping was associated with higher odds in women. Sedentary behavior was associated with higher odds in men ( OR : 1.58, 95% CI : 1.05–2.37), whereas walking was associated with lower odds in both sexes (all P < 0.05). Isotemporal substitution analysis showed that reallocating 30–60 min from nocturnal sleep, sedentary behavior, or moderate-to-vigorous physical activity (MVPA) to walking was associated with lower odds of QUS-defined osteoporosis in both sexes (all P < 0.05). In women, reallocating 30 min of daytime napping to walking was also associated with lower odds of QUS-defined osteoporosis ( OR : 0.90, 95% CI : 0.85–0.95). In addition, reallocating 30 min of nocturnal sleep to MVPA was associated with lower odds of QUS-defined osteoporosis in women ( OR : 0.97, 95% CI : 0.94–0.99). Conclusion In this cross-sectional study, hypothetical reallocation of 30–60 min from nocturnal sleep, sedentary behavior, or MVPA to walking was associated with lower odds of QUS-defined osteoporosis. In women, reallocating the same duration from nocturnal time to MVPA was also associated with lower odds. Clinical trial registration The Henan Rural Cohort Study has been registered at Chinese Clinical Trial Register (Registration number: ChiCTR-OOC-15006699). Date of registration: 2015-07-06. http://www.chictr.org.cn/showproj.aspx?proj=11375 .",
+  "oa_url": "https://doi.org/10.1186/s12889-026-29599-w",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1186/s12889-026-29599-w"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-23",
+  "summary_id": null,
+  "relevance": 15
+ },
+ {
+  "id": "W7223092810",
+  "doi": "10.1177/2752535x261474409",
+  "title": "Beyond food charity to systems change: Pedagogical application of Bertolt Brecht’s poems and songs from plays to the problems of food insecurity and hunger",
+  "date": "2026-10-21",
+  "year": "2026",
+  "journal": "Community Health Equity Research & Policy",
+  "issn": "2752535X",
+  "publisher": "SAGE Publishing",
+  "authors": [
+   "William MacGregor",
+   "Zsofia Mendly‐Zambo",
+   "Toba Bryant",
+   "Dennis Raphael"
+  ],
+  "abstract": "Background Food security advocates find it difficult to convince Canadians that household food insecurity (HFI) represents a profound public policy crisis that demands action. Much of this is due to the growth of a “Hunger-Industrial Complex” where a vast network of food banks and food diversion schemes give the false impression that these charitable activities are addressing the food insecurity crisis. Attempts to shift Canadians’ understandings through research and advocacy of how these activities do little to reduce HFI and serve to prolong the crisis have been largely ineffective. Purpose We show how the arts and humanities provide means of showing the inadequacies of food charity and direct attention to the systemic issues driving HFI and means of reducing it. In particular we show how poems and songs from plays of German writer Bertolt Brecht that consider the importance of food and the problems associated with charitable food provision can stimulate discussion of how HFI is embedded within existing food production and distribution systems as well as contemporary neoliberal capitalism. Findings These activities may enable more nuanced understandings among food security researchers and advocates and the general public of the true sources of food insecurity, thereby enabling effective actions to reduce it. Conclusion There is a profound need to mobilize the public to have governing authorities place questions of how food is produced and distributed on the public policy agenda. Looking to the arts and humanities for insights into these issues is a promising means of accomplishing this goal.",
+  "oa_url": "https://doi.org/10.1177/2752535x261474409",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1177/2752535x261474409"
+  ],
+  "oa_status": "hybrid",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Ketahanan pangan rumah tangga"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-23",
+  "summary_id": null,
+  "relevance": 14
+ },
+ {
+  "id": "W7223104486",
+  "doi": "10.1186/s42055-026-00129-1",
+  "title": "Layered interventions for climate resilience: an analysis of household recovery and food security outcomes in Southern Malawi",
+  "date": "2026-10-21",
+  "year": "2026",
+  "journal": "Sustainable Earth Reviews",
+  "issn": "25208748",
+  "publisher": "BioMed Central",
+  "authors": [
+   "Richard Nyoni",
+   "Innocent Pangapanga‐Phiri",
+   "Junice Undi Dzonzi"
+  ],
+  "abstract": "Abstract This study assesses the implications of layered resilience-building interventions in climate-vulnerable regions of Malawi, with a focus on household recovery capacity and food security outcomes during the 2024 El Niño–induced drought in Malawi. Household resilience is proxied by self-reported recovery duration following climatic shocks, while food security is measured using Food Consumption Scores (FCS). The analysis draws on cross-sectional data from 309 randomly sampled households in the disaster-prone districts of Mangochi and Zomba, alongside a sample from Phalombe in Southern Malawi. To examine heterogeneity in program exposure, the study applies Machine Learning (ML) classification and clustering techniques to identify distinct intervention intensity profiles. Cluster validation using elbow and silhouette diagnostics reveals two dominant groups: households receiving a high-intensity intervention package (averaging 8 of 17 program interventions) and those exposed to a lower-intensity package (averaging 3 interventions). The effects of these intervention clusters on recovery duration and food security during the El Niño shock are subsequently estimated using Negative Binomial and Ordered Logit Regression models. Findings indicate that while layered interventions did not significantly reduce recovery duration, reflecting the severity of the climatic shock, household-level characteristics, mainly household size and maize productivity, were strong predictors of recovery time. On the other hand, quantity of maize, perceived recovery period, livestock holding and bicycle ownership were predictors of food security. Participating in interventions was not significant. The results suggest that mere participation in integrated programs might not enhance absorptive and consumption-smoothing capacities in times of extreme weather events. The study underscores the importance of absorptive social protection mechanisms (such as food aid) during severe climate events and demonstrates the value of integrating ML approaches into the design and evaluation of complex sustainable development interventions.",
+  "oa_url": "https://doi.org/10.1186/s42055-026-00129-1",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1186/s42055-026-00129-1"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Ketahanan pangan rumah tangga"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-23",
+  "summary_id": null,
+  "relevance": 14
+ },
+ {
+  "id": "W7223122236",
+  "doi": "10.1016/j.ecolind.2026.115724",
+  "title": "What drives the uphill expansion of cultivated land in hilly regions? Nonlinear responses and threshold effects from the Jiangnan hilly region, China",
+  "date": "2026-10-21",
+  "year": "2026",
+  "journal": "Ecological Indicators",
+  "issn": "1470160X",
+  "publisher": "Elsevier BV",
+  "authors": [
+   "Yingying WENG",
+   "Xinghua FENG",
+   "Liting Xu",
+   "孟繁琪",
+   "Yexi ZHONG",
+   "Qiyue Li"
+  ],
+  "abstract": "Amid the severe challenges to global food security and sustainable development, changes in cultivated land resources have become a key issue in global development research. However, in the context of rapid urbanization, high-quality cultivated land in hilly regions continues to be lost, forcing agricultural activities onto marginal lands. This has led to the phenomenon of uphill expansion of cultivated land, which affects both agricultural sustainability and ecological security. This research characterizes the spatiotemporal evolution of cultivated land expansion in the Jiangnan hilly region of China, revealing a shift from low-gradient areas to increasing encroachment into medium- and high-gradient regions. The results show that while cultivated land continues to expand into higher slopes, the process slows significantly beyond a 10° slope due to topographic limitations. To explore the underlying driving mechanisms, a Geographically Weighted Random Forest model is employed to examine the spatial heterogeneity of these driving factors. The findings indicate that net income per farmer is the primary driver, reflecting the dominant role of farmers' economic decisions. Additionally, built-up land expansion area exerts a spatial compression effect, driving cultivated land into steeper areas. Ultimately, the uphill expansion of cultivated land is a nonlinear response to socio-economic pressures exceeding the region's ecological carrying capacity. This study provides policy implications for hilly regions, suggesting the integration of slope-based ecological constraints within the “land occupation–compensation balance” framework to promote sustainable land use.",
+  "oa_url": "https://doi.org/10.1016/j.ecolind.2026.115724",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1016/j.ecolind.2026.115724"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Ketahanan pangan rumah tangga"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-23",
+  "summary_id": null,
+  "relevance": 14
+ },
+ {
   "id": "W7223061946",
   "doi": "10.1186/s12889-026-30042-3",
   "title": "Knowledge, attitudes, and preventive practices related to breast and cervical cancer among rural women in Sidama, Ethiopia: a facility-based cross-sectional study",
@@ -28,6 +1023,290 @@
   "priority_journal": false,
   "language": "en",
   "found_at": "2026-10-22",
+  "summary_id": null,
+  "relevance": 15
+ },
+ {
+  "id": "W7223022555",
+  "doi": "10.1016/j.wss.2026.100487",
+  "title": "Coffee landscapes, place-based wellbeing, and uneven socio-ecological transformation in highland Toraja, Indonesia",
+  "date": "2026-10-20",
+  "year": "2026",
+  "journal": "Wellbeing Space and Society",
+  "issn": "26665581",
+  "publisher": "Elsevier BV",
+  "authors": [
+   "Siti Hardiyanti Syam",
+   "Rahim Darma",
+   "Nolila Mohd Nawi",
+   "Hamed Norolla Bakheet Ali",
+   "B. Nishantha",
+   "Riad Azkar",
+   "Riri Amandaria"
+  ],
+  "abstract": "This study examines how global coffee market integration reshapes place-based wellbeing, cultural identity, and socio-ecological relations in smallholder agroforestry landscapes in Highland Toraja, Indonesia. While coffee agroforestry is widely recognized for supporting biodiversity, livelihoods, and cultural heritage, less attention has been given to how market-oriented transformation affects rural wellbeing and social inequality. This study aims to analyze how global coffee markets influence agroforestry practices, cultural-ecological relations, livelihood strategies, and socio-ecological trade-offs. A qualitative case study approach was applied, combining semi-structured interviews, focus group discussions, field observations, and value chain analysis with stakeholders across the coffee system. The findings show that Toraja’s coffee landscapes are not merely production spaces but place-based socio-ecological systems in which ecological functions, cultural identity, household livelihoods, and institutional relations are closely interconnected. Market integration encourages quality-oriented production, selective intensification, improved post-harvest practices, and hybrid knowledge systems that combine traditional ecological knowledge with market-oriented skills. However, these transformations produce uneven wellbeing outcomes, as better-resourced farmers are more able to capture market opportunities. In contrast, less-resourced farmers face greater risks of market dependency, ecological simplification, and livelihood insecurity. The study concludes that the transformation of the coffee landscape is both adaptive and unequal. Policy interventions should promote inclusive place-based governance, strengthen farmer organizations, improve extension services and market access, protect agroforestry diversity, and recognize the cultural value of coffee landscapes to ensure that market integration supports wellbeing, ecological resilience, and social equity.",
+  "oa_url": "https://doi.org/10.1016/j.wss.2026.100487",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1016/j.wss.2026.100487"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [
+   "coffee agroforestry",
+   "global coffee market",
+   "market integration",
+   "social-ecological transformation",
+   "cultural identity",
+   "smallholder livelihoods",
+   "social inequality",
+   "traditional ecological knowledge"
+  ],
+  "topics": [
+   "Akses & informasi pasar petani",
+   "Pemasaran, rantai pasok & rantai nilai",
+   "Kelembagaan petani & tindakan kolektif"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-23",
+  "summary_id": {
+   "tujuan": "Menganalisis bagaimana integrasi pasar kopi global membentuk kesejahteraan berbasis tempat, identitas budaya, dan relasi sosio-ekologis di lanskap agroforestri kopi petani kecil di Dataran Tinggi Toraja, Indonesia.",
+   "metode": "Studi kasus kualitatif di Dataran Tinggi Toraja, Sulawesi Selatan, dengan wawancara semi-terstruktur, focus group discussion, observasi lapangan, dan analisis rantai nilai bersama pemangku kepentingan. Periode pengumpulan data dan jumlah responden tidak disebutkan dalam abstrak.",
+   "temuan": "Integrasi pasar mendorong produksi berorientasi mutu, intensifikasi selektif, perbaikan pascapanen, dan sistem pengetahuan hibrida. Namun, petani yang lebih berdaya lebih mampu menangkap peluang pasar, sementara petani berdaya rendah menghadapi risiko ketergantungan pasar, penyederhanaan ekologis, dan kerentanan nafkah. Temuan bersifat deskriptif dan asosiatif, bukan kausal terukur.",
+   "keterbatasan": "Tidak disebutkan secara eksplisit dalam abstrak. Dari desainnya, studi kasus tunggal di satu wilayah dengan pendekatan kualitatif membatasi generalisasi temuan ke wilayah atau komoditas lain.",
+   "relevansi": "Relevan untuk membandingkan kelembagaan petani, akses pasar, dan ketimpangan kapasitas petani kecil dalam rantai nilai di Kalimantan Tengah, termasuk di sektor non-sawit. Pendekatan lanskap dan agroforestri juga dapat diuji ulang pada sistem kebun rakyat di wilayah tersebut.",
+   "skor": 4,
+   "model": "claude-haiku-5-5",
+   "sumber": "abstrak"
+  },
+  "relevance": 69
+ },
+ {
+  "id": "W7223070485",
+  "doi": "10.1016/j.scitotenv.2026.182334",
+  "title": "Life cycle environmental impact assessment in palm oil industry from nursery, plantation, and mill: Case study in north Sumatera",
+  "date": "2026-10-20",
+  "year": "2026",
+  "journal": "The Science of The Total Environment",
+  "issn": "00489697",
+  "publisher": "Elsevier BV",
+  "authors": [
+   "M. Thoriq Al Fath",
+   "Maya Sarah",
+   "Seri Maulina",
+   "Amir Hamzah Sharaai",
+   "Noor Zalina Mahmood",
+   "Onn Chieu Chuen",
+   "Gina Cynthia Raphita Hasibuan",
+   "Vikram Alexander",
+   "Michael Michael",
+   "Juan Akmal Nasution",
+   "Nisaul Fadilah Dalimunthe",
+   "Fadli Akbar Lubis"
+  ],
+  "abstract": "The palm oil industry is a cornerstone of Indonesia's agricultural economy, yet its environmental consequences across the full production chain remain insufficiently quantified in an integrated manner. This study presents a comprehensive life cycle assessment (LCA) of an integrated palm oil production system at PTPN III, North Sumatra, Indonesia, encompassing three interconnected operational stages: oil palm nursery, plantation, and palm oil mill. Primary input-output inventory data were collected directly from operational records over a 12-month period (April 2022–March 2023) and complemented by secondary data from the ecoinvent v.3.8 database (allocation, cut-off by classification) for upstream background processes, with Indonesian (ID) market datasets applied to electricity and Rest-of-World (RoW) or Global (GLO) datasets applied to fertilizers, fuels, pesticides, and process chemicals; environmental impact assessment was conducted using SimaPro v.9.5. Eight midpoint impact categories were evaluated: acidification, eutrophication, Global Warming Potential (GWP), photochemical oxidation, abiotic depletion (elements), abiotic depletion (fossil fuels), water scarcity, and ozone layer depletion. Stage-specific functional units (1 kg of oil palm seedling, 1 kg of fresh fruit bunches (FFB), and 1 kg of crude palm oil (CPO) were used for unit-process modelling and hotspot analysis, and were linked to a final reference flow of 1 kg CPO through the FFB-to-CPO conversion (oil extraction rate 24.70%; 4.05 kg FFB per kg CPO, or 3.41 kg after mass allocation to CPO), plantation FFB production, and seedling requirement per hectare. Cradle-to-gate GWP was 0.60 kg CO₂-eq kg −1 CPO, to which plantation, mill operations, and nursery contributed 74.2%, 23.4%, and 2.3%, respectively. Results revealed that fertilizer application was the dominant environmental hotspot across the nursery and plantation stages, accounting for up to 98.53% of abiotic depletion (elements), 96.52% of GWP, and 96.30% of acidification at the plantation stage. At the palm oil mill stage, feedstock dominated most impact categories, particularly for abiotic depletion (elements; 99.18%, 2.19 × 10 −5 kg Sb-eq kg −1 CPO) and acidification (89.40%, 2.89 × 10 −3 kg SO₂-eq kg −1 CPO), reflecting the upstream intensification of plantation-stage burdens transmitted through the supply chain, while FFB waste (solid residues: empty fruit bunches, fibre, and shell) was identified as the primary contributor to eutrophication (80.00%), reflecting nutrient leaching from decomposing organic residue, whereas POME, accounted for separately as the ‘Liquid Waste’ flow, contributed a comparatively minor direct share (0.70%) owing to on-site effluent treatment prior to discharge. Water scarcity was co-driven by direct water consumption and fertilizer-embedded upstream water use across all stages. These findings provide a quantitative, multi-stage environmental profile of integrated palm oil production. Model results identify fertilizer inputs (nursery and plantation) and FFB waste (mill) as priority hotspots; an indicative screening suggests that a 10% reduction in fertilizer input could lower plantation-stage GWP by approximately 9.7%, assuming constant yield, which corresponds to about 2.6% of cradle-to-gate GWP per kg CPO because the studied plantation supplies 35.9% of the mill's FFB. A first-order sensitivity screening indicates precision fertilizer management (10% input reduction) could lower plantation-stage GWP by ∼9.7% (∼2.6% cradle-to-gate); nutrient-use-efficiency improvement (15–30% field-loss reduction) by 3.1–6.2%; and POME methane recovery (60–90% capture) by ≤0.07% under the metered baseline but up to 9–41% under a literature-bounded open-pond baseline, reflecting substantial uncertainty in the site's unmetered effluent inventory. FFB waste valorization was not separately quantified and remains a literature-based recommendation.",
+  "oa_url": "https://doi.org/10.1016/j.scitotenv.2026.182334",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1016/j.scitotenv.2026.182334"
+  ],
+  "oa_status": "hybrid",
+  "cited_by": 0,
+  "keywords": [
+   "palm oil",
+   "life cycle assessment",
+   "environmental impact",
+   "oil palm plantations",
+   "palm oil mill",
+   "North Sumatra"
+  ],
+  "topics": [
+   "Pemasaran, rantai pasok & rantai nilai",
+   "Kelapa sawit"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-23",
+  "summary_id": {
+   "tujuan": "Mengukur dampak lingkungan siklus hidup (cradle-to-gate) sistem produksi kelapa sawit terintegrasi dari pembibitan, perkebunan, hingga pabrik kelapa sawit (PKS) di PTPN III, Sumatera Utara.",
+   "metode": "Studi LCA kasus tunggal dengan data inventori primer input-output selama 12 bulan (April 2022–Maret 2023) dari catatan operasional, dilengkapi data sekunder ecoinvent v3.8 (allocation, cut-off). Analisis dilakukan dengan SimaPro v9.5 pada delapan kategori dampak midpoint, unit fungsional 1 kg CPO, serta analisis hotspot dan skrining sensitivitas orde pertama. Ukuran sampel tidak disebutkan.",
+   "temuan": "GWP cradle-to-gate sebesar 0,60 kg CO2-eq/kg CPO, dengan kontribusi perkebunan 74,2%, PKS 23,4%, dan pembibitan 2,3%. Pupuk menjadi hotspot utama di pembibitan dan perkebunan (hingga 96,52% GWP dan 96,30% asidifikasi di perkebunan), sedangkan limbah padat PKS menyumbang 80% eutrofikasi. Pengurangan input pupuk 10% diperkirakan menurunkan GWP perkebunan sekitar 9,7%, namun ini merupakan hasil skrining indikatif berasumsi hasil konstan, bukan bukti kausal.",
+   "keterbatasan": "Studi hanya pada satu lokasi perkebunan dan asumsi hasil konstan membatasi generalisasi. Inventori efluen tidak terukur sehingga ketidakpastian emisi metana POME sangat besar (≤0,07% hingga 9–41% tergantung baseline). Valorisasi limbah FFB tidak dikuantifikasi dan sebagian data pupuk memakai proxy RoW/GLO.",
+   "relevansi": "Relevan dengan agenda riset kelapa sawit dan rantai nilai di Kalimantan Tengah, khususnya untuk membandingkan hotspot lingkungan antara perkebunan plasma, swadaya, dan PKS. Temuan ini juga dapat dikaitkan dengan tuntutan keberlanjutan pasar (ISPO, RSPO, ekspor) dan akses pasar petani kecil, meskipun studi ini tidak membahas aspek kelembagaan atau pemasaran secara langsung.",
+   "skor": 3,
+   "model": "claude-haiku-5-5",
+   "sumber": "abstrak"
+  },
+  "relevance": 58
+ },
+ {
+  "id": "W7223109638",
+  "doi": "10.1080/19320248.2026.2741935",
+  "title": "Digital money, analogue hunger? Mobile financial inclusion and the transmission pathways to rural household food security in Central Ethiopia",
+  "date": "2026-10-20",
+  "year": "2026",
+  "journal": "Journal of Hunger & Environmental Nutrition",
+  "issn": "19320248",
+  "publisher": "Taylor & Francis",
+  "authors": [
+   "Alem Shumiye"
+  ],
+  "abstract": "Ethiopia’s mobile money use expanded rapidly after Telebirr’s 2021 launch, yet evidence linking it to rural food security remains limited. Using cross-sectional data from 560 smallholder households in Ada’a and Adama districts, this study applies Endogenous Switching Regression and mediation analysis to examine savings smoothing, remittance receipt, and input credit access as mechanisms. Mobile money adoption is associated with an 8.81-point higher Food Consumption Score, versus a raw 16.26-point gap. The three mechanisms explain 49% of the conditional differential, with savings smoothing (28%), remittances (12%), and input credit (9%) contributing most. Findings support targeted savings products and expanded agent networks.",
+  "oa_url": "https://www.tandfonline.com/doi/pdf/10.1080/19320248.2026.2741935?needAccess=true",
+  "pdf_url": "https://www.tandfonline.com/doi/pdf/10.1080/19320248.2026.2741935?needAccess=true",
+  "pdf_urls": [
+   "https://www.tandfonline.com/doi/pdf/10.1080/19320248.2026.2741935?needAccess=true",
+   "https://doi.org/10.1080/19320248.2026.2741935"
+  ],
+  "oa_status": "hybrid",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Ketahanan pangan rumah tangga"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-23",
+  "summary_id": null,
+  "relevance": 44
+ },
+ {
+  "id": "W7223125088",
+  "doi": "10.1111/ruso.70074",
+  "title": "Reframing the Gender Hierarchy: Challenging the Patriarchy Through Visual Analysis of Photos on Agriculture Organization Websites",
+  "date": "2026-10-20",
+  "year": "2026",
+  "journal": "Rural Sociology",
+  "issn": "00360112",
+  "publisher": "Wiley",
+  "authors": [
+   "Linda Wirf",
+   "Sarina Kilham",
+   "Hanabeth Luke",
+   "Catherine Allan"
+  ],
+  "abstract": "ABSTRACT Gendered systems of power in agriculture underpin a heteropatriarchy that disempowers women's participation. To interrogate how imagery may function as both a reflective and perpetuating force in maintaining heteropatriarchy across the agricultural sector we analyzed 357 images on 36 Australian agriculture organization websites, coding them for key attributes. We found most images coded ‘farming’ as inherently masculine and drew on stereotypical notions of the ‘rural man’ and ‘masculinised farmer’. Importantly, the images actively constructed contemporary dimensions of gender inequality by positioning women farmers as peripheral, passive, and lacking in agricultural expertise and knowledge. The images conveyed the overall message that agriculture is a men's domain, and reinforced the heteropatriarchy that contributes to excluding women. Inclusion of diverse knowledges is important in transitioning towards sustainable agriculture. Based on our findings, we present recommendations for inclusive visual representation of women in agriculture.",
+  "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/ruso.70074",
+  "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/ruso.70074",
+  "pdf_urls": [
+   "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/ruso.70074",
+   "https://doi.org/10.1111/ruso.70074"
+  ],
+  "oa_status": "hybrid",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": true,
+  "language": "en",
+  "found_at": "2026-10-23",
+  "summary_id": null,
+  "relevance": 40
+ },
+ {
+  "id": "W7223136437",
+  "doi": "10.1111/cuag.70032",
+  "title": "“The Smell Makes Us Hungry”: When Food Is Not Medicine in Highland Madagascar",
+  "date": "2026-10-20",
+  "year": "2026",
+  "journal": "Culture Agriculture Food and Environment",
+  "issn": "21539553",
+  "publisher": "Wiley",
+  "authors": [
+   "Gabrielle Robbins"
+  ],
+  "abstract": "ABSTRACT In the wake of major disruptions to global supply chains during the Covid‐19 pandemic, the island nation of Madagascar pursued initiatives for auto‐suffisance , self‐sufficiency, in food supplies and medical treatments. Farming communities in the central highlands experienced an injunction to expand cultivation of both subsistence crops and medicinal herbs for #MadeinMadagascar drugs. Drawing on more than 24 months of ethnographic fieldwork, this article considers how Malagasy farmers apprehended such shifting production regimes through bodily and sensory phenomena. The medicinal crop's smell “emptied the belly” and left farmers hungry. This “side effect” of drugs‐in‐the‐making lengthened into a chronic condition as pandemic inflation, the political economy of drug production, and extreme weather imperiled food access. Highland farmers encountered mounting hunger, leading to the abandonment of state projects for medicinal cash crops in pursuit of their own subsistence cultivation. By tracking conditions where food and medicine come into direct conflict in Malagasy landscapes, this paper illuminates how pandemic mitigation efforts, in this case for domestic drugs, contribute to widespread hunger and food insecurity.",
+  "oa_url": "https://doi.org/10.1111/cuag.70032",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1111/cuag.70032"
+  ],
+  "oa_status": "hybrid",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemasaran, rantai pasok & rantai nilai",
+   "Ketahanan pangan rumah tangga"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-23",
+  "summary_id": null,
+  "relevance": 24
+ },
+ {
+  "id": "W7222996511",
+  "doi": "10.22605/rrh10851",
+  "title": "Environmental and economic drivers of persistent open defecation in the rural state of Osun, Nigeria",
+  "date": "2026-10-20",
+  "year": "2026",
+  "journal": "Rural and Remote Health",
+  "issn": "14456354",
+  "publisher": "Deakin University",
+  "authors": [
+   "Akindele",
+   "Odipe",
+   "Adeleke",
+   "Iniaghe"
+  ],
+  "abstract": "INTRODUCTION: Open defecation remains a major environmental health challenge in Sub-Saharan Africa, with Nigeria bearing one of the highest global burdens despite increasing access to improved water sources and widespread awareness of sanitation-related health risks in rural areas. Community-led total sanitation (CLTS) emphasizes behavioural change, prompting families to build their own latrines using local materials. CLTS drives community mobilization to stop open defecation collectively; the widespread prevalence of the practice in rural areas reveals a significant gap between sanitation knowledge and actual practice. Furthermore, very few empirical studies integrate the roles of environmental constraints, household financial choices, and sanitation behaviour gaps in under-resourced settings. This study addresses this gap by investigating the environmental and socioeconomic determinants of open defecation persistence through a baseline assessment conducted during CLTS in the rural state of Osun, Nigeria. METHODS: A cross-sectional survey was conducted among 200 respondents across four rural villages in Osun between March and May 2023. Data on sanitation infrastructure, defecation practices, water access, hygiene behaviours, and household economic priorities were collected using semi-structured questionnaires. Associations were examined using χ2 tests, ANOVA, and multiple regression analyses. RESULTS: A total of 91.5% of households practised open defecation, with only 5.5% owning improved toilet facilities, despite 89.5% having access to improved water sources. A pronounced knowledge-practice gap was observed: 51.5% of households practising handwashing before meals were still disposing of faeces in open spaces (χ²=36.4, p<0.01). Household income significantly influenced prioritization of mobile phone purchases over latrine construction (χ²=19.34, p=0.04), while education level correlated with toilet quality perceptions (χ²=41.36, p<0.01). Soil type significantly influenced flooding risk and latrine siting feasibility (χ²=8.51, p=0.004). Regression analysis revealed that household size, gender, and perceived importance of handwashing significantly predicted water storage expenditure (F=7.44, p<0.001, R²=0.188). CONCLUSION: This study shows that awareness campaigns alone cannot stop open defecation in rural Nigeria, as knowledge and water access cannot overcome the structural barriers of extreme poverty and environmental constraints. Therefore, securing a nationwide open defecation-free status by 2030 requires a paradigm shift beyond behavioural interventions. In rural settings, sustainable progress depends on integrating subsidized financing mechanisms, conducting environmental feasibility assessments, and embedding sanitation initiatives within national poverty reduction frameworks. This comprehensive approach is necessary because current non-subsidized CLTS approaches are insufficient for rural communities facing extreme resource constraints.",
+  "oa_url": "https://www.rrh.org.au/assets/article_documents/article_print_10851.pdf",
+  "pdf_url": "https://www.rrh.org.au/assets/article_documents/article_print_10851.pdf",
+  "pdf_urls": [
+   "https://www.rrh.org.au/assets/article_documents/article_print_10851.pdf",
+   "https://doi.org/10.22605/rrh10851"
+  ],
+  "oa_status": "diamond",
+  "cited_by": 0,
+  "keywords": [
+   "open defecation",
+   "community-led total sanitation",
+   "latrine construction",
+   "sanitation behavior change",
+   "environmental drivers",
+   "economic factors",
+   "rural sanitation",
+   "Osun State"
+  ],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-23",
+  "summary_id": null,
+  "relevance": 21
+ },
+ {
+  "id": "W7223116832",
+  "doi": "10.1177/26318318261494290",
+  "title": "Psychosexual and Menstrual Health Impact of Husband’s Out-migration on Left-behind Women in the Central Himalaya: A Cross-sectional Study",
+  "date": "2026-10-20",
+  "year": "2026",
+  "journal": "Journal of Psychosexual Health",
+  "issn": "26318318",
+  "publisher": "SAGE Publishing",
+  "authors": [
+   "Deepak Paliwal",
+   "Deepak Paliwal"
+  ],
+  "abstract": "Background: Male out-migration for work is widespread across the hill districts of the Indian Himalaya, leaving wives to manage the household alone for extended periods. The women left behind bear the burden of managing everything from household chores to societal duties. Such spousal separation is increasingly recognized as a determinant of women’s psychological and reproductive health. This research article examined the psychological impact of husbands’ absence and its interlinkage with menstrual health among women in the Kumaon Himalaya. Methods: A cross-sectional survey was undertaken among 250 married women whose husbands had migrated for work, residing in hill villages of the Kumaon region. This exploratory study employed a three-stage sampling design. In the first stage, Dhauladevi Development Block of Almora District, Uttarakhand, was selected purposively due to its relatively low educational development and high out-migration. In the second stage, 12 Gram Panchayats (approximately 10% of the total 122) were sampled using simple random sampling (lottery method). In the third stage, all households with at least one member who had migrated to an urban area for livelihood for 1 year or more were identified and included in the study. Data were collected through a well-structured interview schedule. Results: Approximately 35% of women reported deep anxiety about their migrant husbands, 25% harbored fears of an untoward incident, 12% reported loneliness, and 11% felt their social relationships were affected; rural women reported comparatively less loneliness, attributed to the joint family system in the hills. Overall, 62% of women reported feeling emotionally vulnerable during the husband’s absence. Menstrual irregularities were reported by approximately one-third of women even before the husband’s migration; this proportion rose to 46% after migration, with a further 21% uncertain about changes, reflecting an approximate 12% point increase attributable to migration. Conclusion: Husband’s out-migration is linked to significant psychological distress and emotional vulnerability among left-behind women, and appears to compound pre-existing menstrual irregularities, consistent with earlier findings associating spousal separation with poorer mental health and psychological stress with menstrual dysfunction.",
+  "oa_url": "https://doi.org/10.1177/26318318261494290",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1177/26318318261494290"
+  ],
+  "oa_status": "diamond",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-23",
   "summary_id": null,
   "relevance": 15
  },
