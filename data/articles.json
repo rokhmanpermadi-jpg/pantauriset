@@ -1,5 +1,228 @@
 [
  {
+  "id": "W7223253941",
+  "doi": "10.3390/su182110724",
+  "title": "Green Transformation Mechanisms and Cluster-Based (Pianqu) Development of Agricultural Specialized Villages in Ecologically Fragile Areas: A Case Study of Ledu District, Qinghai, China",
+  "date": "2026-10-22",
+  "year": "2026",
+  "journal": "Sustainability",
+  "issn": "20711050",
+  "publisher": "Multidisciplinary Digital Publishing Institute",
+  "authors": [
+   "Liu Chenguang",
+   "Ying Guo"
+  ],
+  "abstract": "Agricultural specialized villages (ASVs) are important organizational and spatial units for promoting agricultural sustainability in ecologically fragile areas. However, the process through which green practices evolve from individual farm households to village-wide transformation and then extend across village boundaries remains insufficiently understood. Taking Ledu District, Qinghai, China, as a case study, this study drew on historical records, statistical data, policy documents, and field surveys and employed process tracing to examine the stages, mechanisms, and pathways of cluster-based (pianqu) development. The findings identify four stages: farm household green practices, overall transformation of specialized villages, cross-village linkage, and cluster-based promotion. Five dimensions jointly shape this process: resource endowment provides foundational conditions; institutional arrangements play a decisive organizational role; technological innovation supports changes in production modes; market mechanisms provide sustained incentives; and spatial coordination enables cross-village expansion. Distinct resource conditions are associated with differentiated transformation pathways in river-valley and mountain areas. Seedling bases, agricultural parks, cooperative organizations, and market networks serve as nodes linking multiple villages through shared services, standards, and production–marketing relations. The findings offer a process-based framework for understanding ASV green transformation and provide practical implications for promoting coordinated green development in ecologically fragile regions.",
+  "oa_url": "https://doi.org/10.3390/su182110724",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.3390/su182110724"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Kelembagaan petani & tindakan kolektif"
+  ],
+  "priority_journal": true,
+  "language": "en",
+  "found_at": "2026-10-24",
+  "summary_id": {
+   "tujuan": "Memahami tahapan, mekanisme, dan jalur transformasi hijau desa pertanian khusus (ASV) dari rumah tangga tani menuju transformasi desa dan pengembangan berbasis klaster (pianqu) di wilayah ekologis rapuh. Studi ini berfokus pada Kabupaten Ledu, Qinghai, Tiongkok.",
+   "metode": "Studi kasus kualitatif tunggal dengan teknik process tracing, menggunakan catatan historis, data statistik, dokumen kebijakan, dan survei lapangan. Periode dan ukuran sampel tidak disebutkan dalam abstrak.",
+   "temuan": "Penulis mengidentifikasi empat tahap (praktik hijau rumah tangga, transformasi desa secara menyeluruh, keterkaitan lintas desa, dan promosi berbasis klaster) yang dibentuk lima dimensi: sumber daya, kelembagaan, teknologi, pasar, dan koordinasi spasial. Simpul seperti pusat bibit, taman agrikultur, koperasi, dan jaringan pasar menghubungkan beberapa desa. Hubungan ini bersifat deskriptif dan konseptual, bukan kausal terukur.",
+   "keterbatasan": "Tidak disebutkan.",
+   "relevansi": "Kerangka kelembagaan koperasi, jaringan pasar, dan koordinasi antardesa berbasis klaster relevan dengan riset dosen mengenai kelembagaan petani dan akses pasar petani kecil di Kalimantan Tengah. Perlu diuji ulang apakah mekanisme ini berlaku pada sawit dan perkebunan rakyat, yang memiliki struktur kepemilikan dan rantai nilai berbeda.",
+   "skor": 4,
+   "model": "claude-haiku-5-5",
+   "sumber": "abstrak"
+  },
+  "relevance": 51
+ },
+ {
+  "id": "W7223169694",
+  "doi": "10.1007/s43615-026-01167-9",
+  "title": "Enhancing Sustainability in Palm Oil Processing with the 9R Framework: A Hybrid Fuzzy Grey Number-MABAC-ISM-MICMAC Model for Circular Economy",
+  "date": "2026-10-22",
+  "year": "2026",
+  "journal": "Circular Economy and Sustainability",
+  "issn": "2730597X",
+  "publisher": "Springer Nature",
+  "authors": [
+   "Taufiq Immawan",
+   "Rangga Primadasa",
+   "Muhammad Rizqy Abdurrahman Assyifa",
+   "Elisa Kusrini",
+   "Agus Mansur",
+   "Ilyas Masudin"
+  ],
+  "abstract": "This study aims to evaluate the integration of 9R Circular Economy Practices and Green Production Practices in the palm oil industry using a structured multi-method approach. The research employs the Fuzzy Grey Number-MABAC-ISM-MICMAC methodology to systematically assess and prioritize sustainability practices. Fuzzy grey numbers address uncertainty in linguistic assessments, while the MABAC method refines rankings to ensure objective prioritization. ISM-MICMAC analysis further uncovers interdependencies among practices, identifying key drivers for circular economy adoption. Findings reveal that 12 out of 19 identified practices align with the 9R framework, while 7 correspond to Green Production Practices. High-impact strategies include RSPO (Roundtable on Sustainable Palm Oil) certification and biogas capture, both of which enhance sustainability outcomes. The study highlights strategic interventions such as biorefinery integration and zero-effluent approaches, which significantly improve resource efficiency and waste reduction. Additionally, circular economy strategies contribute to long-term environmental and economic resilience in the sector. By adopting a structured decision-making framework, the palm oil industry can implement the most effective sustainability initiatives, balancing environmental responsibility with economic viability. The research provides valuable insights for policymakers and industry stakeholders, supporting the transition towards a more sustainable production model.",
+  "oa_url": "https://doi.org/10.1007/s43615-026-01167-9",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1007/s43615-026-01167-9"
+  ],
+  "oa_status": "hybrid",
+  "cited_by": 0,
+  "keywords": [
+   "palm oil processing",
+   "sustainability assessment",
+   "MABAC",
+   "ism",
+   "MICMAC",
+   "circular economy",
+   "multi-criteria decision making"
+  ],
+  "topics": [
+   "Kelapa sawit"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-24",
+  "summary_id": {
+   "tujuan": "Mengevaluasi integrasi praktik Ekonomi Sirkular 9R dan Praktik Produksi Hijau pada industri kelapa sawit, serta memprioritaskan praktik keberlanjutan dengan pendekatan multi-metode.",
+   "metode": "Desain pengambilan keputusan multi-kriteria (Fuzzy Grey Number-MABAC-ISM-MICMAC) yang mengolah penilaian linguistik menjadi bilangan grey fuzzy. Sumber data, lokasi, periode, dan ukuran sampel tidak disebutkan dalam abstrak.",
+   "temuan": "Dari 19 praktik yang teridentifikasi, 12 selaras dengan kerangka 9R dan 7 dengan Praktik Produksi Hijau. Sertifikasi RSPO dan penangkapan biogas disebut sebagai strategi berdampak tinggi, sedangkan integrasi biorefinery dan zero-effluent disebut meningkatkan efisiensi sumber daya dan pengurangan limbah. Hasil ini berupa prioritisasi berbasis penilaian, bukan estimasi kausal atau dampak yang terukur secara empiris.",
+   "keterbatasan": "Tidak disebutkan. Dari desain, hasil bergantung pada penilaian linguistik yang sumbernya tidak dijelaskan, dan tidak tampak adanya validasi empiris terhadap kinerja keberlanjutan.",
+   "relevansi": "Kelapa sawit merupakan komoditas utama Kalimantan Tengah, sehingga kerangka prioritas praktik sirkular dan peran sertifikasi RSPO dapat dibandingkan dengan pabrik kelapa sawit lokal serta diuji ulang dengan data lapangan di Kalimantan. Namun fokusnya pada industri pengolahan, bukan petani kecil, sehingga kaitannya dengan akses pasar, kelembagaan petani, dan adopsi digital bersifat tidak langsung.",
+   "skor": 4,
+   "model": "claude-haiku-5-5",
+   "sumber": "abstrak"
+  },
+  "relevance": 46
+ },
+ {
+  "id": "W7223181422",
+  "doi": "10.1016/j.agee.2026.110792",
+  "title": "Crop diversification shapes soil multifunctionality under common hydroclimatic extremes",
+  "date": "2026-10-22",
+  "year": "2026",
+  "journal": "Agriculture Ecosystems & Environment",
+  "issn": "01678809",
+  "publisher": "Elsevier BV",
+  "authors": [
+   "Viviana Meneghini",
+   "André Luiz Custódio Franco",
+   "Geomar Mateus Corassa",
+   "Giovani Stefani Faé",
+   "Felipe Bonini da Luz",
+   "Gwendolyn Lloyd",
+   "Lucas Pecci Canisares",
+   "Bruna Emanuele Schiebelbein",
+   "Daniel Aquino de Borba",
+   "Lucas Freitas Nogueira Souza",
+   "Maurício Roberto Cherubin"
+  ],
+  "abstract": "Rising extreme climate events threaten agricultural production and food security. Climate adaptation strategies that enhance soil health are key to strengthening the stability and resilience of agricultural systems. This study reveals how crop diversification influences soil health functions and yield stability, by combining soil, yield, and climate data from thirteen farmer-led experiments in southern Brazil, a region highly exposed to climate variability. Twelve soil health indicators were integrated into four latent functions via factor analysis (79% of total variance explained) and linked to crop diversification, soil texture, and crop yield through structural equation modeling (~76% of variance explained in crop yield). Crop diversification, particularly combined crop rotation and cover crop mixtures, were positively associated with soil water storage independently of soil texture (β = 0.41). Among the four soil health functions, biochemical regulation of soil processes was the most significantly linked to crop yield ( R ² m = 0.31). Yield instability was the strongest direct predictor of crop yield (β = −0.61). On average, systems integrating crop rotation with multispecies cover crops achieved yields 1.76 times higher than the state average, and with markedly lower instability (24%) than conventional or single-practice systems (1.08 times the average; 33–39% instability, respectively). These findings identify yield stability as a key component of climate adaptation, and support integrated crop diversification as a promising strategy for regenerative agriculture and climate policy in Brazil.",
+  "oa_url": "https://doi.org/10.1016/j.agee.2026.110792",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1016/j.agee.2026.110792"
+  ],
+  "oa_status": "hybrid",
+  "cited_by": 0,
+  "keywords": [
+   "crop diversification",
+   "soil multifunctionality",
+   "hydroclimatic extremes",
+   "drought",
+   "heavy rainfall",
+   "soil functions",
+   "agroecosystems"
+  ],
+  "topics": [
+   "Ketahanan pangan rumah tangga"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-24",
+  "summary_id": {
+   "tujuan": "Menguji bagaimana diversifikasi tanaman memengaruhi fungsi multifungsi kesehatan tanah dan stabilitas hasil di bawah ekstrem hidroklimat di Brasil bagian selatan.",
+   "metode": "Desain observasional berbasis 13 eksperimen yang dipimpin petani di Brasil bagian selatan, dengan data tanah, hasil panen, dan iklim; periode dan jumlah petani tidak disebutkan. Dua puluh (12) indikator kesehatan tanah direduksi menjadi empat fungsi laten melalui analisis faktor (79% varians), lalu dihubungkan dengan diversifikasi tanaman, tekstur tanah, dan hasil melalui structural equation modeling.",
+   "temuan": "Diversifikasi tanaman, terutama rotasi yang dikombinasikan dengan campuran cover crop, berasosiasi positif dengan penyimpanan air tanah (β = 0,41) secara independen dari tekstur tanah. Fungsi regulasi biokimia proses tanah paling terkait dengan hasil (R²m = 0,31), dan ketidakstabilan hasil merupakan prediktor langsung terkuat (β = −0,61). Sistem rotasi plus cover crop multispesies mencapai hasil 1,76 kali rata-rata negara bagian dengan ketidakstabilan 24%, dibanding 1,08 kali dan 33–39% pada sistem konvensional atau praktik tunggal; temuan ini bersifat asosiatif, bukan kausal.",
+   "keterbatasan": "Tidak disebutkan secara eksplisit dalam abstrak. Dari desain, analisis SEM bersifat korelasional dan cross-sectional dengan hanya 13 eksperimen, sehingga generalisasi dan inferensi kausal terbatas.",
+   "relevansi": "Kerangka stabilitas hasil sebagai komponen adaptasi iklim dapat diuji pada usaha tani pangan dan kebun petani kecil di Kalimantan Tengah, termasuk sistem tumpang sari atau tanaman penutup tanah di lahan mineral maupun gambut. Namun studi ini berbasis sistem pertanian komersial di Brasil, sehingga perlu penyesuaian konteks, data pasar, dan kelembagaan petani Indonesia sebelum dapat diterapkan.",
+   "skor": 3,
+   "model": "claude-haiku-5-5",
+   "sumber": "abstrak"
+  },
+  "relevance": 37
+ },
+ {
+  "id": "W7223247715",
+  "doi": "10.3390/systems14111341",
+  "title": "Optimizing Produce-Quality Disclosure in Agricultural Supply Chain Systems: Self-Disclosure or Third-Party Disclosure",
+  "date": "2026-10-22",
+  "year": "2026",
+  "journal": "Systems",
+  "issn": "20798954",
+  "publisher": "Multidisciplinary Digital Publishing Institute",
+  "authors": [
+   "Yue Sun",
+   "Juliang Zhang",
+   "T.C.E. Cheng"
+  ],
+  "abstract": "Many produces (e.g., wine, grain, and apples) are sold in advance. However, quality uncertainty may deter consumers from making early purchases. To address this issue, manufacturers have to adopt a disclosure strategy (self-disclosure (SD) or third-party disclosure (TPD)) to signal quality information. This paper develops models to analyze how to choose a disclosure strategy while considering consumers’ trust in the manufacturer and expected product quality. We characterize the manufacturer’s optimal advance-selling prices, profits, consumer surplus, and social welfare under both strategies. Then, we get the conditions which disclosure the strategy that should be adopted. We find that SD is preferable when quality expectation is low or consumer trust is high, as it leads to larger profit and social welfare. Conversely, TPD proves more beneficial when quality expectation is high but consumer trust is low, although it may reduce consumer surplus and social welfare when trust is low. In addition, we find that high expected production capacity shortage and high TPD cost can make SD more preferable. Consumers’ regret of misjudging quality increases the advantage of TPD, whereas regret of missing out makes SD more attractive. We further consider the cases that the disclosure strategy can act as a quality signal and the spot price is an endogenous decision variable, and we find that the optimal disclosure strategy has a similar structure.",
+  "oa_url": "https://doi.org/10.3390/systems14111341",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.3390/systems14111341"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemasaran, rantai pasok & rantai nilai"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-24",
+  "summary_id": null,
+  "relevance": 18
+ },
+ {
+  "id": "W7223187866",
+  "doi": "10.1186/s12889-026-29995-2",
+  "title": "STEPwise assessment of non-communicable diseases: a pilot study among the rural elderly population of Bangladesh",
+  "date": "2026-10-22",
+  "year": "2026",
+  "journal": "BMC Public Health",
+  "issn": "14712458",
+  "publisher": "BioMed Central",
+  "authors": [
+   "Jannatara Shefa",
+   "Mohammad Ferdous Ur Rahaman",
+   "Maliha Afroj Zinnia",
+   "Md Abul Kalam Azad",
+   "Abul B.M.M.K. Islam",
+   "Tasrina Rabia Choudhury"
+  ],
+  "abstract": "Bangladesh is encountering a rapid increase in the geriatric population (age 60 years and older) with currently 15 million older adults which is expected to reach 36 million by 2050. Non-communicable diseases (NCDs) are the major health challenges in this population. Our pilot study was designed to measure the prevalence of behavioral and biological risk factors among these geriatric people in Dohar upazila of Dhaka district in Bangladesh. A cross-sectional pilot study was conducted from September to December 2025, using a multistage cluster sampling design among 187 elderly population (64 men and 123 women) aged 60 years and above, recruited from 9 mauzas/clusters. Data collection was operated by following the WHO STEPs approach including face-to-face interviews, physical measurement, and biochemical assessments. Among the participants, around 51.3% (95% CI: 44.2–58.4%) were currently using any form of smoked or smokeless tobacco products, where higher use was seen in men (60.9%, 95% CI: 48.7–71.9%) compared to women (46.3%, 95% CI: 37.8–55.1%). Approximately 46.5% of the respondents always or often used extra salt while eating food, but only 17.6% of people were aware of the health consequences of excess salt consumption. Most of the participants (92.5%) were physically inactive (< 75 min of activity per week). 26.2% (95% CI: 20.4–32.9%) were overweight and 26.2% (95% CI: 19.9–32.5%) were obese, while obesity was more common in females (29.2%) than males (20.3%). Likewise, 56.1% of women had high waist circumference compared to 15.6% of men. Raised blood pressure was found in 41.2% (95% CI: 34.4–48.3%), whilst raised blood glucose and HbA1c were found in 21.4% (95% CI: 16.1–27.8%) and 25.7% (95% CI: 19.9–32.4%), respectively. Although the majority of participants (93.6%) had normal creatinine levels, around 32.6% (95% CI: 26.3–39.6%) of respondents had raised total cholesterol. The geriatric people in rural Bangladesh possess a high burden of NCD risk factors. Nationwide surveys and community-based interventions are urgently needed. Primary healthcare system must be strengthened for screening and management of the NCDs among the elderly people in Bangladesh.",
+  "oa_url": "https://doi.org/10.1186/s12889-026-29995-2",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1186/s12889-026-29995-2"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [
+   "non-communicable diseases",
+   "rural elderly",
+   "older adults",
+   "disease assessment",
+   "stepwise approach",
+   "Bangladesh"
+  ],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-24",
+  "summary_id": null,
+  "relevance": 15
+ },
+ {
   "id": "W7223176088",
   "doi": "10.1002/pop4.70076",
   "title": "Gender Differences in the Impact of Domestic and International Remittances on Household Food Security. Evidence From Rural Zimbabwe",
@@ -230,6 +453,50 @@
   "found_at": "2026-10-23",
   "summary_id": null,
   "relevance": 0
+ },
+ {
+  "id": "W7223179039",
+  "doi": "10.1111/emr.70071",
+  "title": "Landscape Context Influences the Use of Nest Boxes by a Black‐Cockatoo",
+  "date": "2026-10-21",
+  "year": "2026",
+  "journal": "Ecological Management & Restoration",
+  "issn": "14427001",
+  "publisher": "Wiley",
+  "authors": [
+   "Karleah Kyrene Berris",
+   "Michael Barth",
+   "Patricia Mooney",
+   "Sandra Leigh",
+   "Torran Welz"
+  ],
+  "abstract": "ABSTRACT Temperate forest ecosystems globally are experiencing declines in tree hollow abundance. Nest boxes are often installed as a management response to overcome tree hollow shortages for cavity nesting birds. However, for many species it is not known how the position of a nest box in the broader landscape influences its use. We investigated nest box use by yellow‐tailed black‐cockatoos, a species associated with more intact forests but also observed feeding on Pinus plantations, a novel food source the species has not coevolved with. We sought to determine whether nest box use by yellow‐tailed black‐cockatoos was influenced by proximity to native and novel foods, extent of native vegetation in the landscape, and fire impacts to vegetation. Nest boxes were monitored in two time periods: pre‐fire (2015–2017) and after a largescale wildfire (2021–2023). The mean annual proportional rate of nest box occupancy was 0.27 pre‐fire and 0.23 post‐fire. Nesting attempts in nest boxes yielded 0.76 fledglings per attempt ( n = 59 attempts monitored from egg stage to nest completion). Pre‐fire, nest boxes that were closer to Pinus radiata plantations were more likely to be used. The 2019–2020 wildfires burnt substantial areas of P. radiata plantations and Banksia dominated vegetation. In post‐fire years, nest box use was positively associated with proximity to native Banksia dominated vegetation (a preferred native food source), and more native vegetation and a higher proportion of burnt native vegetation in a 10 km radius of nest boxes. The importance of Pinus plantations to nest site selection pre‐fire suggests that yellow‐tailed black‐cockatoos could be unintentionally impacted by forestry harvesting. Post‐fire reductions in P. radiata plantations and Banksia dominated vegetation may have increased the importance of proximity to native food resources. Our results suggest that nest boxes could play a role in the conservation of yellow‐tailed black‐cockatoos but highlight the need to consider the broader landscape matrix when selecting nest box installation sites.",
+  "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/emr.70071",
+  "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/emr.70071",
+  "pdf_urls": [
+   "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/emr.70071",
+   "https://doi.org/10.1111/emr.70071"
+  ],
+  "oa_status": "bronze",
+  "cited_by": 0,
+  "keywords": [
+   "nest box use",
+   "cavity-nesting birds",
+   "Pinus radiata plantations",
+   "wildfire effects",
+   "nest site selection",
+   "landscape context",
+   "nest box occupancy",
+   "fledging success"
+  ],
+  "topics": [
+   "Tenaga kerja & produktivitas perkebunan"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-24",
+  "summary_id": null,
+  "relevance": 6
  },
  {
   "id": "W7223083246",
