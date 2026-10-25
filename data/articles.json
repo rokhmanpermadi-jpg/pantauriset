@@ -1,5 +1,700 @@
 [
  {
+  "id": "W7223355676",
+  "doi": "10.1007/s44392-026-00126-4",
+  "title": "Rotation Age Results of Low Planting Density Effects in Loblolly Pine (Pinus taeda L.)",
+  "date": "2026-10-24",
+  "year": "2026",
+  "journal": "Journal of Forestry",
+  "issn": "00221201",
+  "publisher": "Oxford University Press",
+  "authors": [
+   "Patrick Corey Green",
+   "Isabella Icenhour",
+   "Steven Morrone",
+   "Benjamin P. Protzman",
+   "Jerre L. Creighton",
+   "Zoe Bergman",
+   "John A. Scrivani"
+  ],
+  "abstract": "Abstract Planting density is the most important management decision made by a forester when establishing a loblolly pine ( Pinus taeda L.) plantation. Traditionally, planting densities were often chosen with the assumption that at least one mid-rotation thinning operation would provide intermediate cash flow(s) while also accelerating the growth of residual trees to more quickly provide solid wood products at future thinnings and final harvest. Recently, closures of pulpwood processing facilities throughout the southeastern USA have led to growers considering low planting density, no-thin management regimes. Using a designed experiment in Virginia, USA, three lower planting densities (494, 741, and 988 trees per hectare) were evaluated at rotation age (30 years) for common characteristics of interest to growers. Results indicated that the highest planting density yielded significantly greater (p-value < 0.05) total green weight, pulpwood and chip-n-saw green weights, and basal area, whereas lower densities produce significantly more ( p -value < 0.05) sawtimber green weight, the highest-value product. Effect sizes for these characteristics were all large (Partial— $${\\eta }^{2}$$ η 2 > 0.70) and meaningful from a management perspective. All planting densities produced viable stands showing little competition-induced mortality and should be evaluated alongside more traditional planting densities using expected local market conditions and landowner management objectives.",
+  "oa_url": "https://doi.org/10.1007/s44392-026-00126-4",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1007/s44392-026-00126-4"
+  ],
+  "oa_status": "hybrid",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Tenaga kerja & produktivitas perkebunan"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-25",
+  "summary_id": null,
+  "relevance": 0
+ },
+ {
+  "id": "W7223343860",
+  "doi": "10.1007/s43621-026-05080-x",
+  "title": "Wheat commercialization level and its association with rural households’ dietary diversity in Northwestern Ethiopia",
+  "date": "2026-10-23",
+  "year": "2026",
+  "journal": "Discover Sustainability",
+  "issn": "26629984",
+  "publisher": "Springer Nature",
+  "authors": [
+   "Wubalem Gobie",
+   "Silabat Enyew",
+   "Md Mahedi",
+   "Gebyaw Demeke",
+   "Yesuf Ahmedin",
+   "Muluken Alemu",
+   "Adane Addis"
+  ],
+  "abstract": "Wheat commercialization level (WCI) in Ethiopia as a strategic food security crops & as government initiatives, is still relatively low, despite its considerable potential for food security, income generation and job creation. Hence, this study was initiated to analysis the level of household WCI; to pinpoint the major derivers of WCIs & to examine the association of WCI on rural households’ dietary diversity. A cross-sectional primary data from 395 wheat-growing households using a multi-stage sampling techniques were collected. The WCI was evaluating the degree of WCI, and a fractional logit model were used to investigate the influencing factors of WCI and the effect of it on dietary diversity estimated using Poisson regression model. The average result of WCI of 51.1%, shows that wheat production & marketing in the study areas has progressed from purely subsistence farming to a moderate level of commercialization. Moreover, cluster farming, access to irrigation, educational level, ownership of livestock, landholding size, fertilizer use, off-farm income, and all roads access were statistically positive association while access to credit, household size & exposure to shock were significant negative association. As a result, study discovered that increased WCI improves household dietary diversity, demonstrating a favorable relationship between market participation, food & nutrition security. Therefore, study strongly recommended for efficient production and thereby increases wheat commercialization level, implementing practically at grass root level of cluster-farming, strong and well-coordinated farmer cooperatives via encouraging climate-resilient wheat varieties to farmers are very critical to transform from wheat food self-sufficiency to net export paradigm.",
+  "oa_url": "https://doi.org/10.1007/s43621-026-05080-x",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1007/s43621-026-05080-x"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Akses & informasi pasar petani",
+   "Kelembagaan petani & tindakan kolektif",
+   "Ketahanan pangan rumah tangga"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-25",
+  "summary_id": {
+   "tujuan": "Menganalisis tingkat komersialisasi gandum (WCI) rumah tangga petani, faktor penentunya, serta hubungannya dengan keragaman pangan rumah tangga pedesaan di Ethiopia Barat Laut.",
+   "metode": "Desain cross-sectional dengan data primer dari 395 rumah tangga penanam gandum di Ethiopia Barat Laut, dipilih melalui multi-stage sampling; periode pengumpulan data tidak disebutkan. Analisis menggunakan fractional logit untuk faktor penentu WCI dan Poisson regression untuk keragaman pangan.",
+   "temuan": "Rata-rata WCI sebesar 51,1%, menunjukkan komersialisasi tingkat sedang. Faktor positif meliputi usahatani kelompok, irigasi, pendidikan, kepemilikan ternak, luas lahan, pupuk, pendapatan luar usahatani, dan akses jalan; faktor negatif meliputi akses kredit, ukuran rumah tangga, dan paparan guncangan. WCI berasosiasi positif dengan keragaman pangan, namun desain cross-sectional tidak membuktikan kausalitas.",
+   "keterbatasan": "Tidak disebutkan secara eksplisit. Dari desain, data cross-sectional membatasi inferensi kausal (potensi endogenitas WCI), data bersifat self-reported, dan generalisasi terbatas pada wilayah studi.",
+   "relevansi": "Relevan untuk kajian akses pasar petani kecil, kelompok tani/koperasi, dan hubungan partisipasi pasar dengan ketahanan pangan di Kalimantan Tengah. Namun komoditas gandum tidak sesuai dengan padi, sawit, atau hortikultura lokal, dan studi ini tidak membahas adopsi teknologi digital.",
+   "skor": 4,
+   "model": "claude-haiku-5-5",
+   "sumber": "abstrak"
+  },
+  "relevance": 58
+ },
+ {
+  "id": "W7223355887",
+  "doi": "10.1007/s44533-026-00084-y",
+  "title": "Land fragmentation, tenure insecurity, and irrigation water management in Egypt: a hybrid review and sensitivity analysis",
+  "date": "2026-10-23",
+  "year": "2026",
+  "journal": "Water Science",
+  "issn": "11104929",
+  "publisher": "Taylor & Francis",
+  "authors": [
+   "Mohamed ElFetyany",
+   "Mohamed Embaby",
+   "Ahmed Medhat Ismail Abd Elhamid"
+  ],
+  "abstract": "Egypt has one of the tightest water budgets in the world, while its farmland has been divided into ever-smaller holdings for a century. This paper connects these two issues by pairing a structured literature review with a transparent sensitivity analysis based on Egyptian census data and Nile Delta field studies. It asks how holding size and tenure affect irrigation water application, and how much of the excess consolidation might recover. Holdings rose from about 1.2 million in 1929 to 4.44 million in 2010, while the total holding area grew by only 31%. The average holding fell from 6.1 to 2.2 feddans (0.92 ha), and about 72% of holdings are below 2 feddans. Small, fragmented holdings are assumed to apply 10–20% more water per unit area. Scaled to the Delta, this gives a gross estimate of 1.5–2.7 Bm 3 of excess applied water per year. This is applied water, not a basin-scale saving, since part returns to drains and is reused. Crop consolidation could lower applied water by 4–10%, and formal consolidation combined with irrigation modernization by 16–37%. These gains depend on institutional capacity, farmer participation, protection of women and informal rights-holders, and investment in infrastructure and extension. The main limitation is that the estimates rest on assumed and literature-derived parameters, not field measurements. Reducing fragmentation may contribute to improved irrigation water management and water security. A phased path is proposed: crop consolidation and mediated leasing through existing Water User Associations and cooperatives first, then formal consolidation in priority areas.",
+  "oa_url": "https://doi.org/10.1007/s44533-026-00084-y",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1007/s44533-026-00084-y"
+  ],
+  "oa_status": "diamond",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Kelembagaan petani & tindakan kolektif",
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-25",
+  "summary_id": {
+   "tujuan": "Menguji bagaimana fragmentasi lahan dan ketidakamanan kepemilikan memengaruhi aplikasi air irigasi di Mesir, serta seberapa besar penggabungan lahan dapat mengurangi pemborosan air. Penelitian ini memadukan tinjauan pustaka terstruktur dengan analisis sensitivitas.",
+   "metode": "Desain hybrid: tinjauan pustaka terstruktur dan analisis sensitivitas transparan. Data berasal dari sensus pertanian Mesir (1929–2010) dan studi lapangan di Delta Nil. Ukuran sampel tidak disebutkan. Parameter utama (peningkatan air 10–20% pada lahan kecil) diasumsikan dari literatur.",
+   "temuan": "Jumlah usaha tani naik dari sekitar 1,2 juta (1929) menjadi 4,44 juta (2010), sementara total luas hanya naik 31%; rata-rata luas turun dari 6,1 menjadi 2,2 feddan, dan sekitar 72% di bawah 2 feddan. Estimasi kasar kelebihan air terapan di Delta sebesar 1,5–2,7 Bm³ per tahun, dengan penghematan konsolidasi tanaman 4–10% dan konsolidasi formal plus modernisasi irigasi 16–37%. Temuan ini bersifat proyeksi berbasis asumsi, bukan kausalitas terukur.",
+   "keterbatasan": "Estimasi bergantung pada parameter asumsi dan turunan literatur, bukan pengukuran lapangan. Angka yang dihasilkan adalah air terapan bruto, bukan penghematan skala cekungan, karena sebagian air kembali ke drainase dan digunakan ulang.",
+   "relevansi": "Temuan tentang fragmentasi lahan kecil, kelembagaan P3A/koperasi, dan hak informal (termasuk perempuan) relevan dengan kajian kelembagaan petani dan akses pasar petani kecil di Kalimantan Tengah. Kerangka sensitivitas ini bisa diadaptasi untuk menguji skenario konsolidasi kebun sawit rakyat atau irigasi lahan rawa, meski konteks iklim dan hidrologinya berbeda.",
+   "skor": 3,
+   "model": "claude-haiku-5-5",
+   "sumber": "abstrak"
+  },
+  "relevance": 43
+ },
+ {
+  "id": "W7223253570",
+  "doi": "10.1186/s40795-026-01531-w",
+  "title": "Assessment of the physicochemical properties of raw milk in Addis Ababa and its surrounding areas, Ethiopia",
+  "date": "2026-10-23",
+  "year": "2026",
+  "journal": "BMC Nutrition",
+  "issn": "20550928",
+  "publisher": "BioMed Central",
+  "authors": [
+   "Meseret Gebreselama Gidey",
+   "Laure David",
+   "Fufa Abunna",
+   "Hadgu Mendefro",
+   "Fikru Regassa"
+  ],
+  "abstract": "Milk is a highly nutritious food and an important source of income for smallholder farmers in Ethiopia. Ensuring the safety and quality of raw milk is essential for public health and consumer confidence. However, milk quality may deteriorate along the dairy value chain due to poor handling, storage conditions, and possible adulteration practices. This study assessed the physicochemical characteristics of raw cow milk collected along the dairy value chain in and around Addis Ababa, Ethiopia. Between June and September 2022, milk samples were obtained from four dairy-producing areas, Sebeta, Sheno, Sululta, and Bishoftu, and transported to the Veterinary Drugs and Feed Administration and Control Authority (VDFACA) laboratory for analysis. A Lactoscan milk analyzer was used to determine key physicochemical parameters including fat, solids-not-fat, protein, lactose, density, freezing point, and mineral content. Data were analyzed using two-way analysis of variance (ANOVA) at a 95% confidence level, and results were compared with standards established by the Ethiopian Standards Agency (ESA). The mean fat percentages of milk from Sebeta, Sheno, Sululta, and Bishoftu were 2.621 ± 0.967, 2.429 ± 0.838, 2.147 ± 1.026, and 2.602 ± 0.689, respectively. Milk obtained from farms, collectors, and cafeterias had mean fat contents of 2.831 ± 1.023, 2.419 ± 0.650, and 2.099 ± 0.835, respectively. Significant differences were observed in fat content along the value chain ( P = 0.017), while no significant differences were found among the study locations ( P > 0.05). Several physicochemical parameters were below ESA minimum limits. The lower quality of milk at the consumer level suggests possible adulteration, including water addition and fat removal. The study identified a progressive decline in several physicochemical quality indicators of raw milk along the dairy value chain. These findings are consistent with possible dilution, cream removal, or other handling-related factors; however, direct evidence of adulteration was not assessed. The results highlight the need for improved milk quality monitoring, stronger regulatory oversight, and further studies incorporating microbiological and adulterant detection analyses.",
+  "oa_url": "https://doi.org/10.1186/s40795-026-01531-w",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1186/s40795-026-01531-w"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [
+   "raw milk",
+   "physicochemical properties",
+   "milk quality",
+   "Addis Ababa",
+   "milk hygiene"
+  ],
+  "topics": [
+   "Pemasaran, rantai pasok & rantai nilai"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-25",
+  "summary_id": null,
+  "relevance": 29
+ },
+ {
+  "id": "W7223304751",
+  "doi": "10.1371/journal.pwat.0000341",
+  "title": "Access to and control over water security: The perspective of gender equality in Lao PDR",
+  "date": "2026-10-23",
+  "year": "2026",
+  "journal": "PLOS Water",
+  "issn": "27673219",
+  "publisher": "Public Library of Science",
+  "authors": [
+   "Souksamone Thongmixay",
+   "Vanphanom Sychareun",
+   "Viengnakhone Vongxay",
+   "Vathsana Somphet",
+   "Chandavieng Phimmavong",
+   "Phouthong Phommavongsa",
+   "Somphone Khongsab",
+   "Khamthavisouk Detchanthachack",
+   "Vilakone Thongmala",
+   "Jo Durham"
+  ],
+  "abstract": "Climate change and water-related disasters significantly affect water security and livelihoods, particularly in vulnerable communities. In Lao People’s Democratic Republic (Lao PDR), women often bear the burden of domestic water collection, yet their role in water governance remains limited. The objective of this study was to examine gendered dimensions of access to water security and participation in water-related decision-making across household, community, and institutional levels in Lao PDR. Data were collected through 32 focus group discussions (FGDs) with local authority, men’s, women’s and elderly groups (161 community participants) and 87 semi-structured interviews with key stakeholders at central, provincial and district levels. Fieldwork was conducted in eight villages across two provinces and four districts, as well as at the national level. The study found that while progress has been made in expanding access to safe drinking water and sanitation, many rural communities continue to face water shortages. Women and children, particularly daughters, are primarily responsible for household water collection. Despite this critical role, women remain underrepresented in water supply decision-making processes at all administrative levels. Addressing gender disparities in water access and governance is essential to achieving water security in Lao PDR. Integrating a gender perspective into national water and sanitation programs is crucial for sustainable development and disaster resilience.",
+  "oa_url": "https://doi.org/10.1371/journal.pwat.0000341",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1371/journal.pwat.0000341"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-25",
+  "summary_id": null,
+  "relevance": 23
+ },
+ {
+  "id": "W7223415973",
+  "doi": "10.1002/fes3.70342",
+  "title": "Biofortified Cassava Adoption, Poverty Reduction, and Household Welfare in Nigeria: Distributional Effects and Productivity Pathways",
+  "date": "2026-10-23",
+  "year": "2026",
+  "journal": "Food and Energy Security",
+  "issn": "20483694",
+  "publisher": "Wiley",
+  "authors": [
+   "Edward Martey",
+   "Mesay Yami",
+   "Ibukun James Olaoye",
+   "Temitayo Adenike Adeyemo",
+   "Tahirou Abdoulaye",
+   "Shiferaw Feleke"
+  ],
+  "abstract": "ABSTRACT This study examines the association between the intensity of adoption of biofortified yellow cassava (BFYC) and per capita consumption expenditure, poverty incidence, the poverty gap, and poverty severity. Using cross‐sectional data from 1738 farm households and 2937 cassava plots, we employ instrumental variable two‐stage least squares (IV‐2SLS), Lewbel 2SLS, and control function approaches to address potential endogeneity. The results consistently show that greater area under BFYC adoption is associated with higher per capita consumption expenditure and lower poverty incidence, depth, and severity. Mediation analysis indicates that agricultural productivity accounts for a substantial share of the observed adoption–welfare association, suggesting productivity as an important potential pathway linking BFYC adoption intensity to household welfare. The associations are heterogeneous across household groups, with female‐ and youth‐headed households exhibiting comparatively larger welfare gains. Distributional analysis further shows stronger positive associations with consumption expenditure among households at the upper end of the expenditure distribution, while poverty‐reducing associations are more pronounced across the lower‐to‐middle range of the poverty‐gap distribution. These findings highlight the broader welfare relevance of BFYC beyond its nutritional benefits and suggest its potential role in integrated agricultural and poverty‐reduction strategies. Policies that strengthen access to biofortified planting materials, extension services, productivity‐enhancing inputs, and gender‐responsive support could help expand adoption and promote more inclusive welfare gains.",
+  "oa_url": "https://doi.org/10.1002/fes3.70342",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1002/fes3.70342"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-25",
+  "summary_id": null,
+  "relevance": 19
+ },
+ {
+  "id": "W7223362287",
+  "doi": "10.1057/s41599-026-09410-2",
+  "title": "Socioeconomic disadvantage and health in later life: associations and potential pathways in rural China",
+  "date": "2026-10-23",
+  "year": "2026",
+  "journal": "Humanities and Social Sciences Communications",
+  "issn": "20551045",
+  "publisher": "Palgrave Macmillan",
+  "authors": [
+   "Qiufeng Gao",
+   "Yuxin Jiang",
+   "Bei Zhou",
+   "Rigao Liu",
+   "Yaojiang Shi"
+  ],
+  "abstract": "Socioeconomic status (SES) is a key determinant of health. Its relationship with health among older adults in rural China—particularly among vulnerable subgroups—remains insufficiently understood. This study examined the association between SES and multiple health dimensions among rural older adults, assessed subgroup disparities, and explored mediating pathways involving physical exercise, nutrition, and living conditions. Data was drawn from 1077 rural older adults in Shaanxi Province, including both general and vulnerable welfare-recipient groups. Health outcomes covered self-rated health (SRH), cognitive function, and depressive symptoms. Multivariable regression combined with propensity score matching was used to improve comparability between SES groups, and exploratory mediation analysis was conducted to examine potential pathways. Lower SES was associated with poorer SRH (β = 0.367, P < 0.001), poorer cognitive function (β = 1.927, P < 0.001), and more severe depressive symptoms (β = −0.471, P < 0.001). The SES-cognitive function association was stronger among the vulnerable population, whereas SES associations for SRH and depressive symptoms were larger in the general population. Living conditions accounted for the largest share of the observed SES-health association (8.3–25.1%), followed by physical exercise (3.9–9.8%) and nutrition (3.2–13.2%). The association between SES and depressive symptoms appeared stronger among those living alone (β = −0.587, P < 0.001), with no gender differences. SES is strongly associated with multiple health outcomes among rural older adults in China, with physical exercise, nutrition, and living conditions potentially contributing to these associations. Efforts to reduce the health costs of poverty in later life may benefit from comprehensive policies that improve living environments, promote healthy behaviors, and prioritize support for vulnerable groups such as welfare recipients and those living alone.",
+  "oa_url": "https://doi.org/10.1057/s41599-026-09410-2",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1057/s41599-026-09410-2"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-25",
+  "summary_id": null,
+  "relevance": 17
+ },
+ {
+  "id": "W7223243562",
+  "doi": "10.1007/s43621-026-04898-9",
+  "title": "Assessing socio technical and behavioural outcomes across implementation phases of the Nitte Gram panchayat material recovery facility",
+  "date": "2026-10-23",
+  "year": "2026",
+  "journal": "Discover Sustainability",
+  "issn": "26629984",
+  "publisher": "Springer Nature",
+  "authors": [
+   "K. V. Ashalatha",
+   "Disha B",
+   "Anusha .",
+   "Amisha Shetty",
+   "Deeksha S Acharya"
+  ],
+  "abstract": "Rural areas in India continue to face challenges in solid waste management, particularly in regular waste collection, household-level segregation and community participation. This study examines the socio-technical and behavioural sustainability of the Material Recovery Facility (MRF) model implemented in Nitte Gram Panchayat, Karnataka. The study uses a mixed-method case-study approach with phase-based comparisons to assess changes in household waste segregation, collection coverage, user-fee compliance, behavioural practices and social and economic outcomes associated with the MRF model. Quantitative data were collected through a structured survey of 73 households, while qualitative information was obtained through 12 semi-structured interviews, four focus group discussions and 20 non-participant observations. The findings indicate improvements across three implementation phases: before MRF establishment (July 2021), during MRF setup (August 2021–March 2022), and after MRF implementation (April 2022–2025). Household waste segregation increased from 18% before MRF establishment (July 2021), to 45% during the MRF setup period (August 2021–March 2022), and to 81% after MRF implementation (April 2022–2025). These phase-based differences indicate an observed increase in compliance across the implementation stages. However, they should not be interpreted as definitive evidence of a causal intervention effect. Collection coverage increased from 52% before MRF establishment to 98% after MRF implementation, while user-fee compliance increased from 28 to 84% over the corresponding assessment periods. These findings represent observed differences across implementation phases and should not be interpreted as definitive causal intervention effects. Education was positively associated with segregation and fee compliance, while participation in awareness activities was associated with improved waste-management practices. The study also found increased employment associated with the formalization of the MRF and greater participation of women through self-help groups. Overall, the findings suggest that community participation, institutional support and reliable waste collection services are important factors associated with the functioning and sustainability of decentralized waste-management systems in rural settings.",
+  "oa_url": "https://doi.org/10.1007/s43621-026-04898-9",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1007/s43621-026-04898-9"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [
+   "material recovery facilities",
+   "panchayats",
+   "community-based waste management",
+   "behavioural outcomes",
+   "implementation stages",
+   "solid waste management",
+   "local governance"
+  ],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-25",
+  "summary_id": null,
+  "relevance": 15
+ },
+ {
+  "id": "W7223263189",
+  "doi": "10.1007/s43621-026-05039-y",
+  "title": "Eco-innovation and sustainable rural transformation in emerging markets",
+  "date": "2026-10-23",
+  "year": "2026",
+  "journal": "Discover Sustainability",
+  "issn": "26629984",
+  "publisher": "Springer Nature",
+  "authors": [
+   "V. K. Ranjith",
+   "Bijuna C. Mohan",
+   "M. Ananth Pai",
+   "Bharathi Karanth"
+  ],
+  "abstract": "Abstract Eco-innovative entrepreneurship can contribute to environmental sustainability and socio-economic development by embedding ecological innovation into business activities. This study explores the role of eco-innovation based on business model innovation in organizational capacity development, sustainable competitive advantage and rural socio-economic development. Semi structured interviews, field observations, organisational records and secondary documents were used to conduct a qualitative single case study of the paper seed company, a rural eco-innovative enterprise. Change in organisational capacity was measured by using the McKinsey capacity assessment grid across seven dimensions from 2019 to 2023. The results have shown that business model innovation has been progressing along the lines of cognitive search, creation, experiential learning, and experimentation, alongside the enhancement of strategic, operational, human-resource, infrastructural, structural, and cultural capabilities. Case level competitive positioning was achieved through embedding eco-innovation through recycling, waste utilisation, product diversification, resource efficiency and circular practices. The case also highlights rural employment, participation of women, skill development, community participation, and environmental activities. The study adds value by combining the concepts of eco-innovation, business model innovation and organisational capacity development in a process-oriented approach and by offering qualitative evidence based on an emerging market enterprise in the rural sector.",
+  "oa_url": "https://doi.org/10.1007/s43621-026-05039-y",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1007/s43621-026-05039-y"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-25",
+  "summary_id": null,
+  "relevance": 15
+ },
+ {
+  "id": "W7223304788",
+  "doi": "10.1186/s12905-026-04985-z",
+  "title": "Menstrual hygiene management among women of reproductive age in White Nile State, Sudan: a descriptive cross-sectional study",
+  "date": "2026-10-23",
+  "year": "2026",
+  "journal": "BMC Women s Health",
+  "issn": "14726874",
+  "publisher": "BioMed Central",
+  "authors": [
+   "Awab Osman Ahmed Osman",
+   "Raghad Abdullah",
+   "Alsaida Ali",
+   "Fatima Esam",
+   "Mustafa Mohamed",
+   "Esra Ali Mahjoub Saeed",
+   "Hadeel Mohamed Muaid Abdelseid"
+  ],
+  "abstract": "Menstrual Hygiene Management (MHM) remains a major public health challenge in low-resource settings, where cultural taboos, limited access to sanitary products, and inadequate health education can compromise women’s well-being. Evidence from Sudan, particularly rural communities, is limited. This study aimed to assess the Knowledge, Attitude and Practice of Menstrual Hygiene among women of reproductive age in White Nile. A descriptive cross-sectional study was conducted during a three-day medical convoy in three rural villages of the Guli and Alsalam localities, White Nile State, Sudan. Women aged 15–45 years attending the mobile clinic were recruited through convenience sampling. Data were collected using a pretested, interviewer-administered questionnaire covering sociodemographic variables, knowledge of menstruation and hygiene, attitudes toward menstrual and reproductive health, and hygiene practices. Data were analyzed using SPSS version 28 software. A total of 333 women were recruited. The mean age at menarche was 13.9 years, and 95.8% of participants reported undergoing female genital mutilation (FGM). Knowledge levels varied: 53.2% were aware of menstruation before menarche, yet only 36% demonstrated good knowledge of MHM, while 32.1% and 31.8% had moderate and poor knowledge, respectively. Mothers (48.9%) and teachers (42%) were the main sources of information. Attitudes toward reproductive health were mixed; although 78.7% indicated they would seek treatment for Reproductive Tract Infection (RTI)-like symptoms, 21.3% reported barriers such as stigma or financial constraints. Practices were relatively positive:74.8% reported using disposable sanitary pads, most changed absorbents two to three times daily, and 62.2% washed the genital area more than once per day using water and soap. However, affordability (45.5%) and availability (27.6%) limited access to disposable pads. Self-reported RTI-like symptoms were common, with burning urination (55.9%) and abnormal vaginal discharge (49.5%) being the most frequently reported. This KAP study highlights both progress and persistent gaps in MHM among rural Sudanese women. While many practiced safe hygiene and expressed willingness to seek care, knowledge gaps, cultural restrictions, high FGM prevalence, and limited access to sanitary products continue to affect menstrual health. Targeted interventions integrating health education, improved product accessibility, and reproductive health services are urgently needed.",
+  "oa_url": "https://doi.org/10.1186/s12905-026-04985-z",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1186/s12905-026-04985-z"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-25",
+  "summary_id": null,
+  "relevance": 15
+ },
+ {
+  "id": "W7223409883",
+  "doi": "10.1097/md.0000000000051192",
+  "title": "The effect of regional disparities in access to rehabilitation services on mortality among stroke patients",
+  "date": "2026-10-23",
+  "year": "2026",
+  "journal": "Medicine",
+  "issn": "00257974",
+  "publisher": "Wolters Kluwer",
+  "authors": [
+   "Dong-Yup Yoo",
+   "Chang Yoon Baek",
+   "Jung Kyu Choi"
+  ],
+  "abstract": "This study aimed to analyze physical therapy (PT) and occupational therapy (OT) claims data to determine whether access barriers to rehabilitation services due to regional factors affect PT and OT accessibility. Furthermore, we investigated the mortality rate of stroke patients by region in South Korea using the National Health Insurance Service-National Sample Cohort database. This is a register-based, retrospective cohort study. Using data from the National Health Insurance Service database, we included patients who were newly diagnosed with stroke between 2005 and 2017. Of the 19,067 patients diagnosed with stroke, 2263 who died within 6 months were excluded. The final sample included 16,804 patients (51.3% men and 48.7% women). Residential regions were categorized into Capital, Capital area, Metropolitan, and Rural area. After adjusting for covariates, a logistic regression model was used to analyze the accessibility of rehabilitation services by residential region. The Kaplan–Meier method was employed to compare the survival rates of rehabilitation patients across different residential regions. A Cox proportional hazards model was used to estimate the independent contribution of each factor to mortality risk (hazard ratios [HRs] and 95% confidence interval [CIs]). Significant differences in mortality were observed according to sociodemographic factors and Charlson Comorbidity Index scores. Accessibility in Capital area and Metropolitan cities was comparable to the Capital. However, patients living in a rural area had significantly lower access to rehabilitation compared to those in the Capital (PT: OR = 0.889, 95% CIs: 0.809–0.987, P = .029; OT: OR = 0.802, 95% CIs: 0.726–0.886, P = .001). Notably, among those receiving inpatient rehabilitation, rural area residency was associated with a higher risk of death compared to the Capital (HRs = 1.288; 95% CIs, 1.015–1.635; P = .037). In contrast, no significant disparity was found in the outpatient group (HRs = 1.011; 95% CIs, 0.917–1.115; P = .820). Stroke patients living in rural area were less likely to receive rehabilitation services than those in the capital. This regional disparity in access, particularly in inpatient rehabilitation, is associated with an increased risk of long-term mortality after stroke. These findings suggest that improving inpatient rehabilitation infrastructure in rural area is critical to reducing survival gaps.",
+  "oa_url": "https://doi.org/10.1097/md.0000000000051192",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1097/md.0000000000051192"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-25",
+  "summary_id": null,
+  "relevance": 15
+ },
+ {
+  "id": "W7223323696",
+  "doi": "10.1080/14735903.2026.2725346",
+  "title": "Transformative learning in farmer research networks: insights from Eastern and Southern Africa",
+  "date": "2026-10-23",
+  "year": "2026",
+  "journal": "International Journal of Agricultural Sustainability",
+  "issn": "14735903",
+  "publisher": "Taylor & Francis",
+  "authors": [
+   "Evelyne Kiptot",
+   "Romina De Angelis",
+   "Mirriam Matita",
+   "Shiphar Mulumba",
+   "Carolyne Phiri",
+   "Mary Richardson",
+   "Frank Tchuwa",
+   "Kate Wellard",
+   "Richard Coe"
+  ],
+  "abstract": "Farmer research networks are collaborative platforms where farmers, researchers, extension workers, and NGOs co-create knowledge, experiment with innovations, and tackle local challenges through joint learning and action. Although interest in these networks is growing, there remains a limited understanding of how learning occurs within them. This study draws on qualitative data from nine networks active between 2015 and 2024 in Kenya, Malawi and Uganda. It reveals that these networks foster individual and collective transformation. The process is dynamic, multi-dimensional, technical, relational, and emotional, shaped by diverse knowledge systems and social interactions. Emotional engagement , enhanced motivation, deepened reflection, and prompted identity shifts. Networks function not only as sites of knowledge co-creation and learning but also as cultural and emotional spaces where agricultural visions and identities are negotiated and reshaped. Farmers assumed roles as researchers and educators, adapting agroecological innovations and experimenting with solutions to ecological and livelihood challenges. The key enabling factors were trust among members, inclusive facilitation, institutional memory, and strong local leadership. Progress was constrained by entrenched gender norms, hierarchical extension practices, and rigid social structures. Sustaining transformative learning calls for continued investment in facilitation capacity, inclusive leadership and institutional structures that embed networks within broader innovation systems.",
+  "oa_url": "https://doi.org/10.1080/14735903.2026.2725346",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1080/14735903.2026.2725346"
+  ],
+  "oa_status": "diamond",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-25",
+  "summary_id": null,
+  "relevance": 11
+ },
+ {
+  "id": "W7223339530",
+  "doi": "10.1186/s12939-026-03083-8",
+  "title": "Impact of armed conflict on health systems and population health outcomes in Tigray, Ethiopia: a systematic review (2020–2026)",
+  "date": "2026-10-23",
+  "year": "2026",
+  "journal": "International Journal for Equity in Health",
+  "issn": "14759276",
+  "publisher": "BioMed Central",
+  "authors": [
+   "Tafese Niguse",
+   "Zerihun Kinde Alemu",
+   "Shashi Kant",
+   "Shashank Mittal",
+   "Jemila Hussen"
+  ],
+  "abstract": "Abstract Armed conflict severely challenges health systems and population well-being, especially in fragile, resource-constrained settings. This systematic review, guided by PRISMA 2020, synthesized empirical evidence on the effects of the 2020–2026 Tigray conflict on health systems and population health. Searches of Scopus, Web of Science, PubMed/MEDLINE, Embase, ScienceDirect, Google Scholar, and Emerald Insight identified 135 records, of which 31 studies were included. The included evidence covered 29,761 live births, 189,087 households, and 31 districts, although some studies may have used overlapping populations or datasets. Findings indicated substantial reductions in healthcare access and service utilization, extensive damage to health facilities, and interruptions in medicines, workforce capacity, chronic-disease care, tuberculosis services, maternal care, and emergency services. Facility assessments reported very low functionality, while mortality studies reported under-five mortality of 59 per 1,000 live births and maternal mortality of 840 per 100,000 live births. Additional evidence documented conflict-period mortality, food insecurity and starvation-related deaths, gender-based violence, mental-health problems, WASH deficiencies, and communicable and non-communicable disease burdens. These findings indicate an association between conflict-related disruption and adverse health-system and population-health outcomes, but causal attribution remains limited by heterogeneous observational designs, retrospective reporting, and potential dataset overlap. Because substantial heterogeneity prevented quantitative pooling, no meta-analysis or meta-regression was conducted, and therefore no meta-regression statistics are reported. Overall, the evidence supports integrated recovery focused on essential services, health-system functionality, workforce, medicines, WASH, nutrition, mental health, and continuity of care. Clinical trail registration Not applicable.",
+  "oa_url": "https://doi.org/10.1186/s12939-026-03083-8",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1186/s12939-026-03083-8"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Ketahanan pangan rumah tangga"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-25",
+  "summary_id": null,
+  "relevance": 11
+ },
+ {
+  "id": "W7223385342",
+  "doi": "10.3390/safety12060139",
+  "title": "Musculoskeletal Symptoms, Sleep, and Stress in Midwestern Agricultural Women",
+  "date": "2026-10-23",
+  "year": "2026",
+  "journal": "Safety",
+  "issn": "2313576X",
+  "publisher": "Multidisciplinary Digital Publishing Institute",
+  "authors": [
+   "Cheryl L. Beseler",
+   "Ellen G. Duysen"
+  ],
+  "abstract": "Musculoskeletal disorders (MSD) are an international problem in female agricultural workers. The rates of musculoskeletal disorders in women are higher than in men. Stress, sleep, and joint and muscle pain are interconnected. This study aimed to better understand these relationships in women actively engaged in agriculture in the Midwestern US. A brief survey was mailed to 5018 addresses purchased from an agricultural marketing company. There were 235 responses and after removing those respondents not working on the farm, 202 were analyzed. A latent class analysis was used to identify subgroups based on a set of eight questions asking about pain, stress, sleep, exercise, and seeking medical care. Two groups emerged based on musculoskeletal impact severity. The group of 67 (33.2%) showed mild impacts and the larger group of 135 (66.8%) showed more severe impacts. The severe group exercised less frequently, experienced more frequent pain, and more frequent problems with sleep and stress. The women reported that the most likely relationship between pain and stress was bidirectional. Pain, stress and sleep were interconnected. Prevention of an MSD is important for quality of life, but after an MSD, reducing stress levels and improving sleep can reduce the burden of an MSD.",
+  "oa_url": "https://doi.org/10.3390/safety12060139",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.3390/safety12060139"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-25",
+  "summary_id": null,
+  "relevance": 9
+ },
+ {
+  "id": "W7223251491",
+  "doi": "10.1016/j.sftr.2026.102243",
+  "title": "Temporal misalignment of income and nutrition in cash-crop food systems of Sub-Saharan Africa: Rethinking food security policy",
+  "date": "2026-10-22",
+  "year": "2026",
+  "journal": "Sustainable Futures",
+  "issn": "26661888",
+  "publisher": "Elsevier BV",
+  "authors": [
+   "Taddese Alemu Zerfu",
+   "Amare Abera Tareke",
+   "Dawit Alemayehu Chekol"
+  ],
+  "abstract": "In many cash-crop economies across Sub-Saharan Africa, higher agricultural income often fails to improve nutrition. We argue that this gap arises from a temporal misalignment between seasonal income, food availability, and nutritional needs. Annual measures obscure within-year risks driven by income concentration, poor consumption smoothing, market seasonality, climate variability, and intra-household dynamics. However, income timing alone is insufficient. Cash-crop revenue is frequently spent on non-food assets, gender dynamics shape who controls income and what is purchased, and nutritional adequacy requires dietary diversity, not just calories, which market supply often constrains. Moreover, savings mechanisms, though widely promoted, may fail during lean seasons due to trust, security, or liquidity issues. We propose three refined policy responses: (1) temporal nutrition audits that monitor dietary quality disaggregated by age and sex during local vulnerability windows; (2) financial instruments with gender-sensitive access, secure storage, and flexible withdrawal terms aligned with lean-season needs; and (3) climate-informed interventions that use anticipatory data to protect women's food budgets and support year-round availability of micronutrient-rich foods. The framework emphasizes local calibration using agricultural calendars, market conditions, household expenditure patterns, and seasonal nutrition data. It offers a conceptual basis for aligning agricultural, nutrition, financial, social-protection, climate, and gender policies with the timing and nature of nutritional vulnerability.",
+  "oa_url": "https://doi.org/10.1016/j.sftr.2026.102243",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1016/j.sftr.2026.102243"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [
+   "temporal misalignment",
+   "income and nutrition",
+   "cash crops",
+   "food systems",
+   "food security policy",
+   "cash-crop agriculture",
+   "household food security",
+   "sub-Saharan Africa"
+  ],
+  "topics": [
+   "Pemberdayaan petani & gender",
+   "Ketahanan pangan rumah tangga"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-25",
+  "summary_id": {
+   "tujuan": "Menjelaskan mengapa pendapatan dari tanaman komersial di Afrika Sub-Sahara sering tidak meningkatkan gizi, dengan menyoroti ketidakselarasan waktu antara pendapatan musiman, ketersediaan pangan, dan kebutuhan gizi. Artikel ini juga mengusulkan tiga respons kebijakan.",
+   "metode": "Artikel konseptual berbasis argumentasi, tanpa data empiris, sampel, lokasi spesifik, atau teknik analisis statistik yang disebutkan dalam abstrak. Kerangka yang diusulkan bersifat perlu dikalibrasi secara lokal menggunakan kalender pertanian, kondisi pasar, dan data gizi musiman.",
+   "temuan": "Pendapatan tahunan menutupi risiko intra-tahun akibat konsentrasi pendapatan, lemahnya perataan konsumsi, musim pasar, variabilitas iklim, dan dinamika intra-rumah tangga. Pendapatan kebun sering dibelanjakan untuk aset nonpangan, sementara keragaman pangan (bukan sekadar kalori) sering dibatasi pasokan pasar. Tabungan dapat gagal saat musim paceklik karena persoalan kepercayaan, keamanan, atau likuiditas.",
+   "keterbatasan": "Tidak disebutkan secara eksplisit, namun sebagai artikel konseptual, klaim belum diuji secara empiris dan belum dikaitkan dengan konteks negara tertentu.",
+   "relevansi": "Sangat berguna sebagai kerangka untuk mengkaji ekonomi sawit dan tanaman komersial di Kalimantan Tengah, terutama terkait pola pengeluaran musiman rumah tangga petani, peran gender dalam pengelolaan pendapatan, dan akses keuangan. Temuannya dapat diuji ulang dengan data lokal, meski konteksnya Afrika.",
+   "skor": 3,
+   "model": "claude-haiku-5-5",
+   "sumber": "abstrak"
+  },
+  "relevance": 46
+ },
+ {
+  "id": "W7223394468",
+  "doi": "10.7759/cureus.118424",
+  "title": "Clustering of Under-Five Mortality in Empowered Action Group States of India: A Binomial Distribution Analysis Using National Family Health Survey Data",
+  "date": "2026-10-22",
+  "year": "2026",
+  "journal": "Cureus",
+  "issn": "21688184",
+  "publisher": "Cureus, Inc.",
+  "authors": [
+   "Sarvesh Kumar",
+   "Kanwaljeet Virdi",
+   "Neha Mishra",
+   "Himalaya Singh",
+   "Shiv Prakash Sharma",
+   "Damodar Sahu"
+  ],
+  "abstract": "Background: Under-five mortality is a key indicator of child health in India, especially in the Empowered Action Group (EAG) states and Assam, as child deaths are disproportionately concentrated in certain families.Such clustering reflects deep-rooted inequalities in access to healthcare.Understanding death clustering is important because it helps identify vulnerable populations and design targeted interventions.Methods: This study used data from the National Family Health Survey (NFHS-4) to examine clustering of under-five child deaths among families in EAG states and Assam.Applying a binomial distribution model, the study assesses whether observed child deaths exceed expected levels under uniform mortality risk.Results: The study findings reveal that, among the 325,296 women included in the analysis, 254,083 (78.1%) had not experienced an under-five child death, whereas 71,213 (21.9%) had experienced at least one underfive child death.The socio-economically disadvantaged families showed a high concentration of multiple child deaths.Women with low levels of education, low wealth status, rural residence, higher parity, and births at older maternal ages showed higher clustering of child deaths.Uttar Pradesh and Madhya Pradesh reported the highest levels of multiple child deaths.Conclusion: The study highlights that reducing overall child mortality alone is not sufficient.Focused interventions that address poverty, maternal education, healthcare access, and support for vulnerable families are necessary to reduce death clustering, improve child survival, and achieve health equity and the Sustainable Development Goals.",
+  "oa_url": "https://www.cureus.com/articles/537998-clustering-of-under-five-mortality-in-empowered-action-group-states-of-india-a-binomial-distribution-analysis-using-national-family-health-survey-data.pdf",
+  "pdf_url": "https://www.cureus.com/articles/537998-clustering-of-under-five-mortality-in-empowered-action-group-states-of-india-a-binomial-distribution-analysis-using-national-family-health-survey-data.pdf",
+  "pdf_urls": [
+   "https://www.cureus.com/articles/537998-clustering-of-under-five-mortality-in-empowered-action-group-states-of-india-a-binomial-distribution-analysis-using-national-family-health-survey-data.pdf",
+   "https://doi.org/10.7759/cureus.118424"
+  ],
+  "oa_status": "diamond",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-25",
+  "summary_id": null,
+  "relevance": 19
+ },
+ {
+  "id": "W7223229702",
+  "doi": "10.1186/s12913-026-15811-5",
+  "title": "Rural women’s experiences in accessing prenatal and postnatal health services: a qualitative study",
+  "date": "2026-10-22",
+  "year": "2026",
+  "journal": "BMC Health Services Research",
+  "issn": "14726963",
+  "publisher": "BioMed Central",
+  "authors": [
+   "İffet Güler Kaya",
+   "Hilal Başak Çakır",
+   "Nazire Bahar",
+   "Bahar Bayram",
+   "Ayse Kose"
+  ],
+  "abstract": "Rural women in Turkey continue to face significant challenges in accessing quality maternal healthcare despite improvements in service coverage. Persistent inequalities in healthcare quality, geographic isolation, transportation difficulties, and limited financial resources contribute to the reduction of prenatal and postnatal care. These barriers may increase the risk of preventable maternal and neonatal complications. This study aimed to explore the experiences of women living in rural areas regarding access to maternal healthcare services and to identify the geographical, economic, cultural, and systemic factors that influence this access, as well as potential facilitators, such as family support, midwife involvement, and community solidarity. This study employed a qualitative descriptive design using reflexive thematic analysis, as outlined by Braun and Clarke [6, 7], to explore women’s experiences. Data were collected between February and May 2025 through semi-structured interviews with 15 postpartum women (≤ 42 days) who had experienced pregnancy in rural areas. The data were analysed using reflexive thematic analysis with MAXQDA Analytics Pro 2024, and descriptive statistics were calculated using IBM SPSS Statistics Version 28. The analysis revealed four main interpretive themes shaping rural women’s access to maternal healthcare: (1) facing multidimensional barriers in accessing care, (2) navigating healthcare provision between relational support and systemic shortfalls, (3) relying on compensatory mechanisms and social support networks, and (4) articulating participant-driven solutions and expectations for systemic improvement. This study provides context-specific insights into the experiences of women accessing prenatal and postnatal healthcare services in rural areas of Turkiye. The findings highlight how geographical, social, economic, and healthcare-system factors interact to shape access to maternal healthcare within this particular setting. Although the findings are not intended to be statistically generalisable, they contribute to a deeper understanding of the challenges and facilitating factors experienced by women in rural communities and may inform future research and contextually appropriate service development.",
+  "oa_url": "https://doi.org/10.1186/s12913-026-15811-5",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1186/s12913-026-15811-5"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [
+   "rural women",
+   "prenatal care",
+   "postpartum care",
+   "obstetric care",
+   "health care access",
+   "health care utilization",
+   "barriers to care"
+  ],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-25",
+  "summary_id": null,
+  "relevance": 15
+ },
+ {
+  "id": "W7223245955",
+  "doi": "10.1016/j.jnma.2026.101107",
+  "title": "Diverging mortality pathways for chronic wounds: A 26-year analysis of United States national data, 1999–2024",
+  "date": "2026-10-22",
+  "year": "2026",
+  "journal": "Journal of the National Medical Association",
+  "issn": "00279684",
+  "publisher": "Elsevier BV",
+  "authors": [
+   "F.N.U. Vinika",
+   "V. Kumar",
+   "R. Kumar",
+   "F.N.U. Tisha",
+   "M. Yaseen",
+   "P. Wadhwani",
+   "F. Qureshi",
+   "Shah Rukh",
+   "D. kumar alias Sailish",
+   "T. Ali",
+   "H. Kumar",
+   "V. Anand"
+  ],
+  "abstract": "Background Pressure ulcers (PUs) and chronic non-healing wounds (NHWs) are common, costly, and often fatal conditions among older adults living with multiple illnesses. Although the two arise through distinct biological pathways, they are frequently reported together in a way that can obscure how each is actually trending. We separated the two conditions and examined their mortality trajectories across 26 years of United States national data. Methods Using the CDC WONDER database, we retrospectively analyzed death records from 1999 through 2024. Pressure ulcers were identified by ICD-10 code L89; non-healing wounds by codes L97 or L98.4. Each condition was treated as an independent primary outcome rather than being merged into a single indicator. Age-adjusted mortality rates (AAMRs) and crude mortality rates (CMRs) per 100,000 population were computed against the 2000 U.S. standard population, and Joinpoint regression applying a grid search across zero to three joinpoints with permutation-based model selection was used to characterize temporal trends. Subgroup rates by demographic and geographic strata are reported for the combined wound-associated decedent population as a whole, since suppression of small cell counts precludes stable code-specific estimation within narrower strata. Results Pressure ulcers appeared on 255,054 death certificates (AAMR 2.8 per 100,000; 95% CI 2.7–2.9), while non-healing wounds appeared on 69,230 (AAMR 0.7; 95% CI 0.7–0.7); only 5834 decedents (1.8%) carried codes for both. Annual PU deaths increased 1.3-fold, from 9154 in 1999 to 12,016 in 2024, peaking at 13,411 in 2022; NHW deaths rose 2.6-fold over the same span, from 1792 to 4703. As a proportion of all wound-associated deaths, the NHW share climbed from 16.5% to 28.6%. NHW mortality has climbed steadily since 2012, with the AAMR moving from 0.6 to 1.1 per 100,000 (APC 5.64; p < 0.000001). For the combined wound-associated cohort, the AAMR declined from 4.0 in 1999 to 3.1 in 2018 (APC −1.22; 95% CI −1.94 to −0.31; p = 0.042), climbed to 4.2 by 2022, and eased slightly to 3.9 by 2024, though neither of the latter two shifts reached statistical significance (p = 0.151 and p = 0.237, respectively). Mortality rose sharply with age, reaching a crude rate of 82.5 per 100,000 among those 85 and older. AAMRs were comparable between men (3.4; 95% CI 3.4–3.5) and women (3.5; 95% CI 3.4–3.6); early-period declines reached significance in women (APC −1.20, p = 0.024) but not men (APC −1.02, p = 0.051). The highest rates were observed among Black or African American (9.8; 95% CI 9.4–10.2) and American Indian or Alaska Native (5.6; 95% CI 4.4–6.8) populations, while the Asian or Pacific Islander rate was lowest and declined significantly across the full period (1.6; 95% CI 1.3–1.8; APC −0.94, p = 0.022). Rates were highest in the South (4.2; 95% CI 4.1–4.3), which rose significantly after 2016 (APC 4.25, p = 0.0008), and in non-metropolitan counties (3.7; 95% CI 3.5–3.8), which overtook metropolitan rates (3.5; 95% CI 3.4–3.5) after 2008. Conclusions Pressure ulcer and non-healing wound mortality followed opposite 26-year trajectories, arguing against a single pooled measure. The rising non-healing wound share and persistent racial, regional, and urban–rural disparities support condition-specific prevention and broader access to wound care. These descriptive findings should be interpreted as associations, not causal effects.",
+  "oa_url": "https://doi.org/10.1016/j.jnma.2026.101107",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1016/j.jnma.2026.101107"
+  ],
+  "oa_status": "hybrid",
+  "cited_by": 0,
+  "keywords": [
+   "chronic wounds",
+   "mortality",
+   "wound healing",
+   "long-term trends",
+   "United States"
+  ],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-25",
+  "summary_id": null,
+  "relevance": 15
+ },
+ {
   "id": "W7223253941",
   "doi": "10.3390/su182110724",
   "title": "Green Transformation Mechanisms and Cluster-Based (Pianqu) Development of Agricultural Specialized Villages in Ecologically Fragile Areas: A Case Study of Ledu District, Qinghai, China",
