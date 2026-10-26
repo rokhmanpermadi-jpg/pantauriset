@@ -1,5 +1,264 @@
 [
  {
+  "id": "W7223464943",
+  "doi": "10.1016/j.sftr.2026.102233",
+  "title": "The food industry and agriculture in Algeria: exploring economic connections using the input-output model",
+  "date": "2026-10-24",
+  "year": "2026",
+  "journal": "Sustainable Futures",
+  "issn": "26661888",
+  "publisher": "Elsevier BV",
+  "authors": [
+   "Said Khalfa Brika",
+   "Brahim Adli",
+   "Hassen Soltani",
+   "Mohamed Ghandri",
+   "Benameur Dahinine"
+  ],
+  "abstract": "The objective of this paper is to analyze the structural interdependence of the agriculture sector and food industry in Algeria using the 2018 National Input-Output Table and the classical Input-Output linkage framework. The current study aims to analyze the interdependence between these two sectors in the context of the domestic production and evaluate their capacity to contribute to economic diversification in a country traditionally dependent on hydrocarbons. Results indicate that the food industry is a key sector as it is the only sector that reports above average backward and forward linkages. The agriculture, fishing, and forestry sector is predominantly forward in nature as it provides important intermediate inputs to the subsectors. The results and findings of this research verify that the agriculture-food industry relationship is beyond a sectoral relationship, but rather a strategic production chain and has consequences and implications for value added, employment, food security, and the process of domestic industrial deepening. As a result of these findings, the model of policy framework pertaining to economic diversification for Algeria must focus primarily on the agri-food sector with the implementation of policies that support technological advancements, improvement of the storage and logistics framework, local processing capabilities, and the development of regional supply chains. Establishing and strengthening these intersectoral relationships will improve the structural resilience of the productive sector in Algeria and curb the long-standing hydrocarbon dependence of the economy.",
+  "oa_url": "https://doi.org/10.1016/j.sftr.2026.102233",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1016/j.sftr.2026.102233"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemasaran, rantai pasok & rantai nilai"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-26",
+  "summary_id": {
+   "tujuan": "Menganalisis keterkaitan struktural antara sektor pertanian dan industri makanan di Aljazair menggunakan Tabel Input-Output Nasional 2018, serta menilai kontribusinya terhadap diversifikasi ekonomi di negara yang bergantung pada hidrokarbon.",
+   "metode": "Desain kuantitatif berbasis Tabel Input-Output Nasional Aljazair tahun 2018 dengan kerangka keterkaitan input-output klasik (keterkaitan ke belakang dan ke depan). Unit analisisnya adalah sektor-sektor ekonomi nasional; ukuran sampel dan teknik statistik inferensial tidak disebutkan.",
+   "temuan": "Industri makanan merupakan satu-satunya sektor dengan keterkaitan ke belakang dan ke depan di atas rata-rata, sehingga dinilai sebagai sektor kunci. Sektor pertanian, perikanan, dan kehutanan bersifat dominan keterkaitan ke depan karena memasok input antara bagi sub-sektor lain. Penulis menyimpulkan hubungan agro-pangan merupakan rantai produksi strategis, meski temuan ini bersifat deskriptif struktural, bukan bukti kausal dampak terhadap nilai tambah, tenaga kerja, atau ketahanan pangan.",
+   "keterbatasan": "Tidak disebutkan secara eksplisit dalam abstrak. Dari desain tampak bahwa analisis bersifat statis (satu tahun), berbasis model linear dengan asumsi harga dan kapasitas tetap, serta tidak menguji dampak kebijakan secara langsung.",
+   "relevansi": "Pendekatan keterkaitan input-output dapat diterapkan untuk memetakan rantai nilai kelapa sawit, hortikultura, dan padi di Kalimantan Tengah, termasuk peran agroindustri lokal dalam nilai tambah dan penyerapan tenaga kerja pedesaan. Kasus ketergantungan Aljazair pada hidrokarbon juga relevan sebagai pembanding bagi diskursus hilirisasi dan diversifikasi ekonomi daerah berbasis sumber daya alam.",
+   "skor": 4,
+   "model": "claude-haiku-5-5",
+   "sumber": "abstrak"
+  },
+  "relevance": 45
+ },
+ {
+  "id": "W7223474892",
+  "doi": "10.1186/s12913-026-15928-7",
+  "title": "Health system barriers and facilitators influencing contraceptive service utilisation among women in South Africa: a scoping review with implications for rural settings",
+  "date": "2026-10-24",
+  "year": "2026",
+  "journal": "BMC Health Services Research",
+  "issn": "14726963",
+  "publisher": "BioMed Central",
+  "authors": [
+   "Adegoke Olusegun Adefolalu",
+   "Moreoagae Bertha Randa"
+  ],
+  "abstract": "South Africa records approximately 93,000 births to mothers aged 10–19 years annually (12.4% of all live births), one of the highest adolescent fertility rates in sub-Saharan Africa. Despite constitutional guarantees and a national programme providing free contraceptive services, modern contraceptive prevalence among adolescents is critically low, with unmet need estimated at 31–38% - more than double the national average. This burden falls disproportionately on rural and peri-urban communities, where health system fragilities, geographic isolation, and structural inequalities intersect. This review maps barriers and facilitators influencing contraceptive service utilisation among women in South Africa, with emphasis on adolescents and rural settings. We followed the Arksey and O’Malley scoping review framework and reported in accordance with PRISMA-ScR guidelines. The Population-Concept-Context framework guided eligibility: women of reproductive age in South Africa; barriers and facilitators of contraceptive access and use; and the South African public-sector health and education systems. Searches across PubMed, CINAHL Complete, PsycINFO, and MEDLINE were conducted in two phases (2010–2024; update 2025–2026), identifying 939 database records; 71 grey literature sources were additionally reviewed. Following screening and full-text assessment, 64 sources met inclusion criteria. Three intersecting domains of constraint emerged. Health system barriers - stock-outs of long-acting reversible contraceptives, provider bias, confidentiality failures, inconvenient operating hours, and inadequate counselling were particularly acute in rural facilities. Interpersonal barriers included partner opposition, reproductive coercion, and parental disapproval. Structural barriers, poverty, gender-based violence, and social norms normalising early childbearing were most severe in underserved communities. Facilitators included youth-friendly services, community-based and digitally augmented delivery, and integration with education and economic empowerment programmes. A six-pillar Multilevel Access Reform Framework grounded in constitutional accountability is proposed. Contraceptive service utilisation in South Africa is shaped by complex, interacting determinants in which health system and structural factors play a central role, particularly in rural settings. First-principles analysis reveals that dominant programmatic investments are misaligned with the actual binding constraints. Integrated, multi-sectoral reform anchored in community-based service delivery, digital health infrastructure, gender-based violence programming, and outcome-oriented monitoring is essential to achieving reproductive equity.",
+  "oa_url": "https://doi.org/10.1186/s12913-026-15928-7",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1186/s12913-026-15928-7"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-26",
+  "summary_id": {
+   "tujuan": "Memetakan hambatan dan fasilitator pemanfaatan layanan kontrasepsi pada perempuan di Afrika Selatan, dengan fokus remaja dan wilayah pedesaan, serta mengusulkan kerangka reformasi multilevel.",
+   "metode": "Scoping review mengikuti kerangka Arksey dan O'Malley serta pelaporan PRISMA-ScR, dengan kerangka PCC untuk kriteria kelayakan. Pencarian dilakukan di PubMed, CINAHL Complete, PsycINFO, dan MEDLINE pada 2010-2024 dan pembaruan 2025-2026, menghasilkan 939 rekaman, ditambah 71 sumber literatur abu-abu, dengan 64 sumber akhir. Teknik sintesis yang dipakai berupa pemetaan tematik; teknik analisis lebih rinci tidak disebutkan.",
+   "temuan": "Tiga domain kendala teridentifikasi: hambatan sistem kesehatan (kehabisan stok LARC, bias petugas, pelanggaran kerahasiaan, jam layanan tidak sesuai, konseling kurang) yang paling akut di fasilitas pedesaan; hambatan interpersonal (penolakan pasangan, paksaan reproduktif); dan hambatan struktural (kemiskinan, kekerasan berbasis gender, norma sosial). Fasilitator meliputi layanan ramah remaja, layanan berbasis komunitas dan digital, serta integrasi dengan pendidikan dan pemberdayaan ekonomi. Temuan bersifat asosiatif dan deskriptif, bukan kausal, sementara angka unmet need 31-38% pada remaja merupakan latar belakang dari abstrak.",
+   "keterbatasan": "Tidak disebutkan secara eksplisit dalam abstrak. Dari desainnya, scoping review tidak menilai kualitas bukti dan sintesisnya deskriptif, sehingga kekuatan bukti antardeterminan tidak dapat dibandingkan; inklusi literatur abu-abu juga menambah heterogenitas.",
+   "relevansi": "Pola hambatan akses layanan di pedesaan (jarak, keterbatasan fasilitas, peran layanan berbasis komunitas dan digital) dapat dibandingkan dengan akses pasar dan layanan bagi petani kecil di Kalimantan Tengah. Kerangka integrasi lintas sektor dengan pemberdayaan ekonomi juga relevan untuk kajian kelembagaan dan pembangunan pedesaan, meski artikel ini tidak membahas pertanian, pasar, atau sawit secara langsung.",
+   "skor": 2,
+   "model": "claude-haiku-5-5",
+   "sumber": "abstrak"
+  },
+  "relevance": 37
+ },
+ {
+  "id": "W7223446035",
+  "doi": "10.1186/s40359-026-05861-z",
+  "title": "Attitudes toward physical education and PE-related happiness among secondary school students in a rural district of Türkiye: a cross-sectional study",
+  "date": "2026-10-24",
+  "year": "2026",
+  "journal": "BMC Psychology",
+  "issn": "20507283",
+  "publisher": "BioMed Central",
+  "authors": [
+   "Selda Guclu",
+   "İlimdar Yalçın"
+  ],
+  "abstract": "Physical education (PE) classes play an important role in promoting adolescents’ physical, psychological and social well-being. However, limited research has examined the relationship between attitudes toward PE classes and PE-related happiness, particularly among adolescents living in rural and district contexts. Therefore, the present study aimed to investigate the relationship between secondary school students’ attitudes toward PE classes and their happiness levels, while accounting for gender, age, place of residence, and sports participation. A cross-sectional correlational design was used. A total of 406 secondary school students participated in the study, including 233 girls and 173 boys. Data were collected using the PE Class Happiness Level Scale and the Attitude Scale toward PE Class for Secondary School Students. The findings revealed that students who participated in sports reported significantly higher PE-related happiness than non-participants. In addition, students living in villages demonstrated significantly higher attitudes toward PE classes and higher PE-related happiness than those living in district centers. Pearson correlation analysis indicated a moderate positive relationship between attitudes toward PE classes and PE-related happiness ( r = .557; p < .001). Multiple regression analysis indicated that attitude toward PE classes was the factor most strongly associated with PE-related happiness (β = 0.540; p < .001). Positive attitudes toward PE classes and regular participation in sports were associated with higher levels of PE-related happiness among adolescents. The findings suggest that positive engagement in PE classes and participation in sports are associated with more positive affective experiences within PE settings.",
+  "oa_url": "https://doi.org/10.1186/s40359-026-05861-z",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1186/s40359-026-05861-z"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-26",
+  "summary_id": null,
+  "relevance": 17
+ },
+ {
+  "id": "W7223455756",
+  "doi": "10.1057/s41295-026-00499-y",
+  "title": "Who lives where? Compositional roots of the rural–urban divide in far-right populist support across Western Europe",
+  "date": "2026-10-24",
+  "year": "2026",
+  "journal": "Comparative European Politics",
+  "issn": "14724790",
+  "publisher": "Palgrave Macmillan",
+  "authors": [
+   "Lars Rumpf"
+  ],
+  "abstract": "Abstract The rise of far-right populism across Western democracies has sparked academic and public interest in its spatial dimension. Many seminal theories on the causes of far-right populism identify the rural–urban dimension as a crucial line of conflict in contemporary Western societies. However, we have surprisingly little comparative, cross-country evidence about its overlap with other social grievances. Specifically, this paper asks to what extent descriptive rural–urban differences reflect other social divides due to the unequal distribution of social groups along spatial lines. In an analysis of recent European Social Survey data from 15 Western European countries, I find significant rural–urban differences in twelve of them. A decomposition analysis using the KHB-method reveals that the estimated rural–urban difference is nearly halved once individual socio-demographic characteristics are controlled for. The compositional effects are mainly driven by differences in education, social class and—to a smaller extent—ethnic origin, but not by individual economic hardship, gender and age. I conclude that the rural–urban dimension of far-right populism is indeed evident across Western Europe and it’s also a reflection of the conflict between the ‘new’ high-educated, post-industrial middle class and the ‘old’ manual middle class.",
+  "oa_url": "https://doi.org/10.1057/s41295-026-00499-y",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1057/s41295-026-00499-y"
+  ],
+  "oa_status": "hybrid",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-26",
+  "summary_id": null,
+  "relevance": 17
+ },
+ {
+  "id": "W7223447168",
+  "doi": "10.1186/s12985-026-03317-9",
+  "title": "Lymphocytic choriomeningitis virus: an under-recognized arenaviral threat with important maternal–fetal implications",
+  "date": "2026-10-24",
+  "year": "2026",
+  "journal": "Virology Journal",
+  "issn": "1743422X",
+  "publisher": "BioMed Central",
+  "authors": [
+   "Saisravika Kambham",
+   "Soura Rajeshwara",
+   "Laiba Manzoor",
+   "Faiza Khalid",
+   "Elena Alupei",
+   "Dadullah Faiz",
+   "Mohamed Nasser Elshabrawi",
+   "Ashesh Das"
+  ],
+  "abstract": "Lymphocytic choriomeningitis virus (LCMV), a rodent-borne arenavirus first identified in 1933, remains a neglected zoonotic pathogen of growing recognition in urban, non-endemic regions. Although typically associated with rural rodent exposure, recent epidemiological data indicate substantial circulation in cities, particularly affecting pregnant women and leading to severe congenital infections. This comprehensive review examines the evolving epidemiology, clinical spectrum, diagnostic challenges, and public health implications of LCMV, with special emphasis on congenital disease. Recent seroprevalence studies, most notably the 2026 Philadelphia study, reported immunoglobulin G (IgG) seropositivity rates of 2.4–2.7% among urban pregnant women, with exposure strongly linked to neighborhood deprivation indices, substandard housing, and socioeconomic vulnerability. Comparable patterns of continued circulation have been documented across Europe (Germany, Hungary, Bulgaria), Australia, Brazil, and with the identification of a novel, more virulent strain in New Mexico, United States. These findings challenge the traditional view of LCMV as a low-risk rural pathogen and highlight the roles of urbanization, climate change, global migration, and improved molecular diagnostics (reverse transcription polymerase chain reaction [RT-PCR] and metagenomic next-generation sequencing [mNGS]) in its changing epidemiology. Congenital LCMV infection can result in devastating fetal outcomes characterized by the classic tetrad of chorioretinitis, hydrocephalus, microcephaly, and periventricular calcifications. Affected infants frequently experience significant long-term neurodevelopmental disabilities, including intellectual impairment, seizures, motor deficits, and sensory loss. The virus exhibits strong placental tropism, with timing of maternal infection critically influencing the severity of fetal brain injury. Fetal neuroimaging (serial ultrasound and magnetic resonance imaging [MRI]) plays a central role in diagnosis and prognosis. This review provides an in-depth analysis of diagnostic modalities, including RT-PCR, mNGS, and serological testing (immunoglobulin M [IgM]/IgG), along with their respective strengths, limitations, and optimal timing. A practical risk-stratified prenatal screening algorithm and serial fetal neuroimaging protocol are proposed. Current therapeutic options are limited to supportive care, as no approved specific antivirals are safe for use in pregnancy. Prevention strategies, travel medicine considerations for pregnant travelers, and guidance for migrant populations are also addressed. In the era of rapid urbanization and global connectivity, LCMV exemplifies an under-recognized arenaviral pathogen capable of causing significant maternal–fetal morbidity. Increased clinical awareness, enhanced surveillance, targeted screening in high-risk groups, and investment in antiviral and vaccine development are urgently required to reduce the burden of this neglected congenital infection.",
+  "oa_url": "https://doi.org/10.1186/s12985-026-03317-9",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1186/s12985-026-03317-9"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-26",
+  "summary_id": null,
+  "relevance": 15
+ },
+ {
+  "id": "W7223460669",
+  "doi": "10.1016/j.ssaho.2026.103916",
+  "title": "Merit, gender, and programme allocation among LUANAR-selected candidates under Malawi's harmonised university selection system, 2023–2026",
+  "date": "2026-10-24",
+  "year": "2026",
+  "journal": "Social Sciences & Humanities Open",
+  "issn": "25902911",
+  "publisher": "Elsevier BV",
+  "authors": [
+   "Patsani Gregory Kumambala",
+   "Limbikani Kenani Matumba",
+   "Angstone Mlangeni",
+   "Sheila Kavwenje",
+   "Mphatso Chibwana",
+   "Ellen Kachingwe",
+   "Vincent Mgoli Mwale",
+   "Levis Keliyasi Eneya",
+   "Phillip Dalitso Kaonda",
+   "Agnes Mbachi Mwangwela",
+   "Emmanuel E. Kaunda"
+  ],
+  "abstract": "Equitable programme allocation in higher education requires balancing academic performance, candidates' preferences, institutional capacity and equity objectives. This study examined factors associated with programme placement and redirection among candidates selected to the Lilongwe University of Agriculture and Natural Resources (LUANAR) through Malawi's harmonised public university selection system between 2023 and 2026. Administrative records for 6975 candidates were analysed using descriptive statistics, chi-square tests, analysis of variance, binary logistic regression and six threshold-specific binary logistic regression models, with ordinal logistic regression providing a supplementary overall summary. Weaker MSCE performance was associated with higher adjusted odds of redirection (AOR = 1.300, 95% CI: 1.264–1.337). Despite weaker average MSCE performance, female candidates experienced more favourable allocation outcomes, with substantially lower adjusted odds of redirection than males (AOR = 0.148, 95% CI: 0.128–0.172). This gender allocation advantage was observed within a selection system incorporating affirmative-action eligibility provisions; however, the data do not establish whether these provisions produced the observed difference. Overall, 40.2% of candidates were redirected outside all six ranked programme choices. First-choice preference-to-declared-capacity ratios were below 50% for most LUANAR programmes, while preference pressure was concentrated in a relatively small number of programmes, indicating substantial preference-placement mismatch. Secondary-school category showed limited independent association with programme allocation after adjustment, while allocation outcomes varied across cohorts and placement thresholds. The findings highlight the importance of a transparent and periodically reviewed allocation framework that balances academic performance, gender equity, candidates' ranked programme preferences and planned programme capacity.",
+  "oa_url": "https://doi.org/10.1016/j.ssaho.2026.103916",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1016/j.ssaho.2026.103916"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-26",
+  "summary_id": null,
+  "relevance": 11
+ },
+ {
+  "id": "W7223442611",
+  "doi": "10.1038/s41370-026-00994-0",
+  "title": "Joint associations between 10-year average residential proximity-based pesticide exposures and cardiometabolic markers among women from an agricultural region",
+  "date": "2026-10-24",
+  "year": "2026",
+  "journal": "Journal of Exposure Science & Environmental Epidemiology",
+  "issn": "15590631",
+  "publisher": "Springer Nature",
+  "authors": [
+   "Lucia E. Calderon",
+   "Robert B. Gunier",
+   "Marcella L. Warner",
+   "Katherine R. Kogut",
+   "Yesli Perez-Rocha",
+   "Kelsey MacCuish",
+   "Stephen A. Rauch",
+   "Brenda Eskenazi",
+   "Jacqueline M. Torres"
+  ],
+  "abstract": "Abstract Background Chronic exposure to multiple agricultural pesticides may influence cardiometabolic disease risk. Objective We examined joint associations between long-term, residential proximity-based exposure to seven pesticide classes and cardiometabolic risk factors among women from an agricultural region using complementary mixture methods. Methods Women participating in the Center for the Health Assessment of Mothers and Children of Salinas Maternal Cognition Study completed anthropometric measurements, blood collection, and interviews in 2022–2024. Using participant-reported addresses and California’s Pesticide Use Reporting database, we estimated average agricultural use (kg/year) of seven pesticide classes within 1 km of homes in the 10 years preceding outcome assessment. We used quantile g-computation (QGCOMP) and Bayesian kernel machine regression (BKMR) to estimate joint associations with cardiometabolic risk factors and explore the relative contributions of pesticide classes to joint exposure effects. Results Participants ( n = 459) were 48.4 ± 5.5 years old at outcome assessment. Using QGCOMP, a joint one-quartile increase in pesticide exposures was associated with higher systolic blood pressure ( β = 1.82 mm Hg, 95% CI = 0.38, 3.25), higher pulse pressure ( β = 1.59 mm Hg, 95% CI = 0.56, 2.63), and lower HDL cholesterol ( β = –1.35 mg/dL, 95% CI = –2.61, –0.10; <50 mg/dL or self-report cholesterol medication: RR = 1.12, 95% CI = 1.02, 1.23). BKMR results were generally consistent, with modest nonlinearity for blood pressure (e.g., pulse pressure: p25 to p50: β = 0.32, 95% CrI = –1.65, 2.29; p50 to p75: β = 3.46, 95% CrI = 1.35, 5.57) and elevated risk of low HDL cholesterol (p25 to p50: RR = 1.09, 95% CrI = 1.01, 1.18; p50 to p75: RR = 1.03, 95% CrI = 0.93, 1.13). In exploratory analyses, we found the most consistent agreement for glyphosate herbicide’s contribution to the joint associations with low HDL cholesterol and, to a lesser extent, continuous pulse pressure. Joint associations with other outcomes, including body mass, blood sugar, and inflammatory markers, were null. Impact This study evaluates the cardiometabolic impacts of long-term, residential proximity-based exposure to various agricultural pesticide classes among midlife women from an agricultural region. Using two complementary mixture modeling approaches, we demonstrate robust joint associations between chronic pesticide exposure and adverse cardiometabolic outcomes, specifically higher blood pressure and lower HDL cholesterol. Our findings highlight the relevance of ambient, non-occupational pesticide exposure to cardiometabolic disease risk and underscore the importance of considering correlated exposure mixtures when assessing environmental health risks. To our knowledge, this is the first study to examine long-term, joint exposure to current-use pesticides in association with a wide range of cardiometabolic outcomes.",
+  "oa_url": "https://doi.org/10.1038/s41370-026-00994-0",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1038/s41370-026-00994-0"
+  ],
+  "oa_status": "hybrid",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-26",
+  "summary_id": null,
+  "relevance": 9
+ },
+ {
   "id": "W7223355676",
   "doi": "10.1007/s44392-026-00126-4",
   "title": "Rotation Age Results of Low Planting Density Effects in Loblolly Pine (Pinus taeda L.)",
@@ -34,6 +293,125 @@
   "found_at": "2026-10-25",
   "summary_id": null,
   "relevance": 0
+ },
+ {
+  "id": "W7223514109",
+  "doi": "",
+  "title": "Exclusionary Geographies: The Nature of Stigma Associated with Domestic Sweepers (Balmiki Women) in District Yamuna Nagar, Haryana (India)",
+  "date": "2026-10-23",
+  "year": "2026",
+  "journal": "Social work & society",
+  "issn": "16138953",
+  "publisher": "Social Work & Society",
+  "authors": [
+   "Amit Kumar Dhilorh",
+   "Anupreet Singh Tiwana"
+  ],
+  "abstract": "This study investigates the stigma experienced by Balmiki women engaged in domestic sweeping in Yamuna Nagar district, Haryana, within the intersecting contexts of caste, class, and gender. Dalit communities remain disproportionately represented in this occupation, reinforcing caste hierarchies and perpetuating notions of “pollution” that devalue their labor. Such stigma manifests through social exclusion, restricted mobility, and limited opportunities for advancement. Gendered expectations intensify these challenges, as women balance domestic responsibilities while facing workplace harassment and systemic neglect. Despite urbanization and economic development, Balmiki women in District Yamuna Nagar, Haryana continue to encounter both overt and subtle forms of discrimination across rural and urban settings. Using qualitative methods — focus group discussions to highlights how caste and gender intersect to sustain occupational stigma and marginalization. Findings underscore the need for stronger legal protections, awareness campaigns, and community-driven initiatives that promote the dignity of labor and challenge entrenched biases. Addressing these issues is essential for fostering equity, inclusion, and social justice in rapidly transforming urban-industrial contexts.",
+  "oa_url": "https://ejournals.bib.uni-wuppertal.de/index/article/view/2060",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://ejournals.bib.uni-wuppertal.de/index/article/view/2060"
+  ],
+  "oa_status": "diamond",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-26",
+  "summary_id": {
+   "tujuan": "Menginvestigasi stigma yang dialami perempuan Balmiki yang bekerja sebagai penyapu rumah tangga di Distrik Yamuna Nagar, Haryana, India, dalam konteks kasta, kelas, dan gender. Studi ini juga menelaah bagaimana kasta dan gender berpotongan untuk melanggengkan stigma dan marginalisasi pekerjaan.",
+   "metode": "Studi kualitatif dengan teknik focus group discussion (FGD). Jumlah peserta, periode pengumpulan data, dan teknik analisis tidak disebutkan dalam abstrak.",
+   "temuan": "Stigma muncul melalui pengucilan sosial, pembatasan mobilitas, dan terbatasnya peluang kemajuan, yang berakar pada konsep 'polusi' kasta. Perempuan menanggung beban ganda antara tanggung jawab domestik dan pelecehan di tempat kerja serta pengabaian sistemik. Temuan bersifat deskriptif dan tidak menguji hubungan kausal.",
+   "keterbatasan": "Tidak disebutkan secara eksplisit; secara desain, studi hanya menggunakan FGD sehingga temuan sulit digeneralisasi ke populasi yang lebih luas di Haryana atau India.",
+   "relevansi": "Relevansi langsung rendah karena fokus pada stigma kasta dan pekerjaan domestik di India, bukan pemasaran pertanian, rantai nilai, atau kelembagaan petani. Potensi kontribusi terbatas pada kajian eksklusi sosial dan pekerja informal yang dapat dibandingkan dengan buruh perkebunan sawit atau petani kecil marginal di Kalimantan Tengah.",
+   "skor": 1,
+   "model": "claude-haiku-5-5",
+   "sumber": "abstrak"
+  },
+  "relevance": 22
+ },
+ {
+  "id": "W7223466467",
+  "doi": "10.1002/agg2.70490",
+  "title": "Physical and physiological quality of farmer‐saved and enterprise‐sourced Kakaba bread wheat seeds in Debre Elias district, Ethiopia",
+  "date": "2026-10-23",
+  "year": "2026",
+  "journal": "Agrosystems Geosciences & Environment",
+  "issn": "26396696",
+  "publisher": "Wiley",
+  "authors": [
+   "Tewabe Gebeyehu",
+   "Dereje Ayalew",
+   "Karta Kaske",
+   "Kelemu Nakachew",
+   "Solomon Ali Gebeyehu",
+   "Simachew Kasahun"
+  ],
+  "abstract": "Abstract Seed quality critically influences bread wheat ( Triticum aestivum L.) productivity and food security in Ethiopia. Limited information exists on how farmers' seed recycling practices and lot level variations affect seed quality. Therefore, this study was conducted to assess the quality characteristics of bread wheat seeds used by farmers in Debre Elias district of East Gojjam Zone, Ethiopia. We analyzed 20 seed lots—comprising 15 farmer‐recycled samples (spanning 1–3 years of recycling, with five lots per year category) and five enterprise lots serving as fresh benchmarks. The results revealed that recycling frequency significantly ( p < 0.001) affected physical purity components, germination performance, and dead seed proportions. The lowest purity (99.21%) was recorded from the 3‐year recycled samples. Highly significant ( p < 0.001) differences were also observed among individual seed lots in analytical purity and inert matter composition. Significant ( p < 0.001) variations in seed germination and vigor performance were also observed among individual seed lots. These laboratory findings indicate that recycling duration was associated with declining seed quality, while lot‐to‐lot variation was also substantial. Lot‐level quality assessment may therefore complement recycling history when evaluating farmer‐saved seed, though field validation is required before these results can inform seed replacement decisions.",
+  "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/agg2.70490",
+  "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/agg2.70490",
+  "pdf_urls": [
+   "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/agg2.70490",
+   "https://doi.org/10.1002/agg2.70490"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Ketahanan pangan rumah tangga"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-26",
+  "summary_id": null,
+  "relevance": 18
+ },
+ {
+  "id": "W7223346495",
+  "doi": "10.1002/sd.71814",
+  "title": "Scarcity‐Weighted Virtual Water, Sustainable Economic Growth and Productivity: Evidence From 43 Countries",
+  "date": "2026-10-23",
+  "year": "2026",
+  "journal": "Sustainable Development",
+  "issn": "09680802",
+  "publisher": "Wiley",
+  "authors": [
+   "Iulia Cristina Iuga",
+   "Mehmet Ali Balcı",
+   "Teiusan Sorin-Ciprian",
+   "Ömer Akgüller"
+  ],
+  "abstract": "ABSTRACT Water scarcity constrains development, but its economy‐wide implications across global supply chains remain difficult to quantify. This study combines consumption‐based water footprints from EXIOBASE 3.8 with basin‐level water‐stress factors to construct a scarcity‐weighted virtual‐water intensity indicator. Two‐way fixed‐effects models covering 43 countries over 1995–2019 examine its associations with economic growth and productivity. Non‐agricultural specifications reveal no detectable effects, suggesting that macroeconomic constraints operate mainly through agricultural water use. Full‐sector estimates associate greater intensity with lower GDP per capita and total factor productivity growth. These associations persist (and strengthen for GDP) when the absolute scarcity‐weighted footprint replaces the GDP‐normalised indicator, suggesting that GDP normalisation does not explain the findings. Net scarcity transfer analysis links productivity losses primarily to domestic scarcity, while growth effects are consistent with transmission through trade. The findings position agricultural water governance, trade diversification, and water‐use efficiency monitoring as central levers for Sustainable Development Goal 6.4 and sustainable economic development. The evidence suggests that the macroeconomic association between scarcity‐weighted virtual‐water dependence and economic performance is strongest during periods of rapid scarcity intensification and becomes substantially weaker in later periods; the full‐sample estimates should accordingly be read as average conditional associations across historically distinct periods rather than as invariant structural parameters. Because identification rests on falsification and robustness tests rather than strong instruments, the findings are presented as robust empirical associations consistent with the existence of a potential macroeconomic constraint, rather than as definitive causal effects.",
+  "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/sd.71814",
+  "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/sd.71814",
+  "pdf_urls": [
+   "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/sd.71814",
+   "https://doi.org/10.1002/sd.71814"
+  ],
+  "oa_status": "bronze",
+  "cited_by": 0,
+  "keywords": [
+   "water scarcity",
+   "economic growth",
+   "total factor productivity",
+   "agricultural water use",
+   "international trade",
+   "GDP per capita",
+   "water governance",
+   "water use efficiency"
+  ],
+  "topics": [
+   "Pemasaran, rantai pasok & rantai nilai"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-26",
+  "summary_id": null,
+  "relevance": 15
  },
  {
   "id": "W7223343860",
