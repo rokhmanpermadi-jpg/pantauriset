@@ -1,5 +1,707 @@
 [
  {
+  "id": "W7223673070",
+  "doi": "10.1016/j.foodpol.2026.103185",
+  "title": "Advancing sustainable food systems cooperation in trade agreements: Lessons from Chile",
+  "date": "2026-10-26",
+  "year": "2026",
+  "journal": "Food Policy",
+  "issn": "03069192",
+  "publisher": "Elsevier BV",
+  "authors": [
+   "Paz Cavada-Robert",
+   "Kelly Garton",
+   "Dori Patay",
+   "Camila Corvalán",
+   "Anne Marie Thow"
+  ],
+  "abstract": "The transition toward sustainable food systems that ensure food security and adequate nutrition is increasingly urgent. Although trade and investment agreements have sometimes hindered this transition, their potential to support it remains underexplored. Chile offers an illustrative case: its liberalised agro-export model has produced a highly industrialised food system, while the country faces rising diet-related diseases and has developed pioneering nutrition policies. In 2023, Chile and the European Union (EU) signed an Advanced Framework Agreement that includes a Sustainable Food Systems (SFS) Chapter, representing an attempt to align sustainability objectives with trade policy. This study examined how actor interactions, power dynamics, and feasibility conditions shaped the agenda-setting, chapter-drafting, and legitimation of the SFS Chapter, using a theory-informed qualitative design based on semi-structured interviews and documentary analysis. The findings highlight the EU’s role in promoting the chapter within a context characterised by the convergence of global agendas and domestic policy developments. Although introduced at an advanced stage of the negotiations, Chile was not a passive policy-taker and actively shaped the chapter’s scope and legal character. Its broad acceptance was facilitated by its cooperative and non-binding nature, while the limited participation of the health and environment sectors contributed to approaches wherein concepts such as One Health and ‘sustainable diets’ were negotiated primarily through trade and agricultural perspectives. These findings contribute to understanding the governance conditions that shape the incorporation of sustainability-oriented policy innovations into trade agreements and offer lessons for countries seeking to meaningfully integrate health and sustainability objectives into trade policy.",
+  "oa_url": "https://www.sciencedirect.com/science/article/pii/S0306919226001545/pdf",
+  "pdf_url": "https://www.sciencedirect.com/science/article/pii/S0306919226001545/pdf",
+  "pdf_urls": [
+   "https://www.sciencedirect.com/science/article/pii/S0306919226001545/pdf",
+   "https://doi.org/10.1016/j.foodpol.2026.103185"
+  ],
+  "oa_status": "hybrid",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Kelembagaan petani & tindakan kolektif"
+  ],
+  "priority_journal": true,
+  "language": "en",
+  "found_at": "2026-10-28",
+  "summary_id": {
+   "tujuan": "Menganalisis bagaimana interaksi aktor, dinamika kekuasaan, dan kondisi kelayakan membentuk penyusunan agenda, penyusunan draf, dan legitimasi Bab Sistem Pangan Berkelanjutan (SFS) dalam Advanced Framework Agreement Chile-Uni Eropa 2023.",
+   "metode": "Studi kualitatif berbasis teori dengan kasus tunggal Chile dan Uni Eropa, menggunakan wawancara semi-terstruktur dan analisis dokumen. Jumlah informan dan periode pengumpulan data tidak disebutkan dalam abstrak.",
+   "temuan": "Uni Eropa berperan utama mendorong bab tersebut dalam konteks konvergensi agenda global dan kebijakan domestik. Chile, meskipun masuk pada tahap lanjut negosiasi, aktif membentuk cakupan dan sifat hukum bab, dan penerimaannya difasilitasi oleh sifat kooperatif dan tidak mengikat. Keterlibatan sektor kesehatan dan lingkungan yang terbatas membuat konsep One Health dan 'pola makan berkelanjutan' dinegosiasikan terutama melalui perspektif perdagangan dan pertanian; temuan ini bersifat deskriptif-kausal, bukan asosiatif berbasis angka.",
+   "keterbatasan": "Desain studi kasus tunggal dan kualitatif membatasi generalisasi ke perjanjian dagang lain. Ukuran sampel wawancara dan detail prosedur analisis tidak disebutkan dalam abstrak.",
+   "relevansi": "Relevan untuk memahami tata kelola yang menghubungkan kebijakan pangan dan perdagangan, termasuk model ekspor pertanian yang terliberalisasi dan dampaknya pada sistem pangan, yang dapat dibandingkan dengan posisi Indonesia dalam perjanjian dagang. Kaitan langsung dengan akses pasar petani kecil, kelapa sawit, atau adopsi digital di Kalimantan Tengah belum tampak.",
+   "skor": 3,
+   "model": "claude-haiku-5-5",
+   "sumber": "abstrak"
+  },
+  "relevance": 48
+ },
+ {
+  "id": "W7223668115",
+  "doi": "10.1371/journal.pone.0348821",
+  "title": "Patient preferences for portable versus table-mounted visual field devices in rural Alabama: A mixed methods study within a telemedicine setting",
+  "date": "2026-10-26",
+  "year": "2026",
+  "journal": "PLoS ONE",
+  "issn": "19326203",
+  "publisher": "Public Library of Science",
+  "authors": [
+   "Ellen Konadu Antwi-Adjei",
+   "Sourav Datta",
+   "Christopher A. Girkin",
+   "Cynthia J. Owsley",
+   "Lindsay A. Rhodes",
+   "Matthew M. Fifolt",
+   "Lyne Racette"
+  ],
+  "abstract": "Purpose To evaluate patient satisfaction and preferences for portable versus table-mounted visual field (VF) devices in a rural telemedicine setting and identify influencing factors. Methods We conducted a sequential explanatory mixed methods study at three Federally Qualified Health Centers (FQHCs) within the Alabama Screening and Intervention for Glaucoma and eye Health through Telemedicine (AL-SIGHT) study. Participants completed VF testing with table-mounted Humphrey Field Analyzer (HFA), tablet-based Melbourne Rapid Fields (MRF), and virtual reality (VR)-based VisuALL perimeters. Participants rated satisfaction, comfort, ease of use, and future testing preference. Chi-square tests assessed differences in device preferences. Twelve participants completed semi-structured interviews to explore reasons underlying preferences. Qualitative data were analyzed in NVivo 14 using reflexive thematic analysis. Results Among 271 respondents (mean age 60.4 years; 62.4% women), 50.6% preferred VR-based, 35.1% tablet-based, and 14.4% table-mounted for future testing (χ 2 (2) = 53.52, p < 0.001, Cramér’s V = 0.31). Satisfaction was highest for VR-based (56.9% very satisfied), followed by tablet-based (49.4%), and HFA (38.0%). VR-based perimeter was most frequently selected as the most comfortable (55.7%; χ 2 (2) = 63.33, p < 0.001, V = 0.34) and easiest to use (54.6%; χ 2 (2) = 71.96, p < 0.001, V = 0.36). Preferences did not vary significantly across demographic variables (all p > 0.05). Qualitative themes identified four key drivers: comfort and physical experience, visual experience, ease of use and interaction, and psychological and motivational factors. Portability and community suitability were valued. Conclusion Rural underserved patients strongly preferred portable visual field devices, particularly VR-based, over table-mounted HFA. Comfort, ergonomic flexibility, immersive visual experience, and simplicity of interaction were central determinants of preference. Portable perimetry may enhance patient-centered glaucoma monitoring within telemedicine programs and access in resource-limited settings.",
+  "oa_url": "https://doi.org/10.1371/journal.pone.0348821",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1371/journal.pone.0348821"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": true,
+  "language": "en",
+  "found_at": "2026-10-28",
+  "summary_id": {
+   "tujuan": "Mengevaluasi kepuasan dan preferensi pasien terhadap perangkat uji lapang pandang portabel dibandingkan perangkat meja (table-mounted) dalam layanan telemedisin pedesaan, serta mengidentifikasi faktor yang memengaruhinya.",
+   "metode": "Studi mixed methods eksplanatori sekuensial di tiga Federally Qualified Health Centers (FQHC) di Alabama, AS, sebagai bagian dari program AL-SIGHT. Sebanyak 271 responden (rerata usia 60,4 tahun; 62,4% perempuan) menjalani uji dengan HFA, Melbourne Rapid Fields, dan VisuALL; data dianalisis dengan uji chi-square, dan 12 wawancara semi-terstruktur dianalisis tematik reflektif menggunakan NVivo 14.",
+   "temuan": "Preferensi untuk masa depan: VR 50,6%, tablet 35,1%, dan perangkat meja 14,4% (χ²(2)=53,52; p<0,001; Cramér's V=0,31). Perangkat VR paling sering dinilai paling nyaman (55,7%) dan paling mudah digunakan (54,6%). Preferensi tidak berbeda signifikan menurut variabel demografis, dan temuan ini bersifat asosiasi deskriptif, bukan kausalitas.",
+   "keterbatasan": "Tidak disebutkan secara eksplisit dalam abstrak. Dari desain tampak: cakupan terbatas pada tiga FQHC di satu negara bagian, sampel wawancara kecil (12 orang), serta preferensi yang dilaporkan sendiri sehingga berpotensi bias seleksi dan respons serta terbatas generalisasinya.",
+   "relevansi": "Kaitan tidak langsung dengan agenda adopsi teknologi digital dan akses layanan di wilayah terpencil, karena dapat menjadi pembanding tentang bagaimana preferensi pengguna terhadap perangkat digital portabel memengaruhi adopsi layanan jarak jauh. Fokus klinis oftalmologi membuat kaitannya dengan agribisnis, kelapa sawit, dan rantai nilai pertanian sangat terbatas.",
+   "skor": 2,
+   "model": "claude-haiku-5-5",
+   "sumber": "abstrak"
+  },
+  "relevance": 38
+ },
+ {
+  "id": "W7223661745",
+  "doi": "10.3389/fsufs.2026.1910949",
+  "title": "Supply chain coordination in contract farming under yield uncertainty and alternative agricultural subsidy policies",
+  "date": "2026-10-26",
+  "year": "2026",
+  "journal": "Frontiers in Sustainable Food Systems",
+  "issn": "2571581X",
+  "publisher": "Frontiers Media",
+  "authors": [
+   "Dan Liu",
+   "Tong Zhao"
+  ],
+  "abstract": "Food grain subsidies and contract farming are two important institutional arrangements for stabilizing agricultural production and improving farmers' incomes. However, the effectiveness of these policies and organizational arrangements depends critically on the interaction between subsidy mechanisms and supply chain contracts. To examine this interaction, we develop a Stackelberg game model of the operational decisions and coordination of a contract farming supply chain under two major agricultural subsidy programs: the Target Price (TP) program and the Producer Direct (PD) program. Our analysis yields several important insights. First, both subsidy schemes increase the company's profit relative to the no-subsidy benchmark. For farmers, however, the TP scheme does not always yield higher profits than the no-subsidy case. When the farmer's production cost coefficient is relatively low, the subsidy induces substantial expansion of planted acreage. As the Stackelberg leader, the company responds by substantially reducing the wholesale price. This adjustment redistributes part of the benefits generated by the target-price subsidy from farmers to the company. Second, the traditional wholesale-price contract fails to coordinate the contract farming supply chain in the presence of government subsidies. To address this issue, we propose a “wholesale price + fixed transfer” contract that effectively coordinates the supply chain. Third, our analysis reveals an important welfare implication: despite double marginalization, the wholesale-price contract may generate higher social welfare than the coordinating contract under the PD program when the subsidy level exceeds a certain threshold. These findings enrich the literature on agricultural subsidy policies and contract farming supply chains. They also offer useful guidance for designing subsidy mechanisms and coordination contracts that improve economic efficiency and social welfare in agricultural systems.",
+  "oa_url": "https://doi.org/10.3389/fsufs.2026.1910949",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.3389/fsufs.2026.1910949"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemasaran, rantai pasok & rantai nilai"
+  ],
+  "priority_journal": true,
+  "language": "en",
+  "found_at": "2026-10-28",
+  "summary_id": null,
+  "relevance": 34
+ },
+ {
+  "id": "W7223685539",
+  "doi": "10.1371/journal.pone.0360474",
+  "title": "Evaluating gain and loss-framed mobile messaging to improve maternal health service uptake: A cluster randomized controlled trial in Jimma, Ethiopia",
+  "date": "2026-10-26",
+  "year": "2026",
+  "journal": "PLoS ONE",
+  "issn": "19326203",
+  "publisher": "Public Library of Science",
+  "authors": [
+   "Gebeyehu Bulcha",
+   "Hordofa Gutema",
+   "Mulusew J. Gerbaba",
+   "Demisew Amenu",
+   "Zewdie Birhanu"
+  ],
+  "abstract": "Background Maternal mortality has declined in Ethiopia, yet rural areas still struggle with access to care. Mobile phone-based gain or loss-framed messaging-hold promise for improving maternal health outcomes. Evidence on the comparative impact of these framing strategies in low-resource rural settings remains limited. This study evaluated the effectiveness of gain- versus loss-framed SMS messages in improving maternal health service utilization in Jimma Zone, Ethiopia. Methods A three-arm cluster-randomized controlled trial was conducted across 21 clusters, with clusters allocated to gain-framed messaging, loss-framed messaging, or control (usual care). A total of 588 pregnant women (16–20 GA) were recruited in March 2023 and followed from May to December 2023, with endline assessment in February 2024. Participants received 39 messages over a 6–8 month period, aligned with gestational age and postnatal timeline. Primary outcomes were at least one ANC, SBA, and PNC within 7 days. Secondary outcomes included knowledge, attitudes, self-efficacy, and self-reported morbidity. Analyses used generalized and linear mixed models with cluster-level adjustments. Result Both framing strategies improved service utilization compared to control. Gain-framed messages increased odds of ANC attendance (OR 5.40, 97.5% CI 1.95–14.94), SBA (OR 7.53, 97.5% CI 2.20–25.79), and PNC (OR 4.83, 97.5% CI 1.71–13.67). Loss-framed messages also improved ANC attendance (OR 7.14, 97.5% CI 2.40–21.26), Skilled Birth Attendance (SBA) (OR 7.31, 97.5% CI 2.13–25.09), and PNC (OR 4.07, 97.5% CI 1.46–11.39). Knowledge improved in both arms, attitudes improved only in the gain-framed arm, and self-efficacy showed no significant change. Self-reported maternal morbidity decreased in both intervention arms. Conclusion Both gain- and loss-framed mobile messages led to increased maternal health service utilization. Loss-framed messages were more effective for ANC attendance, knowledge, and morbidity reduction, while gain-framed messages showed greater impact on SBA, PNC, and attitudes. Trial registration Pan African Clinical Trials Registry (PACTR), PACTR202201753436676, registered on January 4, 2022; https://tinyurl.com/ykhnpc49",
+  "oa_url": "https://doi.org/10.1371/journal.pone.0360474",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1371/journal.pone.0360474"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": true,
+  "language": "en",
+  "found_at": "2026-10-28",
+  "summary_id": null,
+  "relevance": 32
+ },
+ {
+  "id": "W7223693536",
+  "doi": "10.1038/s41598-026-77566-7",
+  "title": "Hypertension prevalence and risk factors in a retained high-risk cohort of rural Black adults: a five-year follow-up study in Limpopo Province, South Africa",
+  "date": "2026-10-26",
+  "year": "2026",
+  "journal": "Scientific Reports",
+  "issn": "20452322",
+  "publisher": "Nature Portfolio",
+  "authors": [
+   "Cairo Bruce Ntimana",
+   "Reneilwe Given Mashaba",
+   "Katlego Mathopo",
+   "Kagiso Peace Seakamela",
+   "Joseph Tlouyamma",
+   "Solomon Choma",
+   "Eric Maimela"
+  ],
+  "abstract": "Hypertension remains a significant public health concern in South Africa, particularly in rural areas where healthcare access is limited. This study aimed to longitudinally assess hypertension prevalence and associated risk factors among a retained cohort of rural Black adults in Limpopo Province. Prospective longitudinal cohort study of 518 participants followed from baseline (2014–2016) to follow-up (2019–2022). Data were analyzed using SPSS version 27.0, with binary logistic regression to determine factors associated with hypertension. Among the retained cohort ( n = 518), baseline hypertension prevalence was 43.8%, increasing to 46.9% at follow-up. Hypertensive participants were significantly older and more likely to be female. Adjusted analyses showed age ≥ 64 years (baseline aOR = 3.05; 95% CI:1.23–7.56; follow-up aOR = 2.72; 95% CI:1.43–5.18), central obesity (baseline aOR = 2.92; 95% CI:1.72–4.96; follow-up aOR = 2.60; 95% CI:1.69–3.99), and diabetes (baseline aOR = 2.92; 95% CI:1.38–6.17; follow-up aOR = 2.75; 95% CI:1.70–4.44) were consistently associated with hypertension. Notably, significant attrition bias was observed: baseline hypertension prevalence among retained participants was more than double that of those lost to follow-up (43.8% vs. 19.7%; p < 0.001), and retained participants had higher rates of obesity and diabetes but lower rates of kidney disease. In this selectively retained high-risk cohort, hypertension prevalence increased over five years, with age, central obesity, and diabetes as consistent risk factors. Due to substantial attrition bias, these findings should be interpreted as reflecting trends within a high-risk survivor sub-cohort rather than population-level prevalence estimates. The strong associations observed support targeted screening and intervention strategies for older adults, women, and individuals with obesity or diabetes in rural South African communities.",
+  "oa_url": "https://doi.org/10.1038/s41598-026-77566-7",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1038/s41598-026-77566-7"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": true,
+  "language": "en",
+  "found_at": "2026-10-28",
+  "summary_id": null,
+  "relevance": 32
+ },
+ {
+  "id": "W7223686025",
+  "doi": "10.1080/1059924x.2026.2750263",
+  "title": "The Triple Burden: Tramadol, NSAIDS, and Energy Drinks Among Agricultural Workers in La Gomera, Guatemala: An Anthropological Study",
+  "date": "2026-10-26",
+  "year": "2026",
+  "journal": "Journal of Agromedicine",
+  "issn": "1059924X",
+  "publisher": "Taylor & Francis",
+  "authors": [
+   "Diana Gómez-López",
+   "Fernando Orozco",
+   "Sandra Herrera",
+   "Melissa Esteban",
+   "Miriam León",
+   "Sylvie Pouit",
+   "Berta Sam-Colop",
+   "Maria Pedroza",
+   "Lindsay Salem-Bango",
+   "Marion Demailly",
+   "Reinaldo Ortuno",
+   "Iza Ciglenečki"
+  ],
+  "abstract": "INTRODUCTION: Agriculture is a major economic activity in Guatemala. Workers in sugarcane, banana, and African palm plantations face high risk of chronic kidney disease of non-traditional causes (CKDnT). During 2021- 2023, Médecins Sans Frontières (MSF) implemented a project in Guatemala to provide comprehensive care for CKDnT. The frequent use of potentially nephrotoxic substances, such as medications and energy drinks, was documented. This qualitative study, conducted during 2023, aimed to understand this practice and its relation to agricultural work. METHODS: = 4). Interviews were audio-recorded and transcribed. Deductive and inductive thematic analysis was performed using NVivo. RESULTS: Three core themes emerged: (1) substances, motivations, practices of use, and availability, with tramadol, energy drinks, and non-steroidal anti-inflammatory drugs commonly consumed in various ways (drunk, swallowed, inhaled, or spread on cigarettes to be smoked) to sustain labor; (2) work dynamics and its relation to the use of substances; and (3) perception of health risks related to the use of substances. DISCUSSION: Piecework payment systems incentivize high production, framing substance use as a necessity to increase energy and manage pain and fatigue. Use of medications and other substances was described as socially accepted and normalized. Addressing CKDnT requires structural interventions and culturally adapted health promotion strategies. CONCLUSION: Agricultural work dynamics in Guatemala contribute to the use of medications and substances that influence agricultural workers health. Structural causes, including factors such as poverty, instability, and social dynamics, further hinder substance discontinuation. Further interdisciplinary research is needed to deepen the understanding of this practice and its relationship with the high prevalence of CKDnT.",
+  "oa_url": "https://www.tandfonline.com/doi/pdf/10.1080/1059924X.2026.2750263?needAccess=true",
+  "pdf_url": "https://www.tandfonline.com/doi/pdf/10.1080/1059924X.2026.2750263?needAccess=true",
+  "pdf_urls": [
+   "https://www.tandfonline.com/doi/pdf/10.1080/1059924X.2026.2750263?needAccess=true",
+   "https://doi.org/10.1080/1059924x.2026.2750263"
+  ],
+  "oa_status": "hybrid",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Komoditas: pisang, nanas, padi rawa",
+   "Tenaga kerja & produktivitas perkebunan"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-28",
+  "summary_id": null,
+  "relevance": 32
+ },
+ {
+  "id": "W7223697565",
+  "doi": "10.1186/s12889-026-30104-6",
+  "title": "Climate change and malaria in Rwanda: multi-sectoral expert insights on adaptation strategies, capacity needs and implementation challenges",
+  "date": "2026-10-26",
+  "year": "2026",
+  "journal": "BMC Public Health",
+  "issn": "14712458",
+  "publisher": "BioMed Central",
+  "authors": [
+   "Felix K. Rubuga",
+   "Gashaija Absolomon",
+   "Arnold S. Mmbando",
+   "J Condo",
+   "Thierry Sebakunzi",
+   "Ayman Ahmed",
+   "Guéladio Cissé",
+   "Jürg Utzinger"
+  ],
+  "abstract": "Climate change poses serious threats to global health, particularly through its impact on vector-borne diseases such as malaria. In Rwanda, shifting transmission patterns driven by climate variability present new challenges for the control and elimination of malaria. There is limited empirical evidence on multi-sectoral perspectives regarding existing strategies, implementation barriers, capacity needs and alignment of Rwanda’s climate-malaria responses with international frameworks. This qualitative study employed thematic analysis of 16 expert interviews from ministries, academia, non-governmental organisations and international organisations in Kigali, Rwanda. Participants were selected for their expertise in climate change, public health, environmental science and malaria epidemiology. Data were collected from September to November 2024 and analysed using ATLAS.ti. The 16 experts interviewed demonstrated a deep understanding of climate-malaria linkages and identified rising minimum temperature as key transmission driver. Geographical expansion of malaria into previously non-endemic highland areas in northern and western provinces strains health system resources with unexpected case increases requiring additional medication and staffing. Current adaptation measures include indoor residual spraying (IRS) in 12 high-burden districts (protecting 5.7 million people with 99.8% structural coverage) and universal long-lasting insecticidal nets distribution (97% coverage among pregnant women and children). However, resource constraints limit IRS expansion to newly endemic areas. Rwanda has established a Climate and Health Desk and completed climate-health vulnerability and adaptation assessment informing Health National Adaptation Plan development, yet data integration challenges persist with temporal misalignment between daily climate data and monthly malaria surveillance. Critical capacity gaps exist in climate-health education across health professional curricula. Socioeconomic vulnerabilities, including poverty, inadequate housing and gender disparities, exacerbate malaria risk, particularly affecting women, children and highland populations lacking immunity. Rwanda demonstrates institutional commitment to climate-resilient health through policy reforms and multi-stakeholder engagement. Yet, critical challenges persist in data integration, capacity development and financing. Study limitations include focus on Kigali-based experts potentially underrepresenting rural perspectives. Priorities include strengthening surveillance systems, integrating climate education in health training, addressing socioeconomic vulnerabilities and utilizing community platforms for sustainable, locally-driven malaria control.",
+  "oa_url": "https://doi.org/10.1186/s12889-026-30104-6",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1186/s12889-026-30104-6"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-28",
+  "summary_id": null,
+  "relevance": 23
+ },
+ {
+  "id": "W7223698029",
+  "doi": "10.1080/10447318.2026.2749948",
+  "title": "User-Centred Affective Interaction Design for Smart Wearables Supporting Women’s Perceived Safety",
+  "date": "2026-10-26",
+  "year": "2026",
+  "journal": "International Journal of Human-Computer Interaction",
+  "issn": "10447318",
+  "publisher": "Taylor & Francis",
+  "authors": [
+   "N. M. Cusack",
+   "Prabhuraj D. Venkatraman",
+   "U. Raza",
+   "A. Faisal"
+  ],
+  "abstract": "Perceived safety in public spaces is shaped by emotional, cognitive, social, and environmental factors, presenting a complex HCI design challenge. This study examines how women’s perceived safety varies across environmental contexts and how these experiences can inform context-aware smart wearable garments. A pilot study (n = 20) refined a 31-item questionnaire, followed by a main study of 199 valid respondents. A two-way ANOVA identified significant main effects of Gender and Living Environment on safety concern, with women reporting greater concern than men across Urban, Intra-urban, and Rural settings. PCA identified one dominant environmental-safety component containing three descriptive design factors: fear of physical harm, environmental discomfort, and socially situated risk. A second PCA identified Proactive Personal Safety and Environmental Awareness as priority smart-garment domains. These findings informed three design models and a proof-of-concept prototype linking user perception, environmental sensing, and adaptive feedback.",
+  "oa_url": "https://doi.org/10.1080/10447318.2026.2749948",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1080/10447318.2026.2749948"
+  ],
+  "oa_status": "hybrid",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-28",
+  "summary_id": null,
+  "relevance": 23
+ },
+ {
+  "id": "W7223665780",
+  "doi": "10.1016/j.aap.2026.108821",
+  "title": "Odds of culpability associated with the presence of drugs in injured drivers",
+  "date": "2026-10-26",
+  "year": "2026",
+  "journal": "Accident Analysis & Prevention",
+  "issn": "00014575",
+  "publisher": "Elsevier BV",
+  "authors": [
+   "Olaf H. Drummer",
+   "Matthew Di Rago",
+   "Carla Morris",
+   "Gemma Wynd",
+   "Linda L. Glowacki",
+   "Noel W. F. Woodford",
+   "Dimitri Gerostamoulos"
+  ],
+  "abstract": "Responsibility analysis was conducted on almost 10,000 drivers injured over a 10-year period in Victoria, Australia as a result of a vehicular collision and in whom comprehensive toxicology testing in blood was conducted. Multivariable logistic regression models were fitted to compute unadjusted (OR) and adjusted odds ratios (aOR). In the multivariable model, adjustments were made for gender, age group, vehicle type, and whether the crash occurred in metropolitan or rural areas. The psychoactive drug-free driver was the control group. Drivers with ethanol (alcohol) present at any concentration (>0.01 % BAC) confirmed the well-known large increases in OR that occur with rising blood ethanol concentration, with an aOR of 16.4 (95 %CI 11.1–24.2). Drivers positive to methamphetamine and no other psychoactive drug also showed a large increase in the odds of culpability (aOR 17.2, 95 %CI 10.2–29.2). Drivers with Δ 9 -tetrahydrocannabinol (THC) in blood showed a modest increase in odds when all concentrations (> 1 ng/mL) were assessed (aOR 1.5, 95 %CI 1.1–2.0) that trended to a possible increased aOR 2.1 (95 %CI 0.9–4.9) when concentrations were 10 ng/mL or higher. Benzodiazepines in drivers also showed a significant increase in odds (aOR1.8, 95 %CI 1.2–2.8), as well as antidepressants (aOR 1.3, 95 %CI 1.0–1.6). Opioids such as codeine and oxycodone showed no measurable increase in the odds of culpability, whereas combinations of ethanol with methamphetamine or THC gave aOR of 22.6 (95 %CI 3.0–168) and 20.0 (95 %CI 7.3–54.5), respectively, as well as drivers positive to both THC and methamphetamine (aOR 14.6, 95 % CI 5.9–36.4). Drivers positive to one or more illicit drug, or a larger selection of psychoactive drugs in the absence of ethanol both gave similarly large increase in odds (aOR 4.0, 95 %CI 3.3–5.0). This study contributes to a better understanding of risks associated with driving in the presence of common psychoactive drugs.",
+  "oa_url": "https://www.sciencedirect.com/science/article/pii/S0001457526004306/pdf",
+  "pdf_url": "https://www.sciencedirect.com/science/article/pii/S0001457526004306/pdf",
+  "pdf_urls": [
+   "https://www.sciencedirect.com/science/article/pii/S0001457526004306/pdf",
+   "https://doi.org/10.1016/j.aap.2026.108821"
+  ],
+  "oa_status": "hybrid",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-28",
+  "summary_id": null,
+  "relevance": 21
+ },
+ {
+  "id": "W7223660306",
+  "doi": "10.1017/eso.2026.10149",
+  "title": "Sweetening the Empire: Sugar and Western-Style Confectionery in Modern Japan and Taiwan",
+  "date": "2026-10-26",
+  "year": "2026",
+  "journal": "Enterprise & Society",
+  "issn": "14672227",
+  "publisher": "Cambridge University Press",
+  "authors": [
+   "Lillian Tsay"
+  ],
+  "abstract": "This dissertation examines how Western-style confectionery such as caramel, chocolate, chewing gum, and other sweets became intertwined with Japan’s empire-building from the Meiji period (1868–1912) to the early postwar years. While there have been extensive studies on sugar labor, empire, and capitalism, this dissertation focuses on what happened after the sugar was harvested until it was manufactured into delicious confectionery goods. Using a wide array of sources from colonial and corporate archives, science magazines, trade journals, films, artworks, oral history, and diaries, I examine three major confectionery companies—Morinaga, Meiji, and Niitaka—and how the production and marketing of their commodities were entangled with Japan’s imperial expansion. The production process reveals the unexamined colonial networks through which these companies sourced raw materials like sugar, cocoa, and banana powder from Japan’s tropical colony, Taiwan. When these products were sold across the empire, they were marketed alongside messages that embodied Japan’s imperial ambitions and colonial ideology. During the total war (1937–1945), sugar and confectionery continued to play a significant role by sustaining soldiers’ stamina on the battlefield and enticing enemy children to develop affection toward Japan. Altogether, this dissertation argues that Western-style confectionery should be understood as a commodity of the Japanese Empire: its production expanded alongside the empire, while its sweetness, in turn, helped sustain imperial power by functioning as a form of “soft power.”",
+  "oa_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/614690E6B93613304C463200A6ED95D3/S1467222726101499a.pdf/div-class-title-sweetening-the-empire-sugar-and-western-style-confectionery-in-modern-japan-and-taiwan-div.pdf",
+  "pdf_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/614690E6B93613304C463200A6ED95D3/S1467222726101499a.pdf/div-class-title-sweetening-the-empire-sugar-and-western-style-confectionery-in-modern-japan-and-taiwan-div.pdf",
+  "pdf_urls": [
+   "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/614690E6B93613304C463200A6ED95D3/S1467222726101499a.pdf/div-class-title-sweetening-the-empire-sugar-and-western-style-confectionery-in-modern-japan-and-taiwan-div.pdf",
+   "https://doi.org/10.1017/eso.2026.10149"
+  ],
+  "oa_status": "hybrid",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Komoditas: pisang, nanas, padi rawa"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-28",
+  "summary_id": null,
+  "relevance": 21
+ },
+ {
+  "id": "W7223694127",
+  "doi": "10.1073/pnas.2321152122",
+  "title": "Humid-heat shifts conceptions and increases pregnancy termination risks in Nigeria",
+  "date": "2026-10-26",
+  "year": "2026",
+  "journal": "Proceedings of the National Academy of Sciences",
+  "issn": "00278424",
+  "publisher": "National Academy of Sciences",
+  "authors": [
+   "Nina R. Brooks",
+   "Cascade P. Tuholske",
+   "Kathryn McMahon",
+   "Kwaw S. Andam"
+  ],
+  "abstract": "Climate change is increasing the occurrence of dangerous heat events globally with immediate health consequences, particularly in the Global South. In this paper, we spatially integrate Demographic and Healt 9 h surveys with a high-resolution, blended remotely sensed and station-derived dataset of humid-heat events spanning 1983–2016 to examine the effect of humid-heat exposure on fertility in Nigeria, one of the largest and most climate-vulnerable countries in the world. We use discrete-time models to examine the relationship between humid-heat exposure and conception probability and linear probability models to examine the relationship between humid-heat exposure and pregnancy termination (spontaneous and induced). We find that a 1 ° C increase in the current maximum wet bulb globe temperature decreases conceptions (0.2 conceptions per 1,000 woman-months, 95% CI: 0.03 to 0.4), but exposure to hotter temperatures 1 to 2 mo prior increases conception probability. Exposure to hot-humid temperatures during pregnancy increases probability of pregnancy termination (1.73 terminations per 100 pregnancies, 95% CI: 0.7 to 2.7). The net effect is an increase in births, but the timing may be shifted. Subgroup analyses reveal that effects of humid-heat on conception were larger for women residing in rural areas or in northern districts, or who are Muslim or have lower educational attainment, while the association between humid-heat and pregnancy termination was larger for women in southern areas, older women, and Christian women. Differences in how humid-heat affects populations may exacerbate existing inequalities. Overall, our analysis contributes to a better understanding of how humid-heat exposure affects fertility and reproductive health among women in the Global South.",
+  "oa_url": "https://doi.org/10.1073/pnas.2321152122",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1073/pnas.2321152122"
+  ],
+  "oa_status": "hybrid",
+  "cited_by": 1,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-28",
+  "summary_id": null,
+  "relevance": 15
+ },
+ {
+  "id": "W7223654549",
+  "doi": "10.1371/journal.pntd.0014834",
+  "title": "Hepatitis E in suspected acute hepatitis cases in Brazil: A comparison with hepatitis A",
+  "date": "2026-10-26",
+  "year": "2026",
+  "journal": "PLoS neglected tropical diseases",
+  "issn": "19352727",
+  "publisher": "Public Library of Science",
+  "authors": [
+   "Ketti Gleyzer de Oliveira",
+   "Mariana Pinheiro Alves Vasconcelos",
+   "Júlia Teixeira Ton",
+   "Silvia N. O. Uehara",
+   "Roberta Sitnik",
+   "Denize Ornelas Pereira Salvador de Oliveira",
+   "Layze Oliveira Castberg Sousa",
+   "Ricardo Andreotti Siqueira",
+   "Peter James Robinson",
+   "Thais Domingues",
+   "Caroline Thomas Panico",
+   "Cesar Inoue"
+  ],
+  "abstract": "Hepatitis E virus (HEV) is an underrecognized cause of acute viral hepatitis worldwide, with growing public health relevance, particularly in settings where routine diagnostic testing is limited. Hepatitis A virus (HAV) is another epidemiologically related hepatitis virus, but few studies have directly compared these infections in Brazil. This study aimed to (1) determine the frequency of acute hepatitis E (AHE) and evaluate the contribution of HEV infection to the burden of hepatitis among patients with suspected acute disease attended in public healthcare institutions in Brazil; (2) assess the prevalence of acquired immunity to HEV and HAV; and (3) compare demographic characteristics, risk factors, and clinical-laboratory findings associated with HEV and HAV infections. We enrolled 1,721 adults (≥18 years) with suspected acute hepatitis from 16 Brazilian states between October 2019 and May 2023. Serum samples were tested for anti-HEV IgG/IgM and anti-HAV IgG/IgM by immunoassay and for HEV and HAV RNA by RT-PCR. Demographic, behavioral, clinical, and laboratory data were collected using a standardized questionnaire. Group comparisons were performed using univariate analyses and logistic regression, with statistical significance set at p < 0.05. Anti-HEV IgG was detected in 89 individuals (5.2%), whereas anti-HAV IgG was detected in 1,352 (78.6%). Anti-HEV IgG seroprevalence was higher in the South, Southeast, and Central West regions and among heterosexuals, and it increased with age, reaching 13.0% among individuals aged ≥65 years. Seropositivity was associated with markers of previous exposure or immunity, including HAV, HBV, Leptospira , and Toxoplasma . A total of 124 acute hepatitis cases were identified: 16 (12.9%) AHE and 108 (87.1%) acute hepatitis A (AHA). Compared with AHA cases, AHE cases occurred in older individuals and were more frequent among women and heterosexual participants. All AHA cases occurred in urban areas, whereas AHE cases were observed in both urban and rural settings. AHA cases showed higher aminotransferase levels and more frequent jaundice than AHE cases. HEV accounts for a small but distinct proportion of suspected acute hepatitis cases in Brazil and shows epidemiological and clinical characteristics that differ from HAV. Incorporating HEV testing into routine diagnostic algorithms may improve etiological clarification and surveillance of acute hepatitis.",
+  "oa_url": "https://doi.org/10.1371/journal.pntd.0014834",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1371/journal.pntd.0014834"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-28",
+  "summary_id": null,
+  "relevance": 15
+ },
+ {
+  "id": "W7223665532",
+  "doi": "10.1371/journal.pgph.0006312",
+  "title": "Creating order in the uncertainty of childbirth: A qualitative study of obstetric admission and triage practices in rural Malawi",
+  "date": "2026-10-26",
+  "year": "2026",
+  "journal": "PLOS Global Public Health",
+  "issn": "27673375",
+  "publisher": "Public Library of Science",
+  "authors": [
+   "Emily Bundy",
+   "Bianca Kandeya",
+   "Wanangwa Chimwaza",
+   "Claudia Hanson",
+   "Effie Kondwani Chipeta",
+   "Helle Mølsted Alvesson"
+  ],
+  "abstract": "Maternal and neonatal mortality continues to be a concern in sub-Saharan Africa. Although standardized obstetric triage improves clinical outcomes, little is known about how locally developed admission practices function in low-resource settings where national obstetric triage guidelines are absent. This study explored how hospital-based obstetric admission procedures in rural Malawi were experienced by maternity care providers, laboring women, and companions. We used qualitative methods including in-depth interviews with mothers and maternity care providers, focus group discussions with companions and maternity care providers, and observations of two labor wards. Study participants were chosen purposively to represent diverse birth outcomes and professionals. Data analysis followed reflexive thematic analysis, concentrating on obstetric admissions. Mary Douglas’ concepts of purity, danger, and risk informed interpretation during theme development. Obstetric admissions were organized through standardized admission forms that structured assessment and enabled providers to classify women according to visible danger signs and labor progression. Although the forms were not formal triage tools, they functioned as the primary mechanism for prioritizing care, organizing patient movement through maternity spaces, and managing high patient volumes. Shared recognition of danger signs among providers, women, and companions reinforced the legitimacy of risk-based decision making. At the same time, communication was selectively restricted, limiting patient and companion participation while reinforcing professional authority and hierarchical relationships. Standardized admission procedures created order by classifying obstetric risk and prioritizing clinical efficiency, but they also reinforced hierarchical relationships that limited communication and patient participation. Efforts to strengthen obstetric admissions should preserve the benefits of standardized risk assessment while incorporating more person-centered communication and companion engagement.",
+  "oa_url": "https://doi.org/10.1371/journal.pgph.0006312",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1371/journal.pgph.0006312"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-28",
+  "summary_id": null,
+  "relevance": 15
+ },
+ {
+  "id": "W7223680538",
+  "doi": "10.1186/s12888-026-08799-z",
+  "title": "Association of chronic diseases with depressive symptom trajectories in postmenopausal women: a population-based cohort study",
+  "date": "2026-10-26",
+  "year": "2026",
+  "journal": "BMC Psychiatry",
+  "issn": "1471244X",
+  "publisher": "BioMed Central",
+  "authors": [
+   "Mengna Shou",
+   "Zheng Liu",
+   "Mengfei Ye",
+   "Junjiang Wu",
+   "Zimu Fu"
+  ],
+  "abstract": "Postmenopausal women are particularly susceptible to depressive symptoms, yet the longitudinal impact of chronic diseases on their depressive symptom trajectories remains poorly understood. We conducted a longitudinal study using data from the China Health and Retirement Longitudinal Study, including postmenopausal women aged ≥ 45 years with complete follow-up from 2011 to 2020. Group-based trajectory modeling identified distinct depressive symptom trajectories. Adjusted multivariable logistic regression was applied to estimate the associations between chronic diseases and depressive symptom trajectory groups. Mediation analyses were conducted to examine whether sleep duration and cognitive function were associated with the relationship between chronic diseases and depressive symptoms. Four trajectories of depressive symptoms were identified: no symptoms (62.2%), increasing symptoms (19.7%), remitting symptoms (10.0%), and persistently severe symptoms (8.2%). Chronic diseases showed association with membership in adverse depressive trajectories, specifically > 3 diseases for persistently severe symptoms (OR = 8.47, 95% CI : 5.79–12.47). Stroke, kidney disease, and arthritis/rheumatism were identified as strongly associated with the persistently severe depressive symptom trajectory. Additionally, elevated odds of belonging to adverse depressive trajectories were observed in women with lower education, rural residence, and a history of premature menopause. In addition, sleep duration (ES = 0.206, p <.001) and cognitive function (ES = 0.099, p <.001) accounted for part of the association between chronic diseases and depressive symptoms. The long-term trajectory of depressive symptoms in Chinese postmenopausal women is substantially associated with chronic disease burden. These findings highlight the need for an integrated multidisciplinary treatment model for postmenopausal women.",
+  "oa_url": "https://doi.org/10.1186/s12888-026-08799-z",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1186/s12888-026-08799-z"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-28",
+  "summary_id": null,
+  "relevance": 15
+ },
+ {
+  "id": "W7223694118",
+  "doi": "10.3389/fpubh.2026.1925365",
+  "title": "Changes in family knowledge, practices, and perceived competencies after a family-centered home-visiting program for chronic child malnutrition prevention in rural Ecuador: an uncontrolled pre-post study",
+  "date": "2026-10-26",
+  "year": "2026",
+  "journal": "Frontiers in Public Health",
+  "issn": "22962565",
+  "publisher": "Frontiers Media",
+  "authors": [
+   "Claudia Tatiana Escorcia-Mora",
+   "Marcela Frugone Jaramillo",
+   "Pau García‐Grau",
+   "Carolina Portaluppi",
+   "Diana Barros-Cárdenas",
+   "María Alejandra Muñoz-Seminario"
+  ],
+  "abstract": "Introduction Chronic child malnutrition (CCM) remains a major public health challenge, particularly in socially vulnerable settings, given its association with adverse developmental outcomes. Preventing CCM requires integrated approaches that combine nutritional support, healthcare, and the strengthening of family caregiving capacities. Objective To describe pre-to-post changes over 6 months in parental knowledge (primary outcome) and in practices and perceived competencies (secondary outcomes) related to the prevention and management of CCM among 208 pregnant women or mothers of children under 3 years of age participating in a family-support process guided by the principles of Family-Centered Practices (FCP) in a rural community in Santa Elena, Ecuador. Methods An uncontrolled longitudinal pre-post study with an embedded exploratory qualitative component was conducted within a community program involving biweekly home visits and monthly food kits. No concurrent comparison group was used. A 34-item, study-specific scale assessing knowledge, practices, and perceived competencies related to CCM prevention and management was administered before and after the intervention. In addition, 25 purposively selected mothers provided written responses to open-ended questions, which were analyzed deductively using four a priori categories. Results The total scale score increased significantly from pre- to post-assessment (mean difference = 8.03, 95% CI [4.53, 11.53], p < 0.001, d z = 0.31). The largest and only statistically significant domain-level change was observed in Knowledge ( d z = 0.66), whereas changes in Practices ( p = 0.425) and Competencies ( p = 0.080) were smaller and not statistically significant. Sixteen of 34 item-level comparisons remained significant after Holm-Bonferroni correction. Differences according to baseline nutritional status were descriptive and were not confirmed by the group-by-time interaction test. Qualitative responses illustrated perceived learning related to safe water, dietary practices, and greater confidence in food-related decision-making. Conclusion Participation in an integrated home-visiting and food-support program was associated with higher self-reported knowledge related to CCM prevention and management, whereas aggregate changes in practices and perceived competencies were not statistically significant. Given the uncontrolled design, concurrent food support, and use of a study-specific outcome measure, the findings should be considered preliminary. Controlled studies using validated measures and objective nutritional outcomes are needed to evaluate the contribution of family-centered support to CCM prevention.",
+  "oa_url": "https://doi.org/10.3389/fpubh.2026.1925365",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.3389/fpubh.2026.1925365"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-28",
+  "summary_id": null,
+  "relevance": 15
+ },
+ {
+  "id": "W7223655790",
+  "doi": "10.3390/agriculture16212329",
+  "title": "GIS-Based Optimal Site Selection of Agricultural By-Product Resource Recovery Facilities for Smart Agricultural and Livestock Systems: A Case Study of Naju-si and Goheung-gun, Jeollanam-do, South Korea",
+  "date": "2026-10-25",
+  "year": "2026",
+  "journal": "Agriculture",
+  "issn": "20770472",
+  "publisher": "Multidisciplinary Digital Publishing Institute",
+  "authors": [
+   "Ki-Dong Park",
+   "Seung-Yong Seo",
+   "Min-Young Hwang",
+   "Jinkwan Son",
+   "Ryu-Gap Lim"
+  ],
+  "abstract": "The importance of producing bioenergy using agricultural by-products is increasing in response to energy depletion and climate change caused by dependence on fossil fuels. In particular, rice straw is one of the most abundant agricultural by-products generated in Korea and has high potential for utilization in various bioenergy resource recovery applications. The objective of this study was to estimate rice straw production and select optimal locations for agricultural by-product resource recovery facilities based on resource availability, facility processing capacity, and collection and transportation costs. Field measurements of soil properties were conducted to analyze their relationships with rice straw production, while rice cultivation and production statistics were obtained from the Korean Statistical Information Service (KOSIS), and digital map data were obtained from the National Geographic Information Institute (NGII). The soil-property data were statistically analyzed to evaluate their relationships with rice straw production, while the digital map data were processed using ArcGIS Pro to delineate paddy field areas, apply correction factors based on statistical rice cultivation areas, generate representative centroid locations, identify candidate sites using spatial exclusion criteria, and calculate road-network-based transportation distances and costs. However, since the economic feasibility of resource recovery facilities is greatly affected by the stable supply of raw materials and the efficiency of collection costs, optimal site selection considering resource generation and transportation characteristics is necessary. The suitability of rice cultivation was evaluated by investigating the soil moisture content, electrical conductivity (EC), penetration resistance, and soil texture of the study area, and the resource supply was estimated based on the rice cultivation area and rice straw generation in 2024. In addition, ArcGIS Pro 3.6.4 (Esri, Redlands, CA, USA) was used to derive candidate sites by considering conditions such as roads, slope, streams, rivers, lakes, and wetlands, and the optimal locations by facility scale were evaluated by analyzing the total logistics costs, including collection and transportation costs. The results showed that both study areas exhibited soil properties suitable for rice cultivation and were capable of providing a stable supply of rice straw. For the 30,000 ton processing facility, two optimal locations were selected in each of Naju-si and Goheung-gun, while one optimal location was selected in each region for the 60,000 ton processing facility. The GIS-based site selection method proposed in this study is expected to be applicable not only to rice straw resource recovery facilities but also to the planning and supply chain development of various agricultural biomass resource recovery facilities. It is also expected to contribute to the development of efficient systems for achieving sustainable agriculture and carbon neutrality.",
+  "oa_url": "https://doi.org/10.3390/agriculture16212329",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.3390/agriculture16212329"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemasaran, rantai pasok & rantai nilai"
+  ],
+  "priority_journal": true,
+  "language": "en",
+  "found_at": "2026-10-28",
+  "summary_id": {
+   "tujuan": "Mengestimasi produksi jerami padi dan memilih lokasi optimal fasilitas pemulihan biomassa berdasarkan ketersediaan bahan baku, kapasitas olah, dan biaya logistik di Naju-si dan Goheung-gun, Korea Selatan.",
+   "metode": "Studi spasial dengan pengukuran lapangan sifat tanah (kadar air, EC, resistansi penetrasi, tekstur) yang dianalisis secara statistik terhadap produksi jerami, serta data padi 2024 dari KOSIS dan peta digital NGII yang diolah dengan ArcGIS Pro 3.6.4. Kandidat lokasi diseleksi dengan kriteria pengecualian spasial dan biaya logistik berbasis jaringan jalan; ukuran sampel dan uji statistik yang digunakan tidak disebutkan.",
+   "temuan": "Kedua wilayah memiliki sifat tanah yang sesuai untuk padi dan dinilai mampu memasok jerami secara stabil. Untuk fasilitas 30.000 ton dipilih dua lokasi di masing-masing wilayah, sedangkan untuk fasilitas 60.000 ton dipilih satu lokasi per wilayah. Hubungan sifat tanah dengan produksi bersifat asosiatif tanpa koefisien yang dilaporkan dalam abstrak, dan penentuan lokasi merupakan hasil optimasi model, bukan bukti kausal.",
+   "keterbatasan": "Tidak disebutkan secara eksplisit. Dari desain tampak cakupan hanya dua wilayah dan satu tahun (2024), ketergantungan pada koreksi luas tanam statistik, serta belum adanya analisis sensitivitas biaya logistik.",
+   "relevansi": "Metode seleksi lokasi dan perhitungan biaya pengumpulan biomassa dapat diadaptasi untuk limbah sawit (tandan kosong, pelepah, cangkang) dan jerami padi di Kalimantan Tengah. Pendekatan ini juga berguna untuk menilai dampak jarak dan biaya logistik terhadap nilai tambah petani kecil dalam rantai nilai biomassa.",
+   "skor": 3,
+   "model": "claude-haiku-5-5",
+   "sumber": "abstrak"
+  },
+  "relevance": 45
+ },
+ {
+  "id": "W7223684662",
+  "doi": "10.3390/higheredu5040123",
+  "title": "Making Inclusion Actionable in Digital and Distance Higher Education: A Mechanism-Based Analysis of European Policy",
+  "date": "2026-10-25",
+  "year": "2026",
+  "journal": "Trends in Higher Education",
+  "issn": "28134346",
+  "publisher": "Multidisciplinary Digital Publishing Institute",
+  "authors": [
+   "Theodora Kouvara",
+   "Natalia D. Spyropoulou",
+   "Angeliki Karangelou",
+   "Achilles D. Kameas"
+  ],
+  "abstract": "European policy positions distance, online, and blended higher education as a route to widening participation, yet the mechanisms that make inclusion actionable remain dispersed across disconnected policy domains. This study examines how European-level policy and evidence texts conceptualise and operationalise inclusive distance higher education for four under-represented groups, namely women in STEM, migrants and refugees, learners with disabilities, and rural or remote learners. A qualitative document analysis of 40 sources, conducted as an actionability-oriented thematic synthesis, produced eleven mechanism clusters grouped into four interlocking themes: foundational enablers, inclusion-by-design learning conditions, targeted equity pathways, and governance, funding and safeguards. Governance, monitoring and cooperation appeared in all 40 sources, equality and values mainstreaming in 35 and accessibility and universal design in 15, counts reflecting documentary coverage rather than implementation. Inclusion becomes actionable not through any single measure, but through aligning these themes into a chain of actionability whose effect is relational and most fragile at the governance link. Policy attention across the four groups is uneven, being operationalised most robustly where it is measurable and least where it is relational. The study offers a transferable framework for understanding inclusion as a coordinated accomplishment across policy layers.",
+  "oa_url": "https://doi.org/10.3390/higheredu5040123",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.3390/higheredu5040123"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-28",
+  "summary_id": null,
+  "relevance": 23
+ },
+ {
+  "id": "W7223551038",
+  "doi": "10.7759/cureus.118567",
+  "title": "An Integrated Approach to Cervical Cancer Prevention Based on WHO’s 90-70-90 Targets: A Rural Community-Based Study",
+  "date": "2026-10-25",
+  "year": "2026",
+  "journal": "Cureus",
+  "issn": "21688184",
+  "publisher": "Cureus, Inc.",
+  "authors": [
+   "Mukesh Sharma",
+   "Moumita Sardar",
+   "Tarun Jhamb",
+   "Rituparna Saha",
+   "Auditi Talukder",
+   "Leimapokpam Sumitra Devi"
+  ],
+  "abstract": "BackgroundCervical cancer is one of the most commonly diagnosed cancers in women, mainly affecting women in lowand middle-income countries.The present study aimed to raise awareness about cervical cancer among rural populations in Haryana, India, and provide cervical cancer screening for women and vaccination for girls and young women. MethodologyThis community-based cross-sectional study included three distinct study populations targeted for different interventions, i.e., cervical cancer awareness, cervical cancer screening, and human papillomavirus (HPV) vaccination initiatives.Awareness was delivered through community health camps, interactive sessions, street plays (nukkad natak), and the distribution of pamphlets.Cervical cancer screening was conducted through HPV DNA detection using multiplex PCR.Furthermore, eligible girls and young women were provided with the CERVAVAC HPV vaccine (Serum Institute of India Pvt. Ltd., Pune, India). ResultsAwareness campaigns were conducted among the rural population of Haryana to provide knowledge about cervical cancer and its prevention.A total of 1,180 women aged over 18 years who attended the awareness campaigns (n = 1,000) and cervical cancer screening (n = 700) were briefly interviewed.Of these, 13.8% had heard of cervical cancer, 9.2% had poor knowledge about it, and 9% knew that the disease could be prevented.The HPV DNA positivity rate was 8.4% (59/700), with high-risk HPV genotypes (other than HPV-16 and HPV-18) being the most commonly detected, followed by HPV-18 (20%) and HPV-16 (10%), while 7% were co-infected with HPV-16 and HPV-18.A total of 102 individuals, comprising 17 (16.7%)girls aged 9-14 years and 85 (83.3%) girls/women aged 15-26 years, received HPV vaccination.Vaccine hesitancy was observed among the eligible population, with misinformation on social media cited as one of the reasons. ConclusionOur findings underscore the need for community-based cervical cancer awareness campaigns, strengthening health education from the school level, and providing access to HPV screening and vaccination facilities to improve cervical cancer prevention in rural settings.",
+  "oa_url": "https://www.cureus.com/articles/535928-an-integrated-approach-to-cervical-cancer-prevention-based-on-whos-90-70-90-targets-a-rural-community-based-study.pdf",
+  "pdf_url": "https://www.cureus.com/articles/535928-an-integrated-approach-to-cervical-cancer-prevention-based-on-whos-90-70-90-targets-a-rural-community-based-study.pdf",
+  "pdf_urls": [
+   "https://www.cureus.com/articles/535928-an-integrated-approach-to-cervical-cancer-prevention-based-on-whos-90-70-90-targets-a-rural-community-based-study.pdf",
+   "https://doi.org/10.7759/cureus.118567"
+  ],
+  "oa_status": "diamond",
+  "cited_by": 0,
+  "keywords": [
+   "cervical cancer prevention",
+   "cervical cancer screening",
+   "rural communities",
+   "community health programs",
+   "cervical cancer control"
+  ],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-28",
+  "summary_id": null,
+  "relevance": 19
+ },
+ {
+  "id": "W7223672629",
+  "doi": "10.1002/ep.70764",
+  "title": "Assessing greenhouse gas emissions in the cassava flour supply chain: Evidence from small‐scale production units",
+  "date": "2026-10-25",
+  "year": "2026",
+  "journal": "Environmental Progress & Sustainable Energy",
+  "issn": "19447442",
+  "publisher": "Wiley",
+  "authors": [
+   "Julio Cesar Sales Bezerra",
+   "Murilo dos Santos Oliveira",
+   "Silvia Guillén-Lambea",
+   "Mónica Carvalho",
+   "Raphael Abrahão"
+  ],
+  "abstract": "Abstract This study applies Life Cycle Assessment to quantify greenhouse gas (GHG) emissions across the cassava flour production chain, from cultivation to final processing. Primary data were collected in 2023 from two small‐scale artisanal facilities in Northeast Brazil (CF‐I and CF‐II). The functional unit was the annual processing of 10,400 kg of cassava roots. CF‐I separates its output into cassava flour and wet starch, whereas CF‐II retains the starch in the flour. Agricultural and machinery operations, electricity, firewood, and water consumption were accounted for. Total carbon footprints were evaluated using IPCC 2021 GWP 100a characterization factors. Reported GHG totals account for upstream supply chain burdens and non‐CO 2 combustion gases, excluding biogenic CO 2 emissions under the carbon‐neutrality convention. Overall GHG emissions were 2585.15 kg CO 2 ‐eq/year for CF‐I and 1532.47 kg CO 2 ‐eq/year for CF‐II. The highest contribution is associated with firewood consumption for flour roasting, followed by fossil fuel consumption during root transportation. Cassava peel and sieving residues used as animal feed substitutes yielded avoided emissions. Comparative analysis revealed significant differences in resource use efficiency between facilities. Scenario analysis showed that adopting CF‐I's lower‐emission transport configuration could reduce CF‐II transport emissions by 31.15%, while adopting CF‐II's metal‐pan roasting configuration could reduce roasting‐related emissions in CF‐I by 60.00% (yielding a 53.89% reduction in overall facility emissions).",
+  "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ep.70764",
+  "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ep.70764",
+  "pdf_urls": [
+   "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ep.70764",
+   "https://doi.org/10.1002/ep.70764"
+  ],
+  "oa_status": "bronze",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemasaran, rantai pasok & rantai nilai"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-28",
+  "summary_id": null,
+  "relevance": 15
+ },
+ {
   "id": "W7223564749",
   "doi": "10.25125/ijoear-oct-2026-11",
   "title": "Utilization of the Stingless Bee (Trigona sp.) as a Natural Pollinator in Rubber (Hevea brasiliensis) Agroforestry Program of PT Pertamina EP Sangatta Field, East Kalimantan, Indonesia",
