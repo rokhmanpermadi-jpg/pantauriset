@@ -1,5 +1,1540 @@
 [
  {
+  "id": "W7223860682",
+  "doi": "10.1186/s12889-026-29265-1",
+  "title": "Remotely delivered support to promote physical activity behaviour change for women aged 50 years and over: study protocol for the Active Women over 50 hybrid type I effectiveness-implementation randomised controlled trial",
+  "date": "2026-10-28",
+  "year": "2026",
+  "journal": "BMC Public Health",
+  "issn": "14712458",
+  "publisher": "BioMed Central",
+  "authors": [
+   "Geraldine Wallbank",
+   "Courtney Anne West",
+   "Abby S. Haynes",
+   "Heidi Gilchrist",
+   "Marina B. Pinheiro",
+   "Karen Lee",
+   "Leanne M. Hassett",
+   "Dominika Kwaśnicka",
+   "Jennifer N. Cartwright",
+   "Betty Ramsay",
+   "Giane Caon Camara",
+   "Susan Bowman"
+  ],
+  "abstract": "Abstract Background Physical activity has health benefits but women in midlife years often face complex challenges to regular participation and could benefit from targeted support. The pilot-tested Active Women over 50 behaviour change program, was acceptable and feasible for supporting choice-based physical activity among women aged 50 years and over. This trial aims to establish the impact of the remotely-delivered Active Women over 50 program on physical activity among women aged 50 years and over compared with a waitlist control group. Methods This hybrid type I effectiveness-implementation randomised controlled trial ( n = 1000) will be conducted among community-dwelling women aged 50 years and over across NSW Australia, half living in rural/regional areas. Participants will set two physical activity SMART goals with a health coach and then be randomised to receive the Active Women over 50 program, or to a waitlist control group. The Active Women over 50 program will include (1) two empowerment-focused telephone health coaching sessions; (2) behaviour-change messages delivered by email or SMS text as preferred; (3) program-specific website containing information, tips and strategies and inspirational peer stories; and (4) private moderated Facebook group. The control group will be waitlisted to receive the Active Women over 50 program 6 months post-randomisation. The primary outcome will be average daily steps measured with the ActiGraph accelerometer at baseline and 6-months post-randomisation. Secondary outcomes include device-measured and self-reported physical activity, falls, quality of life, action and coping planning, process and implementation and scalability measures, and health utilisation. All analyses will be pre-planned and conducted while blinded to group allocation and will consider participant and geographical characteristics. An economic analysis will estimate cost-effectiveness and cost-utility of the intervention compared to no intervention. Discussion This hybrid type 1 effectiveness-implementation trial testing a flexible, remotely-delivered behaviour change intervention designed with consumer input will establish the impact on physical activity among women aged 50 + years living across diverse geographical settings. The trial design will also collect secondary implementation, scalability and cost outcomes to provide important information to stakeholder groups such as community groups, professionals, policymakers, funding bodies. Trial registration Australian New Zealand Clinical Trials Registry, ACTRN12624000026527, https://anzctr.org.au/Trial/Registration/TrialReview.aspx?ACTRN=12624000026527 . Prospective registration date: 12 January 2024.",
+  "oa_url": "https://doi.org/10.1186/s12889-026-29265-1",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1186/s12889-026-29265-1"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-29",
+  "summary_id": null,
+  "relevance": 23
+ },
+ {
+  "id": "W7223931763",
+  "doi": "10.1186/s42408-026-00600-6",
+  "title": "Beyond the slash-and-burn narrative: evidence on forest and land fire drivers from oil palm enclaves in West Kalimantan, Indonesia",
+  "date": "2026-10-27",
+  "year": "2026",
+  "journal": "Fire Ecology",
+  "issn": "19339747",
+  "publisher": "Springer Science+Business Media",
+  "authors": [
+   "Rijal Ramdani",
+   "Agam Fatchurrochman",
+   "Eko Priyo Purnomo",
+   "Andi Muhammad Amin",
+   "Hefi Al Hifdhi",
+   "Reza Ariesca",
+   "Obed Asamoah",
+   "Susilo Nur Aji Cokro Darsono",
+   "Dian Indra Praja",
+   "Nasrulhaq Nasrulhaq",
+   "Nasrulhaq"
+  ],
+  "abstract": "Abstract Forest and land fires in Indonesia are frequently attributed to oil palm expansion and slash-and-burn land clearing, yet the social and institutional dynamics underlying fire occurrence remain insufficiently understood. This study investigates the drivers of forest and land fires through case studies of two oil palm concessions in West Kalimantan, Indonesia, with particular attention to enclave areas within concession boundaries. Data was collected through semi-structured interviews, focus group discussions, field observations, document analysis, and geographic information system (GIS) mapping of burned sites. The findings show that, across the two case-study oil palm concessions in West Kalimantan, all recorded fire events were located within enclave areas rather than company-managed oil palm plantation areas. Fires were primarily associated with slash-and-burn practices by local communities, initially for rice cultivation. Ground verification confirmed that about 1047 hectares of burned land were located in these enclaves. Post-fire analysis shows that many burned areas were later converted into smallholder oil palm plantations, reflecting the interaction between traditional land clearing and changing rural livelihood strategies. The results suggest that unclear governance arrangements surrounding enclave areas contribute to persistent fire risk in plantation landscapes. Clarifying the spatial and legal status of enclave lands, including their exclusion from concession boundaries, could improve accountability and strengthen fire management among companies, communities, and local authorities.",
+  "oa_url": "https://doi.org/10.1186/s42408-026-00600-6",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1186/s42408-026-00600-6"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Kelapa sawit",
+   "Pembangunan pedesaan & kebijakan pertanian"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-29",
+  "summary_id": {
+   "tujuan": "Menginvestigasi faktor pendorong kebakaran hutan dan lahan di sekitar perkebunan kelapa sawit, dengan fokus pada area enklave di dalam batas konsesi di Kalimantan Barat. Studi ini menantang narasi umum bahwa kebakaran terkait ekspansi sawit dan pembakaran lahan oleh perusahaan.",
+   "metode": "Studi kasus pada dua konsesi kelapa sawit di Kalimantan Barat dengan data dari wawancara semi-terstruktur, diskusi kelompok terarah (FGD), observasi lapangan, analisis dokumen, dan pemetaan GIS area terbakar. Periode pengumpulan data dan jumlah responden tidak disebutkan; analisisnya bersifat kualitatif-deskriptif dengan verifikasi lapangan.",
+   "temuan": "Seluruh titik kebakaran yang tercatat berada di area enklave, bukan di area kebun yang dikelola perusahaan, dan terutama terkait pembakaran lahan oleh masyarakat untuk penanaman padi. Verifikasi lapangan mengonfirmasi sekitar 1.047 hektare lahan terbakar di enklave, dan banyak area tersebut kemudian dikonversi menjadi kebun sawit rakyat. Temuan bersifat asosiatif dan deskriptif, sehingga tidak dapat menyimpulkan hubungan kausal secara kuantitatif.",
+   "keterbatasan": "Tidak disebutkan secara eksplisit oleh penulis. Dari desain, studi hanya mencakup dua konsesi sehingga generalisasi ke wilayah dan konsesi lain terbatas, serta jumlah responden dan periode pengamatan tidak dilaporkan.",
+   "relevansi": "Sangat relevan dengan agenda dosen pada kelembagaan petani, tata kelola lahan, dan transisi sawit rakyat di Kalimantan Tengah, khususnya status hukum enklave dan dinamika konversi lahan menjadi kebun sawit rakyat. Temuan ini dapat diuji ulang di konsesi Kalimantan Tengah, dibandingkan dengan akses pasar dan kelembagaan petani sawit swadaya.",
+   "skor": 4,
+   "model": "claude-haiku-5-5",
+   "sumber": "abstrak"
+  },
+  "relevance": 71
+ },
+ {
+  "id": "W7223830564",
+  "doi": "10.1007/s11540-026-10164-2",
+  "title": "Commercial Smallholder Potato Production in KwaZulu-Natal, South Africa: A Critical Analysis of the Vision",
+  "date": "2026-10-27",
+  "year": "2026",
+  "journal": "Potato Research",
+  "issn": "00143065",
+  "publisher": "Springer Science+Business Media",
+  "authors": [
+   "Jonathan Arentoft",
+   "Conny Almekinders"
+  ],
+  "abstract": "Abstract Commercial potato production by smallholder farmers in South Africa is promoted for income generation and more sustainable livelihoods. We describe the vision of how smallholder farmers would produce and commercialise potato, based on policy documents and R&D. We use literature and information from two field visits and key-informants interviews to identify challenges associated with the realisation of that vision in two communities in KwaZulu-Natal. We found framing and vision of the commercial smallholder potato to be narrow and overlooking the broader context of the potato value chain. While agronomic research shows that some smallholder farmers may be able to grow a profitable potato crop, we found that establishing sustainable up- and down-stream linkages face incongruencies between the smallholders and the formal value chain actors, i.e., seed companies, Municipal Fresh Produce Markets, and supermarkets. However, we noted positive experiences in seed supply and marketing initiatives. These were related with extraordinary individuals going beyond their institutionally defined roles. Also, alternatives in seed supply and market access relying on improved seed saving practices and informal market traders offer alternatives that merit to be explored. We recommend the consideration of the broader context of the potato value chain in order to arrive at a more inclusive vision of commercial smallholder potato producer.",
+  "oa_url": "https://doi.org/10.1007/s11540-026-10164-2",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1007/s11540-026-10164-2"
+  ],
+  "oa_status": "hybrid",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Akses & informasi pasar petani",
+   "Pemasaran, rantai pasok & rantai nilai"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-29",
+  "summary_id": {
+   "tujuan": "Menganalisis secara kritis visi produksi kentang komersial oleh petani kecil di KwaZulu-Natal, Afrika Selatan, serta mengidentifikasi tantangan dalam mewujudkan visi tersebut. Penelitian juga menilai apakah kerangka kebijakan sudah mempertimbangkan konteks rantai nilai kentang secara utuh.",
+   "metode": "Studi kualitatif berbasis kajian literatur, dokumen kebijakan dan hasil R&D, dua kunjungan lapangan, serta wawancara informan kunci di dua komunitas di KwaZulu-Natal. Ukuran sampel dan periode pengumpulan data tidak disebutkan, dan teknik analisis tidak dijelaskan secara rinci.",
+   "temuan": "Kerangka visi produksi kentang komersial petani kecil dinilai sempit dan mengabaikan konteks rantai nilai yang lebih luas. Meskipun riset agronomi menunjukkan sebagian petani dapat meraih keuntungan, hubungan hulu-hilir dengan perusahaan benih, pasar induk, dan supermarket mengalami ketidaselarasan. Inisiatif positif pada penyediaan benih dan pemasaran muncul terutama berkat individu yang melampaui peran kelembagaannya, sementara praktik penyimpanan benih dan pedagang informal menawarkan alternatif yang layak dikaji. Temuan bersifat deskriptif dan tidak menguji hubungan kausal.",
+   "keterbatasan": "Tidak disebutkan secara eksplisit. Dari desain, cakupan hanya dua komunitas dan data bersifat kualitatif tanpa jumlah responden yang dilaporkan, sehingga generalisasi terbatas.",
+   "relevansi": "Kajian ini relevan untuk membandingkan hambatan akses pasar dan kelembagaan petani hortikultura kecil di Indonesia, termasuk peran pedagang informal dan sistem benih lokal. Temuan tentang ketidaselarasan hulu-hilir dapat diuji ulang pada rantai nilai komoditas pangan dan hortikultura di Kalimantan Tengah.",
+   "skor": 4,
+   "model": "claude-haiku-5-5",
+   "sumber": "abstrak"
+  },
+  "relevance": 60
+ },
+ {
+  "id": "W7223848107",
+  "doi": "10.1016/j.agsy.2026.105031",
+  "title": "Why pro-environmental farming technologies diffuse unevenly across smallholder contexts: Evidence from a cross-country policy analysis",
+  "date": "2026-10-27",
+  "year": "2026",
+  "journal": "Agricultural Systems",
+  "issn": "0308521X",
+  "publisher": "Elsevier BV",
+  "authors": [
+   "Md. Sohel Rana",
+   "Subash Surendran Padmaja",
+   "Thanh-Tung Nguyen",
+   "Matin Qaim"
+  ],
+  "abstract": "CONTEXT Pro-environmental agricultural technologies often diffuse slowly among smallholder farmers, yet some are widely adopted in certain regional contexts while stalling in others. Such regional differences in adoption are poorly understood, since existing adoption studies focus primarily on farmer-level socioeconomic factors. Here, we focus on institutional and policy factors. OBJECTIVE We examine the mechanisms through which institutional support evolves and shapes diffusion outcomes for two emission- and water-saving technologies, namely alternate wetting and drying (AWD) and laser land leveling (LLL), across smallholder rice systems in Bangladesh, India, and Vietnam. In all three countries, both technologies have been promoted for decades, yet regional adoption experiences vary. METHODS We review national and state-level policies that facilitate technology-specific interventions and interview experts in all three study countries to examine the historical evolution of institutional support and technology diffusion. Using qualitative content analysis, we extract key factors and mechanisms explaining regional technology adoption patterns. RESULTS AND CONCLUSIONS We show that institutional support is critical, yet often remains limited. Moreover, technology diffusion is frequently constrained by counterproductive policy measures such as subsidized irrigation and misaligned water regulations, potentially exacerbating other socioeconomic adoption barriers and discouraging the uptake of water-saving technologies. Where technologies are embedded in explicit policy priorities—such as AWD in Vietnam's Mekong Delta and LLL in northwestern India—specific and longer-term institutional support follows, helping to overcome adoption barriers and driving widespread, sustained diffusion. Where such policy action is absent, diffusion stalls. SIGNIFICANCE Institutional support is widely recommended for accelerating the diffusion of pro-environmental technologies, yet it is costly and rarely emerges spontaneously in smallholder contexts. Here, we advance the knowledge on how such institutional support evolves, what sustains it, and how it shapes diffusion outcomes. One important factor is higher-order policy prioritization of conservation goals and technology-specific institutional commitment for widespread diffusion.",
+  "oa_url": "https://doi.org/10.1016/j.agsy.2026.105031",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1016/j.agsy.2026.105031"
+  ],
+  "oa_status": "hybrid",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Adopsi teknologi & pertanian digital"
+  ],
+  "priority_journal": true,
+  "language": "en",
+  "found_at": "2026-10-29",
+  "summary_id": null,
+  "relevance": 40
+ },
+ {
+  "id": "W7223782689",
+  "doi": "10.1111/joac.70122",
+  "title": "Feminist Agroecology and Criollo Hens: Women's Everyday Resistance in Colombia",
+  "date": "2026-10-27",
+  "year": "2026",
+  "journal": "Journal of Agrarian Change",
+  "issn": "14710358",
+  "publisher": "Wiley",
+  "authors": [
+   "Jaskiran Kaur Chohan",
+   "Arlex Angarita Leiton"
+  ],
+  "abstract": "ABSTRACT Industrial poultry technologies and processes are reshaping the knowledge, practice and agrobiodiversity of criollo ( Gallus domesticus ) or backyard hen keeping, as well as outcompeting this livelihood in formal markets. This transition undermines women's autonomy and socio‐economic resilience by engendering dependence on market inputs, including imported poultry, pharmaceutical inputs and feed. Despite the accelerated expansion of the industrial poultry sector in Colombia, criollo hen keeping persists for subsistence and informal markets. This paper asks why and how criollo hen keeping persists and how women differentially resist the industrial poultry sector and intersecting gendered power dynamics through everyday practices of care. The paper draws on a subset of nine semistructured interviews from two projects working across several regions in Colombia, which both employed participative research action and co‐produced methods. It argues that women use intergenerational networks of labour/knowledge sharing, communitarian practices and agroecological principles to build autonomy from industrial processes, ensuring socio‐economic empowerment in families and wider communities. This less visible and informal opposition to industrial poultry systems feeds into organised resistance from women farmers specifically.",
+  "oa_url": "https://doi.org/10.1111/joac.70122",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1111/joac.70122"
+  ],
+  "oa_status": "hybrid",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": true,
+  "language": "en",
+  "found_at": "2026-10-29",
+  "summary_id": null,
+  "relevance": 39
+ },
+ {
+  "id": "W7223829090",
+  "doi": "10.3389/fsufs.2026.1950275",
+  "title": "Design and validation of a measurement scale for digital transformation capabilities in agricultural settings",
+  "date": "2026-10-27",
+  "year": "2026",
+  "journal": "Frontiers in Sustainable Food Systems",
+  "issn": "2571581X",
+  "publisher": "Frontiers Media",
+  "authors": [
+   "Daniela Niño-Amézquita",
+   "Ernesto León‐Castro",
+   "Fabio Blanco‐Mesa"
+  ],
+  "abstract": "Digital transformation is essential for strengthening agri-food systems in emerging economies. However, there is a lack of validated tools to assess both the capabilities and levels of digital maturity in agricultural production units. This research validates an instrument to measure Digital Transformation (DT) capabilities and levels of digital maturity in agricultural production units (APU) in an emerging economy. The instrument encompasses six dimensions: sensing, seizing and transforming capabilities, along with the stages of digital maturity, digitization, digitalization, and digital transformation. The validation process was developed in five stages, including theoretical foundation, item development, expert review, and exploratory and confirmatory factor analyses, applied to a sample of 68 potato farmers from south-central Chile. The final instrument consists of 32 items with promising psychometric properties; reliability and validity indicators met recommended thresholds across most dimensions, with a small number of exceptions discussed in the study. The results reveal that farmers widely recognize the value of digital technology and demonstrate a willingness to invest, despite being in early stages of digitalization, with widespread use of basic tools such as smartphones and messaging applications, but with limited adoption of more advanced technologies such as precision agriculture. This gap between perceived value and actual implementation highlights the role of structural barriers in rural contexts. This instrument offers researchers and policymakers a promising, albeit preliminary, tool to assess dynamic capabilities and digital maturity at the individual farmer level, representing an initial step toward diagnostic tools for digital transformation processes in this context.",
+  "oa_url": "https://doi.org/10.3389/fsufs.2026.1950275",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.3389/fsufs.2026.1950275"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Adopsi teknologi & pertanian digital"
+  ],
+  "priority_journal": true,
+  "language": "en",
+  "found_at": "2026-10-29",
+  "summary_id": null,
+  "relevance": 38
+ },
+ {
+  "id": "W7223987106",
+  "doi": "10.1080/23311932.2026.2736899",
+  "title": "Catalyzing climate action: the role of circular bioeconomy in enhancing adaptation for smallholder farmers in Nigeria",
+  "date": "2026-10-27",
+  "year": "2026",
+  "journal": "Cogent Food & Agriculture",
+  "issn": "23311932",
+  "publisher": "Cogent OA",
+  "authors": [
+   "Adetomiwa Kolapo",
+   "Adeyera James Kolapo"
+  ],
+  "abstract": "Smallholder farmers in Nigeria face persistent challenges of low agricultural productivity, declining soil quality, climate-related risks, and limited access to financial and institutional resources, which undermine farm income and livelihood sustainability. Circular bioeconomy practices offer potential pathways for improving resource-use efficiency by promoting the recycling, reuse, and integration of biological resources within farming systems. However, empirical evidence on the intensity of circular bioeconomy implementation and its relationship with smallholder farm income remains limited. This study examines the implementation of circular bioeconomy practices and their association with annual net farm income among 480 smallholder maize farmers in Southwest Nigeria. The study considers intercropping, organic composting, and integrated crop–livestock systems. Primary cross-sectional data were analyzed using descriptive statistics, a negative binomial model, polynomial regression, and propensity-score matching as a robustness check. The findings reveal substantial heterogeneity in implementation intensity, which is influenced by household, farm, institutional, and environmental characteristics. Greater circular bioeconomy implementation is generally associated with higher annual net farm income, although the benefits of more complex practice combinations depend on farmers’ resource endowments, technical capacity, and institutional support. The study recommends targeted extension services, improved access to affordable credit, strengthened farmer organizations, and inclusive, context-specific support to promote sustainable and equitable circular bioeconomy transitions.",
+  "oa_url": "https://doi.org/10.1080/23311932.2026.2736899",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1080/23311932.2026.2736899"
+  ],
+  "oa_status": "diamond",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Kelembagaan petani & tindakan kolektif"
+  ],
+  "priority_journal": true,
+  "language": "en",
+  "found_at": "2026-10-29",
+  "summary_id": null,
+  "relevance": 35
+ },
+ {
+  "id": "W7223953825",
+  "doi": "10.3389/fsufs.2026.1936765",
+  "title": "Diversity of smallholder rice farmers’ knowledge, perceptions and management practices for soil health in the growing market and agrochemicals-led agriculture in Tanzania",
+  "date": "2026-10-27",
+  "year": "2026",
+  "journal": "Frontiers in Sustainable Food Systems",
+  "issn": "2571581X",
+  "publisher": "Frontiers Media",
+  "authors": [
+   "Gerison Saddick Stephen",
+   "Christine Noe",
+   "Lesley Green"
+  ],
+  "abstract": "Agriculture in Tanzania, as in many sub-Saharan African countries, is experiencing political-economic transformations toward intensive-input commercial farming. Despite the implications of these farming models for soil health and the long-term sustainability of agricultural landscapes, little is known about how farmers understand and respond to these changes. This paper examined farmers’ experiential knowledge, perceptions, and soil health management practices within a transforming agricultural landscape in the Kilombero valley floodplain, in Tanzania. The paper adopted a mixed-methods approach integrating both qualitative and quantitative methods. Drawing on their experiential knowledge, farmers perceived substantial changes in soil health over time. Traditional soil health indicators such as the presence or disappearance of earthworms, responsiveness of agrochemicals, soil workability, and trends of soil color, crop yield, and pest prevalence served an invaluable purpose in diagnosing soil health conditions. For many years, they relied on practices like crop rotation, intercropping, reduced tillage, and fallowing for improving soil health and dietary needs. However, in recent years, they have been increasingly switching to monocropping of high-economic value crops for income generation. Farmers perceived that the expansion of market opportunities and production incentives due to agricultural commercialisation has contributed to intensive use of agrochemicals. Consequently, they increasingly perceived these agricultural transformations as associated with soil health deterioration. The paper further revealed a substantial decline in rice production during the most recent cropping season, despite growing investments, reflecting the reconfiguration of the KVF. Overall, the paper contributes to discussions on the political ecology of agriculture and its implications for smallholder livelihoods. Profit-led agricultural interventions have undermined farmers’ long-standing adaptive strategies and are widely perceived to compromise the habitability of the KVF. Among others, this paper recommends integrating farmers’ knowledge and management practices into agricultural policies and institutional frameworks for sustainable soil health and agricultural productivity.",
+  "oa_url": "https://doi.org/10.3389/fsufs.2026.1936765",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.3389/fsufs.2026.1936765"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pembangunan pedesaan & kebijakan pertanian"
+  ],
+  "priority_journal": true,
+  "language": "en",
+  "found_at": "2026-10-29",
+  "summary_id": null,
+  "relevance": 35
+ },
+ {
+  "id": "W7223809356",
+  "doi": "10.5814/j.issn.1674-764x.2026.05.007",
+  "title": "How Does Digital Literacy Drive the Low-Carbon Production Behavior of Farmers?—An Empirical Analysis Based on an Integrated TAM-TPB Framework",
+  "date": "2026-10-27",
+  "year": "2026",
+  "journal": "Journal of Resources and Ecology",
+  "issn": "1674764X",
+  "publisher": "",
+  "authors": [
+   "Li Qianna",
+   "Tang Hongsong"
+  ],
+  "abstract": "Digital literacy serves as a core capability that enables farmers to integrate low-carbon technologies into their production practices. Clarifying the pathways through which digital literacy influences agricultural production is therefore crucial for promoting the green transformation of agriculture. Based on micro-survey data from 451 farmers in Sichuan Province, this study employed partial least squares path modeling (PLS-PM) within an integrated and expanded Technology Acceptance Model-Theory of Planned Behavior (TAM-TPB) theoretical framework to analyze the internal mechanisms through which digital information literacy affects the low-carbon production behavior of farmers. The results show three key features of this system. (1) Digital information literacy has a significant positive impact on farmers' perception of digital technology functions, low-carbon agricultural cognition, willingness to adopt digital technologies, and willingness to improve their digital literacy. Through these factors, it further exerts a positive influence on their low-carbon production behavior. (2) The results of the chain mediation tests for the “digital literacy→cognition/perception→willingness” and “cognition/perception→willingness→behavior” pathways show that low-carbon agricultural cognition partially mediates the effect of digital information literacy on willingness to improve digital literacy, while the perception of digital technology functions also plays a significant mediating role in the pathway from digital information literacy to willingness to adopt digital technologies. (3) When willingness variables serve as mediators, willingness to adopt digital technologies plays a significant mediating role in the pathway from the perception of digital technology functions to low-carbon production behavior, thereby further strengthening the driving effect of functional perception on behavioral transformation. In contrast, the mediating effect of willingness to improve digital literacy in the pathway from low-carbon agricultural cognition to low-carbon production behavior is not significant, suggesting that the transition from cognition to action relies more on external technological empowerment than on self-directed literacy improvement. This study reveals the dynamic pathway through which digital literacy influences low-carbon production behavior via a synergistic mechanism of “cognitive iteration, functional perception, and technology embedding,” thereby providing a theoretical basis for policymakers to develop digital literacy cultivation systems and optimize low-carbon technology promotion strategies.",
+  "oa_url": "https://bioone.org/journals/journal-of-resources-and-ecology/volume-17/issue-5/j.issn.1674-764x.2026.05.007/How-Does-Digital-Literacy-Drive-the-Low-Carbon-Production-Behavior/10.5814/j.issn.1674-764x.2026.05.007.pdf",
+  "pdf_url": "https://bioone.org/journals/journal-of-resources-and-ecology/volume-17/issue-5/j.issn.1674-764x.2026.05.007/How-Does-Digital-Literacy-Drive-the-Low-Carbon-Production-Behavior/10.5814/j.issn.1674-764x.2026.05.007.pdf",
+  "pdf_urls": [
+   "https://bioone.org/journals/journal-of-resources-and-ecology/volume-17/issue-5/j.issn.1674-764x.2026.05.007/How-Does-Digital-Literacy-Drive-the-Low-Carbon-Production-Behavior/10.5814/j.issn.1674-764x.2026.05.007.pdf",
+   "https://doi.org/10.5814/j.issn.1674-764x.2026.05.007"
+  ],
+  "oa_status": "hybrid",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender",
+   "Adopsi teknologi & pertanian digital"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-29",
+  "summary_id": null,
+  "relevance": 33
+ },
+ {
+  "id": "W7223846983",
+  "doi": "10.1016/j.jrurstud.2026.104451",
+  "title": "Resisting the move? Anchors of rural staying among youth and young adults in the Western Balkans",
+  "date": "2026-10-27",
+  "year": "2026",
+  "journal": "Journal of Rural Studies",
+  "issn": "07430167",
+  "publisher": "Elsevier BV",
+  "authors": [
+   "Thomas Bernhard Dufhues",
+   "Judith Möllers",
+   "Iliriana Miftari",
+   "Ana Simonovska",
+   "Desjana Grymshi",
+   "Emelj Tuna"
+  ],
+  "abstract": "Across the world, many young people are leaving rural areas in search of better opportunities, yet others resist the move and choose to stay. Understanding why some remain despite strong incentives to leave has become a central question in contemporary migration and rural studies. This study examines intentions of young people to stay in rural areas in the Western Balkans, with particular attention to psychological and emotional anchors, especially inertia and place attachment. Using survey data from 1848 individuals aged 15–40 across Albania, Bosnia and Herzegovina, Kosovo, Montenegro, North Macedonia, and Serbia, we combine hierarchical cluster analysis with age-stratified OLS regression. The cluster analysis identifies four anchoring profiles that range from symbolically attached younger respondents to occupationally anchored young adults and deeply rooted adults characterised by family, work, property, routine, and belonging. Inertia is the strongest and most consistent correlate of staying intentions across all age groups. Place attachment matters especially among younger age groups, appearing as symbolic attachment in the cluster analysis and as a meaningful predictor among respondents in their early twenties. Sunk costs and livelihood anchors, particularly paid work and property-related commitments, are more prominent among older respondents. Gender alone is not consistently associated with staying intentions, although its association varies across national contexts in some models. The findings demonstrate that rural staying is best understood through multidimensional patterns of anchoring. The paper highlights how attachment, routine, work, property, family formation, and personal dispositions combine differently across age groups to shape intentions to remain.",
+  "oa_url": "https://doi.org/10.1016/j.jrurstud.2026.104451",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1016/j.jrurstud.2026.104451"
+  ],
+  "oa_status": "hybrid",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": true,
+  "language": "en",
+  "found_at": "2026-10-29",
+  "summary_id": null,
+  "relevance": 33
+ },
+ {
+  "id": "W7223818263",
+  "doi": "10.1371/journal.pone.0360657",
+  "title": "Evaluating long-term programmatic outcomes of patients with advanced HIV disease: Insights from 12 years of antiretroviral therapy scale-up in rural KwaZulu-Natal",
+  "date": "2026-10-27",
+  "year": "2026",
+  "journal": "PLoS ONE",
+  "issn": "19326203",
+  "publisher": "Public Library of Science",
+  "authors": [
+   "Marcel K. Kitenge",
+   "Geoffrey Fatti",
+   "Chinmay Laxmeshwar",
+   "Patrick DMC Katoto",
+   "Peter Suwirakwenda Nyasulu"
+  ],
+  "abstract": "Background Advanced HIV disease (AHD) remains a significant public health challenge, despite the widespread scale-up of antiretroviral therapy (ART) in South Africa. Understanding long-term treatment outcomes among patients with AHD under routine programmatic conditions is critical. However, there is a paucity of longitudinal data on clinical outcomes in this population, particularly within high-HIV prevalence rural settings. This study evaluated retention in care and virological outcomes among patients initiating ART with AHD in rural KwaZulu-Natal between 2008 and 2020. Methods We conducted a retrospective cohort study using routine data from 10 public health facilities. Adults (≥18 years) with CD4 < 200 cells/μL or WHO stage 3/4 who initiated ART between January 1, 2008, and December 31, 2020, were included. Primary outcomes were retention in care at 6, 12, 24, 36, and 48 months. Secondary outcomes included viral load (VL) completion and suppression (<1000 copies/μL). Competing risk regression and Poisson regression models were used to identify factors associated with loss to follow-up (LTFU) and virological suppression. Results Of 40,432 individuals who initiated ART between 2008 and 2020, 9,608 met the criteria for AHD. Retention in care was 98%, 94%, 89%, and 85% at 12, 24, 36, and 48 months, respectively. Men (adjusted subdistribution hazard ratio [aSHR]: 1.35; 95% confidence interval [CI]: 1.23–1.47) and individuals with CD4 counts <100 cells/µL (aSHR: 1.13; 95% CI: 1.08–1.26) had a higher risk of loss to follow-up. Although viral load (VL) completion declined over time (49.3% at 6 months to 31.5% at 48 months), suppression remained above 83% among those with available VL data. Undetectable VL increased from 25.5% to 33.0% between 12 and 48 months. Patients initiating ART during the Universal Test and Treat (UTT) era (2016–2020) had higher retention (78.8%) than those treated between 2012–2015 (62.8%) and higher viral load (VL) suppression (risk ratio [RR]: 1.13; 95% CI: 1.01–1.28) compared with the 2008–2011 cohort. Women (RR 1.18; 95% CI: 1.11–1.25) and those initiating ART within 7 days (RR 1.30; 95% CI: 1.04–1.38) were more likely to achieve virological suppression at any time point. Conclusion This study demonstrates high retention and virological suppression rates among patients with AHD in rural South Africa, particularly under the UTT strategy. Despite these successes, VL testing uptake remains suboptimal, and a considerable gap persists in achieving undetectable VL levels. Integrating the WHO AHD care package and prioritizing early ART initiation and male-focused interventions may further improve outcomes and support efforts to end the HIV epidemic.",
+  "oa_url": "https://doi.org/10.1371/journal.pone.0360657",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1371/journal.pone.0360657"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": true,
+  "language": "en",
+  "found_at": "2026-10-29",
+  "summary_id": null,
+  "relevance": 32
+ },
+ {
+  "id": "W7223880611",
+  "doi": "10.1002/hsr2.73452",
+  "title": "The Temporal Evolution of Digital Learning: A Longitudinal Quasi‐Experimental Study of Web‐Based Versus Conventional SRH Education Among Adolescents",
+  "date": "2026-10-27",
+  "year": "2026",
+  "journal": "Health Science Reports",
+  "issn": "23988835",
+  "publisher": "Wiley",
+  "authors": [
+   "Md Mizanur Rahman",
+   "Gerraint Gillan Ahi",
+   "Rafazila Ramli",
+   "Rasitasam Safii",
+   "Jacey-Lynn Minoi",
+   "Stephanie Chua",
+   "Ahmad Sofian Shminan",
+   "Lee Jun Choi"
+  ],
+  "abstract": "ABSTRACT Background Adolescents in rural indigenous communities often lack culturally appropriate sexual and reproductive health (SRH) education. This study compared the short‐term effectiveness of a web‐based SRH intervention versus conventional face‐to‐face education among 260 rural Bidayuh adolescents aged 16–19 in Sarawak. Methods Using a non‐randomized, two‐district quasi‐experimental design (one district assigned to each arm to minimize contamination), knowledge was assessed via a validated questionnaire at baseline, 1 month, and 3 months. All 260 enrolled participants were analyzed under an intention‐to‐treat approach using a repeated‐measures ANCOVA (arm × gender × time); 15 participants (5.8%) were lost to follow‐up by 3 months. Results Knowledge scores did not differ between arms at baseline or 1 month, but diverged significantly by 3 months, favoring the web‐based arm (68.12% vs. 59.13%; adjusted difference = −8.67 percentage points, 95% CI = [−12.61 to −4.74] (conventional minus web‐based; the web‐based arm scored higher), p < 0.001), reflected in a significant Arm × Time interaction, F (2, 747) = 7.47, p = 0.001. This advantage was numerically larger among females ( Δ = −11.48, p < 0.001) than males ( Δ = −5.87, p = 0.050), though the three‐way interaction did not reach conventional significance ( p = 0.053). Sensitivity analyses (per‐protocol; multiple imputation) produced consistent estimates. Discussion Knowledge retention over 3 months was better in the web‐based arm, with a numerically larger effect among females. These findings may be associated with digital SRH education promoting longer‐lasting knowledge among rural indigenous adolescents, but should be interpreted cautiously given the non‐randomized, two‐cluster design, which cannot fully separate intervention effects from district‐level differences. Conclusion Self‐regulated digital platforms may be a promising addition to school‐ and community‐based SRH programs in conservative rural settings, alongside strategies to promote engagement and reinforcement, pending confirmation in a randomized, multi‐site trial.",
+  "oa_url": "https://doi.org/10.1002/hsr2.73452",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1002/hsr2.73452"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-29",
+  "summary_id": null,
+  "relevance": 32
+ },
+ {
+  "id": "W7223899378",
+  "doi": "10.1371/journal.pone.0352920",
+  "title": "Factors associated with the optimal uptake of intermittent preventive treatment in pregnancy with sulfadoxine–pyrimethamine: The experiences of postpartum women attending child welfare clinics in three rural districts in the Western Region of Ghana",
+  "date": "2026-10-27",
+  "year": "2026",
+  "journal": "PLoS ONE",
+  "issn": "19326203",
+  "publisher": "Public Library of Science",
+  "authors": [
+   "Gifty Amugi",
+   "Daniel Tetteh Agudey",
+   "Nana Mireku Gyimah",
+   "Pius Mensah",
+   "Isaac Kwarkye",
+   "Gabriel Yelkoang Gozie Yengliereh",
+   "Kofi Jean Claude",
+   "Bryony Brookman-Eshun",
+   "Sylvester Chinbuah"
+  ],
+  "abstract": "Background Intermittent preventive treatment in pregnancy with sulfadoxine–pyrimethamine (IPTp-SP) is a key preventive strategy. However, optimal uptake remains inconsistent despite high antenatal care (ANC) attendance. This study assessed factors associated with optimal IPTp-SP uptake and explored the experiences of postpartum women in rural Ghana. Methods A convergent parallel mixed-method study was conducted among 1,155 postpartum women attending child welfare clinics in Jomoro, Prestea-Huni Valley and Ellembelle districts of the Western Region of Ghana. Quantitative data were collected using structured questionnaires and analysed using descriptive statistics and chi-square tests. Qualitative data from in-depth interviews and focus group discussions were analysed thematically to explore women’s experiences and perceptions. Results Among the 1,155 women enrolled, 812 (70.3%) took three or more doses of IPTp-SP (IPTp3-SP). Knowledge of malaria in pregnancy was high, with 92.7% correctly identifying its mode of transmission and 91.7% identifying ways of preventing malaria during pregnancy. Factors independently associated with IPTp3-SP included age 10–19 years compared with 20–29 years (aOR 2.17, 95% CI 1.21–3.88), gravidity of three compared with one (aOR 2.67, 95% CI: 1.58–4.50), and gravidity of four compared with one (aOR 1.83, 95% CI: 1.02–3.28). Lower odds were observed among uninsured women (aOR 0.36, 95% CI: 0.20–0.64), single women (aOR 0.64, 95% CI: 0.42–0.97), and cohabiting women (aOR 0.52, 95% CI: 0.34–0.79). ANC attendance showed a strong association with IPTp3-SP: women attending <4 ANC visits had lower odds of receiving IPTp3-SP than those attending 10 or more visits (aOR 0.08, 95% CI: 0.04–0.15). Nausea, dizziness, weakness, abdominal discomfort, vomiting and difficulty chewing the tablets affected their experiences and, for some women, willingness to continue treatment. Conclusions IPTp-SP uptake was relatively high. Predictors of optimal uptake include age, education, marital status, gravidity, health insurance status, and number of ANC visits. Women with fewer ANC visits were less likely to receive three or more doses. Reported side effects posed barriers to adherence. Strengthening ANC attendance and counselling on IPTp-SP expected side effects may improve completion of recommended doses.",
+  "oa_url": "https://doi.org/10.1371/journal.pone.0352920",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1371/journal.pone.0352920"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": true,
+  "language": "en",
+  "found_at": "2026-10-29",
+  "summary_id": null,
+  "relevance": 32
+ },
+ {
+  "id": "W7223906342",
+  "doi": "10.1371/journal.pone.0348937",
+  "title": "Older adults’ perceived capabilities for an active lifestyle in a rural german municipality: A cross-sectional study",
+  "date": "2026-10-27",
+  "year": "2026",
+  "journal": "PLoS ONE",
+  "issn": "19326203",
+  "publisher": "Public Library of Science",
+  "authors": [
+   "Sascha Eickmann",
+   "Alexandra Sauter",
+   "Zeineb Sassi",
+   "Patricia Vu-Eickmann",
+   "Dominik Morlok",
+   "Christine Bernardi",
+   "Lisa Boyer",
+   "Victoria Koschemann",
+   "Andrea Weber",
+   "Anne Herrmann",
+   "Thomas Okon"
+  ],
+  "abstract": "Background Physical activity (PA) is essential for healthy ageing, yet older adults in rural areas face particular constraints. This study applied Amartya Sen’s Capability Approach to examine how older adults in a rural German municipality perceive their opportunities for an active lifestyle and to identify factors associated with high PA engagement. Methods A cross-sectional total population survey was conducted in a rural municipality in Bavaria, Germany. All residents aged ≥60 years (N = 593) were invited by post. Perceived capabilities were assessed using an instrument grounded in the Capability Approach. High PA engagement was defined as being physically active for at least 30 minutes on ≥4 days per week. Multivariable logistic regression was used to identify associated factors; multiple imputation by chained equations was used as a sensitivity analysis. Results The response rate was 33.0% (N = 196); 166 respondents (84.7%) had complete data for the primary model. Mean age was 69.5 years (SD 7.6); 49.0% were men. Most participants (58.8%) rated their health as good, and 23.5% met the threshold for high PA engagement. Mean daily sedentary time was 6.12 hours (SD 3.37), higher in men than in women (6.64 vs 5.61 hours, p = 0.043). In the multivariable model, fewer perceived environmental opportunities were independently associated with lower odds of high PA engagement (OR 0.59 per SD, 95% CI 0.37–0.95), and poorer self-rated health showed a comparable association that did not reach conventional significance (OR 0.65 per SD, 95% CI 0.41–1.02). Under multiple imputation the association with poorer self-rated health was statistically significant (OR 0.60, 95% CI 0.38–0.94), as was male sex (OR 0.44, 95% CI 0.20–0.95), whereas the association with perceived environmental opportunities was no longer significant (OR 0.67, 95% CI 0.43–1.03). Age and social support were not associated with PA engagement. Living alone was associated with markedly lower perceived capabilities across several domains. Conclusions Perceived environmental opportunities and health status, rather than information or social support, distinguished more from less active older adults in this rural setting. Capability-enhancing interventions should prioritise the built environment and should give particular attention to older adults living alone. Community-Based Participatory Research may help match provision to the capability sets of rural residents.",
+  "oa_url": "https://doi.org/10.1371/journal.pone.0348937",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1371/journal.pone.0348937"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": true,
+  "language": "en",
+  "found_at": "2026-10-29",
+  "summary_id": null,
+  "relevance": 32
+ },
+ {
+  "id": "W7223942950",
+  "doi": "10.3389/fclim.2026.1934199",
+  "title": "Beyond vulnerability: a review of gendered resilience, Paris agreement and rural farmers’ adaptation",
+  "date": "2026-10-27",
+  "year": "2026",
+  "journal": "Frontiers in Climate",
+  "issn": "26249553",
+  "publisher": "Frontiers Media",
+  "authors": [
+   "Tendai Maparara",
+   "Wendy Mutsa Chiota",
+   "Tendai Madanzi",
+   "Raymond Mugandani",
+   "Paramu Mafongoya"
+  ],
+  "abstract": "Introduction Climate change impacts are not gender-neutral, yet standard reporting relies on aggregate household indicators that obscure intra-household power dynamics and diverse individual vulnerabilities. This review assesses gender-differentiated climate resilience in rural farming households and evaluates the extent to which empirical evidence aligns with the gender-responsive, participatory and transparent mandates of the Paris Agreement. Methods Peer-reviewed studies published between 2015 and 2025 were retrieved from Scopus, Web of Science, AJOL and Google Scholar following PRISMA guidelines. A total of 117 eligible studies were screened and analysed thematically using a hybrid inductive–deductive approach in R. Methodological quality was appraised using the Mixed Methods Appraisal Tool (MMAT), and evidence coverage was characterised using GRADE-CERQual adequacy criteria. Policy alignment was mapped against Articles 2.1b, 7.1, 7.5, 11 and 13. Results Eight interrelated resilience domains were identified: livelihood, water, food, ecological, social, community, agricultural and economic. The review reveals a significant implementation gap between the Paris Agreement and ground-level reality. While Articles 7.5, 11 and 13 emphasise equity and participation, resilience is often achieved through paradoxes of depletion. We propose the Gendered Resilience Paradox Framework (GRPF), a novel theoretical model encompassing resilience as a distributive process rather than a neutral capacity. The framework identifies five interlocking mechanisms—workload-resilience, biological buffer, mobility-stability, restoration-marginalisation and hydrological time-poverty—through which household resilience is achieved via the systematic transfer of adaptation costs onto women’s bodies, time and agency. These paradoxes form a self-reinforcing Depletion Cycle, creating a resilience debt that may compound intergenerationally. A co-occurrence network (n = 117) shows that workload-resilience is the most frequently documented paradox (53.0%) and reveals that embodied paradoxes remain the least studied. Articles 2.1b and 7.1 show partial alignment; Articles 7.5, 11 and 13 show misalignment. Men also face climate-related hardships, including psychosocial stress, migration-induced vulnerabilities and systemic exclusion from aid. Discussion Resilience achieved through depletion is not resilience but a debt. Closing the implementation gap requires distributional indicators, time-releasing infrastructure, secure land tenure, and bundled interventions that address multiple paradoxes simultaneously. Systematic review registration Open Science Framework (OSF https://doi.org/10.17605/OSF.IO/WFR7Q ).",
+  "oa_url": "https://www.frontiersin.org/journals/climate/articles/10.3389/fclim.2026.1934199/pdf",
+  "pdf_url": "https://www.frontiersin.org/journals/climate/articles/10.3389/fclim.2026.1934199/pdf",
+  "pdf_urls": [
+   "https://www.frontiersin.org/journals/climate/articles/10.3389/fclim.2026.1934199/pdf",
+   "https://doi.org/10.3389/fclim.2026.1934199"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-29",
+  "summary_id": null,
+  "relevance": 31
+ },
+ {
+  "id": "W7223938164",
+  "doi": "10.14719/pst.16499",
+  "title": "Bayesian neural network for plant disease detection: A role of prior knowledge in data-scarce agricultural systems",
+  "date": "2026-10-27",
+  "year": "2026",
+  "journal": "Plant Science Today",
+  "issn": "23481900",
+  "publisher": "",
+  "authors": [
+   "A Tharshiniremila",
+   "R Vasanthi",
+   "R. Pangayar Selvi",
+   "M Kalpana",
+   "Chandrasekaran Indu Rani"
+  ],
+  "abstract": "Plant diseases are a major threat to global food security, causing an estimated annual economic loss of approximately USD 220 billion. Even though deep learning models excel at image-based disease detection, the requirement for many labelled images with a quantitative prediction uncertainty can be problematic in real-world agricultural applications. Bayesian neural networks (BNNs) overcome these limitations by incorporating prior knowledge from plant pathology, symptom morphology and environmental factors within a probabilistic learning framework. This approach not only improves prediction accuracy but also yields calibrated uncertainty estimates alongside each prediction. This review synthesises recent studies on BNNs, focusing on domain-knowledge, data-driven and functional priors for plant disease detection. The evidence gained from the studies reviewed indicates that BNNs consistently outperform deterministic models, especially in low-data regimes, as may be the case for smallholder farming characterised by heterogeneous environments and limited annotation resources. The review also highlights challenges related to computational complexity, prior selection and edge deployment, while outlining future research opportunities for robust agricultural artificial intelligence (AI) systems.",
+  "oa_url": "https://doi.org/10.14719/pst.16499",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.14719/pst.16499"
+  ],
+  "oa_status": "diamond",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Ketahanan pangan rumah tangga"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-29",
+  "summary_id": null,
+  "relevance": 29
+ },
+ {
+  "id": "W7224011699",
+  "doi": "10.3389/fsufs.2026.1962078",
+  "title": "Coupling coordination of urban–rural integration and county prosperity industries: identifying obstacle factors using empirical data from 135 counties in Hebei Province, China",
+  "date": "2026-10-27",
+  "year": "2026",
+  "journal": "Frontiers in Sustainable Food Systems",
+  "issn": "2571581X",
+  "publisher": "Frontiers Media",
+  "authors": [
+   "Sai Huang",
+   "Ying Wang",
+   "Lixia Jia",
+   "Ning Cai",
+   "Weijun Wang",
+   "Dan Shang"
+  ],
+  "abstract": "Background County prosperity industries and urban–rural integration are two coupled systems that jointly shape high-quality rural development. This paper examines how well these two systems coordinate across Hebei’s 135 counties (cities and districts) from 2014 to 2024. Methods We pair the coupling coordination degree model with Dagum Gini decomposition, obstacle degree diagnosis, and a two-way fixed-effects panel regression with city-level clustered standard errors. Results The coupling coordination degree rose from 0.439 in 2014 to 0.510 in 2024, shifting from the verge of imbalance to barely coordinated, with a clear upward break in 2020. Regional gaps narrowed through latecomer catch-up rather than a slowdown in leading zones. The overall Gini coefficient fell from 0.074 to 0.049, with between-group differences as the main source. The obstacle structure barely changed: vegetable output, agricultural chain extension, fiscal revenue, and road density led the ranking throughout. In the panel regression, all four were positively associated with the coupling coordination degree, vegetable output most strongly, while general public budget revenue had no independent effect once county and year fixed effects were absorbed. Discussion The findings call for zone-specific policies rather than uniform transfers: the coastal zone should deepen processing and cold-chain logistics, the core zone should tighten Beijing–Tianjin supply-chain links, the central-southern zone should build vegetable processing clusters, and the NW ecological zone should expand ecological compensation and ecotourism. More broadly, in a large agricultural province, the persistent obstacle is not output scale but chain depth and factor connectivity.",
+  "oa_url": "https://doi.org/10.3389/fsufs.2026.1962078",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.3389/fsufs.2026.1962078"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemasaran, rantai pasok & rantai nilai"
+  ],
+  "priority_journal": true,
+  "language": "en",
+  "found_at": "2026-10-29",
+  "summary_id": null,
+  "relevance": 28
+ },
+ {
+  "id": "W7223976714",
+  "doi": "10.3389/fpsyg.2026.1840642",
+  "title": "Social stigmatization and gender inequality in education: evidence from rural Pakistan",
+  "date": "2026-10-27",
+  "year": "2026",
+  "journal": "Frontiers in Psychology",
+  "issn": "16641078",
+  "publisher": "Frontiers Media",
+  "authors": [
+   "Zawar Hussain",
+   "Cai Chenmei",
+   "Ning Zhijun",
+   "Nazia Hassan",
+   "Muhammad Iqbal"
+  ],
+  "abstract": "Gender inequality in higher education remains a concern in rural Pakistan, where women’s education opportunities are shaped by social expectations concerning mobility, family responsibilities, and appropriate gender roles. This study examined how social stigmatization associated with staying at home and performing domestic roles is experienced by rural females and how public and self-stigma relate to their participation in higher education. A qualitative descriptive phenomenological design was employed. Data were collected by semi-structured interviews from 30 participants in rural Pakistan, including eight female students and nine female family members, and 13 male family and community members. Thematic analysis identified four interrelated themes: restricted mobility and chaperonage, conditional educational and career aspirations, internalized domestic identity, and protectionist concerns surrounding coeducation. The findings indicate that female education was generally valued, but support was often conditional on family approval, proximity to home, supervision, and conformity with socially accepted roles as daughters, wives, and mothers. Public stigma was reflected in shared expectations that restricted women’s mobility, educational location, and career choices. While self-stigma through self-censorship became apparent when some female students anticipated these judgments and adjusted their educational aspirations accordingly. These findings suggest that educational inequality in the setting examined is associated not only with material and institutional barriers but also with social judgments and their internalization. By applying a stigma perspective, the study provides a context-specific account of how public stigma, self-stigma, and self-censorship may interact with gendered expectations to narrow higher education opportunities for rural females.",
+  "oa_url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1840642/pdf",
+  "pdf_url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1840642/pdf",
+  "pdf_urls": [
+   "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1840642/pdf",
+   "https://doi.org/10.3389/fpsyg.2026.1840642"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-29",
+  "summary_id": null,
+  "relevance": 26
+ },
+ {
+  "id": "W7223894463",
+  "doi": "10.5814/j.issn.1674-764x.2026.05.015",
+  "title": "Administrative Empowerment and Agricultural Crowding-Out: The Effect of County-To-City Upgrading on Grain Production in China",
+  "date": "2026-10-27",
+  "year": "2026",
+  "journal": "Journal of Resources and Ecology",
+  "issn": "1674764X",
+  "publisher": "",
+  "authors": [
+   "Lan Fang",
+   "Luping Li",
+   "Wenzhe Liu",
+   "Xiuqing Li"
+  ],
+  "abstract": "How administrative-division adjustments influence agricultural production constitutes a vital issue to unpack the linkage between county-level urbanization and food security across China. This paper treats China's new round of county-to-city upgrading (CCU policy) as a quasi-natural experiment and uses county-level panel data from 2000 to 2022 to examine its effect on total grain production through a staggered difference-in-differences approach. The results show that CCU policy significantly increases county-level total grain output. This finding indicates that administrative upgrading does not simply crowd out agricultural production; instead, it may promote grain production through administrative empowerment. Mechanism analysis shows that CCU policy works mainly through three channels: improving agricultural production conditions, optimizing county-level factor allocation, and promoting the transformation of agricultural operations. Further analysis shows that the production-enhancing effect of CCU policy is accompanied by an increase in fertilizer input in the long run, suggesting that grain output growth may exhibit input-intensification characteristics and generate pressure on green agricultural production. Heterogeneity analysis indicates that the positive effect of CCU policy on total grain output is more pronounced in counties with higher terrain ruggedness, in non-major grain-producing areas, and in counties with stronger economic foundations. From the perspective of administrative empowerment, this study extends the literature on the agricultural consequences of county-level urbanization and provides empirical evidence for coordinating administrative division adjustment, grain production capacity, and green agricultural transformation.",
+  "oa_url": "https://bioone.org/journals/journal-of-resources-and-ecology/volume-17/issue-5/j.issn.1674-764x.2026.05.015/Administrative-Empowerment-and-Agricultural-Crowding-Out--The-Effect-of/10.5814/j.issn.1674-764x.2026.05.015.pdf",
+  "pdf_url": "https://bioone.org/journals/journal-of-resources-and-ecology/volume-17/issue-5/j.issn.1674-764x.2026.05.015/Administrative-Empowerment-and-Agricultural-Crowding-Out--The-Effect-of/10.5814/j.issn.1674-764x.2026.05.015.pdf",
+  "pdf_urls": [
+   "https://bioone.org/journals/journal-of-resources-and-ecology/volume-17/issue-5/j.issn.1674-764x.2026.05.015/Administrative-Empowerment-and-Agricultural-Crowding-Out--The-Effect-of/10.5814/j.issn.1674-764x.2026.05.015.pdf",
+   "https://doi.org/10.5814/j.issn.1674-764x.2026.05.015"
+  ],
+  "oa_status": "hybrid",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-29",
+  "summary_id": null,
+  "relevance": 25
+ },
+ {
+  "id": "W7223884532",
+  "doi": "10.47852/bonviewglce620210202",
+  "title": "Bibliometric Analysis of Climate Change and Agritourism Sustainability in Rural Destinations",
+  "date": "2026-10-27",
+  "year": "2026",
+  "journal": "Green and Low-Carbon Economy",
+  "issn": "29723787",
+  "publisher": "",
+  "authors": [
+   "Ninh Van Nguyen",
+   "Tran Van Tam"
+  ],
+  "abstract": "Rural agritourism is increasingly studied in the context of climate change and sustainability. However, less attention has been paid to how it might assist local communities under pressure from climate. The research literature spans a range of topics related to tourism, agricultural adaptation, rural development and sustainability. This study examines the research structure to show how the field has developed and what topics still need more attention. Data covered publications from 1987 to 2025 and were collected on 25 December 2025. The search retrieved 216 documents from Scopus and 183 from Web of Science. After removing duplicates and one retracted document, a total of 281 documents were obtained. The study used performance analysis together with three mapping techniques. These included author co-citation, keyword co-occurrence and strategic thematic mapping. A total of 226 documents were published after 2017. They represented 80.4% of the dataset. Rural tourism and climate change became the main themes. The co-citation results identified four intellectual foundations. Tourism development and agricultural adaptation formed two foundations, whereas institutional support and climate-tourism sustainability shaped the remaining two. The keyword network highlighted farm vulnerability and tourism sustainability. Management and destination adaptation were also prominent. Basic themes offer a general framework of the field, and rural tourism and climate change are the core references. Motor themes are agricultural risks and land-use effects. Their position shows an active research direction. Specialized management and adaptation remain niche themes. Low-centrality themes such as place attachment and smallholder views have limited connections with the wider thematic structure. Future studies should examine adaptive governance across climate zones. Smallholder responses to climate stress also require attention. The role of place attachment in rural adaptation should be explored. Received: 28 April 2026 | Revised: 30 August 2026 | Accepted: 25 September 2026 Conflicts of Interest The authors declare that they have no conflicts of interest to this work. Data Availability Statement The data used in this study were retrieved from the Scopus and WoS databases and are available at https://data.mendeley.com/preview/mmw9793p9c?a=5c2a417c-432a-4df9-b9b d-c30818e. The dataset supporting Table A5 is available in the Mendeley Data repository at https://data.mendeley.com/datasets/ mmw9793p9c/1. Author Contribution Statement Ninh Van Nguyen: Conceptualization, Methodology, Software, Validation, Formal analysis, Investigation, Resources, Data curation, Writing – original draft, Writing – review & editing, Visualization, Project administration. Tran Van Tam: Writing – original draft, Writing – review & editing.",
+  "oa_url": "https://doi.org/10.47852/bonviewglce620210202",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.47852/bonviewglce620210202"
+  ],
+  "oa_status": "diamond",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pembangunan pedesaan & kebijakan pertanian"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-29",
+  "summary_id": null,
+  "relevance": 24
+ },
+ {
+  "id": "W7223786936",
+  "doi": "10.3390/su182110922",
+  "title": "Agricultural New Quality Productive Forces and Green High-Quality Development of China’s Apple Industry: Evidence from Double Machine Learning",
+  "date": "2026-10-27",
+  "year": "2026",
+  "journal": "Sustainability",
+  "issn": "20711050",
+  "publisher": "Multidisciplinary Digital Publishing Institute",
+  "authors": [
+   "袁甜",
+   "王聪聪",
+   "王俊芹"
+  ],
+  "abstract": "Green high-quality development (GHD) is essential for transforming China’s apple industry from extensive to sustainable production. As a core embodiment of green productivity, agricultural new quality productive forces (ANQPFs)—characterized by high technology, efficiency, and quality—offer a new pathway for overcoming resource and environmental constraints in the sector. Using a balanced panel of 31 Chinese provinces from 2011 to 2023, this study estimates the effect of ANQPFs on the GHD of the apple industry with a partially linear double/debiased machine learning (DML) model that combines cross fitting with random forest learners. ANQPFs are measured by the entropy-weighted TOPSIS (Technique for Order of Preference by Similarity to Ideal Solution) method across three dimensions: new agricultural laborers, new means of labor, and new objects of labor. The results show that ANQPFs significantly promote GHD in the apple industry, and this finding is robust to winsorization tests, alternative base learners, and an instrumental variable specification (DDML-IV). Mechanism analysis identifies two indirect channels—agricultural green innovation and agricultural socialized services. Heterogeneity analyses show that this empowering effect is concentrated in eastern regions and high-urbanization provinces. Policy implications include locally tailored ANQPF cultivation, stronger green technology R&D, and expanded socialized service provision in lagging apple-producing regions.",
+  "oa_url": "https://doi.org/10.3390/su182110922",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.3390/su182110922"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": true,
+  "language": "en",
+  "found_at": "2026-10-29",
+  "summary_id": null,
+  "relevance": 23
+ },
+ {
+  "id": "W7223934126",
+  "doi": "10.5814/j.issn.1674-764x.2026.05.014",
+  "title": "Impact of Non-Agricultural Employment on the Income of Rural Reservoir Resettlers in the Context of County Urbanization—Based on the Survey Data of Qiaojia County, Baihetan Reservoir Area, China",
+  "date": "2026-10-27",
+  "year": "2026",
+  "journal": "Journal of Resources and Ecology",
+  "issn": "1674764X",
+  "publisher": "",
+  "authors": [
+   "陈绍鹏",
+   "Yuefang Duan",
+   "Zeng Yan",
+   "Changxu Wang",
+   "Qiang Wang",
+   "Yanni Hu"
+  ],
+  "abstract": "After reservoir resettlers moved into county towns, they were no longer allocated land, making it difficult to continue their agricultural production, so they had to seek employment in non-agricultural industries. Without employment, there will be no stable income, and the basic livelihood of reservoir resettlers cannot be guaranteed. In this study, we explore the impact of non-agricultural employment on the income of reservoir resettlers in the context of county urbanization, and propose targeted policy recommendations to provide references for the later-stage support of reservoir resettlers. First, we collect questionnaire data from 618 samples in Qiaojia County, Baihetan Reservoir Area. Based on that, the average treatment effects of non-agricultural employment and its different types on the income of reservoir resettlers are examined using propensity score matching. In addition, we analyze the impact of non-agricultural employment on the income of reservoir resettlers in different groups. The study shows that (1) the average treatment effect of non-agricultural employment is 29580 yuan, indicating a significant income-increasing effect of non-agricultural employment. (2) In terms of different non-agricultural employment types, the average treatment effect of local employment is 14680 yuan, the average treatment effect of migration employment is 32360 yuan, and the average treatment effect of non-agricultural business is 41090 yuan. Compared with local employment, migration employment has a greater income-increasing effect; compared with local employment or migration employment, non-agricultural business has a greater income-increasing effect. (3) Regarding gender differences, non-agricultural employment will increase the income of male reservoir resettlers by 33420 yuan, with a higher increase than that of female reservoir resettlers. (4) In terms of generation differences, non-agricultural employment will increase the income of the new generation of reservoir resettlers by 31640 yuan, with a higher increase than the old generation of reservoir resettlers. Therefore, it's necessary to increase the proportion of non-agricultural employment, vigorously develop the county economy, provide excellent labor export services, improve the county business environment, promote policy improvement and efficiency enhancement, and help reservoir resettlers better achieve non-agricultural employment and increase income.",
+  "oa_url": "https://bioone.org/journals/journal-of-resources-and-ecology/volume-17/issue-5/j.issn.1674-764x.2026.05.014/Impact-of-Non-Agricultural-Employment-on-the-Income-of-Rural/10.5814/j.issn.1674-764x.2026.05.014.pdf",
+  "pdf_url": "https://bioone.org/journals/journal-of-resources-and-ecology/volume-17/issue-5/j.issn.1674-764x.2026.05.014/Impact-of-Non-Agricultural-Employment-on-the-Income-of-Rural/10.5814/j.issn.1674-764x.2026.05.014.pdf",
+  "pdf_urls": [
+   "https://bioone.org/journals/journal-of-resources-and-ecology/volume-17/issue-5/j.issn.1674-764x.2026.05.014/Impact-of-Non-Agricultural-Employment-on-the-Income-of-Rural/10.5814/j.issn.1674-764x.2026.05.014.pdf",
+   "https://doi.org/10.5814/j.issn.1674-764x.2026.05.014"
+  ],
+  "oa_status": "hybrid",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-29",
+  "summary_id": null,
+  "relevance": 21
+ },
+ {
+  "id": "W7223964531",
+  "doi": "10.1177/09720634261497877",
+  "title": "Public Spending and Welfare Schemes for Nutrition and Their Impact on Reduction of Child Malnutrition in India: An Analysis",
+  "date": "2026-10-27",
+  "year": "2026",
+  "journal": "Journal of Health Management",
+  "issn": "09720634",
+  "publisher": "SAGE Publishing",
+  "authors": [
+   "Priya Ranjan",
+   "Prasant Kumar Panda"
+  ],
+  "abstract": "Child malnutrition poses a significant challenge in India, impacting both the physical and mental development of children and giving rise to socio-economic difficulties. This study seeks to investigate the prevalence of malnutrition, disparities across regions and social strata, trends of state-wise allocation of resources under nutritional schemes and their impact on malnutrition among children under the age of five. The study utilises secondary data from state budget documents and the National Family Health Survey for various rounds spanning from 1997–1998 to 2021–2022. The study employs scatterplots and multiple linear regression models within a cross-sectional framework for analysing data. The findings reveal that there are improvements in nutritional status among children in Indian states over the period of time. However, malnutrition rates among children in Bihar, Gujarat, Chhattisgarh, Jharkhand, Madhya Pradesh and Karnataka are still higher, and they need immediate attention. Rural areas, in particular, register higher proportions of stunting, wasting and underweight among children. The expenditure on nutrition-related schemes is rising over the period. Though the share of state expenditure on nutrition as a percentage of gross state domestic product in low-income states (LIS) is higher than the same in high-income states (HIS) in recent years, state-level per capita expenditure on nutrition is higher in HIS than in LIS throughout the period. State-level per capita allocation for Integrated Child Development Services (ICDS) and the Poshan Abhiyan scheme are found to play an important role in reducing stunting, wasting and underweight. Specifically, a 1% rise in per capita ICDS allocation to a state significantly reduces underweight prevalence by 0.04% among children under five. Similarly, an increase in per capita Poshan Abhiyan expenditure by 1% is associated with declines in stunting by 0.02% and underweight by 0.04%. There is a need to increase government spending on nutrition-related schemes, make the schemes well-targeted and prioritise integrated health and nutrition strategies in social welfare schemes for the reduction of child malnutrition in India. Measures on effective utilisation of schemes, creating awareness on various schemes for nutrition and improving women’s education are required to sustainably reduce child malnutrition in India.",
+  "oa_url": "https://journals.sagepub.com/doi/pdf/10.1177/09720634261497877?download=true",
+  "pdf_url": "https://journals.sagepub.com/doi/pdf/10.1177/09720634261497877?download=true",
+  "pdf_urls": [
+   "https://journals.sagepub.com/doi/pdf/10.1177/09720634261497877?download=true",
+   "https://doi.org/10.1177/09720634261497877"
+  ],
+  "oa_status": "bronze",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-29",
+  "summary_id": null,
+  "relevance": 19
+ },
+ {
+  "id": "W7224001678",
+  "doi": "10.5814/j.issn.1674-764x.2026.05.016",
+  "title": "Spatiotemporal Evolution and Spatial Disparities of High-Quality Development in Agriculture and Rural Areas: Evidence from Northeast China",
+  "date": "2026-10-27",
+  "year": "2026",
+  "journal": "Journal of Resources and Ecology",
+  "issn": "1674764X",
+  "publisher": "",
+  "authors": [
+   "Ye Hang",
+   "Jiang Yingying",
+   "Lin Xiaodan",
+   "Lu Zhangying",
+   "Lin Xianming"
+  ],
+  "abstract": "Northeast China is one of China's major grain-producing and strategic agricultural regions, and the high-quality development of its agriculture and rural areas is vital to regional revitalization, national food security, and Chinese modernization. To address the limited attention paid to this region in existing studies, this study uses statistical data for 34 prefecture-level cities in Northeast China from 2001 to 2020, constructs an index system for evaluating high-quality agricultural and rural development, and applies the entropy weight method, kernel density estimation, and Moran's I to examine its development level, spatiotemporal evolution, and spatial disparities. The findings are fourfold. (1) The average level of high-quality agricultural and rural development in Northeast China is 0.298, with an overall spatial pattern of “high in the north and low in the south”. Medium- and high-value areas are mainly concentrated in the north, while low-value areas are mainly distributed in the southeastern part. (2) From 2001 to 2020, the composite index showed a sustained upward trend with an average annual growth rate of 5.95%. Except for agricultural resource consumption, which declined over time, all other dimensions improved to varying degrees. (3) In terms of spatial evolution, the medium- and high-value areas gradually clustered toward the north, whereas the southeastern part remained a persistently low-value area. At the local spatial level, both “high-high” and “low-low” clustering patterns were observed, and the spatial agglomeration effect became increasingly evident over the study period. (4) In terms of spatial structure, the pattern of high-quality agricultural and rural development in Northeast China gradually evolved from an early single-core structure into a dual-core structure characterized by “a primary core in the south and a secondary core in the north”. These findings provide a scientific reference for promoting high-quality agricultural and rural development and comprehensive revitalization in Northeast China, and they also offer useful insights for similar regions.",
+  "oa_url": "https://doi.org/10.5814/j.issn.1674-764x.2026.05.016",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.5814/j.issn.1674-764x.2026.05.016"
+  ],
+  "oa_status": "hybrid",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Ketahanan pangan rumah tangga"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-29",
+  "summary_id": null,
+  "relevance": 19
+ },
+ {
+  "id": "W7223929042",
+  "doi": "10.1088/1748-9326/aeba00",
+  "title": "Climate risk assessment in tropical wetlands through integrated hydroclimatic, land cover, and community knowledge",
+  "date": "2026-10-27",
+  "year": "2026",
+  "journal": "Environmental Research Letters",
+  "issn": "17489326",
+  "publisher": "IOP Publishing",
+  "authors": [
+   "Juliana M. Estrada-Zuleta",
+   "Julián E Meneses Bernal",
+   "Álvaro J. Ávila-Díaz",
+   "Benjamín Quesada"
+  ],
+  "abstract": "Abstract Climate-risk assessments in tropical wetlands increasingly combine hydroclimatic and land-cover data, but rarely integrate them with structured community evidence on experienced impacts and adaptation priorities. We address this gap in six communities around the Complejo Cenagoso de Zapatosa, a Ramsar site, and the Morales wetland in the Colombian Caribbean. We integrated hydroclimatic records and climate-extreme indices (1991-2020), land-cover change and runoff-potential analysis (1991-2020), flood-susceptibility modelling, and structured participatory evidence from 106 participants. Mean annual temperature increased by 0.4 °C decade⁻¹, while warm nights and warm days increased by 17.1% and 17.3% decade⁻¹, respectively; precipitation and precipitation-extreme indices showed no significant domain-mean trends. Forest cover declined by 1,122.9 km², whereas flooded non-forest formations, agriculture/pasture mosaic, and oil palm increased by 800.9, 254.4, and 244.2 km², respectively, altering runoff potential. Flood susceptibility was concentrated along floodplains and wetland margins (AUC = 0.95). Of 50 valid community-reported extreme-event records, 76.0% matched the expected sign of annual instrumental anomalies; both heat records matched, while agreement reached 91.3% for floods and 53.8% for droughts. Drought mismatches indicate that annual rainfall anomalies incompletely capture wetland drought, where dry-spell persistence, water-level change, and livelihood disruption shape local experience. Community priorities emphasized wetland restoration, hydrological connectivity, fisheries governance, livelihood diversification, and monitoring. Integrating technical and community evidence therefore revealed complementary climate-risk signals and the conditions under which ecosystem-based adaptation may be locally feasible.",
+  "oa_url": "https://doi.org/10.1088/1748-9326/aeba00",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1088/1748-9326/aeba00"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Kelapa sawit"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-29",
+  "summary_id": null,
+  "relevance": 19
+ },
+ {
+  "id": "W7224014429",
+  "doi": "10.3389/fpls.2026.1905015",
+  "title": "Physiological characterization and cold-responsive miRNA profiling of oil palm (Elaeis guineensis Jacq.) under cold stress",
+  "date": "2026-10-27",
+  "year": "2026",
+  "journal": "Frontiers in Plant Science",
+  "issn": "1664462X",
+  "publisher": "Frontiers Media",
+  "authors": [
+   "Zhihao Zhao",
+   "Qiufei Wu",
+   "Yajing Dou",
+   "Xiaohui Pan",
+   "Hongxing Cao",
+   "Xianhai Zeng",
+   "Lixia Zhou"
+  ],
+  "abstract": "Introduction Cold stress seriously restricts the sustainable development of China’s oil palm industry. MicroRNAs (miRNAs), a class of small non-coding RNAs, act as key post-transcriptional regulators of gene expression and play essential roles in plant growth, development, and stress adaptation. Although they have been extensively characterized in various plant species under adverse environmental conditions, their regulatory functions in oil palm ( Elaeis guineensis Jacq.) during cold stress responses remain largely unexplored. Methods Seedlings of the thin shelled Tenera oil palm genotype were used in this study. Uniform aged seedlings were subjected to cold treatment at 8 °C, with sampling at 0 (26 °C), 0.5, 1, 2, 4, and 8 h, three biological replicates were included for each time point. We assessed physiological injury indicators including malondialdehyde, electrolyte leakage, and chlorophyll content. Eighteen independent small RNA libraries were sequenced on the Illumina HiSeq Xten platform, and cold responsive miRNAs and their predicted target genes were identified. Expression of 17 candidate miRNAs was further validated by qPCR. Results and discussion Physiological measurements showed that with increasing cold stress, malondialdehyde accumulation and electrolyte leakage rate in leaves increased significantly, whereas chlorophyll content decreased continuously, indicating progressive impairment of cell membrane integrity. To this end, 18 independent small RNA sequencing libraries (three biological replicates for each of six experimental groups, including one normal temperature control (26 °C) and five cold-treatment time points (0.5, 1, 2, 4, and 8 h under 8 °C)) were constructed for small RNA profiling. A total of 191 unfiltered known miRNA candidates and 98 predicted novel miRNA candidates were initially identified by sequencing. Functional enrichment analysis revealed that the target genes of differentially expressed miRNAs were mainly enriched in transcriptional regulation pathways and sesquiterpenoid and triterpenoid biosynthesis. qPCR confirmed the expression dynamics of 17 cold responsive miRNAs, among which the negative regulation between the miR166 family and its predicted target genes ATHB9-like and ATHB12 - like was observed based on expression correlation. Our data support the inference that miRNA dependent post transcriptional reprogramming participates in oil palm cold stress adaptation, rather than resolving the complete molecular mechanism. Further analysis indicated that temporal expression shifts of cold responsive miRNAs were consistent with dynamic changes in plant morphological, physiological, and biochemical indicators. Intersection analysis across the five cold treatment comparisons defined core cold responsive and stage specific sets for both conserved and novel miRNAs, and unbiased Mfuzz time series clustering classified all cold-responsive miRNAs into six temporal expression modules.",
+  "oa_url": "https://doi.org/10.3389/fpls.2026.1905015",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.3389/fpls.2026.1905015"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Kelapa sawit"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-29",
+  "summary_id": null,
+  "relevance": 19
+ },
+ {
+  "id": "W7223972124",
+  "doi": "10.3390/children13111478",
+  "title": "Nutritional Status Transitions in Children Aged 6–59 Months and Caregiver Perspectives Following a Community-Based Digital MUAC Screening and Counselling Campaign in Kaduna State, Nigeria: A Mixed-Methods Study",
+  "date": "2026-10-27",
+  "year": "2026",
+  "journal": "Children",
+  "issn": "22279067",
+  "publisher": "Multidisciplinary Digital Publishing Institute",
+  "authors": [
+   "Demilade Osoteku",
+   "Precious Ojo Uahomo",
+   "Oluwabori Samuel",
+   "Michael Obiabo",
+   "Iliyasu Datti Gwarzo",
+   "Adejoke Christiana Ajibulu",
+   "Ernest Ezeogu",
+   "Chioma Edith Ijah",
+   "Valentine Chidozie Amasiatu",
+   "Eric Aigbogun",
+   "Uchenna Igbokwe",
+   "Abdulateef Salisu"
+  ],
+  "abstract": "Background: Acute malnutrition affects 45 million children under five globally. Nigeria has Africa’s highest number of malnourished children, and wasting in Kaduna State has increased from 4.8% to 5.9%. Evidence on within-child nutritional transitions following community-based screening and counselling, and caregivers’ perspectives on factors influencing these changes, remains limited. This study examined nutritional changes between two MUAC assessments and caregivers’ perceived influences, without evaluating campaign effectiveness. Methods: A mixed-methods study was conducted in Kudan Local Government Area (LGA), Kaduna State, combining a retrospective longitudinal analysis of routinely collected MUAC data from 37,455 children aged 6–59 months with paired measurements at baseline and six-month follow-up (December 2024 to June 2025, the first six months of a 12-month campaign) with 36 in-depth interviews with caregivers. Nutritional transition (improved, static or declined) was defined using MUAC thresholds (well-nourished ≥12.5 cm, moderate acute malnutrition [MAM] 11.5 to <12.5 cm, and severe acute malnutrition [SAM] <11.5 cm). Quantitative data were analyzed using descriptive statistics, cross-tabulations, and paired and independent t-tests. Interviews were analyzed thematically. Results: At baseline, 95.3% of children were well-nourished, 4.1% had moderate acute malnutrition (MAM) and 0.6% had severe acute malnutrition (SAM). At follow-up, 98.9% were well-nourished, 1.1% had MAM and 0.06% had SAM (net MAM reduction 73.9%, SAM reduction 90.6%). In total, 94.9% of children were static, 4.3% improved (all from MAM or SAM to well-nourished; 92.7% of the 1756 children malnourished at baseline) and 0.8% declined. Mean MUAC increased by 0.26 cm (p < 0.001), an increase that includes normal age-related growth. Mean MUAC gain was greater among children aged 6 to 23 months than among those aged 24 to 59 months (0.29 cm vs. 0.23 cm; p < 0.001). A total of 3704 children (9.0%) with a baseline measurement were lost to follow-up; among malnourished children, 128 of 1756 (7.3%) were not re-measured. Caregivers reported improved feeding and hygiene practices but identified household food insecurity, rising food prices and transport costs as persistent barriers. Conclusions: Most children remained in the same nutritional category, while most children malnourished at baseline were well-nourished at follow-up. Without a comparison group, observed changes cannot be attributed to the campaign. Loss to follow-up may also limit interpretation. Evaluating effectiveness requires a controlled design and systematic tracking of children lost to follow-up.",
+  "oa_url": "https://doi.org/10.3390/children13111478",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.3390/children13111478"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Ketahanan pangan rumah tangga"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-29",
+  "summary_id": null,
+  "relevance": 18
+ },
+ {
+  "id": "W7223924605",
+  "doi": "10.17269/s41997-026-01271-1",
+  "title": "Demographic and psychosocial correlates of adolescent substance use: Analysis of the Canadian Student Tobacco, Alcohol and Drug Survey 2021-2022",
+  "date": "2026-10-27",
+  "year": "2026",
+  "journal": "Canadian Journal of Public Health",
+  "issn": "00084263",
+  "publisher": "Springer Science+Business Media",
+  "authors": [
+   "Morgan Macdonald",
+   "Samantha Yoo",
+   "Daniel J. Corsi"
+  ],
+  "abstract": "Abstract Objectives Substance use in adolescence may have correlates that can inform prevention measures. We aimed to describe patterns of substance use among Canadian adolescents and explore related demographic and psychosocial factors. Methods Data came from the Canadian Student Tobacco, Alcohol and Drug Survey 2021–2022. We examined past 30-day use of alcohol, cigarettes, e-cigarettes, and cannabis and age of first use by grade level, province, rurality, ethnicity, gender identity, self-reported mental health, and having been bullied using weighted logistic and linear regression. Results The analytic sample included 59,230 students. Alcohol was the most commonly used in the past 30 days (26.2%), and e-cigarettes the most frequently used (11.6% weekly). The age of first exposure was 13–14 years. Girls reported higher 30-day prevalence than boys for alcohol, cannabis, and e-cigarettes. Higher prevalence was associated with higher grade level (OR = 5.27 (95% CI 4.73, 5.87) to 8.98 (7.88, 10.22)), Indigenous ethnicity (OR = 1.73 (1.41, 2.13) to 3.38 (2.58, 4.44)), poor mental health (OR = 1.69 (1.53, 1.87) to 2.99 (2.46, 3.64)), and frequent bullying (OR = 1.21 (1.03, 1.41) to 1.54 (1.23, 1.95)). Except for cigarettes, poor mental health and bullying showed higher point estimates in girls, while rural residence showed higher estimates in boys. Age of first use was inversely associated with poor mental health, bullying, and rurality. Conclusion Higher risk of substance use and younger age at first use were associated with several demographic and psychosocial variables. Policy interventions to address substance use should include education on harms, gender-sensitive mental health and bullying supports, and trauma-sensitive, culturally appropriate approaches for Indigenous adolescents.",
+  "oa_url": "https://doi.org/10.17269/s41997-026-01271-1",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.17269/s41997-026-01271-1"
+  ],
+  "oa_status": "hybrid",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-29",
+  "summary_id": null,
+  "relevance": 17
+ },
+ {
+  "id": "W7224020364",
+  "doi": "10.1108/et-04-2025-0269",
+  "title": "Empowering youth – strengthening educational and labor market pathways through strategic partnerships and entrepreneurial education",
+  "date": "2026-10-27",
+  "year": "2026",
+  "journal": "Education + Training",
+  "issn": "00400912",
+  "publisher": "Emerald Publishing Limited",
+  "authors": [
+   "Jaana Seikkula‐Leino",
+   "Marcia Håkansson Lindqvist",
+   "Helene Dahlström",
+   "Jussara Reis-Andersson",
+   "Karin Larsson-Hult"
+  ],
+  "abstract": "Purpose This study examines the role of strategic partnerships between education providers, the labor market and policymakers in fostering youth educational engagement and work readiness in the rural, regional area of Mellersta Norrland, Sweden. Design/methodology/approach Grounded in educational ecosystem theory (Hargreaves, 2014), professional capital (Hargreaves and Fullan, 2012), and entrepreneurial education frameworks (Fayolle and Gailly, 2015; Seikkula-Leino et al., 2010, 2021), the study explores how collaboration can address youth unemployment and skill mismatches. A qualitative focus group interview with key stakeholders was employed. Findings We identify four critical challenges: (1) limited integration between education and work, (2) barriers to labor market entry, (3) the need for strengthened partnerships and (4) the need to create better opportunities for innovative solutions. The findings underscore the importance of digitalization, structured mentorship programs and entrepreneurship education in enhancing youth employability, specifically in rural contexts. Originality/value This study contributes unique findings to international discussions on entrepreneurial ecosystems and labor market alignment by exploring scalable, policy-relevant recommendations that bridge the gap between education and employment for supporting student pathways in a rural context. Although school–industry collaboration frameworks have been studied widely internationally, this focuses specifically on stakeholders’ work with students in rural contexts.",
+  "oa_url": "https://doi.org/10.1108/et-04-2025-0269",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1108/et-04-2025-0269"
+  ],
+  "oa_status": "hybrid",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-29",
+  "summary_id": null,
+  "relevance": 17
+ },
+ {
+  "id": "W7223831769",
+  "doi": "10.17269/s41997-026-01272-0",
+  "title": "Post-breast cancer diagnosis screening mammography among First Nations and non-First Nations women in Ontario",
+  "date": "2026-10-27",
+  "year": "2026",
+  "journal": "Canadian Journal of Public Health",
+  "issn": "00084263",
+  "publisher": "Springer Science+Business Media",
+  "authors": [
+   "Garima Saini",
+   "Lisa K. Ellison",
+   "Anna Maria Chiarelli",
+   "Alethea Kewayosh",
+   "Amanda J. Sheppard"
+  ],
+  "abstract": "Abstract Objectives First Nations women in Canada have historically experienced lower breast cancer screening participation and worse outcomes than non-First Nations women. While most research has focused on pre-diagnosis screening, less is known about follow-up care. This study examined post-diagnosis mammography use among First Nations and non-First Nations women in Ontario and identified factors associated with follow-up screening among First Nations women. Methods This retrospective cohort study included 190 First Nations and 506 non-First Nations women diagnosed with invasive breast cancer between 1995 and 2004, with follow-up screening data available through 2019. Descriptive statistics compared demographic, clinical, and treatment characteristics. Logistic regression models were used among First Nations women to identify factors associated with follow-up screening. Results No statistically significant differences were observed in the unadjusted comparisons of post-treatment screening rates, frequency, timing, and intervals between First Nations and non-First Nations women. Among First Nations women, older age (OR = 0.42; 95% CI, 0.19–0.94), rural residence (OR = 0.35; 95% CI, 0.17–0.73), and lower income (OR = 0.20; 95% CI, 0.06–0.69) were among the factors associated with reduced screening. Radiotherapy (OR = 7.48; 95% CI, 3.38–16.56) and less severe surgery (OR = 7.19; 95% CI, 3.31–15.63) were associated with higher odds of screening. Conclusion While screening rates among First Nations women are improving, disparities persist. Strengthening continuity of care, primary care access, and culturally safe survivorship support is essential to achieving equity.",
+  "oa_url": "https://doi.org/10.17269/s41997-026-01272-0",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.17269/s41997-026-01272-0"
+  ],
+  "oa_status": "hybrid",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-29",
+  "summary_id": null,
+  "relevance": 15
+ },
+ {
+  "id": "W7223971017",
+  "doi": "10.1002/bse.71767",
+  "title": "Fair Business Models for Climate‐Smart Agriculture: A Design Science Research Approach",
+  "date": "2026-10-27",
+  "year": "2026",
+  "journal": "Business Strategy and the Environment",
+  "issn": "09644733",
+  "publisher": "Wiley",
+  "authors": [
+   "Christopher Galgo",
+   "Gohar Isakhanyan",
+   "Jos Bijman",
+   "Verena Otter",
+   "Katja Logatcheva",
+   "Michiel van Galen",
+   "Marilena Gemtou",
+   "LiseLotte Puggaard",
+   "Magdalena Nertinger",
+   "Jon Bienzobas Adrián"
+  ],
+  "abstract": "ABSTRACT Organisations in agri‐food value chains face urgent demands to address climate change, environmental degradation and social inequities through climate‐smart agriculture (CSA). However, sustained CSA implementation remains constrained by business models (BMs) that fail to offer fair solutions to stakeholders. Existing business model innovation (BMI) literature lacks conceptualisation of fair BMs and methodology for operationalising fairness in BMs, leading to the research question: How can fair BMs for CSA be defined, designed and developed? Using design science research across five European case studies, the study defines a fair BM as a BM in which the design of the value proposition, creation, delivery and capture enables equitable value distribution, inclusive processes, transparency of information and respectful relationships among stakeholders. The study operationalises fairness across the BMI process with stakeholder engagement and change management, deriving eight design requirements and thirteen stakeholder‐validated prototypes. The study advances BMI literature by offering prescriptive knowledge for operationalising fairness in agri‐food BMI.",
+  "oa_url": "https://doi.org/10.1002/bse.71767",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1002/bse.71767"
+  ],
+  "oa_status": "hybrid",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemasaran, rantai pasok & rantai nilai"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-29",
+  "summary_id": null,
+  "relevance": 14
+ },
+ {
+  "id": "W7223874757",
+  "doi": "10.1017/s002210902610338x",
+  "title": "The Weight of Compliance: Anti-Money Laundering Enforcement, Banking Sector Composition, and Lending",
+  "date": "2026-10-27",
+  "year": "2026",
+  "journal": "Journal of Financial and Quantitative Analysis",
+  "issn": "00221090",
+  "publisher": "Cambridge University Press",
+  "authors": [
+   "Şenay Ağca",
+   "Pablo Slutzky",
+   "Stefan Zeume"
+  ],
+  "abstract": "Abstract We examine how strengthened anti-money laundering (AML) enforcement affects the U.S. banking sector. Heightened enforcement disproportionately raises compliance costs for small banks, especially in counties more exposed to money laundering. In these areas, small banks contract while large banks expand, increasing standardized, government-supported, and secured lending. While aggregate county-level credit does not decline differentially, local outcomes improve. Small establishments grow, non-tradable employment and wages rise, and real estate prices increase. The evidence is consistent with a reallocation mechanism in which AML enforcement shifts activity toward large banks, potentially improving intermediation quality through changes in the composition of local financial intermediation.",
+  "oa_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/B32EA7F26D6801EC4991A252B6CF8E5E/S002210902610338Xa.pdf/div-class-title-the-weight-of-compliance-anti-money-laundering-enforcement-banking-sector-composition-and-lending-div.pdf",
+  "pdf_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/B32EA7F26D6801EC4991A252B6CF8E5E/S002210902610338Xa.pdf/div-class-title-the-weight-of-compliance-anti-money-laundering-enforcement-banking-sector-composition-and-lending-div.pdf",
+  "pdf_urls": [
+   "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/B32EA7F26D6801EC4991A252B6CF8E5E/S002210902610338Xa.pdf/div-class-title-the-weight-of-compliance-anti-money-laundering-enforcement-banking-sector-composition-and-lending-div.pdf",
+   "https://doi.org/10.1017/s002210902610338x"
+  ],
+  "oa_status": "hybrid",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Tenaga kerja & produktivitas perkebunan"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-29",
+  "summary_id": null,
+  "relevance": 14
+ },
+ {
+  "id": "W7214926219",
+  "doi": "10.1002/pan3.70456",
+  "title": "Looking back, looking ahead: Local perspectives on landscape changes and native‐tree restoration in Madagascar",
+  "date": "2026-10-27",
+  "year": "2026",
+  "journal": "People and Nature",
+  "issn": "25758314",
+  "publisher": "Wiley",
+  "authors": [
+   "Herimino Manoa Rajaonarivelo",
+   "Nancy Rabenantoandro",
+   "Dominic A. Martin",
+   "Estelle Raveloaritiana",
+   "Sitraka Andriamampianina",
+   "Marie Rolande Soazafy",
+   "Botovao Auguste Ramiandrisoa",
+   "Maria Joao Santos",
+   "O. Sarobidy Rakotonarivo"
+  ],
+  "abstract": "Abstract Across sub‐Saharan Africa, tree‐based restoration efforts are dominated by exotic tree species due to their rapid biomass accumulation and short‐term economic returns. However, their limited contribution to biodiversity and ecosystem functioning has renewed interest in native‐tree restoration as a more sustainable strategy. Madagascar represents a pivotal case study given its high‐level commitment to counter accelerating deforestation rates and preserve its exceptional endemic biodiversity. Yet important knowledge gaps remain: studies rarely address community perspectives to examine the conditions shaping native‐tree restoration opportunities and constraints across forest biomes and time scales, linking past drivers, present states and future projections. Together, these elements would improve contextualization and reveal the timing, levers and barriers influencing restoration outcomes. To address these gaps, we used 45 participatory mapping across three major forest biomes in Madagascar, structured around four horizons: the past decade, the present, and two 10‐year future scenarios representing business‐as‐usual and desired futures. This approach enabled us to examine perceived landscape changes, current restoration constraints and enabling conditions and locally envisioned pathways towards desirable futures. Across biomes, participants linked current landscape outcomes to past agricultural expansion and charcoal production, with recurrent fire as a key mechanism driving landscape change. Under a business‐as‐usual scenario, native‐tree restoration was not a community priority, particularly in humid and transitional forests. While its ecological benefits are valued, this restoration was constrained by precarious livelihoods, insecure tenure and fears of stricter control over customary lands and resources. In contrast, the desired future scenario revealed an aspiration to double native‐forest cover on open lands, contingent upon the provision of livelihood‐compatible incentives, secure land rights and empowered local governance. Overall, our findings demonstrated that demand for native‐tree restoration is shaped by the interaction between ecological goals, land rights and livelihood security. Native‐tree restoration outcomes depend not only on ecological priorities, but on how people envision the future of the landscapes they live in. Therefore, native‐tree restoration is most likely to succeed when designed as a negotiation of socially legitimate and multifunctional futures. Unless policies address these realities, native‐tree restoration efforts may remain ecologically ambitious but socially fragile. Read the free Plain Language Summary for this article on the Journal blog.",
+  "oa_url": "https://doi.org/10.1002/pan3.70456",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1002/pan3.70456",
+   "https://doi.org/10.5281/zenodo.23068320",
+   "https://doi.org/10.5281/zenodo.23068321"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [
+   "forest loss drivers",
+   "land use change",
+   "participatory mapping",
+   "time horizon",
+   "Madagascar forests",
+   "local knowledge"
+  ],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-29",
+  "summary_id": null,
+  "relevance": 0
+ },
+ {
+  "id": "W7223965969",
+  "doi": "10.3390/nu18213540",
+  "title": "Independent and Joint Associations of Socioeconomic Status and Dietary Quality with Depressive and Anxiety Symptoms Among Chinese Older Adults: A Cross-Sectional Study of the Chinese Longitudinal Healthy Longevity Survey",
+  "date": "2026-10-27",
+  "year": "2026",
+  "journal": "Nutrients",
+  "issn": "20726643",
+  "publisher": "Multidisciplinary Digital Publishing Institute",
+  "authors": [
+   "Jason Huo",
+   "Chongyu Ding",
+   "Xueyan Zhang",
+   "Xiangwei Li"
+  ],
+  "abstract": "Objectives: We assessed how socioeconomic status (SES) and diet quality, separately and jointly, related to depressive and anxiety symptoms in older Chinese adults. Methods: Data came from 9278 participants aged 65 years or older in the 2018 Chinese Longitudinal Healthy Longevity Survey. Education, main occupation before age 60, and annual household income were integrated into latent SES classes. Diet quality was represented by the Chinese-modified Mediterranean-DASH Intervention for Neurodegenerative Delay score (cMIND), Healthy Eating Index (HEI), Dietary Diversity Score (DDS), and Anti-Inflammatory Dietary Diversity Score (AIDDS). Depression and anxiety symptom status was determined from the 10-item Center for Epidemiologic Studies Depression Scale (CES-D-10) and 7-item Generalized Anxiety Disorder Scale (GAD-7). We used multivariable logistic models, joint-exposure models, restricted cubic splines, exploratory SES-by-diet interaction models, and multiple imputation for missing covariates. Results: Relative to high SES, low SES was associated with greater odds of depressive symptoms (OR = 1.50, 95% CI: 1.32–1.71) and anxiety symptoms (OR = 1.76, 95% CI: 1.43–2.16). All four dietary indices showed inverse associations with both outcomes. The largest joint estimates occurred for low SES plus low AIDDS (depressive symptoms: OR = 2.26, 95% CI: 1.94–2.64; anxiety symptoms: OR = 2.69, 95% CI: 2.12–3.40). No overall multiplicative interaction was found for dichotomized diet scores. For standardized continuous scores, nominal SES-by-diet interactions were observed for HEI, DDS, and AIDDS for depressive symptoms, but after Benjamini-Hochberg false-discovery-rate (FDR) correction only DDS and AIDDS remained below q < 0.05; no anxiety interaction survived correction. Conclusions: Socioeconomic disadvantage and poorer diet quality were each associated with greater symptom burden, while their co-occurrence identified the least favorable joint profile. Longitudinal and intervention studies are needed before dietary improvement can be interpreted as reducing SES-related mental-health inequalities.",
+  "oa_url": "https://doi.org/10.3390/nu18213540",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.3390/nu18213540"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Ketahanan pangan rumah tangga"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-29",
+  "summary_id": null,
+  "relevance": 0
+ },
+ {
+  "id": "W7224003653",
+  "doi": "10.3390/world7110184",
+  "title": "Artificial Intelligence and Digital Agriculture for Smallholder Farming: An Africa-Centred Scoping Review of Global South Evidence",
+  "date": "2026-10-26",
+  "year": "2026",
+  "journal": "World",
+  "issn": "26734060",
+  "publisher": "Multidisciplinary Digital Publishing Institute",
+  "authors": [
+   "Olaitan Ayotunde Shemfe",
+   "Palesa Maketha-Kosi"
+  ],
+  "abstract": "Artificial intelligence (AI) is increasingly applied in agriculture, but evidence concerning its relevance to smallholder farming remains heterogeneous and geographically uneven. This scoping review mapped evidence on AI and related digital agricultural technologies, their applications, adoption conditions, and equity and governance implications for smallholder farming in Africa-centred Global South contexts. This review was reported using PRISMA-ScR guidance. Across Google Scholar, Web of Science and Scopus, 150 potentially relevant records were retained for the documented screening process, and 42 sources were included. Sources were classified as AI-specific evidence, AI-enabled systems or contextual digital-agriculture evidence and synthesised thematically. The literature addressed crop monitoring, yield prediction, irrigation, climate-risk management and digital advisory services. However, it was dominated by African evidence and included empirical studies, technical demonstrations, reviews, policy analyses and conceptual papers. The mapped sources more often described technological feasibility and adoption conditions than sustained effects on productivity, income, resilience or farmer welfare. Recurring constraints included cost, connectivity, digital literacy, language, trust and institutional capacity. Equity and governance concerns included data rights, gender inclusion, algorithmic bias and unequal benefit distribution, although many were conceptually rather than empirically documented. The findings support context-sensitive, farmer-centred implementation while highlighting the need for longitudinal and geographically broader research.",
+  "oa_url": "https://doi.org/10.3390/world7110184",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.3390/world7110184"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender",
+   "Adopsi teknologi & pertanian digital"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-29",
+  "summary_id": {
+   "tujuan": "Memetakan bukti tentang kecerdasan buatan (AI) dan teknologi pertanian digital terkait, mencakup aplikasi, kondisi adopsi, serta implikasi kesetaraan dan tata kelola bagi petani kecil di konteks Global South yang berpusat pada Afrika.",
+   "metode": "Scoping review dengan pedoman PRISMA-ScR. Pencarian dilakukan di Google Scholar, Web of Science, dan Scopus; sebanyak 150 catatan lolos untuk penyaringan dan 42 sumber diinklusi. Sumber diklasifikasikan menjadi bukti spesifik AI dan sistem berbasis AI/bukti digital kontekstual, lalu disintesis secara tematik. Periode pencarian dan ukuran sampel petani tidak disebutkan.",
+   "temuan": "Literatur mencakup pemantauan tanaman, prediksi hasil, irigasi, manajemen risiko iklim, dan layanan penyuluhan digital, dengan dominasi bukti dari Afrika. Sumber lebih sering menggambarkan kelayakan teknologi dan kondisi adopsi dibanding dampak berkelanjutan terhadap produktivitas, pendapatan, ketahanan, atau kesejahteraan petani. Kendala berulang meliputi biaya, konektivitas, literasi digital, bahasa, kepercayaan, dan kapasitas kelembagaan, sedangkan isu kesetaraan dan tata kelola sebagian besar bersifat konseptual.",
+   "keterbatasan": "Bukti terkonsentrasi di Afrika sehingga kurang representatif secara geografis, dan banyak sumber belum menguji dampak empiris. Desain scoping review tidak menilai kualitas studi atau menghasilkan estimasi efek kausal. Penulis menekankan perlunya penelitian longitudinal dan cakupan geografis yang lebih luas.",
+   "relevansi": "Temuan tentang kendala adopsi, kelembagaan penyuluhan digital, dan risiko tata kelola data serta kesetaraan gender relevan dengan riset akses pasar dan kelembagaan petani kecil di Kalimantan Tengah. Hasil ini dapat menjadi dasar desain uji ulang layanan digital bagi petani sawit swadaya atau plasma, meski perlu adaptasi ke konteks Indonesia yang belum banyak terwakili.",
+   "skor": 4,
+   "model": "claude-haiku-5-5",
+   "sumber": "abstrak"
+  },
+  "relevance": 58
+ },
+ {
+  "id": "W7223984215",
+  "doi": "10.62441/actainnovations.vi.2450",
+  "title": "DIGITAL HEALTH ADOPTION IS ASSOCIATED WITH BETTER HEALTHCARE PERFORMANCE BUT PERSISTENT INEQUITY IN BANGLADESH: A NATIONWIDE CONVERGENT MIXED-METHODS STRUCTURAL EQUATION MODELLING STUDY",
+  "date": "2026-10-26",
+  "year": "2026",
+  "journal": "Acta Innovations",
+  "issn": "23005599",
+  "publisher": "Research and Innovation Centre Pro-Akademia",
+  "authors": [
+   "Muhammad Asaduzzaman",
+   "Sultana Rajia"
+  ],
+  "abstract": "Background: Bangladesh is scaling digital health under its Digital Health Strategy 2023–2027, yet empirical evidence on how adoption relates to health-system performance and equity is fragmented. We examined how governance, change management and implementation barriers shape digitalization adoption, and how adoption relates to performance, patient-reported outcomes and perceived health inequality. Methods: A convergent parallel mixed-methods study was conducted in all eight administrative divisions. A multistage stratified sample of 420 health workers, managers, patients, policymakers and community members completed a validated 74-item instrument covering seven constructs (response rate 94.4%). Confirmatory factor analysis and covariance-based structural equation modelling with 5,000 bootstrap resamples tested the hypothesized model. Thirty key informant interviews and eight focus group discussions were analysed with the framework method and integrated through a joint display. Results: The model fitted the data well (χ²/df = 2.14; CFI = 0.943; TLI = 0.931; RMSEA = 0.052; SRMR = 0.061). Digitalization adoption was associated with higher healthcare performance (β = 0.541, p < 0.001), better patient-reported outcomes (β = 0.463, p < 0.001) and lower perceived inequality (β = −0.318, p < 0.001). Policy and governance quality influenced adoption directly (β = 0.338) and through change management effectiveness (indirect β = 0.159, 95% bias-corrected CI excluding zero). The national digital infrastructure score was 52.7/100 (Dhaka 78.4; Mymensingh 38.9). Female gender (OR 0.48, 95% CI 0.37–0.63), monthly household income below BDT 10,000 (OR 0.38, 0.28–0.51) and rural residence (OR 0.43, 0.33–0.57) independently predicted lower use. Governance was the lowest-rated construct (mean 2.94/5). Conclusions: Digitalization is linked to stronger health-system performance in Bangladesh, but gains depend on governance, deliberate change management and closing gender, income and geographic gaps. Without these, digital health risks benefiting the already advantaged.",
+  "oa_url": "https://actainnovations.com/index.php/pub/article/download/2450/1273",
+  "pdf_url": "https://actainnovations.com/index.php/pub/article/download/2450/1273",
+  "pdf_urls": [
+   "https://actainnovations.com/index.php/pub/article/download/2450/1273",
+   "https://doi.org/10.62441/actainnovations.vi.2450"
+  ],
+  "oa_status": "diamond",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-29",
+  "summary_id": null,
+  "relevance": 38
+ },
+ {
+  "id": "W7223558571",
+  "doi": "10.5539/sar.v15n2p81",
+  "title": "Adaptation Strategies, Perceived Effectiveness, and Constraints among Smallholder Farming Households in Mezam Division, Cameroon",
+  "date": "2026-10-26",
+  "year": "2026",
+  "journal": "Sustainable Agriculture Research",
+  "issn": "1927050X",
+  "publisher": "Canadian Center of Science and Education",
+  "authors": [
+   "Ngwetoh Wanka",
+   "Efuet Simon Akem",
+   "Nkwatoh Athanasius Fuashi"
+  ],
+  "abstract": "Climate variability threatens rain-fed agriculture and rural livelihoods across sub-Saharan Africa. Smallholder farmers employ multiple agronomic, livelihood, and collective adaptation strategies, but their effectiveness depends on household resources and access to institutional support. This study identified adaptation strategies used by smallholder farming households in Mezam Division, Cameroon, assessed their perceived effectiveness, and examined constraints affecting their implementation. A convergent mixed-methods design combined a 2024 survey of 205 farming households in Santa, Bafut, Bali, and Tubah with focus group discussions and 20 key informant interviews. Survey data were analysed using frequencies and percentages, while qualitative evidence was analysed thematically and integrated with the quantitative findings. Crop diversification was the most frequently reported strategy (110 households; 53.7%), followed by changing planting dates (95; 46.3%), improved seeds (78; 38.0%), soil conservation (65; 31.7%), and irrigation or water management (42; 20.5%). Qualitative evidence additionally identified livelihood diversification, remittance-supported farm inputs, non-timber forest products, and community labour-sharing. Farmers perceived these strategies as useful for spreading risk, but their effectiveness was conditional on household resources and institutional support. High input costs, limited access to credit, irregular extension services, inadequate local climate information, weak infrastructure, and sociopolitical insecurity constrained sustained implementation. Adaptation among smallholder farming households in Mezam is therefore best understood as a portfolio of complementary strategies rather than as reliance on a single technology. Sustainable adaptation requires affordable finance and inputs, usable climate information, strengthened extension services, improved water and rural infrastructure, and stronger farmer organisations.",
+  "oa_url": "https://ccsenet.org/journal/index.php/sar/article/download/0/0/53888/58904",
+  "pdf_url": "https://ccsenet.org/journal/index.php/sar/article/download/0/0/53888/58904",
+  "pdf_urls": [
+   "https://ccsenet.org/journal/index.php/sar/article/download/0/0/53888/58904",
+   "https://doi.org/10.5539/sar.v15n2p81"
+  ],
+  "oa_status": "diamond",
+  "cited_by": 0,
+  "keywords": [
+   "climate change adaptation",
+   "smallholder farmers",
+   "rainfed agriculture",
+   "crop diversification",
+   "improved varieties",
+   "soil conservation",
+   "irrigation",
+   "livelihood diversification"
+  ],
+  "topics": [
+   "Kelembagaan petani & tindakan kolektif",
+   "Pembangunan pedesaan & kebijakan pertanian"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-29",
+  "summary_id": null,
+  "relevance": 37
+ },
+ {
+  "id": "W7224020952",
+  "doi": "10.3390/agriculture16212338",
+  "title": "Corporate Farmer Behavior and Cooperative Governance: A Mixed-Level Analysis of Transactional Relationships in Sales and Finance Among Japanese Agribusinesses",
+  "date": "2026-10-26",
+  "year": "2026",
+  "journal": "Agriculture",
+  "issn": "20770472",
+  "publisher": "Multidisciplinary Digital Publishing Institute",
+  "authors": [
+   "Takeshi INUTA"
+  ],
+  "abstract": "The rapid professionalization of agricultural corporations is reshaping traditional rural governance and cooperative models. This study examines the evolving business relationships between agricultural corporations and Japan Agricultural Cooperatives (JA), explicitly comparing economic (sales) and credit (financial) operations. Employing a mixed-level complementary approach, this study analyzed micro-level survey data (N = 492) via logistic regression and macro-level national data (N = 1412) via cross-tabulation. The findings reveal distinct patterns across the two domains: in economic operations, a negative relationship was found between the combined indicator for processing and direct sales (sixth-sector industrialization), employee size, and the probability that JA is the primary sales channel. In credit operations, the share of corporations naming JA as a primary financial partner is lower in larger-scale groups, whereas the shares naming regional banks and the Japan Finance Corporation are higher. As possible explanations for these patterns, the sales results may reflect asset specificity and hold-up risks, while the credit differences across scale groups may reflect limited cooperative credit capacity and a gradual shift toward commercial banks. These results suggest that multi-purpose cooperatives face inherent governance tensions as member heterogeneity increases. To remain relevant, cooperatives may benefit from transitioning from uniform service providers to flexible regional platforms, offering customized non-financial management support and coordinating with external financial institutions. This study offers vital implications for both cooperative scholars and agribusiness practitioners navigating sustainable agricultural development.",
+  "oa_url": "https://doi.org/10.3390/agriculture16212338",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.3390/agriculture16212338"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Kelembagaan petani & tindakan kolektif"
+  ],
+  "priority_journal": true,
+  "language": "en",
+  "found_at": "2026-10-29",
+  "summary_id": null,
+  "relevance": 35
+ },
+ {
+  "id": "W7223872634",
+  "doi": "10.3390/land15112040",
+  "title": "Formulation and Implementation Approaches for Territorial Spatial Planning of Towns and Villages in Megacities: A Case Study of Chengdu",
+  "date": "2026-10-26",
+  "year": "2026",
+  "journal": "Land",
+  "issn": "2073445X",
+  "publisher": "Multidisciplinary Digital Publishing Institute",
+  "authors": [
+   "Chan Xu",
+   "Shasha Wang",
+   "Li Liu",
+   "Qingfen Lv",
+   "Miao Ju",
+   "Wenjuan Liu",
+   "Qimeng Yan"
+  ],
+  "abstract": "Territorial spatial planning for towns and villages is essential for promoting urban–rural integration and sustainable development, particularly in rapidly urbanizing megacities. This study reviews theories and practices of spatial and rural planning, focusing on policy frameworks for town and village planning in Chinese megacities. Using Chengdu as a case study, it analyses the evolution and current approaches to territorial spatial planning from spatial and institutional perspectives. Policy documents are systematically coded and analysed using MAXQDA, complemented by a micro-level examination and comparative analysis of representative village-level zones. The findings highlight three core aspects. First, planning formulation and implementation are shaped by higher-level guiding policies, spatial layouts, public services, infrastructure provision, and land-use optimisation. Second, Chengdu adopts a cross-jurisdictional planning framework that defines planning units according to natural geographical and economic linkages rather than administrative boundaries, combining regulatory controls with flexible policy measures. Third, village-level zones are categorised into integrated development, town-driven growth, and ecological conservation, supporting differentiated spatial strategies through comprehensive land consolidation. Overall, Chengdu’s approach reflects a Conservation–Remediation–Optimisation (CRO) framework that integrates ecological and agricultural protection, spatial remediation, and the coordinated optimisation of settlements, public services, and urban–rural linkages. Effective implementation further requires improved policy transmission, enhanced supervision, and technical empowerment across planning levels. Rather than presenting Chengdu as a universally replicable model, this study identifies planning principles and implementation conditions that may provide conditional references for other rapidly urbanising megacities.",
+  "oa_url": "https://doi.org/10.3390/land15112040",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.3390/land15112040"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": true,
+  "language": "en",
+  "found_at": "2026-10-29",
+  "summary_id": null,
+  "relevance": 33
+ },
+ {
+  "id": "W7223851167",
+  "doi": "10.1038/s41598-026-75724-5",
+  "title": "Flawed policies in dam construction and their hydropolitical ramifications: a case study of the Atatürk Dam",
+  "date": "2026-10-26",
+  "year": "2026",
+  "journal": "Scientific Reports",
+  "issn": "20452322",
+  "publisher": "Nature Portfolio",
+  "authors": [
+   "Omid Bozorg Haddad",
+   "Nima Moghaddam",
+   "Seyed-Mahdi Salar-Khorasani",
+   "Hugo A. Loáiciga"
+  ],
+  "abstract": "Large dams can produce significant environmental, geological, and geopolitical impacts, particularly in transboundary river basins. This study examines the Atatürk Dam on the Euphrates River, one of the largest components of Turkey’s Southeastern Anatolia Project (GAP), to evaluate its potential geological, environmental, and governance implications across the Euphrates and Tigris basin. An integrated analytical framework was employed by combining seismological analysis, satellite-based land use assessment, and governance evaluation. Historical seismic records (1905 to 2020) were analyzed to investigate potential reservoir-induced seismicity, while remote sensing data (2001 to 2023) were used to assess long-term land cover changes. Governance performance was evaluated using indicators aligned with the Organisation for Economic Cooperation and Development (OECD) water governance principles, including transparency, stakeholder participation, accountability, and transboundary coordination. Results suggest that reservoir impoundment may have contributed to increased pore pressure and reduced fault stability, correlating with increased seismic activity in the region, including two moderate earthquakes (Mw 5.5 and 5.1) recorded after 2004. Remote sensing analyses reveal significant environmental transformations across the basin between 2001 and 2023, including a 30 to 40% reduction in vegetation cover, an 88% decline in evergreen needleleaf forests, a 33% loss of mixed forests, and a decrease of more than 15,000 km 2 of croplands. Concurrently, barren lands expanded by more than 33,000 km 2 , indicating accelerating land degradation trends. Downstream impacts include reduced water availability and associated ecological and agricultural stress in Syria and Iraq. Governance assessment further indicates systemic weaknesses in transparency, data sharing, environmental compliance, and formal transboundary agreements, suggesting that institutional limitations may amplify environmental and political pressures within the basin. The findings highlight the importance of integrating seismic risk assessment, environmental sustainability, and cooperative transboundary water governance in large-scale hydraulic infrastructure planning. The Atatürk Dam provides an important case study illustrating how large dam projects may generate complex environmental and governance challenges when implemented without sufficiently integrated regional risk management.",
+  "oa_url": "https://doi.org/10.1038/s41598-026-75724-5",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1038/s41598-026-75724-5"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Kelembagaan petani & tindakan kolektif"
+  ],
+  "priority_journal": true,
+  "language": "en",
+  "found_at": "2026-10-29",
+  "summary_id": null,
+  "relevance": 32
+ },
+ {
+  "id": "W7223693430",
+  "doi": "10.1080/09584935.2026.2723995",
+  "title": "Women’s job satisfaction: evidence from Nepal",
+  "date": "2026-10-26",
+  "year": "2026",
+  "journal": "Contemporary South Asia",
+  "issn": "09584935",
+  "publisher": "Taylor & Francis",
+  "authors": [
+   "Sarah R. Brauner‐Otto",
+   "Taarini Andlay"
+  ],
+  "abstract": "Increasing women’s employment is central to policy agendas in South Asia. Yet, a growing body of scholarship cautions that paid work may not be as beneficial as policy makers hope in part because the intrinsic rewards women derive from their work remain poorly understood. This paper addresses this issueby examining job satisfaction among a diverse group of women workers. Using survey data from Chitwan, Nepal we assess how situational and personal characteristics shape women’s satisfaction with their jobs. We find that job type is one of the strongest predictors of job satisfaction such that women employed in agricultural wage labor had the lowest job satisfaction, even when controlling for differences in earnings, work intensity, and personal characteristics. Women working in salaried government or NGO office jobs and self-employed women working inside their homes were the most likely to be very satisfied. A sense of personal accomplishment is also influenced by job type and associated with higher satisfaction but does not explain the relationship between job type and satisfaction. Results provide evidence that most women in Chitwan have jobs they find unsatisfying, something that further undermines the overall benefits of paid work and creates another dimension of marginalization.",
+  "oa_url": "https://asiafoundation.org/wp-content/uploads/2018/05/Nepal-Labor-Migration-status-report-2015-16-to-2016-17.pdf",
+  "pdf_url": "https://asiafoundation.org/wp-content/uploads/2018/05/Nepal-Labor-Migration-status-report-2015-16-to-2016-17.pdf",
+  "pdf_urls": [
+   "https://asiafoundation.org/wp-content/uploads/2018/05/Nepal-Labor-Migration-status-report-2015-16-to-2016-17.pdf",
+   "https://doi.org/10.1080/09584935.2026.2723995"
+  ],
+  "oa_status": "bronze",
+  "cited_by": 0,
+  "keywords": [
+   "women's employment",
+   "gender and work",
+   "workplace attitudes",
+   "Nepal"
+  ],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-29",
+  "summary_id": null,
+  "relevance": 22
+ },
+ {
+  "id": "W7223665907",
+  "doi": "10.7759/cureus.118618",
+  "title": "Population-Level Shifts in Cervical Cancer Stage Distribution in the United States Following Human Papillomavirus (HPV) Vaccine Implementation",
+  "date": "2026-10-26",
+  "year": "2026",
+  "journal": "Cureus",
+  "issn": "21688184",
+  "publisher": "Cureus, Inc.",
+  "authors": [
+   "Eva Koshy",
+   "Christina Son"
+  ],
+  "abstract": "OBJECTIVE: To assess whether human papillomavirus (HPV) vaccine introduction is associated with shifts in stage at cervical cancer diagnosis and to examine whether sociodemographic disparities and evolving imaging practices have influenced these observed trends. METHODS: We analyzed 103,831 cervical cancer cases diagnosed between January 2004 and December 2022 from the Surveillance, Epidemiology, and End Results (SEER) database. Stage at diagnosis was classified as non-distant or distant disease and compared across sociodemographic subgroups, including age group at diagnosis (<40 vs. ≥40 years), race/ethnicity, income, and urban-rural status. Temporal trends in distant-stage disease were evaluated using a linear probability model including year of diagnosis, age group, and an age group-by-year interaction term. RESULTS: Across the entire cohort (N = 103,831), 14,622 patients (14.1%) presented with distant-stage disease. Among patients <40 years, distant disease increased from 5.6% in 2004 to 9.2% in 2022, corresponding to an annual increase of 0.18 percentage points per year (95% CI 0.12-0.23, p < 0.001). Among patients ≥40 years, distant disease increased from 12.6% in 2004 to 20.4% in 2022, corresponding to an annual increase of 0.39 percentage points per year (95% CI 0.34-0.44, p < 0.001). The annual increase was 0.21 percentage points greater among patients ≥40 years (95% CI 0.14-0.29, interaction p < 0.001). CONCLUSION: Over the past two decades, distant-stage cervical cancer increased in the United States, with a significantly steeper increase among women ≥40 years than among women <40 years. The comparatively smaller increase among younger women is consistent with a possible contribution of HPV vaccination at the population level; however, individual vaccination status was unavailable, and a causal relationship cannot be established. Persistent racial, socioeconomic, and geographic disparities in distant-stage presentation emphasize the ongoing need for equitable access to vaccination and screening.",
+  "oa_url": "https://www.cureus.com/articles/539755-population-level-shifts-in-cervical-cancer-stage-distribution-in-the-united-states-following-human-papillomavirus-hpv-vaccine-implementation.pdf",
+  "pdf_url": "https://www.cureus.com/articles/539755-population-level-shifts-in-cervical-cancer-stage-distribution-in-the-united-states-following-human-papillomavirus-hpv-vaccine-implementation.pdf",
+  "pdf_urls": [
+   "https://www.cureus.com/articles/539755-population-level-shifts-in-cervical-cancer-stage-distribution-in-the-united-states-following-human-papillomavirus-hpv-vaccine-implementation.pdf",
+   "https://doi.org/10.7759/cureus.118618"
+  ],
+  "oa_status": "diamond",
+  "cited_by": 0,
+  "keywords": [
+   "cervical cancer",
+   "HPV vaccine",
+   "HPV vaccination",
+   "cancer stage at diagnosis",
+   "cervical cancer incidence",
+   "United States"
+  ],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-29",
+  "summary_id": null,
+  "relevance": 19
+ },
+ {
+  "id": "W7223984632",
+  "doi": "10.3390/insects17111107",
+  "title": "Characterization of the Beekeeping Sector in Selected Beekeeping Regions of Saudi Arabia: Farm Structure, Productivity, Bee Health, Production System Typologies, and Beekeeper Constraints",
+  "date": "2026-10-26",
+  "year": "2026",
+  "journal": "Insects",
+  "issn": "20754450",
+  "publisher": "Multidisciplinary Digital Publishing Institute",
+  "authors": [
+   "Ramzi Alsarhan",
+   "Marimuthu Swaminathan",
+   "Abdullah Alsubiei",
+   "Kakoli Ghosh",
+   "Mamdouh Madallah L Alsharari",
+   "Ali Al-Shaikhi",
+   "Nizar Jamal Haddad"
+  ],
+  "abstract": "Saudi Arabia’s beekeeping sector comprises traditional and modern frame-hive systems operating under diverse environmental and management conditions. This cross-sectional study characterized 98 purposively selected apiaries participating in the Sustainable Rural Agricultural Development (SRAD) Programme, jointly implemented by the Saudi Ministry of Environment, Water and Agriculture and the Food and Agriculture Organization of the United Nations, across Makkah (n = 42), Jazan (n = 34), Asir (n = 16), Al-Baha (n = 4), and Al-Madinah (n = 2). Data included hive structure, honey production, Varroa occurrence, and beekeeper-reported constraints. Given the purposive and regionally unbalanced sampling, inference was restricted to the surveyed apiaries. Among 54 apiaries maintaining both hive systems, median annual yield was higher in modern than traditional hives (2.67 vs. 1.10 kg/colony; paired Wilcoxon p < 0.001). Yield also differed among regions (Kruskal–Wallis H = 19.07, p < 0.001). In the adjusted model, the proportion of modern hives was positively associated with productivity (β = 0.019; p = 0.001), whereas Varroa percentage was not (p = 0.2644). PCA explained 68.1% of variation in the first two components and supported three exploratory apiary clusters. Among 62 apiaries reporting constraints, imports/biosecurity (25.8%), predators (22.6%), and marketing/value-chain issues (19.4%) predominated. The findings demonstrate substantial heterogeneity among surveyed apiaries and support targeted extension and biosecurity interventions, while representative longitudinal studies and standardized disease diagnostics are needed for national-level inference.",
+  "oa_url": "https://doi.org/10.3390/insects17111107",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.3390/insects17111107"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemasaran, rantai pasok & rantai nilai"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-29",
+  "summary_id": null,
+  "relevance": 7
+ },
+ {
   "id": "W7223673070",
   "doi": "10.1016/j.foodpol.2026.103185",
   "title": "Advancing sustainable food systems cooperation in trade agreements: Lessons from Chile",
