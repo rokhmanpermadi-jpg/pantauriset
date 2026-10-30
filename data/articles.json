@@ -1,5 +1,725 @@
 [
  {
+  "id": "W7224116892",
+  "doi": "10.1186/s12966-026-02004-w",
+  "title": "Sociodemographic and cardiometabolic risk correlates of adherence to pediatric behavioral guidelines: an ecological momentary assessment study",
+  "date": "2026-10-29",
+  "year": "2026",
+  "journal": "International Journal of Behavioral Nutrition and Physical Activity",
+  "issn": "14795868",
+  "publisher": "BioMed Central",
+  "authors": [
+   "Junia Nogueira de Brito",
+   "Yasemin Inceoglu",
+   "Allan Tate",
+   "Mark A. Pereira",
+   "Jerica M. Berge"
+  ],
+  "abstract": "Abstract Background Modifiable daily behaviors are important predictors of pediatric cardiovascular health. The 9-5-2-1-0 mnemonic, based on ≥ 9 hours of sleep, ≥ 5 servings of fruits/vegetables, ≤ 2 hours of screen time, ≥ 1 hour of physical activity, and 0 sugar-sweetened beverages (SSB), provides an accessible framework for pediatric health promotion, yet adherence has not been evaluated using real-time behavioral assessment, and its association with cardiometabolic risk indicators in children remains insufficiently characterized. This study used ecological momentary assessment (EMA) to describe daily adherence patterns to the 9-5-2-1-0 guidelines, examine sociodemographic correlates of adherence, and explore associations between adherence and cardiometabolic risk indicators among children from predominantly low-income and racially and ethnically diverse households. Methods Data were drawn from the Family Matters cohort (Minneapolis/St. Paul, Minnesota). A subsample completed 7 days of EMA ( n = 562), and a subset underwent objective assessment of cardiometabolic risk indicators ( n = 330). EMA characterized daily adherence to the 9-5-2-1-0 guidelines. Higher adherence was defined as meeting 4–5 guidelines versus 0–3. Generalized estimating equations with robust standard errors were used to estimate prevalence ratios for sociodemographic correlates and mean differences for associations with cardiometabolic outcomes (blood pressure, waist circumference, heart rate, and BMI percentile). Results Children contributed 3,596 observation days; most daily scores reflected moderate adherence (2–4), while meeting none of the guidelines was rare. On days when only one guideline was met, adherence most commonly reflected screen time or sleep, whereas fruit/vegetable intake, physical activity, and limiting SSB intake co-occurred primarily on higher-adherence days. Higher adherence was less common among Black, Hispanic, Hmong, and Native American children and among those living in households with lower income, lower caregiver education, and experiencing food insecurity. Higher adherence was associated with more favorable cardiometabolic profiles, particularly lower systolic blood pressure and BMI percentile. Conclusions EMA data revealed meaningful disparities in adherence to the 9-5-2-1-0 guidelines and suggest that greater adherence may be associated with more favorable indicators of cardiometabolic health in childhood. Clinical and public health strategies to improve adherence to these behavioral guidelines should be culturally responsive and aligned with the social and structural contexts that shape families’ capacity to adopt and sustain lifestyle behaviors.",
+  "oa_url": "https://doi.org/10.1186/s12966-026-02004-w",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1186/s12966-026-02004-w"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Ketahanan pangan rumah tangga"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-30",
+  "summary_id": null,
+  "relevance": 0
+ },
+ {
+  "id": "W7224106258",
+  "doi": "10.3390/su182110951",
+  "title": "Agricultural and Rural Big Data Policy and Agribusiness Supply Chain Resilience: Implications for Sustainable Agriculture in China",
+  "date": "2026-10-28",
+  "year": "2026",
+  "journal": "Sustainability",
+  "issn": "20711050",
+  "publisher": "Multidisciplinary Digital Publishing Institute",
+  "authors": [
+   "Xiaonong Deng",
+   "Yujia Deng"
+  ],
+  "abstract": "Supply chain resilience supports sustainable agriculture by helping firms maintain operations and food supply during disruptions. This study examines whether agricultural digital public infrastructure strengthens agribusiness supply chain resilience, using China’s 2016 Agricultural and Rural Big Data Pilot Program as a quasi-natural experiment within a difference-in-differences design. The estimates indicate that the program significantly improves supply chain resilience. Exploratory channel analyses provide evidence consistent with bank-credit and corporate digital-transformation channels. The estimated gains are greater among state-owned enterprises, firms with digitally experienced executives, and firms in regions with higher internet penetration. Component analyses show positive estimates for agricultural data sharing, market-based investment and operational mechanisms, and big-data applications, whereas commodity-specific database development has no statistically detectable effect. These findings contribute to sustainability research by linking digital public infrastructure to the capacity of agribusinesses to withstand and recover from disruptions, an important foundation for the economic sustainability of agricultural supply chains. They also suggest that coordinated investment in data infrastructure, financing access, and digital capabilities may support more reliable agricultural supply and sustainable agricultural development, particularly in economies with fragmented production and limited information sharing.",
+  "oa_url": "https://doi.org/10.3390/su182110951",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.3390/su182110951"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemasaran, rantai pasok & rantai nilai"
+  ],
+  "priority_journal": true,
+  "language": "en",
+  "found_at": "2026-10-30",
+  "summary_id": {
+   "tujuan": "Menguji apakah infrastruktur data publik pertanian digital memperkuat ketahanan rantai pasok agribisnis, dengan memanfaatkan Program Percontohan Big Data Pertanian dan Pedesaan China 2016 sebagai eksperimen kuasi-alami.",
+   "metode": "Desain difference-in-differences dengan program 2016 sebagai kebijakan kuasi-eksperimental; data perusahaan agribisnis di China. Ukuran sampel, periode pengamatan, dan teknik estimasi lanjutan tidak disebutkan dalam abstrak.",
+   "temuan": "Program secara signifikan meningkatkan ketahanan rantai pasok agribisnis, dengan keuntungan lebih besar pada BUMN, perusahaan yang eksekutifnya berpengalaman digital, dan wilayah berpenetrasi internet tinggi. Analisis saluran yang bersifat eksploratif konsisten dengan jalur kredit bank dan transformasi digital perusahaan, tetapi belum membuktikan mekanisme secara kausal. Komponen berbagi data, investasi dan operasi berbasis pasar, serta aplikasi big data berdampak positif, sedangkan pengembangan basis data komoditas spesifik tidak signifikan.",
+   "keterbatasan": "Abstrak tidak secara eksplisit membahas keterbatasan. Dari desain, analisis saluran bersifat eksploratif sehingga mekanisme belum terkonfirmasi, validitas identifikasi DiD bergantung pada asumsi tren paralel yang tidak diuraikan, dan generalisasi ke luar China belum teruji.",
+   "relevansi": "Temuan tentang kredit dan kapabilitas digital sebagai jalur ketahanan rantai pasok relevan dengan riset akses pasar dan pembiayaan petani kecil di Kalimantan Tengah. Kerangka ini dapat diuji ulang pada rantai nilai sawit atau komoditas pangan lokal yang produksinya terfragmentasi dan pertukaran informasinya terbatas.",
+   "skor": 4,
+   "model": "claude-haiku-5-5",
+   "sumber": "abstrak"
+  },
+  "relevance": 55
+ },
+ {
+  "id": "W7224091327",
+  "doi": "10.1038/s41598-026-78017-z",
+  "title": "Prevalence of anaemia and Associated Factors among pregnant women attending antenatal care in a rural district of Northern Ghana: a cross-sectional study",
+  "date": "2026-10-28",
+  "year": "2026",
+  "journal": "Scientific Reports",
+  "issn": "20452322",
+  "publisher": "Nature Portfolio",
+  "authors": [
+   "Nawaf Saeed",
+   "Abdul-Latif Abdul-Rahaman",
+   "Abdul Salam Fusheini",
+   "Latif Dawuda",
+   "Rostella Mensah",
+   "Allou Leander Achageba"
+  ],
+  "abstract": "Abstract Anaemia in pregnancy contributes to maternal and perinatal morbidity in sub-Saharan Africa, but facility-level evidence from the Sawla-Tuna-Kalba district of the Savannah Region of Ghana is lacking. We conducted a facility-based cross-sectional study of 410 pregnant women attending antenatal care (ANC) at three health facilities, recruited through multistage simple random sampling. Data were collected through interviews. Haemoglobin concentration was determined with the use of venous blood specimens in an automated hematology analyzer, and anaemia was defined using World Health Organization (WHO) trimester-specific thresholds.Chi-square tests and binary logistic regression were used (two-sided p < 0.05). The prevalence of anaemia was 52.2% (95% confidence interval [CI]: 47.2–57.1) among women attending the three facilities. In the multivariable model, women with junior high/middle-level education had significantly lower odds of anaemia than women with no formal education (adjusted odds ratio [aOR] = 0.41, 95% CI: 0.21–0.80), and women who initiated ANC in the second trimester had more than twice the odds of anaemia compared with the first trimester (aOR = 2.11, 95% CI: 1.11–4.01). Dietary diversity and the other variables were not significantly associated with anaemia. Anaemia was common in this facility-based sample, but the representativeness of the wider population could not be established. These cross-sectional associations do not establish causation, and the findings support early ANC initiation and anaemia prevention counselling for all pregnant women.",
+  "oa_url": "https://doi.org/10.1038/s41598-026-78017-z",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1038/s41598-026-78017-z"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender",
+   "Ketahanan pangan rumah tangga"
+  ],
+  "priority_journal": true,
+  "language": "en",
+  "found_at": "2026-10-30",
+  "summary_id": {
+   "tujuan": "Mengestimasi prevalensi anemia pada ibu hamil yang mengikuti antenatal care (ANC) di Kabupaten Sawla-Tuna-Kalba, Savannah Region, Ghana Utara, serta mengidentifikasi faktor yang berasosiasi dengannya. Studi ini juga menguji peran pendidikan, waktu inisiasi ANC, dan keragaman pangan.",
+   "metode": "Studi cross-sectional berbasis fasilitas kesehatan dengan 410 ibu hamil dari tiga fasilitas, dipilih melalui multistage simple random sampling. Data dikumpulkan melalui wawancara dan pengukuran hemoglobin dari sampel darah vena dengan automated hematology analyzer, dengan ambang batas WHO spesifik trimester; analisis memakai chi-square dan regresi logistik biner. Periode pengumpulan data tidak disebutkan.",
+   "temuan": "Prevalensi anemia sebesar 52,2% (95% CI: 47,2–57,1). Pendidikan SMP/setara berasosiasi dengan odds anemia lebih rendah dibanding tanpa pendidikan formal (aOR = 0,41; 95% CI: 0,21–0,80), sedangkan inisiasi ANC pada trimester kedua berasosiasi dengan odds lebih tinggi dibanding trimester pertama (aOR = 2,11; 95% CI: 1,11–4,01). Keragaman pangan tidak berhubungan signifikan.",
+   "keterbatasan": "Penulis mengakui keterwakilan populasi yang lebih luas tidak dapat ditetapkan karena sampel berbasis fasilitas. Desain cross-sectional hanya menunjukkan asosiasi, bukan kausalitas.",
+   "relevansi": "Relevansi langsung terhadap agenda pemasaran pertanian, rantai nilai, dan kelembagaan petani rendah karena studi ini berfokus pada kesehatan maternal. Temuan keragaman pangan yang tidak signifikan dapat menjadi pembanding terbatas bagi kajian ketahanan pangan rumah tangga di Kalimantan Tengah.",
+   "skor": 2,
+   "model": "claude-haiku-5-5",
+   "sumber": "abstrak"
+  },
+  "relevance": 40
+ },
+ {
+  "id": "W7224122837",
+  "doi": "10.9734/jsrr/2026/v32i114663",
+  "title": "An Economic Analysis of Green-gram in Sehore District of Madhya Pradesh, India",
+  "date": "2026-10-28",
+  "year": "2026",
+  "journal": "Journal of Scientific Research and Reports",
+  "issn": "23200227",
+  "publisher": "Sciencedomain International",
+  "authors": [
+   "Shivani Yadav",
+   "Ankita Sahu",
+   "Sudhir Singh",
+   "Neha Dwivedi",
+   "Aditya Singh",
+   "Madhvi Mehra"
+  ],
+  "abstract": "Aims: The present study analysed the production economics and marketing of Green-gram (Vigna radiata L.). Study Design: A multi-stage sampling technique was adopted. Place and Duration of Study: Bherunda block of Sehore district, Madhya Pradesh, during 2024–25. Methodology: Primary data were collected from 90 farmers, comprising 30 each of small, medium and large farmers, using a structured interview schedule. The data were analysed using standard cost concepts and marketing efficiency measures. Results: The average Cost C3 was ₹42,707.69 per hectare, while the average yield and gross income were 7.77 qtl/ha and ₹71,308.90/ha, respectively. The net return under Cost C3 was ₹28,601.21 per hectare, with a benefit–cost ratio of 1:1.67. Three marketing channels were identified, with the producer’s share in the consumer price ranging from 88.28 to 93.53 per cent and marketing efficiency from 7.53 to 14.45. Major constraints faced by farmers included pest and disease attacks, delayed availability of quality seed, high transportation charges and inadequate market information. Conclusion: The study concluded that Green-gram cultivation was economically viable in the study area, with considerable scope for improving production and marketing efficiency through the timely availability of quality inputs, better market information and improved marketing infrastructure.",
+  "oa_url": "https://doi.org/10.9734/jsrr/2026/v32i114663",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.9734/jsrr/2026/v32i114663"
+  ],
+  "oa_status": "diamond",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Akses & informasi pasar petani",
+   "Pemasaran, rantai pasok & rantai nilai"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-30",
+  "summary_id": null,
+  "relevance": 35
+ },
+ {
+  "id": "W7224079141",
+  "doi": "10.3390/su182110969",
+  "title": "Nonlinear Effects of Digital Empowerment on Agricultural Green Total Factor Productivity in China",
+  "date": "2026-10-28",
+  "year": "2026",
+  "journal": "Sustainability",
+  "issn": "20711050",
+  "publisher": "Multidisciplinary Digital Publishing Institute",
+  "authors": [
+   "Alimire Abudiremu",
+   "Wumaieraili Aimaitikali"
+  ],
+  "abstract": "Achieving sustainable agricultural development requires both technological progress and well-designed public institutions. This paper examines whether regional digital development improves agricultural green total factor productivity (AGTFP) in China—an integrated measure of productivity, resource conservation, and environmental performance—and whether government fiscal intervention conditions that relationship. A city-level digital empowerment index is constructed from digital infrastructure, digital applications, and digital human capital, and AGTFP is measured with a Super-SBM model that incorporates undesirable outputs such as agricultural carbon emissions and excess fertilizer input. Using panel data for 226 prefecture-level cities over 2011–2020, two-way fixed-effects estimates show that digital empowerment is positively and significantly associated with AGTFP: a one-standard-deviation increase in digital empowerment corresponds to roughly 0.03 standard deviations of AGTFP, suggesting that digitalization can advance resource-saving and low-carbon agricultural production. Crucially, this sustainability dividend is not automatic. The positive association weakens as fiscal intervention intensifies, and threshold estimates identify a structural break at a fiscal-intervention ratio of about 0.29, above which the association turns negative—a pattern consistent with fiscal crowding out of market-led digital investment. These findings imply that digital dividends for sustainable agriculture depend on how public spending is allocated, not merely on how much is spent. This paper contributes city-level evidence on the boundary conditions of digital empowerment in agriculture and shows why linear, quadratic, and threshold specifications should be interpreted as distinct forms of nonlinearity rather than as a single policy optimum.",
+  "oa_url": "https://doi.org/10.3390/su182110969",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.3390/su182110969"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": true,
+  "language": "en",
+  "found_at": "2026-10-30",
+  "summary_id": null,
+  "relevance": 35
+ },
+ {
+  "id": "W7224104881",
+  "doi": "10.1079/ab.2026.0081",
+  "title": "What do smallholders hire Fall Armyworm control to do? A jobs-based, segmented design brief from maize systems in Siaya, Kenya",
+  "date": "2026-10-28",
+  "year": "2026",
+  "journal": "CABI Agriculture and Bioscience",
+  "issn": "26624044",
+  "publisher": "BioMed Central",
+  "authors": [
+   "George Ariya",
+   "Violet Kadenyeka Mugalavai",
+   "Lizzy A. Mwamburi"
+  ],
+  "abstract": "Abstract Background : Fall Armyworm (FAW), Spodoptera frugiperda , threatens food security and maize-based livelihoods across sub-Saharan Africa. Adoption research treats control technologies as fixed options whose uptake must be explained. This study asks a prior design question: what job do farmers hire FAW control to do, is that job uniform across farmers, and what must a solution deliver to be retained? Methods : We conducted an abductive thematic analysis of semi-structured interviews with 88 purposively selected smallholder maize farmers in six wards of Siaya County, Kenya. Jobs-to-Be-Done (JTBD) and the Value Proposition Canvas (VPC) were applied retrospectively, because the interviews were not designed as JTBD hiring-timeline interviews. Two researchers coded all records independently against deposited rules (agreement 97.3%; kappa 0.94). Pains and gains were compared across segments defined a priori by market orientation and land constraint, using 95% confidence intervals and Fisher’s exact tests, and read as exploratory. Results : Farmers’ accounts indicated that control was hired to protect the food, income, and stored-grain (buffer) security functions of maize, to reduce anxiety and restore confidence, and to make the control decision defensible through trusted advice and proof observed on farms like the farmer’s own. Interpreted through JTBD, movement among controls is consistent with a stable job pursued through imperfect means. The most prominent pains were uncertain or failed control (98%), cost (89%), risk to human health (75%), and crop damage by the product (75%); the most prominent gains were proof before commitment (100%), value for money (72%), and trusted advice (68%). Income-oriented growers (maize grown wholly or partly for income) more often raised trusted advice, value for money, and ease of use than consumption-only growers, who more often raised restored confidence. Farmers cultivating under one acre more often sought fast, visible control. Only two contrasts survived correction for multiple comparisons, and both segments were confounded with ward, advisory contact, and response length. Eight pains and eight gains were translated into design hypotheses for co-design and testing. Conclusions : Heterogeneous control practices can be read, through a jobs lens, as coherent farmer evaluation, and this evaluation appears to vary with farmer circumstance, although these exploratory patterns need confirmation in larger, multi-site studies. This jobs-first account complements determinant, innovation-systems, and participatory approaches by locating part of the adoption problem in product-service fit, and offers a testable basis for co-designing biopesticides and integrated pest-management packages.",
+  "oa_url": "https://doi.org/10.1079/ab.2026.0081",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1079/ab.2026.0081"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Ketahanan pangan rumah tangga"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-30",
+  "summary_id": null,
+  "relevance": 34
+ },
+ {
+  "id": "W7224077274",
+  "doi": "10.3389/fsufs.2026.1883470",
+  "title": "Property rights, credit access, and farmers’ NTFP investment: evidence from collective forest areas of Liaoning, China",
+  "date": "2026-10-28",
+  "year": "2026",
+  "journal": "Frontiers in Sustainable Food Systems",
+  "issn": "2571581X",
+  "publisher": "Frontiers Media",
+  "authors": [
+   "Yuanyuan Guo",
+   "Tingting Zhang",
+   "He Dan",
+   "Ke Chen"
+  ],
+  "abstract": "Property rights strength refers to the intensity with which property rights are exercised and enforced in practice, reflecting the effectiveness of China’s collective forestry rights reform. Based on the framework of property rights economics and credit rationing theory, and using survey data from 460 households across five counties in Liaoning Province, various econometric models were used to estimate how property rights strength drives farmers’ NTFP investment. The findings reveal that property rights strength has a positive effect on NTFP investment and input allocation. Specifically, social recognition and behavioral capacity exert stronger incentives than legal empowerment. Meanwhile, forest rights mortgage credit accessibility mediates the relationship between property rights strength and farmers’ NTFP investment. The paper concludes with recommendations for policymakers that tenure reforms should not only ensure legal empowerment through formal land certification but also strengthen social recognition and farmers’ behavioral capacity, alongside improving credit access to support NTFP investment in developing countries.",
+  "oa_url": "https://www.frontiersin.org/journals/sustainable-food-systems/articles/10.3389/fsufs.2026.1883470/pdf",
+  "pdf_url": "https://www.frontiersin.org/journals/sustainable-food-systems/articles/10.3389/fsufs.2026.1883470/pdf",
+  "pdf_urls": [
+   "https://www.frontiersin.org/journals/sustainable-food-systems/articles/10.3389/fsufs.2026.1883470/pdf",
+   "https://doi.org/10.3389/fsufs.2026.1883470"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": true,
+  "language": "en",
+  "found_at": "2026-10-30",
+  "summary_id": null,
+  "relevance": 32
+ },
+ {
+  "id": "W7224137502",
+  "doi": "10.1177/14661381261501312",
+  "title": "Dam money and displacement: Laws and intimate rupture in the Muş Alpaslan-1 Dam Project, eastern Turkey",
+  "date": "2026-10-28",
+  "year": "2026",
+  "journal": "Ethnography",
+  "issn": "14661381",
+  "publisher": "SAGE Publishing",
+  "authors": [
+   "Noor Boz"
+  ],
+  "abstract": "Dams are often framed as emblems of national progress and modernisation, yet their construction produces slow, reverberating forms of violence that disrupt everyday life. This article examines the social, legal, and gendered repercussions of the Alpaslan-1 Dam, built on the Murat River in Muş province, Eastern Turkey, drawing on 10 months of fieldwork. The dam submerged villages, displaced thousands, and transformed livelihoods, land ownership, and social relations. Villagers’ encounters with resettlement policies, expropriation laws, and the baraj parası (compensation payments) reveal bureaucratic disjunctures, persistent inequalities, and inheritance conflicts. Patriarchal norms frequently override women’s legal rights, compelling them to relinquish their inheritance to preserve household cohesion, reflecting their ‘triple marginalisation’ across ethnicity, gender, and rural class. Compensation processes largely benefit those with bureaucratic knowledge, exacerbating existing disparities, while delays in infrastructure and resettlement prolong instability. This article shows how infrastructural projects penetrate intimate domains of life, reshaping landscapes, kinship, and lived experience.",
+  "oa_url": "https://doi.org/10.1177/14661381261501312",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1177/14661381261501312"
+  ],
+  "oa_status": "hybrid",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-30",
+  "summary_id": null,
+  "relevance": 23
+ },
+ {
+  "id": "W7224085155",
+  "doi": "10.9734/air/2026/v27i61761",
+  "title": "Economic Feasibility of a CAET Developed Vacuum Assisted Osmotic Dehydration Unit for Pineapple Slices",
+  "date": "2026-10-28",
+  "year": "2026",
+  "journal": "Advances in Research",
+  "issn": "23480394",
+  "publisher": "Sciencedomain International",
+  "authors": [
+   "Rinkesh A. Gosavi",
+   "A. A. Sawant",
+   "A. G. Mohod",
+   "SV Pathak",
+   "P. B. Bansode",
+   "Sandeep Baban Kalse"
+  ],
+  "abstract": "The economic feasibility of a vacuum osmotic dehydration (VOD)-based processing system for pineapple slices was evaluated for potential small-scale application. The developed VOD unit had a batch capacity of 8 kg and a fabrication cost of ₹66,700. Economic assessment was undertaken for the complete processing system, including the VOD unit, vacuum dryer, packaging equipment, utensils and associated infrastructure. The estimated fixed capital investment was ₹3,87,700, while the annual working capital requirement was ₹10,94,100. Based on an operating schedule of 8 h per day and 25 working days per month, the annual production cost was estimated at ₹11,63,816. At the assumed selling price of ₹610 kg⁻¹, the estimated annual revenue was ₹16,46,194.8, resulting in an annual net return of ₹4,82,378.8. The corresponding benefit–cost ratio was 1.40 and the return on revenue was 29.30%. The estimated break-even point was 27.58%, while the payback period was 0.74 years under the assumptions used in the analysis. The calculated production cost of vacuum osmotically dehydrated and vacuum-dried pineapple slices was approximately ₹431 kg⁻¹. These results indicate that the proposed processing system may have potential for small-scale pineapple value addition under the stated production, cost and selling-price assumptions. Further evaluation under varying raw-material, energy, product-recovery and market-price conditions would be useful for assessing the robustness of the projected economic performance.",
+  "oa_url": "https://doi.org/10.9734/air/2026/v27i61761",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.9734/air/2026/v27i61761"
+  ],
+  "oa_status": "diamond",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Komoditas: pisang, nanas, padi rawa"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-30",
+  "summary_id": null,
+  "relevance": 23
+ },
+ {
+  "id": "W7224114521",
+  "doi": "10.3389/fmicb.2026.1974318",
+  "title": "Intelligent systemic microbial monitoring method for fresh food supply chain safety",
+  "date": "2026-10-28",
+  "year": "2026",
+  "journal": "Frontiers in Microbiology",
+  "issn": "1664302X",
+  "publisher": "Frontiers Media",
+  "authors": [
+   "Qing Tian"
+  ],
+  "abstract": "Introduction Microbial safety monitoring in fresh-food systems increasingly relies on heterogeneous information sources, including hyperspectral measurements, microscopy images, structured environmental variables, and temporally related observations. These information sources are not uniformly available across monitoring scenarios, making it inappropriate to impose the same temporal, spectral, or contextual assumptions on every sample. This study proposes the ForwardSpectralProbabilistic (FSP) framework for microbial classification and pathogen-risk prediction under heterogeneous sensing conditions. Methods FSP employs modality-specific encoders to map spectral, image, and structured observations to a common latent dimensionality while preserving their native input representations. Contextual information is incorporated through gated residual fusion when environmental, operational, or acquisition metadata are available. The Forward Consistency Projector generates temporally aligned latent evidence only for observations with a valid predecessor target correspondence, whereas the Spectral Consistency Mapper operates only on measurements with a native spectral axis. The Probabilistic Mixture Integrator then combines the available current, temporal, and spectral representations through availability-normalized learned weights. Harmonic State Projection (HSP) is further introduced as a structured regularization strategy that constrains temporal projection consistency and preserves relationships among low-frequency spectral components without constructing unavailable modalities. The framework is evaluated independently on four publicly accessible microbial-safety datasets covering Salmonella serovar classification from hyperspectral measurements, microscopy-based bacterial classification, poultry Salmonella-Campylobacter risk prediction, and agricultural-water microbial marker prediction. The experiments use modality-matched comparison methods, grouped or stratified data partitioning, and repeated random seeds. Results and discussion The descriptive results show that FSP is competitive across heterogeneous tasks, while its strongest observed performance is not obtained uniformly for every metric and dataset. Spectral-consistency and harmonic-relation modeling provide the clearest gains for native hyperspectral measurements, meteorological context and temporally aligned evidence contribute to the structured poultry-risk task, and acquisition metadata improve robustness under microscopy domain shift. Modality-aware ablation experiments further indicate that spectral, temporal, and contextual mechanisms provide complementary contributions only when the corresponding information is available. FSP provides an availability-aware formulation for microbial monitoring that maintains a consistent prediction framework without imposing artificial spectral or temporal structure on heterogeneous food-safety data.",
+  "oa_url": "https://doi.org/10.3389/fmicb.2026.1974318",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.3389/fmicb.2026.1974318"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemasaran, rantai pasok & rantai nilai"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-30",
+  "summary_id": null,
+  "relevance": 22
+ },
+ {
+  "id": "W7224126783",
+  "doi": "10.3389/fsoc.2026.1944164",
+  "title": "How law legitimized and later recharacterized forced sterilization in Peru: the juridical laundering of biopower",
+  "date": "2026-10-28",
+  "year": "2026",
+  "journal": "Frontiers in Sociology",
+  "issn": "22977775",
+  "publisher": "Frontiers Media",
+  "authors": [
+   "Andherson Jhordan Aguirre-Lanegra",
+   "Jonathan Rafael García Enríquez"
+  ],
+  "abstract": "Between 1996 and 2000, a Peruvian family planning program sterilized hundreds of thousands of people, most of them poor, rural and Indigenous women, many without free consent. The program operated under the cover of a law, a ministerial resolution, numerical sterilization targets and signed consent forms. Since 1997, Peruvian prosecutors and courts, Congress and international human rights bodies have classified the same facts in contradictory ways, for example as an accident, as ordinary crimes barred by time limits, as a lawful health program and as serious human rights violations. This raises a question for the sociology of law: how do legal documents make state control over reproduction look legitimate, and how do they shape later disputes over it? Existing research explains either how such policies were legitimized or how they were contested, but not the link between the two. To connect them, this article proposes the juridical laundering of biopower, a category with two phases. Biopower here means the state’s power over a population’s life and reproduction. First, legal documents present the state’s intervention as lawful, technical and, when framed as voluntary, consented to. Later, prosecutors, courts and other institutions place the same facts in different legal categories, and the category that prevails determines whether anyone can be held responsible. We test four propositions against the program’s documents and 34 decisions and other official acts issued between 1997 and 2026. The evidence supports three of them: the program’s own documents later served as grounds for not prosecuting its architects, the facts were classified in contradictory ways, and none of its architects was convicted. It is consistent with the fourth, on the conditions for accountability. Classifying the facts as human rights violations led to accountability only when domestic and international institutions agreed on that classification, when a binding court decision enforced it, and when time limits did not bar prosecution. The Peruvian case thus shows how a policy that the State presented as lawful can end in a finding that the State itself violated human rights, while no official is held criminally responsible. We call this outcome deferred impunity.",
+  "oa_url": "https://www.frontiersin.org/journals/sociology/articles/10.3389/fsoc.2026.1944164/pdf",
+  "pdf_url": "https://www.frontiersin.org/journals/sociology/articles/10.3389/fsoc.2026.1944164/pdf",
+  "pdf_urls": [
+   "https://www.frontiersin.org/journals/sociology/articles/10.3389/fsoc.2026.1944164/pdf",
+   "https://doi.org/10.3389/fsoc.2026.1944164"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-30",
+  "summary_id": null,
+  "relevance": 19
+ },
+ {
+  "id": "W7224108346",
+  "doi": "10.3390/admsci16110524",
+  "title": "Financial Management and Economic Sustainability in Sociobiodiversity Supply Chains: Evidence from Family Farming in the Brazilian Cerrado",
+  "date": "2026-10-28",
+  "year": "2026",
+  "journal": "Administrative Sciences",
+  "issn": "20763387",
+  "publisher": "Multidisciplinary Digital Publishing Institute",
+  "authors": [
+   "Ricardo Borges Rodrigues de Freitas",
+   "Tânia Marcia de Freitas",
+   "Jean Marc Nacife",
+   "Ítalo José Bastos Guimarães",
+   "Omar Ouro‐Salim",
+   "Maria Gláucia Dourado Furquim",
+   "Frankcione Borges de Almeida",
+   "Jesiel Souza Silva"
+  ],
+  "abstract": "The research examined financial management as a strategic factor associated with the economic sustainability of family farming production units engaged in sociobiodiversity supply chains, with a focus on the municipality of Iporá, Goiás, Brazil. It was based on the understanding that the sociobiodiversity products of the Brazilian Cerrado, in addition to their environmental, social, and cultural value, can be an important source of income and help strengthen rural communities when supported by appropriate management practices. From this perspective, the research sought to understand how family farmers in the region organize their financial management processes, establish pricing strategies, control production costs, and use management tools. It also aimed to identify the main challenges and opportunities related to the economic sustainability of these activities. Furthermore, a practical guide was developed to assist producers in addressing real challenges encountered throughout the production process. Methodologically, the research was characterized as exploratory and descriptive, adopting a mixed-methods approach that drew on a literature review, documentary analysis, field observations, and questionnaires administered to 52 family farmers, selected through non-probabilistic convenience sampling, in the region, and analyzed through descriptive statistics and Fisher’s exact test. The findings indicate that, although sociobiodiversity represents a relevant alternative for generating employment and income, significant weaknesses remain in the financial management of production units, particularly regarding the informality of financial controls (only 15.4% use spreadsheets and 57.7% do not separate household from production expenses), difficulties in measuring production costs (only 25.0% calculate them in detail), and limited access to financial resources. These findings are specific to the studied region and should not be generalized beyond this context.",
+  "oa_url": "https://doi.org/10.3390/admsci16110524",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.3390/admsci16110524"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemasaran, rantai pasok & rantai nilai"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-30",
+  "summary_id": null,
+  "relevance": 17
+ },
+ {
+  "id": "W7224091183",
+  "doi": "10.3390/conservation6040131",
+  "title": "Socioeconomic Drivers of Knowledge on Tree-Based Ecosystem Services in Benin Rice Agroforestry Systems, West Africa",
+  "date": "2026-10-28",
+  "year": "2026",
+  "journal": "Conservation",
+  "issn": "26737159",
+  "publisher": "Multidisciplinary Digital Publishing Institute",
+  "authors": [
+   "Bakounouré Akpo",
+   "Towanou Olivier Houetchegnon",
+   "Gwladys Azongnidé",
+   "Charlotte Yamontché",
+   "Christine Ouinsavi"
+  ],
+  "abstract": "Understanding farmers’ perceptions of ecosystem services (ES) provided by trees in agroecosystems is essential for developing sustainable agricultural landscapes under growing climatic and livelihood pressures. In rice-based agroforestry systems of the Sudano–Sahelian region, trees contribute to productivity, environmental regulation, and rural livelihoods, yet the socioeconomic determinants of farmers’ ecological knowledge remain insufficiently documented. This study examined how socioeconomic attributes shape rice farmers’ perceptions of tree-derived ES in the Niger Valley of northern Benin. Structured interviews were conducted with 401 rice farmers in the communes of Karimama and Malanville to document perceived ES and associated tree functions. Farmers predominantly recognized provisioning and regulating services, including food, shade, soil fertility enhancement, and microclimate regulation, whereas supporting and cultural services such as habitat provision, water purification, and landscape esthetics were less frequently cited. Preferences were largely oriented toward multipurpose tree species that provide immediate livelihood benefits, with preferred key species receiving between 177 and 288 citations. Annual revenue was positively associated with the probability of recognizing at least one ecosystem service, with significant effects for farmers with average annual revenue (β = 0.808, p = 0.005, OR = 2.243) and high annual revenue (β = 0.859, p = 0.037, OR = 2.360). Age and gender were not significant predictors (p > 0.05). However, we found significant associations between formal education and the recognition of selected ecosystem services (Cramér’s V = 0.26, p < 0.001), particularly regulating and supporting services (Cramér’s V = 0.42, p < 0.001).** These findings highlight the role of socioeconomic conditions and differentiated forms of ecological knowledge in shaping farmers’ perceptions of tree-derived ecosystem services in rice-based agroforestry systems in West Africa.",
+  "oa_url": "https://doi.org/10.3390/conservation6040131",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.3390/conservation6040131"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-30",
+  "summary_id": null,
+  "relevance": 17
+ },
+ {
+  "id": "W7223942056",
+  "doi": "10.1016/j.envint.2026.110583",
+  "title": "Breastfeeding duration and residential setting in relation to childhood exposure to organochlorine pesticides and PCBs: a longitudinal study of the Rhea cohort in Crete",
+  "date": "2026-10-28",
+  "year": "2026",
+  "journal": "Environment International",
+  "issn": "01604120",
+  "publisher": "Elsevier BV",
+  "authors": [
+   "Marianna Karachaliou",
+   "Evangelos Handakas",
+   "Theodoros Giakoumis",
+   "Alexandra Parada-Torres",
+   "Danae Costopoulou",
+   "Leondios Leondiadis",
+   "Panu Rantakokko",
+   "Hannu Kiviranta",
+   "Euripides G. Stephanou",
+   "Antonis Myridakis"
+  ],
+  "abstract": "Despite decades-old bans, persistent organic pollutants (POPs), including organochlorine pesticides (OCPs) and polychlorinated biphenyls (PCBs), remain a public health concern owing to persistence and bioaccumulation. Previous Rhea mother–child cohort analyses (Crete, Greece) reported notably high DDE (DDT’s main metabolite) in children, raising questions about postnatal pathways sustaining this post-ban burden. We aimed to characterise associations of residential setting, breastfeeding duration and childhood diet with children’s serum OCP and PCB concentrations, accounting for maternal prenatal serum concentrations. Using linear mixed-effects models, we related breastfeeding duration and residential setting to 947 serum measurements from 443 Rhea children at ages 4, 6.5 and 11 years (n = 375, 239 and 333, respectively). Breastfeeding duration showed the strongest associations, with >4 months (versus never) consistently associated with higher DDE+DDT sum, HCB and PCB concentrations. Associations were strongest at age 4, then attenuated, consistent with growth dilution and elimination, but remained statistically detectable for DDE+DDT sum to age 11, independent of recent diet and parental agricultural occupation. Breastfeeding duration associations were stronger at higher maternal prenatal HCB concentrations (borderline for PCBs), consistent with lactation as one route of maternal-to-child transfer of accumulated body burden. Contrary to the hypothesis that agricultural proximity drives exposure, urban versus rural Heraklion residence was not significantly associated with serum POPs after adjustment for maternal prenatal concentrations, diet and household characteristics. Rather than implying any change to breastfeeding practice, these findings support reducing POP body burden in reproductive-age women, particularly before conception, during pregnancy and lactation, through continued exposure monitoring.",
+  "oa_url": "https://doi.org/10.1016/j.envint.2026.110583",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1016/j.envint.2026.110583"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [
+   "breastfeeding duration",
+   "residential settings",
+   "organochlorine pesticides",
+   "polychlorinated biphenyls",
+   "children's exposure",
+   "prenatal exposure",
+   "Crete"
+  ],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-30",
+  "summary_id": null,
+  "relevance": 15
+ },
+ {
+  "id": "W7224096742",
+  "doi": "10.1186/s12877-026-08460-0",
+  "title": "Exploring nutritional challenges and health risks in older women in rural primary health care setting in Western India",
+  "date": "2026-10-28",
+  "year": "2026",
+  "journal": "BMC Geriatrics",
+  "issn": "14712318",
+  "publisher": "BioMed Central",
+  "authors": [
+   "S. R. Aswathy",
+   "Pankaj Bhardwaj",
+   "Rehana Vanaja Radhakrishnan",
+   "H. Viswanathan",
+   "A. Prakash",
+   "Manoj Kumar Gupta",
+   "Srikanth Srinivasan",
+   "Prem Prakash Sharma",
+   "Akhil Dhanesh Goel"
+  ],
+  "abstract": "With demographic shift, there has been an increase in the proportion of the geriatric female population, resulting in an increased demand for healthcare systems in low resource settings. Evidence on nutritional status and associated morbidities exclusively among geriatric women in rural India remains limited. The current study was conducted to examine the association between Nutritional status and Morbidities among Geriatric women. This analytical cross-sectional study was conducted among 195 geriatric women attending outpatient departments of rural health centres attached to the Institute of National Importance in Western India. Consecutive sampling was used for the study. Nutritional status was assessed using the Mini Nutritional Assessment (MNA®) scale. Comprehensive geriatric assessment was performed using the WHO 10-minute Age-Friendly Primary Care Toolkit along with standardised scales for depression (Geriatric Depression Scale, GDS-15), cognitive impairment (Dementia Assessment Rapid Test, DART), functional ability (Katz Index for Activities of Daily Living, ADL), dependence (Lawton & Brody Instrumental Activities of Daily Living, IADL). Haemoglobin and glycated haemoglobin (HbA1c) were estimated for all participants to assess anaemia status and glycaemic control respectively. Among 195 participants, 12 (6.15%) were malnourished and 83 (42.57%) were at risk of malnutrition. WHO 10- minute comprehensive identified urinary incontinence in 21(10.77%), depression positive in 16(8.21%) using single question screening, falls in 3(1.54%) and inability to recall any items on delayed recall in 6 (3.08%). Further assessment using standardised scales showed that 80 (41.03%) were positive for depression, 62 (31.79%) had high dependence, 34 (17.44%) were highly likely to develop cognitive impairment and 21 (10.76%) had severe functional impairment. Out of all the 195 participants, more than half 102 (52.3%) had anemia. There was a statistically significant association between nutritional status and morbidities among geriatric women. Increasing age (aOR 1.256; 95% CI 1.101–1.433; p = 0.001), financial independence (aOR 0.341; 95% CI 0.121–0.958; p = 0.041) and anemia (aOR 3.451; 95% CI 1.805–6.598; p < 0.001) were found to be factors significantly associated with higher odds of being malnourished or at risk of malnutrition. Geriatric women attending rural outpatient departments had a high proportion at risk of malnutrition, which was significantly associated with anaemia, depression, cognitive impairment, functional impairment. These findings are cross-sectional and do not permit causal inference. Opportunistic comprehensive geriatric screening at the primary care level using validated tools is feasible and can facilitate early identification and referral of at-risk older women.",
+  "oa_url": "https://doi.org/10.1186/s12877-026-08460-0",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1186/s12877-026-08460-0"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-30",
+  "summary_id": null,
+  "relevance": 15
+ },
+ {
+  "id": "W7224105016",
+  "doi": "10.1186/s12889-026-30084-7",
+  "title": "Understanding vulnerability to reproductive, maternal, neonatal and child health outcomes in Senegal using a population segmentation",
+  "date": "2026-10-28",
+  "year": "2026",
+  "journal": "BMC Public Health",
+  "issn": "14712458",
+  "publisher": "BioMed Central",
+  "authors": [
+   "Palash Singh",
+   "Finou Thérèse Mendy",
+   "Camille Kramer Courbariaux",
+   "Yann Le Beux",
+   "Jeremy Cooper",
+   "Daniel Helldén",
+   "Lang Gao",
+   "Michael Kalnoky",
+   "Anu Mishra",
+   "Julia Morvan",
+   "Adja Souadou Mane Sow",
+   "Mouhamadou Moustapha Pouye"
+  ],
+  "abstract": "Abstract Background Senegal has made improvements in maternal and child health over the last decades, but disparities in outcomes persist. There is a limited understanding of how vulnerability to poor maternal, reproductive, neonatal and child health outcomes in the country is distributed. As such, this study aims to understand what distinct population segments can be identified among women in Senegal based on multidimensional social, cultural, behavioural, economic, environmental and health-related characteristics and how maternal, reproductive and child health outcomes differ across these segments. Methods This study uses a cross-sectional descriptive segmentation study design based on the pooled data from the 2018 and 2019 Senegal Demographic and Health Surveys (DHS) that included 7816 women who had been in a union and given birth to a child in the prior 5 years which was the study population. The segmentation was done iteratively, with the initial list of variables developed and matched with the DHS together with the Ministry of Health and maternal and child health experts. After assessing the associations between outcomes and variables of interest, principal component analysis was used to reduce the number of variables and latent class analysis to create segments based on the fit of the model. Results We found 9 segments that were differentiated by urban or rural location and varying vulnerability to poor reproductive, maternal, neonatal and child health outcomes. The segmentation findings show deep health disparities among women in Senegal, with substantial heterogeneity in health behaviours, service utilisation, and structural determinants across population groups. Conclusions The segment-level analysis of Senegalese women reveals entrenched inequalities in health service access and maternal and child health outcomes. Achieving meaningful progress will require a shift from national-average targets to equity-oriented, data-driven, segment-specific strategies combining health system strengthening, sociocultural interventions, and broader socioeconomic development.",
+  "oa_url": "https://doi.org/10.1186/s12889-026-30084-7",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1186/s12889-026-30084-7"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-30",
+  "summary_id": null,
+  "relevance": 15
+ },
+ {
+  "id": "W7224120676",
+  "doi": "10.5737/23688076365808",
+  "title": "Early detection of lung cancer: The past, present, and future",
+  "date": "2026-10-28",
+  "year": "2026",
+  "journal": "Canadian Oncology Nursing Journal",
+  "issn": "1181912X",
+  "publisher": "Pappin Communications",
+  "authors": [
+   "Bonnie O. Leung",
+   "Sylvia Johnston",
+   "Renelle L. Myers",
+   "Stephen Lam"
+  ],
+  "abstract": "Lung cancer remains the leading cause of cancer-related deaths in Canada, primarily due to late-stage diagnoses. While the 5-year survival rate is 69%–82% for stage I disease, it drops sharply to 21%–44% for stage III, and 7%–18% for stage IV. To address this public health crisis, this review examines the evolution and implementation of Canadian lung cancer screening programs. Landmark clinical trials, including the National Lung Screening Trial (NLST) and the Dutch–Belgian lung cancer screening trial (Nederlands–Leuvens Longkanker Screenings Onderzoek [NELSON]) have unequivocally demonstrated that screening with low-dose computed tomography (LDCT) significantly reduces mortality. Presently, all 10 Canadian provinces are advancing organized screening programs utilizing the PLCOm2012 risk prediction model. However, significant systemic gaps persist. Current eligibility criteria rely heavily on smoking history, inadvertently excluding individuals who have never smoked—a demographic accounting for nearly one-quarter of all lung cancer cases. This exclusion disproportionately affects women of South and East Asian descent. Furthermore, geographic barriers limit access for isolated rural populations, and current screening guidelines lack consensus regarding survivors of non-pulmonary primary cancers. To mitigate these limitations, this review explores emerging early detection modalities, including the systematic management of incidental pulmonary nodules, breathomics, and artificial intelligence. Finally, it emphasizes the pivotal role of oncology nurses in patient advocacy, radon education, and tobacco cessation to maximize screening efficacy and ensure equitable access for all Canadians.",
+  "oa_url": "https://doi.org/10.5737/23688076365808",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.5737/23688076365808"
+  ],
+  "oa_status": "diamond",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-30",
+  "summary_id": null,
+  "relevance": 15
+ },
+ {
+  "id": "W7224097403",
+  "doi": "10.1002/advs.78534",
+  "title": "Single‐Nucleus RNA Sequencing Identifies CREM as a Brake on Myofiber Hypertrophy in Chickens",
+  "date": "2026-10-28",
+  "year": "2026",
+  "journal": "Advanced Science",
+  "issn": "21983844",
+  "publisher": "Wiley",
+  "authors": [
+   "Shuang Gu",
+   "Xiyu Zhao",
+   "Zheyi Jiang",
+   "Chaoliang Wen",
+   "王朝义",
+   "Qiulian Wang",
+   "Qiang Huang",
+   "Fangren Lan",
+   "Shenghui Wu",
+   "Junying Li",
+   "Congjiao Sun",
+   "尹华东"
+  ],
+  "abstract": "ABSTRACT Myofiber hypertrophy is central to economically important agricultural traits and vertebrate development, yet the underlying cellular and molecular programs remain elusive. Chickens have undergone substantial divergence in muscle growth following decades of artificial selection, making them a unique model for dissecting these mechanisms at single‐cell resolution. Here, we performed singlenucleus RNA sequencing on 91 144 nuclei from postnatal chicken pectoralis major. Eight major conserved cell populations were resolved, with temporal dynamics exhibiting divergence between fast‐growing broilers and slow‐growing layers. A novel terminally differentiated myocyte subpopulation ( AK1 + myocytes) was markedly enriched in slow‐growing birds. Analysis revealed that accelerated myoblast expansion and delayed terminal differentiation are primary drivers of myofiber hypertrophy, supported by a pro‐growth niche involving IGF‐signaling FAPs and macrophage‐myogenic crosstalk. Further comprehensive analyses identified CREM as a master repressor of myofiber hypertrophy. Mechanistically, CREM directly binds and transcriptionally activates the JUN promoter, and both factors cooperatively sustain the expression of growth inhibitors MSTN, FBXO32, and TRIM63. In vivo and in vitro functional validation confirmed that CREM deletion promotes myofiber hypertrophy, increasing pectoralis major weight and percent by 29.96% and 20.50%, respectively. This study uncovers CREM as a novel brake on myofiber hypertrophy, offering fundamental insights into vertebrate skeletal muscle development.",
+  "oa_url": "https://doi.org/10.1002/advs.78534",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1002/advs.78534"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Kelembagaan petani & tindakan kolektif"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-30",
+  "summary_id": null,
+  "relevance": 14
+ },
+ {
+  "id": "W7224132722",
+  "doi": "10.1007/s43621-026-05157-7",
+  "title": "Uneven livelihood vulnerability across coastal communities in Bangladesh using LVI and logistic regression",
+  "date": "2026-10-28",
+  "year": "2026",
+  "journal": "Discover Sustainability",
+  "issn": "26629984",
+  "publisher": "Springer Nature",
+  "authors": [
+   "Bristi Sarkar",
+   "Md. Tanvir Hossain",
+   "Razaun Parvaz Ovi",
+   "Md. Sohel Rana",
+   "Bishojit Sarkar"
+  ],
+  "abstract": "Livelihood vulnerability associated with climatic hazards is a pressing global concern, particularly for coastal populations in developing countries such as Bangladesh. Owing to their geographic location, coastal areas are disproportionately exposed to climate-related hazards, intensifying existing socio-economic challenges. Using cross-sectional approach over 270 households, equally distributed between Sundarban and Mithakhali unions (135 households per union) in Mongla Upazila, Bangladesh, this study assesses climate-related livelihood vulnerability. The Livelihood Vulnerability Index (LVI) was constructed from 35 indicators to evaluate and compare multidimensional vulnerability between the two unions. Binary logistic regression was further used to examine household-level associations between exposure, sensitivity, adaptive-capacity deficit, location, and a food-insecurity-based indicator of high livelihood stress. The results reveal that Sundarban has a higher overall livelihood vulnerability (LVI = 0.622) than Mithakhali (LVI = 0.560), characterized particularly by greater exposure and sensitivity, while adaptive-capacity conditions are comparatively similar between the two unions. Household-level analysis shows that greater Water- and Health-based sensitivity is significantly associated with high livelihood stress, with a 0.10-point increase in sensitivity corresponding to approximately twice the odds of high livelihood stress (OR = 1.99; 95% CI 1.46–2.72; p < 0.001). Households in Sundarban also have substantially higher odds of high livelihood stress than those in Mithakhali (OR = 5.92; 95% CI 2.52–13.88; p < 0.001), after accounting for the measured vulnerability dimensions. Exposure and adaptive-capacity deficit are not independently associated with livelihood stress in the adjusted model. These disparities highlight the need for location-specific interventions, particularly in food security, safe-water access, healthcare, climate-resilient livelihoods, and infrastructure to strengthen resilience in vulnerable coastal communities.",
+  "oa_url": "https://doi.org/10.1007/s43621-026-05157-7",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1007/s43621-026-05157-7"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Ketahanan pangan rumah tangga"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-30",
+  "summary_id": null,
+  "relevance": 14
+ },
+ {
+  "id": "W7224130994",
+  "doi": "10.3390/s26216806",
+  "title": "Large Language Model-Assisted Multimodal Federated Sensing for Compliance Risk Screening in Cross-Border Trade",
+  "date": "2026-10-28",
+  "year": "2026",
+  "journal": "Sensors",
+  "issn": "14248220",
+  "publisher": "Multidisciplinary Digital Publishing Institute",
+  "authors": [
+   "Xinyi He",
+   "Yifan Yang",
+   "Yuening Wang",
+   "Qingxi Meng",
+   "Yong Zhang",
+   "Jingke Liang",
+   "Manzhou Li"
+  ],
+  "abstract": "With the continuous expansion of cross-border agricultural supply chains, reliable food-safety risk screening under decentralized data ownership, heterogeneous sensing equipment, and jurisdiction-dependent, non-stationary regulatory limits pose a fundamental challenge to intelligent inspection systems. To address these limitations, this paper proposes an LLM-assisted regulation-aware heterogeneous multimodal federated learning framework that establishes a three-tier decoupling architecture. First, an available-modality and quality-adaptive fusion mechanism dynamically weights RGB images, near-infrared (NIR) spectra, and environmental time-series while enforcing strict zero weighting on unavailable modalities and continuous suppression of degraded observations. Second, a regulation-independent state-prototype collaboration and personalized federated learning strategy is developed on a unified continuous concentration scale, enabling cross-institutional transfer of physical contamination representations while avoiding the use of jurisdiction-dependent compliance labels to define shared prototype groups and preserving client-specific adapters against non-IID drift. Third, offline large language model (LLM) parsing transforms unstructured multi-jurisdictional trade regulations into machine-executable rule bases, which are coupled with an uncertainty-aware risk calibration module to dynamically determine exceedance probabilities and reinspection recommendations without retraining front-end sensing encoders when regulatory standards shift. Experimental evaluations on a multisource maize and aflatoxin B1 screening dataset in a workstation-based federated simulation demonstrate that the proposed framework achieves a mean absolute error (MAE) of 0.054±0.002 and a root mean square error (RMSE) of 0.078±0.003, while elevating the area under the curve (AUC) and F1-score to 0.862±0.008 and 0.833±0.009, respectively, reducing the false negative rate (FNR) to 0.121±0.007 (p<0.001). Under severe client heterogeneity and missing-modality scenarios, the proposed approach maintains an AUC of 0.823±0.010 and an F1-score of 0.796±0.011. Ablation and ownership-level analyses assess robustness, calibration (expected calibration error of 0.032), and regulatory adaptation with fixed sensing encoders, providing an end-to-end, traceable decision-support paradigm for international agricultural trade screening.",
+  "oa_url": "https://doi.org/10.3390/s26216806",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.3390/s26216806"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemasaran, rantai pasok & rantai nilai"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-30",
+  "summary_id": null,
+  "relevance": 11
+ },
+ {
   "id": "W7223860682",
   "doi": "10.1186/s12889-026-29265-1",
   "title": "Remotely delivered support to promote physical activity behaviour change for women aged 50 years and over: study protocol for the Active Women over 50 hybrid type I effectiveness-implementation randomised controlled trial",
@@ -39,6 +759,250 @@
   "found_at": "2026-10-29",
   "summary_id": null,
   "relevance": 23
+ },
+ {
+  "id": "W7224100882",
+  "doi": "10.1002/hpja.70272",
+  "title": "Effects of Participation in a Community‐Based Food Cooperative on Food Security and Dietary Behaviours: A Pre‐Post Study",
+  "date": "2026-10-27",
+  "year": "2026",
+  "journal": "Health Promotion Journal of Australia",
+  "issn": "10361073",
+  "publisher": "Wiley",
+  "authors": [
+   "Holly Hliounakis",
+   "Katherine Kent",
+   "Cristy Brooks",
+   "Jordan Scavera",
+   "Catherine Fleming",
+   "Nicky Morrison",
+   "Lei Si",
+   "David S Simmons",
+   "Jason H. Y. Wu",
+   "Lucy Chapman",
+   "Freya MacMillan"
+  ],
+  "abstract": "INTRODUCTION: Community-based food cooperatives have shown potential in addressing food insecurity, but longitudinal evidence assessing their impact is limited. This study evaluated the effects of participating in a community-based food cooperative on food insecurity, dietary behaviours, and physical health outcomes among Australian adults. METHODS: A pre-post survey of new cooperative members measured demographics, household food insecurity status (United States Department of Agriculture 6-item Household Food Security Survey Module (HFSSM)), dietary behaviours (servings/day of core food groups), and objective physical health indicators (weight, waist circumference, and blood pressure). Participants were classified as secure (HFSSM score = 0) or insecure (HFSSM score ≥ 1). A McNemar's test assessed the change in proportion of participants classified as food insecure from baseline to follow-up, and paired t-tests or non-parametric equivalents compared other outcomes. RESULTS: At baseline, 58 participants completed surveys, and 25 completed physical data collection. Participants were primarily female (93.1%), 18-33 or 35-44 years old (37.9% each), and of European background (81.0%). The proportion of participants reporting food security improved from baseline (54.2%) to follow-up (66.7%) (p = 0.041). Importantly, participants who were food secure remained so at follow-up. Those who were food insecure also reported more favourable improvements in dietary behaviours and meal preparation habits, though many of these did not reach statistical significance. CONCLUSION: Participation in a community-based food cooperative was associated with improved food security among Australian adults. SO WHAT?: These findings highlight the potential of community-based food cooperatives to reduce food insecurity and support their integration into broader health promotion and food security strategies.",
+  "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/hpja.70272",
+  "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/hpja.70272",
+  "pdf_urls": [
+   "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/hpja.70272",
+   "https://doi.org/10.1002/hpja.70272"
+  ],
+  "oa_status": "hybrid",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Kelembagaan petani & tindakan kolektif",
+   "Ketahanan pangan rumah tangga"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-30",
+  "summary_id": {
+   "tujuan": "Mengevaluasi dampak keikutsertaan dalam koperasi pangan berbasis komunitas terhadap kerawanan pangan, perilaku diet, dan indikator kesehatan fisik pada orang dewasa Australia.",
+   "metode": "Studi pra-pascaintervensi (pre-post survei) pada anggota baru koperasi pangan berbasis komunitas di Australia. Sebanyak 58 responden menyelesaikan survei dan 25 orang menjalani pengukuran fisik. Instrumen meliputi USDA 6-item Household Food Security Survey Module, konsumsi porsi harian kelompok pangan utama, berat badan, lingkar pinggang, dan tekanan darah. Analisis menggunakan McNemar test, paired t-test, atau uji nonparametrik. Periode tindak lanjut tidak disebutkan.",
+   "temuan": "Proporsi peserta yang tergolong aman pangan meningkat dari 54,2% menjadi 66,7% (p = 0,041). Peserta yang sudah aman tetap aman pada tindak lanjut, dan peserta yang rawan pangan menunjukkan perbaikan konsumsi dan kebiasaan memasak, meski sebagian besar tidak signifikan secara statistik. Temuan ini bersifat asosiatif, bukan kausal, karena desainnya tanpa kelompok pembanding.",
+   "keterbatasan": "Tidak ada kelompok kontrol sehingga perubahan tidak dapat sepenuhnya diatribusikan pada keikutsertaan koperasi. Ukuran sampel kecil dan jumlah data fisik hanya 25 orang. Sampel didominasi perempuan (93,1%) dan berlatar belakang Eropa (81,0%), dan data diet bersifat laporan diri. Penulis tidak menyebutkan keterbatasan secara eksplisit dalam abstrak.",
+   "relevansi": "Model koperasi pangan dapat dibandingkan dengan koperasi petani dan skema rantai pasok pendek di Kalimantan Tengah sebagai mekanisme ketahanan pangan rumah tangga. Namun, studi ini berfokus pada konsumen perkotaan dan hasil kesehatan, bukan pada pendapatan atau akses pasar petani kecil, sehingga relevansinya dengan agenda riset terbatas.",
+   "skor": 2,
+   "model": "claude-haiku-5-5",
+   "sumber": "abstrak"
+  },
+  "relevance": 38
+ },
+ {
+  "id": "W7223793776",
+  "doi": "10.1002/agr.70174",
+  "title": "Ties That Bind and Thrive: The Effect of Inter‐Organizational Networks on Farmer Cooperatives' Economic Performance",
+  "date": "2026-10-27",
+  "year": "2026",
+  "journal": "Agribusiness",
+  "issn": "07424477",
+  "publisher": "Wiley",
+  "authors": [
+   "Yu Gan",
+   "Ziming Han",
+   "Jingxuan Dong",
+   "Li Lin"
+  ],
+  "abstract": "ABSTRACT This paper examines the influence of inter‐organizational networks on farmer cooperatives' economic performance. Using nationwide registration and annual‐report data from 2014 to 2020 in China, we construct annual inter‐cooperative networks based on shared registered members and exploit a shell cooperative governance reform for identification. We provide evidence consistent with a positive role of inter‐organizational networks in cooperative performance: one additional cooperative connected through shared registered member is associated with a 5,703 RMB increase in sales revenue per member. This relationship is stronger for cooperatives with higher farmer inclusiveness, without brand certification, located in less developed regions, and operating in plantation sectors, suggesting that inter‐organizational networks may serve as critical information intermediaries, particularly under conditions of high information asymmetry. The results offer valuable insights for policymakers seeking to design effective incentives to support the sustainable development of farmer cooperatives.",
+  "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/agr.70174",
+  "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/agr.70174",
+  "pdf_urls": [
+   "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/agr.70174",
+   "https://doi.org/10.1002/agr.70174"
+  ],
+  "oa_status": "bronze",
+  "cited_by": 0,
+  "keywords": [
+   "interorganizational networks",
+   "agricultural cooperatives",
+   "information intermediaries",
+   "information asymmetry",
+   "regional development",
+   "plantation agriculture",
+   "China"
+  ],
+  "topics": [
+   "Kelembagaan petani & tindakan kolektif"
+  ],
+  "priority_journal": true,
+  "language": "en",
+  "found_at": "2026-10-30",
+  "summary_id": null,
+  "relevance": 34
+ },
+ {
+  "id": "W7223969965",
+  "doi": "10.1186/s12909-026-10706-9",
+  "title": "Does health policy matter to future doctors? a survey of medical students’ policy awareness and career intentions",
+  "date": "2026-10-27",
+  "year": "2026",
+  "journal": "BMC Medical Education",
+  "issn": "14726920",
+  "publisher": "BioMed Central",
+  "authors": [
+   "Roopa S. Bhat",
+   "Adrianna Neff",
+   "Megan Facey",
+   "Peyton Williams",
+   "Azza Abid",
+   "Kristina M. Tocce",
+   "Jennifer Gaide"
+  ],
+  "abstract": "Medical students encounter healthcare policy topics that may shape their training and practice environments. This study described self-reported awareness of selected policy topics and whether students perceived them as relevant to specialty choice, residency location, primary care, and rural practice. A cross-sectional electronic survey was conducted between October and November 2025 among medical students at the University of Colorado School of Medicine and Rocky Vista University College of Osteopathic Medicine in Colorado, United States. Students from all training years were eligible, with no age restriction. Items measured awareness, information sources, perceived relevance of six policy topics—reproductive health, research funding, student loans/forgiveness, scope of practice, vaccination, and prescription drugs—to career decisions, and ranked career factors. Frequencies, percentages, and median ranks were calculated. Exploratory comparisons examined reproductive health policy relevance by training year and gender. Of 215 students who reported a school, 188 finished the survey; item denominators varied. Awareness was reported by 91% of respondents for student loan and reproductive health policy changes. Among 195 respondents to the information-source item, 72% selected word of mouth from friends, family, or colleagues and 50% selected Instagram. Among respondents to the corresponding items, 54% reported reproductive health policy as relevant to specialty choice and 74% to residency location; the survey did not establish the direction of these yes/no responses. Reproductive health policy relevance differed between cisgender women and men in exploratory comparisons, but not across training years. Autonomy, family considerations, salary, job availability, and rural versus urban location were among the higher-priority factors across specialty and residency rankings. Students reported awareness of selected policy topics and perceived some as relevant to career planning, alongside established personal and professional factors. Because policy terms were undefined and career outcomes were self-reported intentions, these results should not be interpreted as evidence that policies changed students’ choices.",
+  "oa_url": "https://doi.org/10.1186/s12909-026-10706-9",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1186/s12909-026-10706-9"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [
+   "health policy",
+   "medical students",
+   "policy awareness",
+   "career intentions",
+   "physician career choice",
+   "medical education"
+  ],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-30",
+  "summary_id": null,
+  "relevance": 23
+ },
+ {
+  "id": "W7224101072",
+  "doi": "10.36956/rwae.v7i4.105655",
+  "title": "Gender and Income Differences among Workers: Evidence from the Agricultural Sector in Vietnam",
+  "date": "2026-10-27",
+  "year": "2026",
+  "journal": "Research on World Agricultural Economy",
+  "issn": "27374777",
+  "publisher": "",
+  "authors": [
+   "Van Hung Pham",
+   "Thi Yen Le"
+  ],
+  "abstract": "As economies grow, social and economic challenges also become more visible. Gender-based income inequality remains a key concern for both researchers and policymakers. In Vietnam, this issue is drawing attention from the government, civil society, and workers. There is a shared interest in promoting stable and balanced development. This study examines income differences between men and women in the agricultural sector. The data come from a 2025 survey of 498 agricultural workers in Vietnam. The analysis uses an Ordinary Least Squares (OLS) model and a t-test to evaluate the effect of gender on income. The findings revealed that, when comparing income differences by gender among workers in the same occupation, men typically earn more than women. Specifically, the standardized coefficient beta for the interaction between gender and job position is −0.059. Additionally, men also earn more than women when they have the same education level, with a standardized coefficient beta of −0.290 for the interaction between gender and education level. The income difference test further indicated that men's income is generally higher than women's by approximately VND 6,011,000 per month (equivalent to approximately USD 228 per month). Based on these findings, the study puts forward several recommendations to reduce gender-based income disparities among agricultural workers in Vietnam.",
+  "oa_url": "https://files.nasspublishing.com/uploads/9/copyediting_typesetting/2026/10/copyediting_typesetting_7a058b7e06eeb2fc5f33fd6730308fa7.pdf",
+  "pdf_url": "https://files.nasspublishing.com/uploads/9/copyediting_typesetting/2026/10/copyediting_typesetting_7a058b7e06eeb2fc5f33fd6730308fa7.pdf",
+  "pdf_urls": [
+   "https://files.nasspublishing.com/uploads/9/copyediting_typesetting/2026/10/copyediting_typesetting_7a058b7e06eeb2fc5f33fd6730308fa7.pdf",
+   "https://doi.org/10.36956/rwae.v7i4.105655"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-30",
+  "summary_id": null,
+  "relevance": 22
+ },
+ {
+  "id": "W7223906974",
+  "doi": "10.1080/15378020.2026.2751620",
+  "title": "Crystallized labor, commodity fetishism, and the logic of food waste in hospitality and tourism",
+  "date": "2026-10-27",
+  "year": "2026",
+  "journal": "Journal of Foodservice Business Research",
+  "issn": "15378020",
+  "publisher": "Taylor & Francis",
+  "authors": [
+   "Viachaslau Filimonau",
+   "Hakan Sezerel"
+  ],
+  "abstract": "This conceptual paper approaches the phenomenon of food waste in hospitality and tourism through the Marxist theory of labor. It re-interprets labor as a physical process shifting from gaseous intentions and skills to liquid monetary exchange and solid crystallization. In the hospitality and tourism food supply chain, the paper identifies three major strata of actors: farmers, chefs, and customers. Farmers and chefs solidify their labor in food, while customers, rather than producing, reflect or respond to that labor by engaging in commodity fetishism. Alienation arises as labor becomes crystallized and commodified, leading to a disconnection facilitating wastage. Building on the metaphor of annealing, a process softening hardened structures, the paper explores how this alienation might be reversed in different foodservice sectors. It suggests that, by reconnecting customers to the labor embodied in food production and preparation via narrative menus and ethical certification, kitchens can reduce commodity fetishism and minimize waste.",
+  "oa_url": "https://www.tandfonline.com/doi/pdf/10.1080/15378020.2026.2751620?needAccess=true",
+  "pdf_url": "https://www.tandfonline.com/doi/pdf/10.1080/15378020.2026.2751620?needAccess=true",
+  "pdf_urls": [
+   "https://www.tandfonline.com/doi/pdf/10.1080/15378020.2026.2751620?needAccess=true",
+   "https://doi.org/10.1080/15378020.2026.2751620"
+  ],
+  "oa_status": "hybrid",
+  "cited_by": 0,
+  "keywords": [
+   "food waste",
+   "hospitality industry",
+   "tourism",
+   "commodity fetishism",
+   "labor theory of value",
+   "food service management"
+  ],
+  "topics": [
+   "Pemasaran, rantai pasok & rantai nilai"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-30",
+  "summary_id": null,
+  "relevance": 15
+ },
+ {
+  "id": "W7224120764",
+  "doi": "10.1111/tmi.70241",
+  "title": "Determinants of Infant Diarrhoea and Respiratory Illness in a Low‐Resource Community in South Africa: A Structural Equation Modelling",
+  "date": "2026-10-27",
+  "year": "2026",
+  "journal": "Tropical Medicine & International Health",
+  "issn": "13602276",
+  "publisher": "Wiley",
+  "authors": [
+   "Regina Nakiranda",
+   "Cristian Ricci",
+   "Linda Malan",
+   "Hannah Ricci",
+   "Arista Nienaber",
+   "Mieke Faber",
+   "Cornelius Mattheus Smuts"
+  ],
+  "abstract": "BACKGROUND: Diarrhoea and acute respiratory infections continue to cause significant morbidity in children under 5 years, influenced by multiple factors. This secondary data analysis of the Eggcel randomised controlled study aimed to explore the association of anthropometric status, food insecurity, socioeconomic and environmental factors with diarrhoea and respiratory morbidity in children aged 6-9 months from a low-resource community in South Africa. METHODS: We utilised data from 216 infants in the control group who completed the Eggcel-growth randomised controlled trial in Jouberton, South Africa. Baseline data on maternal and infant demographics, household socioeconomic and environmental conditions were collected using a questionnaire. Food insecurity was assessed through the Food Insecurity Experience Scale (FIES). Anthropometric measurements, including weight, height and head circumference, taken at baseline were used. Morbidity symptoms were recorded daily by mothers using a visual wellness diary. The exposure latent variables included anthropometric status, environmental conditions, food insecurity and socioeconomic status. Outcome variables were diarrhoea or respiratory episodes over the 6-month follow-up period. Structural equation modelling (SEM) was performed using R version 4.5.0. RESULTS: Infants with diarrhoea had higher stunting and underweight rates at 28/75 (37.3%) and 9/75 (12.0%), respectively, and the highest access to safe water at 74/75 (98.7%). Higher anthropometric status was associated with a 31% reduction in diarrhoea (IRR = 0.69; 95% CI: 0.50, 0.95; p = 0.022). Respiratory episodes were not associated with any of the latent factors. CONCLUSION: Nutritional status was an important determinant of diarrhoeal morbidity among infants in a low socioeconomic community but was not associated with respiratory morbidity. These findings suggest context-specific pathways through which nutritional, food insecurity and environmental factors may be associated with childhood morbidity.",
+  "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/tmi.70241",
+  "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/tmi.70241",
+  "pdf_urls": [
+   "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/tmi.70241",
+   "https://doi.org/10.1111/tmi.70241"
+  ],
+  "oa_status": "hybrid",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Ketahanan pangan rumah tangga"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-30",
+  "summary_id": null,
+  "relevance": 15
  },
  {
   "id": "W7223931763",
