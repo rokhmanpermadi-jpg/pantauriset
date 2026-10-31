@@ -1,5 +1,983 @@
 [
  {
+  "id": "W7224528278",
+  "doi": "10.3389/fclim.2026.1992976",
+  "title": "The role of climate information in enhancing household food security in rural northern Ghana",
+  "date": "2026-10-29",
+  "year": "2026",
+  "journal": "Frontiers in Climate",
+  "issn": "26249553",
+  "publisher": "Frontiers Media",
+  "authors": [
+   "Abraham Zakaria",
+   "Seidu Alhassan"
+  ],
+  "abstract": "Smallholder climate resilience in sub-Saharan Africa is limited by low uptake of adaptation technologies due to poor access to climate forecast information services (CFIS). Cross-sectional data from 2,934 farming households in northern Ghana are used to explore econometric drivers of CFIS access and its causal mediation on household food security. Probit marginal effects show that access to agricultural extension, formal literacy, radio ownership, and perceptions of climate stress strongly increase the likelihood of CFIS adoption. However, peripheral upper west and northeast households face severe access deficits due to infrastructure dead zones and ethno-linguistic barriers, respectively. Two-stage causal mediation and generalized structural equation modeling (GSEM) indicate that CFIS access significantly increases dietary diversity by 0.210 units and significantly reduces food insecurity access anxiety by 0.103 units. Agricultural yield is a strong and significant partial mediator, but only 7.8–14.6% of total food security gains are mediated by it. That is, direct risk-buffering channels dominate (about 85.4 to 92.2%); hence, CFIS is primarily an adaptive safety net for off-farm labor reallocation, asset preservation, and consumption smoothing. Policymakers need to move beyond narrow agronomic advice to integrated climate risk management by bundling CFIS with weather-index insurance, local-language interactive voice response platforms, and decentralized extension networks.",
+  "oa_url": "https://www.frontiersin.org/journals/climate/articles/10.3389/fclim.2026.1992976/pdf",
+  "pdf_url": "https://www.frontiersin.org/journals/climate/articles/10.3389/fclim.2026.1992976/pdf",
+  "pdf_urls": [
+   "https://www.frontiersin.org/journals/climate/articles/10.3389/fclim.2026.1992976/pdf",
+   "https://doi.org/10.3389/fclim.2026.1992976"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Ketahanan pangan rumah tangga",
+   "Adopsi teknologi & pertanian digital"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-31",
+  "summary_id": {
+   "tujuan": "Menguji faktor penentu akses layanan informasi prakiraan iklim (CFIS) pada rumah tangga petani kecil di Ghana utara dan mengestimasi jalur pengaruhnya terhadap ketahanan pangan melalui hasil panen.",
+   "metode": "Survei cross-sectional rumah tangga petani (DecLaRe 2023) di lima wilayah utara Ghana, dengan pengumpulan data November–Desember 2023 dan 2.934 rumah tangga dianalisis (dari 2.970 sampel). Pengambilan sampel multistage berbasis Sensus 2021; analisis menggunakan probit (marginal effects) untuk determinan akses CFIS, causal mediation dua tahap, dan GSEM, dengan uji Sobel, Delta method, dan Monte Carlo (10.000 iterasi).",
+   "temuan": "Sekitar 22% rumah tangga memiliki akses CFIS; penyuluhan, literasi, kepemilikan radio, dan persepsi tekanan iklim meningkatkan peluangnya, sementara wilayah Upper West dan Northeast tertinggal. Akses CFIS dikaitkan dengan skor keragaman pangan lebih tinggi 0,210 unit dan kecemasan akses pangan lebih rendah 0,103 unit. Hasil panen hanya memediasi 7,8–14,6% efek total, sehingga sekitar 85–92% berjalan melalui jalur non-hasil; karena desain cross-sectional, temuan ini lebih tepat dibaca sebagai asosiasi kuat meskipun dilabeli kausal.",
+   "keterbatasan": "Desain cross-sectional tidak memungkinkan verifikasi urutan waktu, dan asumsi tidak adanya confounding tak teramati dalam mediasi sulit diuji. Hasil panen diukur sebagai output total per hektare, dan FCS serta HFIAS bergantung pada recall responden; bagian keterbatasan penulis (Bagian 7) tidak termuat dalam teks yang diberikan.",
+   "relevansi": "Kerangka ini relevan untuk riset adopsi informasi iklim, ketahanan pangan, dan peran penyuluhan di Kalimantan Tengah, terutama bagi petani yang menghadapi kemarau panjang dan banjir. Pendekatan mediasi hasil panen dan peran radio serta ponsel dapat diuji ulang pada petani padi maupun petani sawit swadaya untuk melihat apakah jalur risiko dan pendapatan berbeda di konteks Indonesia.",
+   "skor": 4,
+   "model": "claude-haiku-5-5",
+   "sumber": "teks penuh"
+  },
+  "relevance": 61
+ },
+ {
+  "id": "W7224604507",
+  "doi": "10.1080/23322039.2026.2740328",
+  "title": "Does environmental spending matter for firm value? Source-verified evidence from Indonesia’s listed palm oil companies",
+  "date": "2026-10-29",
+  "year": "2026",
+  "journal": "Cogent Economics & Finance",
+  "issn": "23322039",
+  "publisher": "Cogent OA",
+  "authors": [
+   "Eddy Irsan Siregar",
+   "Luqman Hakim",
+   "Darto Darto"
+  ],
+  "abstract": "Indonesian listed palm oil companies report environmental spending on waste management, rehabilitation, emissions control, renewable energy, and biodiversity, but reporting labels and measurement boundaries vary across firms. This study examines whether source-verified annual environmental expenditure is positively associated with firm value. The sample is an unbalanced panel of 40 firm-year observations from 11 companies during 2020–2024. The expenditure measure includes identifiable annual monetary environmental spending and excludes inseparable social-responsibility totals, general operating costs, and cumulative project-investment stocks. Approximate Tobin’s Q is the primary outcome, with price-to-book value, lagged expenditure, firm-and-year fixed effects, source-value sensitivities, and a limited 2025 extension used for robustness checks. Inference combines HC1 standard errors, small-cluster adjustment, and an exact wild-cluster bootstrap. The baseline coefficient is negative and insignificant (β = −0.102; HC1 p = 0.878; cluster p = 0.924; wild-bootstrap p = 0.905), while robustness specifications likewise show no significant positive association. Environmental expenditure was therefore not positively and significantly associated with firm value in the sampled firms and period. The study contributes a source-audited monetary measure distinct from broad ESG ratings.",
+  "oa_url": "https://doi.org/10.1080/23322039.2026.2740328",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1080/23322039.2026.2740328"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Kelapa sawit"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-31",
+  "summary_id": {
+   "tujuan": "Menguji apakah belanja lingkungan tahunan yang terverifikasi sumbernya berasosiasi positif dengan nilai perusahaan pada perusahaan sawit terdaftar di Indonesia. Studi ini juga mengusulkan ukuran moneter belanja lingkungan yang berbeda dari peringkat ESG.",
+   "metode": "Desain panel tidak seimbang berisi 40 observasi firma-tahun dari 11 perusahaan sawit terdaftar di Indonesia pada 2020–2024. Variabel utama adalah perkiraan Tobin's Q, dengan PBV, lag belanja, fixed effects firma dan tahun, serta ekstensi terbatas 2025 untuk robustness. Inferensi memakai HC1, koreksi cluster kecil, dan exact wild-cluster bootstrap.",
+   "temuan": "Koefisien baseline negatif dan tidak signifikan (β = −0,102; p HC1 = 0,878; p cluster = 0,924; p wild bootstrap = 0,905). Spesifikasi robustness juga tidak menunjukkan asosiasi positif yang signifikan. Hasil ini bersifat asosiasi, bukan kausalitas, dan belanja lingkungan tidak terbukti berhubungan positif dengan nilai firma pada sampel ini.",
+   "keterbatasan": "Sampel kecil (40 observasi, 11 firma) dan periode pendek membatasi kekuatan uji statistik. Ekstensi 2025 bersifat terbatas, dan panel tidak seimbang.",
+   "relevansi": "Sangat relevan dengan agenda riset dosen pada kelapa sawit dan kelembagaan perusahaan di Kalimantan Tengah, khususnya untuk membandingkan hasil ini dengan data perkebunan skala besar lokal. Studi ini belum menyentuh petani kecil, akses pasar, atau adopsi teknologi digital, sehingga perlu diperluas bila ingin diterapkan pada rantai nilai petani plasma atau swadaya.",
+   "skor": 4,
+   "model": "claude-haiku-5-5",
+   "sumber": "abstrak"
+  },
+  "relevance": 58
+ },
+ {
+  "id": "W7224220788",
+  "doi": "10.1007/s12571-026-01725-x",
+  "title": "Beyond fossil fuels: ensuring food and energy security in low-and-middle-income countries amid recurring geopolitical tensions",
+  "date": "2026-10-29",
+  "year": "2026",
+  "journal": "Food Security",
+  "issn": "18764517",
+  "publisher": "Springer Science+Business Media",
+  "authors": [
+   "Kashi Kafle",
+   "Xudong Rao",
+   "Rodolfo M. Nayga",
+   "Wei Li"
+  ],
+  "abstract": "Abstract The increasing dependence of smallholder agriculture on fossil fuels not only constitutes an energy challenge but also a structural threat to domestic food security in world’s low- and middle-income countries (LMICs), where a majority of the rural population still relies on small-scale agriculture for food and income, yet rapid urbanization has increased food and energy demand. Recurring geopolitical crises, such as the recent Strait of Hormuz crisis, expose one fundamental vulnerability of the food systems in the LMICs: their dependence on imported fossil fuels. Such a dependence leaves both agricultural production and food security vulnerable to energy supply and price shocks. In this Opinion article, we argue that these crises actually could open the ways to, and accelerate, a strategic transition toward renewable-energy-powered agri-food systems. Renewable energy offers proven pathways to enhance domestic food security. Success, however, requires coordinated actions from governments, NGOs, research institutions, and global development stakeholders guided by a systems view, translated in economic terms by comprehensive benefit–cost frameworks, which account for long-term public benefits (e.g. increased food-system resilience, reduced fossil fuel dependence, and environmental footprints), in addition to short-term private benefits.",
+  "oa_url": "https://doi.org/10.1007/s12571-026-01725-x",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1007/s12571-026-01725-x"
+  ],
+  "oa_status": "hybrid",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Ketahanan pangan rumah tangga"
+  ],
+  "priority_journal": true,
+  "language": "en",
+  "found_at": "2026-10-31",
+  "summary_id": {
+   "tujuan": "Artikel opini ini berargumentasi bahwa krisis geopolitik, seperti krisis Selat Hormuz, dapat mendorong transisi strategis menuju sistem agri-pangan berbasis energi terbarukan di negara berpendapatan rendah dan menengah (LMIC). Penulis juga menekankan perlunya kerangka analisis manfaat-biaya yang memperhitungkan manfaat publik jangka panjang.",
+   "metode": "Artikel opini (Opinion article), bukan studi empiris; tidak ada data, lokasi spesifik, periode, ukuran sampel, atau teknik analisis yang disebutkan. Argumen dibangun secara naratif dan konseptual.",
+   "temuan": "Ketergantungan petani kecil dan sistem pangan LMIC pada bahan bakar fosil impor membuat produksi dan ketahanan pangan rentan terhadap guncangan harga dan pasokan energi. Energi terbarukan disebut sebagai jalur yang sudah terbukti untuk memperkuat ketahanan pangan domestik. Keberhasilannya memerlukan koordinasi pemerintah, LSM, lembaga riset, dan pemangku kepentingan pembangunan global dengan pendekatan sistem serta kerangka manfaat-biaya.",
+   "keterbatasan": "Tidak disebutkan secara eksplisit. Sebagai artikel opini, klaim belum didukung analisis empiris kuantitatif, dan bukti keberhasilan energi terbarukan pada agri-pangan tidak dirinci.",
+   "relevansi": "Relevan dengan agenda riset ketahanan pangan dan kebijakan petani kecil, khususnya terkait biaya energi (BBM, pupuk, transportasi hasil) pada rantai pasok petani di Kalimantan Tengah. Kerangka manfaat-biaya yang memasukkan manfaat publik dapat diuji ulang pada program pertanian atau sawit berbasis energi terbarukan di Indonesia, meski artikel ini tidak membahas sawit secara langsung.",
+   "skor": 3,
+   "model": "claude-haiku-5-5",
+   "sumber": "abstrak"
+  },
+  "relevance": 52
+ },
+ {
+  "id": "W7224390474",
+  "doi": "10.3390/agriculture16212361",
+  "title": "Wheat Productivity, Profitability and Environmental Performance Under Cooperative and Smallholder Management Packages in the North China Plain",
+  "date": "2026-10-29",
+  "year": "2026",
+  "journal": "Agriculture",
+  "issn": "20770472",
+  "publisher": "Multidisciplinary Digital Publishing Institute",
+  "authors": [
+   "Shuang Li",
+   "Zhuanyun Si",
+   "Abdoul Kader Mounkaila Hamani",
+   "Zining Wang",
+   "Jiaqi Zhang",
+   "Yang Han",
+   "Xiulu Sun",
+   "Junming Liu",
+   "Bingcheng Si"
+  ],
+  "abstract": "Whether a cooperative management (CM) package can support higher winter wheat productivity and profitability while reducing energy requirements and environmental burdens warrants integrated evaluation. A three-season field comparison (2022–2025) was conducted in the North China Plain to compare CM and smallholder management (SM) packages through an integrated assessment of crop productivity, economic returns, energy performance, carbon footprints and life cycle environmental impacts. Compared with SM, grain yield and aboveground biomass under CM were 2.8–3.7% and 2.5–3.2% higher, respectively. Higher grain revenue and lower production costs were associated with 30.8–38.8% higher net income and a 60.3–72.6% higher net benefit–cost ratio. Total energy input was 14.2–15.6% lower, whereas energy output was 2.5–3.3% higher, with corresponding increases of 4.0–4.9% in net energy and 17.1–18.8% in energy-use efficiency. Fertilizer was the largest contributor to both energy inputs and indirect greenhouse gas emissions. Estimated total and grain yield-scaled carbon footprints were 11.1–13.0% and 13.5–15.6% lower, respectively. Life cycle assessment estimated reductions of 10.1–12.9% across 18 evaluated midpoint impact categories and 11.6% in the total endpoint score, with lower modelled damage scores for human health, ecosystems and resources. These findings indicate more favourable production, economic and modelled environmental performance under the specific CM package and conditions studied. Future studies should validate these findings through long-term, multi-site trials incorporating emission measurements, and soil carbon changes.",
+  "oa_url": "https://doi.org/10.3390/agriculture16212361",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.3390/agriculture16212361"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Kelembagaan petani & tindakan kolektif"
+  ],
+  "priority_journal": true,
+  "language": "en",
+  "found_at": "2026-10-31",
+  "summary_id": null,
+  "relevance": 41
+ },
+ {
+  "id": "W7224454284",
+  "doi": "10.1371/journal.pone.0361976",
+  "title": "Effect of nutrition counseling on complementary feeding practices among mothers with children aged 6–23 months in West Gojjam Zone, Northwest Ethiopia: A cluster-randomized controlled trial",
+  "date": "2026-10-29",
+  "year": "2026",
+  "journal": "PLoS ONE",
+  "issn": "19326203",
+  "publisher": "Public Library of Science",
+  "authors": [
+   "Shiferaw Birhanu",
+   "Getu Degu Alene",
+   "Yeshalem Mulugeta Demilew"
+  ],
+  "abstract": "Background Appropriate complementary feeding is essential for children’s growth and cognitive development. However, these practices remain inadequate in the study area. Therefore, this study aimed to evaluate the effect of nutrition counseling on complementary feeding practices among mothers with children aged 6–23 months in West Gojjam Zone, Northwest Ethiopia. Methods A two-arm, parallel, cluster-randomized controlled trial was conducted from June 2023 to December 2024 in rural districts of West Gojjam Zone. Thirty clusters (15 per arm) were assigned to either an intervention group (n = 401), which received Health Belief Model-based nutrition counseling by Women’s Development Army leaders, or to a control group (n = 401), which received routine education. The intervention was delivered monthly for nine months from infant age 6–8 months. The primary outcome was appropriate complementary feeding practices. Secondary outcomes included minimum dietary diversity, meal frequency, acceptable diet, and egg/flesh food consumption. Data were collected via interviewer-administered questionnaires. The intervention effect was analyzed using Generalized Estimating Equations with adjustment for potential confounders. Statistical significance was set at p < 0.05. Results The difference-in-differences in appropriate complementary feeding practices between groups was 13.2 percentage points. After adjustment, mothers in the intervention group were nearly 2.5 times more likely to practice appropriate complementary feeding than controls [AOR = 2.49, 95% CI: (1.40, 4.42)]. Children of counseled mothers were also more likely to achieve minimum dietary diversity [AOR = 1.75, 95% CI: (1.04, 2.93)], minimum meal frequency [AOR = 1.62, 95% CI: (1.01, 2.61)], and minimum acceptable diet [AOR = 2.13, 95% CI: (1.26, 3.59)] compared with controls. Conclusion Health Belief Model-based nutrition counseling was positively associated with improvements in appropriate complementary feeding practices, minimum dietary diversity, meal frequency, and acceptable diet. Integrating such counseling into routine maternal and child health services may strengthen child nutrition programs in similar rural settings. Trial registration ClinicalTrials.gov ( NCT05871346 ).",
+  "oa_url": "https://doi.org/10.1371/journal.pone.0361976",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1371/journal.pone.0361976"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender",
+   "Ketahanan pangan rumah tangga"
+  ],
+  "priority_journal": true,
+  "language": "en",
+  "found_at": "2026-10-31",
+  "summary_id": null,
+  "relevance": 40
+ },
+ {
+  "id": "W7224663074",
+  "doi": "10.1186/s40795-026-01536-5",
+  "title": "Stakeholder-led nutrition security interventions and households’ nutritional status in Eastern Ethiopia",
+  "date": "2026-10-29",
+  "year": "2026",
+  "journal": "BMC Nutrition",
+  "issn": "20550928",
+  "publisher": "BioMed Central",
+  "authors": [
+   "Mideksa Fufa Jilito",
+   "Fekadu Beyene Kenee",
+   "Andreas Thiel",
+   "Chanyalew Seyoum Aweke"
+  ],
+  "abstract": "Ethiopia’s government has been implementing several initiatives and policies to address nutrition problems. However, nutrition problems affect the country’s socioeconomic and health circumstances. The aim of this study was to examine stakeholders’ interventions in improving the nutrition of rural households. Primary data was digitally collected from randomly selected 385 households. In addition to the household survey, data was gathered from stakeholders to examine their contributions to households’ nutrition security. Thus, 84 stakeholder employees were purposively selected for the survey. The generalized ordered logit model was applied to estimate factors associated with households’ nutritional status using household data. Stakeholder data was analyzed separately using descriptive analysis to complement household data. The finding of the study indicated that the average household dietary diversity score was 4.02. This figure is lower than the 5.42 national household dietary diversity score. Additionally, 50% of the sampled households fell into the category of low dietary diversity. The survey results also revealed that several stakeholders intervene in the production and consumption of nutrient-dense crops through training, seed delivery, and home-garden-based vegetable production. Finally, the econometric model results revealed that access to extension services, irrigation facilities, and engaging women in farming activities were positively associated with the medium and high nutritional status of rural households. The sex of the household head, credit services, market distance, healthcare services, and changes in weather variability were negatively correlated with the medium and high nutritional status of households. Therefore, relevant stakeholders working on agriculture and nutrition interventions should pay attention to take action on nutrition-related concerns in eastern Ethiopia.",
+  "oa_url": "https://doi.org/10.1186/s40795-026-01536-5",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1186/s40795-026-01536-5"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender",
+   "Ketahanan pangan rumah tangga"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-31",
+  "summary_id": null,
+  "relevance": 38
+ },
+ {
+  "id": "W7224524130",
+  "doi": "10.3390/su182110999",
+  "title": "New Quality Productive Forces, Factor Levels, and Food Security",
+  "date": "2026-10-29",
+  "year": "2026",
+  "journal": "Sustainability",
+  "issn": "20711050",
+  "publisher": "Multidisciplinary Digital Publishing Institute",
+  "authors": [
+   "Fuxiong Yan",
+   "Haoxuan Sun",
+   "Mingtao Zhao",
+   "Wu Chen",
+   "Junxiu Song"
+  ],
+  "abstract": "Food security (FS) is central to China’s economic development and social stability. Accelerating the development of new quality productive forces (NQPFs) provides an important pathway for safeguarding FS. Existing research on agricultural NQPFs, however, has largely remained conceptual or theoretical, with limited systematic evidence on the relationship between NQPFs and FS and insufficient attention to the internal transmission mechanisms, particularly those related to factor levels (FLs). Using panel data for 29 provinces, municipalities, and autonomous regions in China from 2013 to 2023, we employ the entropy-weight method to measure the development level of NQPFs and a two-way fixed-effects model to estimate their effect on FS. We further examine the mediating roles of technological progress, rural human capital, and financial support for agriculture. The results show that NQPFs significantly improve FS, and this finding remains robust across a series of robustness and endogeneity checks. Heterogeneity analysis indicates that the effect is significantly positive in grain production–consumption-balanced regions and in central and western China. Mechanism analysis shows that NQPFs strengthen FS by promoting technological progress, improving rural human capital, and enhancing financial support for agriculture, thereby optimizing the allocation of key production factors. By incorporating FLs into the analysis, this study extends the theoretical framework linking agricultural NQPFs to FS and provides policy implications for improving factor allocation, fostering agricultural NQPFs, and strengthening the capacity to safeguard FS.",
+  "oa_url": "https://doi.org/10.3390/su182110999",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.3390/su182110999"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Ketahanan pangan rumah tangga"
+  ],
+  "priority_journal": true,
+  "language": "en",
+  "found_at": "2026-10-31",
+  "summary_id": null,
+  "relevance": 35
+ },
+ {
+  "id": "W7224329325",
+  "doi": "10.3389/fsoc.2026.1833956",
+  "title": "Beyond visibility: gendered yield disparities in cowpea and soybean production in Nigeria",
+  "date": "2026-10-29",
+  "year": "2026",
+  "journal": "Frontiers in Sociology",
+  "issn": "22977775",
+  "publisher": "Frontiers Media",
+  "authors": [
+   "Djana Babatima Mignouna",
+   "Lucky Osabuohien Omoigui",
+   "Oluyemi Titilola Akintayo",
+   "Beatrice Anim Aighewi",
+   "Stephen Kyei‐Boahen",
+   "Adebayo Akinboye Akinola"
+  ],
+  "abstract": "Introduction Gender inequalities in agriculture may persist despite increasing recognition of women’s participation. However, evidence on the magnitude and observable sources of gender-associated yield gaps in Nigeria’s cowpea and soybean production systems remains limited. This study examines gender differences in resource access and agricultural decision-making, and estimates yield differentials between male- and female-headed farms. Methods A cross-sectional survey was conducted between October and December 2022 across six major legume-producing states in Nigeria, involving 1,010 respondents. Farmer observations that met the required outcome and covariate criteria were used in the econometric analyses. Propensity Score Matching (PSM) and Oaxaca–Blinder decomposition were employed to estimate conditional gender-associated yield differences and assess the contribution of observed endowments. Results PSM revealed a conditional male yield advantage of 429.34 kg/ha (SE = 253.01; t = 1.70; p < 0.10). Oaxaca-Blinder decomposition estimates mean yields of 730.44 kg/ha for female-headed farms and 1,070.80 kg/ha for male-headed farms, yielding a significant female–male differential of −340.37 kg/ha ( p < 0.05). The endowment component (−438.91 kg/ha; p < 0.01), whereas the coefficient and interaction components were not statistically significant. Discussion The findings suggest that differences in observed productive endowments contribute significantly to gender-associated yield disparities. However, they do not establish causal relationships between yield differences and inequalities in land rights, seed access, credit, extension services, or decision-making authority. The study highlights the importance of distinguishing women’s agricultural participation and visibility from their access to productive resources and effective control over agricultural decisions.",
+  "oa_url": "https://www.frontiersin.org/journals/sociology/articles/10.3389/fsoc.2026.1833956/pdf",
+  "pdf_url": "https://www.frontiersin.org/journals/sociology/articles/10.3389/fsoc.2026.1833956/pdf",
+  "pdf_urls": [
+   "https://www.frontiersin.org/journals/sociology/articles/10.3389/fsoc.2026.1833956/pdf",
+   "https://doi.org/10.3389/fsoc.2026.1833956"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-31",
+  "summary_id": null,
+  "relevance": 34
+ },
+ {
+  "id": "W7224546859",
+  "doi": "10.3390/su182111017",
+  "title": "Financing Women’s Farming Entrepreneurship: The Role of Agricultural Lending, Land Access, and Regional Heterogeneity in Kazakhstan",
+  "date": "2026-10-29",
+  "year": "2026",
+  "journal": "Sustainability",
+  "issn": "20711050",
+  "publisher": "Multidisciplinary Digital Publishing Institute",
+  "authors": [
+   "Т. Arzayeva",
+   "Baglan AIMURZINA",
+   "Zhanat Bulakbay",
+   "Gaukhar Mataibaeva",
+   "Ramazan Sadvakassov",
+   "Gaukhar Kodasheva"
+  ],
+  "abstract": "Unequal access to agricultural resources remains a major obstacle to women’s entrepreneurship and inclusive rural development in Central Asia, yet empirical evidence on how agricultural lending relates to women’s farming entrepreneurship is limited. This study examines the relationship between institutional agricultural lending and the number of women-led farms in 20 regions of Kazakhstan in 2015–2024. Pooled ordinary least squares, two-way fixed effects, the between estimator and the Mundlak regression are used to separate differences between regions from changes within regions over time; k-means clustering and a Random Forest model are supplementary methods. The pooled model shows a positive and statistically significant association between lending and women-led farms. With region and year fixed effects, the estimated association becomes smaller and is not statistically significant, although a within-region relationship cannot be ruled out. The official indicator of women granted agricultural land varies widely across regions. Cluster analysis identifies two groups of regions that differ in the level and growth of women-led farms, while the Random Forest model shows limited predictive ability. The study provides regional panel evidence from Kazakhstan and highlights the importance of regional context, while incomplete metadata limit conclusions about women’s access to land.",
+  "oa_url": "https://doi.org/10.3390/su182111017",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.3390/su182111017"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": true,
+  "language": "en",
+  "found_at": "2026-10-31",
+  "summary_id": null,
+  "relevance": 32
+ },
+ {
+  "id": "W7224183054",
+  "doi": "10.11648/j.ajbio.20261405.13",
+  "title": "Weed Diversity and Infestation in Elaeis Guineensis Agroecosystems of Industrial Plantations in the Grands Ponts Region, Southern Ivory Coast",
+  "date": "2026-10-29",
+  "year": "2026",
+  "journal": "American Journal of BioScience",
+  "issn": "23300159",
+  "publisher": "Science Publishing Group",
+  "authors": [
+   "Gboga Kouadio",
+   "Kra Frederic Kouame",
+   "Adama Kone",
+   "Abdessalem Chahed",
+   "Edouard Yves Gilchrist Kouadio",
+   "Richmond Baka",
+   "Marie-Solange Tiébré",
+   "N&apos;Takpe Boraud"
+  ],
+  "abstract": "In oil palm cultivation, weeds are a major obstacle due to their negative effects on crop growth, soil fertility, and agricultural management systems. They compete with crops for the elements necessary for crop development and growth. Therefore, weed control is essential for maintaining yields. However, effective weed control requires knowledge of the weeds specific to palm oil groves and their potential harmfulness to the crop. This study aims to assess the floristic diversity and weed infestation in oil palm plantations within the Integrated Agricultural Unit (IAU) in Irobo, southern part of Côte d'Ivoire. A total of 250 floristic inventories were conducted across 5 localities, based on 2 ecological variables: age groups and toposequence, each with 3 options. Walk-through surveys using the \"field walk\" method were conducted within each 2500 m 2 plot to identify the weed species, genera, families, and biological types present, and to assess their frequencies, abundance-dominance, and potential harmfulness. As a result, a total of 657 species were identified, comprising 373 genera distributed across 98 botanical families. The most represented families are Fabaceae (65), Poaceae (61), Cyperaceae (37), Rubiaceae (36), Asteraceae (33), Apocynaceae (32), and Malvaceae (25). Dicotyledons and hemicryptophytes were the most common, accounting for 74.58% and 20%, respectively. The infestation diagram highlighted five of the nine groups and showed their infestation levels. Nephrolepis biserrata, Pueraria phaseoloides , and Heterotis rotundifolia are the species in group G1, that could be considered the major general weeds and the most harmful in the study area. In addition, Steinchisma laxum and Croton hirtus are identified as potential general weeds belonging to group G2. This study identified the main classes, families, species, and biological types of weeds present, as well as their potential to be harmful in industrial oil palm plantations. It could help guide the development of sustainable weed management practices in industrial oil palm plantations.",
+  "oa_url": "https://doi.org/10.11648/j.ajbio.20261405.13",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.11648/j.ajbio.20261405.13"
+  ],
+  "oa_status": "diamond",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Kelapa sawit"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-31",
+  "summary_id": null,
+  "relevance": 31
+ },
+ {
+  "id": "W7224235522",
+  "doi": "10.3390/socsci15110747",
+  "title": "“Pay or Be a Jailbird”: Female-Driven Post-Coital Extortion in Rural Limpopo, South Africa",
+  "date": "2026-10-29",
+  "year": "2026",
+  "journal": "Social Sciences",
+  "issn": "20760760",
+  "publisher": "Multidisciplinary Digital Publishing Institute",
+  "authors": [
+   "Nthabanele Enoch Rabotata",
+   "Prudence Mafa",
+   "Medwin Dikwanyane Sepadi"
+  ],
+  "abstract": "Post-coital financial extortion, colloquially known as “pay or be a jailbird”, is an under-researched form of sexual–economic exploitation in rural South Africa. This phenomenological qualitative study explored the lived experiences of ten men in Tafelkop, Limpopo Province, who had experienced financial demands following consensual sexual encounters, typically under threat of false rape allegations or public exposure. Participants were recruited through snowball sampling and interviewed using semi-structured guides in Sepedi and English. Data were analyzed using Braun and Clarke’s six-phase thematic analysis, guided by the Social–Ecological Model (SEM) and Feminist Theory. Four interlinked themes emerged: (1) substance use as a facilitator of impaired consent and subsequent manipulation; (2) threats of legal and social sanction as primary coercive mechanisms; (3) mutual economic precarity that normalizes extortion as a survival strategy; and (4) profound psychological distress and legal disenfranchisement that perpetuate victim silence. The findings reveal that vulnerability to coercion is not gender-exclusive but is structurally produced at individual, interpersonal, community, and societal levels. This study contributes a gendered ecological model of coercion and underscores the urgent need for gender-inclusive legal reforms, community-based psychosocial interventions, and socio-economic empowerment programs that address both male victimization and women’s structural marginalization in rural South African contexts.",
+  "oa_url": "https://doi.org/10.3390/socsci15110747",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.3390/socsci15110747"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-31",
+  "summary_id": null,
+  "relevance": 30
+ },
+ {
+  "id": "W7224638502",
+  "doi": "10.3389/fragi.2026.1983741",
+  "title": "Sociodemographic patterns of psychological distress, non-communicable diseases, and disability among south Africans 60 years and older: a generalized structural equation modelling approach",
+  "date": "2026-10-29",
+  "year": "2026",
+  "journal": "Frontiers in Aging",
+  "issn": "26736217",
+  "publisher": "Frontiers Media",
+  "authors": [
+   "Sbonelo Charles Chamane",
+   "Simangaliso Mnyandu",
+   "Lehlogonolo Makola",
+   "Musawenkosi Mabaso",
+   "Zaynab Essack",
+   "Ronel Sewpaul",
+   "Sean Jooste",
+   "Sizulu Moyo",
+   "Nompumelelo Precious Zungu",
+   "Khangelani K Zuma"
+  ],
+  "abstract": "Background South Africa is experiencing a steady increase in ageing population alongside a growing burden of non-communicable diseases (NCDs), disability and mental health challenges. However, the interplay between these conditions in later life remains underexplored. Methods The study draws data from the sixth South African National HIV Prevalence, Incidence and Behaviour Survey which used a multi-stage, stratified, cluster random sampling design. The analysis estimated the prevalence of self-reported psychological distress, NCDs and disability among adults aged 60 years and older. Sociodemographic factors associated with these outcomes were examined using a Generalized Structural Equation Model. Results Among adults aged 60 years and older, the prevalence of psychological distress was 3.1%, NCDs 59.7%, and disability 64.1%. Having at least one NCD significantly increased the likelihood of psychological distress, while having a disability increased the likelihood of having an NCD. Women and those aged 70–79 years had higher odds of both NCDs, and disability compared to men and those aged 60–69 years, respectively. Compared to Black Africans, participants from other racial groups had lower odds of distress but higher odds of NCDs. Relative to primary education, secondary education lowered the odds of distress and disability but increased the odds of NCD, while tertiary education was only protective against disability. Unemployment was associated with higher odds of NCDs, while residing in rural informal areas and never being married was associated with lower odds of NCDs only, compared to those who were employed, living in urban areas and ever married, respectively. Conclusion The findings highlight strong interconnections between chronic disease, disability and mental health in later life, shaped by age, sex, education, marital status and place of residence. Interventions that integrate social, physical and psychological care are essential to improving healthy ageing outcomes in South Africa.",
+  "oa_url": "https://www.frontiersin.org/journals/aging/articles/10.3389/fragi.2026.1983741/pdf",
+  "pdf_url": "https://www.frontiersin.org/journals/aging/articles/10.3389/fragi.2026.1983741/pdf",
+  "pdf_urls": [
+   "https://www.frontiersin.org/journals/aging/articles/10.3389/fragi.2026.1983741/pdf",
+   "https://doi.org/10.3389/fragi.2026.1983741"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-31",
+  "summary_id": null,
+  "relevance": 26
+ },
+ {
+  "id": "W7223123335",
+  "doi": "10.1186/s42055-026-00131-7",
+  "title": "Transforming the global food system for environmental sustainability and food security",
+  "date": "2026-10-29",
+  "year": "2026",
+  "journal": "Sustainable Earth Reviews",
+  "issn": "25208748",
+  "publisher": "BioMed Central",
+  "authors": [
+   "TB Sapkota",
+   "P Alexander",
+   "A Odingo",
+   "J Fanzo",
+   "J Mercon",
+   "J Fuller",
+   "MF Fontefransesco",
+   "LA Reisch",
+   "K Noble"
+  ],
+  "abstract": "The global food system simultaneously drives and is threatened by intersecting planetary crises of climate change, biodiversity loss, land degradation and desertification, and pollution and waste. Food production and consumption generate approximately one-third of anthropogenic greenhouse gas (GHG) emissions, account for 39% of global deforestation, and impose external costs estimated at US$15 to US$20 trillion annually. This is roughly double the US$9 trillion value of food consumed each year globally. While total food production has consistently increased since the Green Revolution, over 700 million people remain chronically hungry, 878 million adults are obese, and all countries face at least one form of malnutrition. Projections indicate that total food demand will rise 35% between 2020 and 2050, leading to further biodiversity loss, accelerating climate change, and worsening nutritional inequity, if we stay on a business-as-usual course. The fuel and fertilizer shortage and the resulting risk of a major food crisis triggered by the closure of the Strait of Hormuz demonstrate the structural fragility of current food systems. This paper synthesizes findings of state-of-the-art scientific literature into a set of solutions for delivering food systems that are simultaneously productive, nutritionally adequate, environmentally sustainable, and socially just. We categorize the solutions in five pathways: shifting to healthy and sustainable diets; improving crop, livestock, and aquatic food production and land-use systems; reducing food loss and waste while increasing circularity; expanding novel foods and production processes; and restructuring food industry market structures and trade. These pathways are mutually reinforcing and must be pursued simultaneously. Their combined deployment could contribute to climate mitigation, reduce global agricultural land expansion, and reduce diet-attributable disease burden — outcomes that no individual pathway achieves in isolation. Policy reforms, including subsidy repurposing, true-cost pricing, and coordinated trade policy, are critical to foster enabling conditions across all pathways. Making our food systems environmentally and socially sustainable requires urgent, coordinated, and integrated action from all actors across the food value chain.",
+  "oa_url": "https://doi.org/10.1186/s42055-026-00131-7",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1186/s42055-026-00131-7",
+   "https://www.repository.cam.ac.uk/handle/1810/409785",
+   "https://doi.org/10.17863/cam.135936"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [
+   "global food system",
+   "environmental sustainability",
+   "food security",
+   "climate change",
+   "greenhouse gas emissions from food production",
+   "biodiversity loss",
+   "land degradation",
+   "food loss and waste"
+  ],
+  "topics": [
+   "Pemasaran, rantai pasok & rantai nilai"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-31",
+  "summary_id": null,
+  "relevance": 24
+ },
+ {
+  "id": "W7224205421",
+  "doi": "10.1080/13691058.2026.2748405",
+  "title": "‘We first have to agree’: childbearing decision-making among HIV sero-different couples along Lake Victoria, Kisumu, Kenya",
+  "date": "2026-10-29",
+  "year": "2026",
+  "journal": "Culture Health & Sexuality",
+  "issn": "13691058",
+  "publisher": "Taylor & Francis",
+  "authors": [
+   "Phoebe Olugo",
+   "Marylyn Ochillo",
+   "Felix Okuta",
+   "Maurine Atieno",
+   "Laura Cox",
+   "Amy A. Conroy",
+   "Zachary Kwena",
+   "Lisa Abuogi",
+   "Carol S. Dawson-Rose",
+   "Mark Ayallo",
+   "Lynae A. Darbes",
+   "Carol S. Camlin"
+  ],
+  "abstract": "Among couples, gender-based power dynamics regarding childbearing decision-making can impact reproductive health outcomes. Guided by interdependence theory, we examined power and gender roles in childbearing decision-making among HIV sero-different couples to inform programmes and interventions supporting safer reproductive decisions to prevent HIV infection. This dyadic qualitative study was conducted between November 2023 and February 2024, with 16 HIV sero-different heterosexual couples (n = 32) in rural fishing communities in Kisumu County, Kenya. During in-depth interviews, participants shared perspectives on childbearing decision-making to elicit dyadic factors involved. Data were analysed at individual and dyadic levels using framework analysis. This study revealed three primary themes associated with childbearing decision-making within couples: (1) a strong desire for children; (2) the importance of gender and societal norms that shape the perceptions of men and women about power; and (3) a tension between collaborative joint decision-making that happens within couples and women’s constrained individual autonomy which led to women’s control of pregnancy timing through both overt and covert means. Despite norms of male-led reproductive decision-making, most couples demonstrated collaborative, unity-focused approaches, indicating nuanced shared power dynamics. Future programmes and interventions could focus on couple unity and agreement to support safer conception outcomes in HIV sero-different couples.",
+  "oa_url": "https://doi.org/10.1080/13691058.2026.2748405",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1080/13691058.2026.2748405"
+  ],
+  "oa_status": "hybrid",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-31",
+  "summary_id": null,
+  "relevance": 23
+ },
+ {
+  "id": "W7224669422",
+  "doi": "10.3389/fsufs.2026.1954641",
+  "title": "Dietary diversity indicators: evolution, measurement, and interpretative challenges",
+  "date": "2026-10-29",
+  "year": "2026",
+  "journal": "Frontiers in Sustainable Food Systems",
+  "issn": "2571581X",
+  "publisher": "Frontiers Media",
+  "authors": [
+   "Brian Kipkoech",
+   "Tensae Berhanu Fororo",
+   "Mercy Kilel"
+  ],
+  "abstract": "Dietary diversity is widely used to assess food variety and household food access, and as a proxy for nutrient adequacy; however, substantial heterogeneity in indicator construction and interpretation limits comparability across studies. This narrative-conceptual review examined the evolution, measurement, and application of dietary diversity indicators, drawing on literature identified through Scopus, Web of Science, PubMed, reference screening, and relevant institutional guidance. The synthesis distinguished six overlapping methodological categories: food-count-based, composite and dietary guideline-based, nutritional, sustainability- and biodiversity-oriented, temporal, and personalised or biological approaches. Evidence shows that dietary diversity has evolved from simple counts of foods or food groups to multidimensional assessments that incorporate richness, evenness, dissimilarity, nutritional value, species diversity, temporal variability, and individual biological responses. However, indicators within these categories measure distinct constructs and operate at different analytical scales. Accordingly, higher diversity cannot be interpreted universally as evidence of nutrient adequacy, diet quality, health, or environmental sustainability. Household food access, individual consumption, and national food availability likewise require context-based interpretation. The review demonstrates that indicator validity depends less on methodological complexity than on alignment among the construct measured, the unit of analysis, the intended application, and the outcome evaluated. Greater harmonisation of food classifications, reference periods, scoring procedures, and reporting standards is needed. This review advances dietary diversity work by establishing a foundation for matching indicators to specific research and policy objectives and for interpreting findings with greater conceptual and methodological precision.",
+  "oa_url": "https://doi.org/10.3389/fsufs.2026.1954641",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.3389/fsufs.2026.1954641"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Ketahanan pangan rumah tangga"
+  ],
+  "priority_journal": true,
+  "language": "en",
+  "found_at": "2026-10-31",
+  "summary_id": null,
+  "relevance": 23
+ },
+ {
+  "id": "W7224586516",
+  "doi": "10.3389/fpubh.2026.1980538",
+  "title": "Physical activity and non-suicidal self-injury in Chinese adolescents: a two-wave study of anxiety symptoms and social support",
+  "date": "2026-10-29",
+  "year": "2026",
+  "journal": "Frontiers in Public Health",
+  "issn": "22962565",
+  "publisher": "Frontiers Media",
+  "authors": [
+   "Xinyue Pan",
+   "Jianyi Li",
+   "Ting Zhou",
+   "Qi Zhou"
+  ],
+  "abstract": "Background Non-suicidal self-injury (NSSI) is common during adolescence and is associated with substantial psychological burden and elevated subsequent suicide risk. Physical activity (PA) may be a modifiable correlate of NSSI, but prospective evidence on potential emotional mechanisms and social boundary conditions remains limited. This study examined whether baseline PA was associated with subsequent NSSI, whether anxiety symptoms accounted for part of that association, and whether baseline social support moderated the relevant pathways. Methods A school-based two-wave cohort of 756 Chinese adolescents and young students (mean age = 17.36 years, SD = 2.58; 51.7% female) was followed for 6 months. At Time 1 (T1), participants reported PA, social support, anxiety symptoms, NSSI, and demographic characteristics; anxiety and NSSI were reassessed at Time 2 (T2). Autoregressive regression models adjusted for baseline anxiety or NSSI as appropriate, together with age, gender, and urban/rural residence. Indirect effects were estimated with 5,000 bootstrap resamples, and interaction terms were used to examine first- and second-stage moderation. Results Higher T1 PA was associated with lower T2 NSSI after adjustment for T1 NSSI. The indirect association through T2 anxiety was −0.12 [95% CI (−0.18, −0.06)], representing 48.0% of the reported total association. T1 social support significantly moderated the T1 PA-T2 anxiety association ( p = 0.003); simple-slope estimates indicated a stronger inverse PA-anxiety association at higher social support. Social support did not significantly moderate the T2 anxiety-T2 NSSI association ( p = 0.281). Conclusion The findings are consistent with a model in which greater PA is prospectively associated with lower NSSI partly through lower subsequent anxiety, while social support may shape the PA-anxiety link. Because anxiety and NSSI were measured concurrently at follow-up, the indirect effect should not be interpreted as definitive causal mediation. Multi-wave and intervention studies are needed to establish temporal ordering and causality.",
+  "oa_url": "https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2026.1980538/pdf",
+  "pdf_url": "https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2026.1980538/pdf",
+  "pdf_urls": [
+   "https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2026.1980538/pdf",
+   "https://doi.org/10.3389/fpubh.2026.1980538"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-31",
+  "summary_id": null,
+  "relevance": 21
+ },
+ {
+  "id": "W7224284600",
+  "doi": "10.1079/cabionehealth.2026.0034",
+  "title": "Beyond frameworks: The political economy of One Health integration in Africa",
+  "date": "2026-10-29",
+  "year": "2026",
+  "journal": "CABI One Health",
+  "issn": "2791223X",
+  "publisher": "CAB International Publishing",
+  "authors": [
+   "Kudzai Shaun Mpakairi",
+   "Justice Muvengwi",
+   "Blessing Kavhu",
+   "Irene Mhlanga",
+   "Siyamthanda Gxokwe"
+  ],
+  "abstract": "Abstract Background : Africa’s post-pandemic moment has produced an abundance of One Health frameworks but limited critical engagement regarding which integrative arrangements actually work, for whom, and at what scale. Continental frameworks articulate the case for cross-sectoral coordination, yet implementation remains fragmented, and the evidence base for specific policy levers is uneven. Methods : We conducted a purposive narrative review of peer-reviewed literature published between 2020 and 2025, complemented by policy documents from continental and regional bodies. Sources were selected to illustrate both integrative possibilities and documented failure modes of cross-sectoral implementation in Africa. Results : We synthesise evidence across four pathways – health systems, climate-smart agriculture, community-led conservation, and institutional coordination – with digital transformation, gender inclusion, and indigenous knowledge as cross-cutting enablers rather than parallel domains. For each pathway, we engage critically with both flagship successes and their documented limitations. These include evidence gaps in AI-enabled surveillance platforms, governance critiques of community conservation finance, persistent shortfalls in domestic health financing, and a coordination paradox in which continental frameworks have multiplied faster than implementation capacity. Conclusions : Across all four pathways, the binding constraints on One Health integration are political and fiscal rather than conceptual. We identify three policy levers most likely to translate integrative rhetoric into measurable outcomes: mandatory inter-ministerial reporting on shared indicators, legal recognition of community institutions, and ringfenced domestic financing. One Health impact statement This synthesis is relevant to African policy makers, funders, and practitioners working at the intersection of public health, agriculture, conservation, and governance in a period when the external funding environment is shifting rapidly. By examining evidence from four interconnected pathways in parallel, we show that cooperation across the human, veterinary, plant, environmental, and social science sectors surfaces integrative failure modes, such as digital surveillance systems that improve detection without changing outcomes, or conservation finance that celebrates community leadership while eliding governance critiques, that single-sector analyses miss. This synthesis combines peer-reviewed evidence with policy documents, practitioner reports from African-led institutions, and critical scholarship on community governance. We argue that mandatory joint reporting, legal recognition of community institutions, and ringfenced domestic financing are the near-term reforms most likely to translate One Health integration from rhetoric into measurable outcomes.",
+  "oa_url": "https://doi.org/10.1079/cabionehealth.2026.0034",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1079/cabionehealth.2026.0034"
+  ],
+  "oa_status": "diamond",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-31",
+  "summary_id": null,
+  "relevance": 19
+ },
+ {
+  "id": "W7224173343",
+  "doi": "10.1007/s44187-026-01316-x",
+  "title": "Impact of the productive safety net program on rural household food security in Lemo Woreda, Central Ethiopia Regional State",
+  "date": "2026-10-29",
+  "year": "2026",
+  "journal": "Discover Food",
+  "issn": "27314286",
+  "publisher": "Springer Nature",
+  "authors": [
+   "Temesgen Yaekob Ergano"
+  ],
+  "abstract": "This study evaluates the impact of Ethiopia’s Productive Safety Net Program on rural household food security in Lemo Woreda, Central Ethiopia Regional State. Data were collected through a household questionnaire survey from 124 households, comprising 62 program-beneficiary households and 62 non-beneficiary households. Both descriptive statistics and econometric methods were used to analyze the data. A Difference-in-Differences estimation shows that the program has a positive and statistically significant impact on the food security of beneficiary households, while family size has a negative effect on household food security. A binary logit model was also used to estimate the factors associated with improvement in household food security; the results show that beneficiary households have a significantly higher probability of improving their food security than non-beneficiary households. The study recommends that the program continue to be implemented, with adjustments to strengthen its contribution to household asset accumulation alongside its food security gains.",
+  "oa_url": "https://doi.org/10.1007/s44187-026-01316-x",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1007/s44187-026-01316-x"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Ketahanan pangan rumah tangga"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-31",
+  "summary_id": null,
+  "relevance": 19
+ },
+ {
+  "id": "W7224199718",
+  "doi": "10.3390/ijms27219699",
+  "title": "Avocado (Persea americana Mill.) Genomic Divergence Across the Victoria, Tanganyika and Rukwa Lake Basins of Tanzania",
+  "date": "2026-10-29",
+  "year": "2026",
+  "journal": "International Journal of Molecular Sciences",
+  "issn": "14220067",
+  "publisher": "Multidisciplinary Digital Publishing Institute",
+  "authors": [
+   "Andrés J. Cortés",
+   "Juma Mahmud Hussein",
+   "Ibrahim Juma"
+  ],
+  "abstract": "Avocado (Persea americana Mill.) is a crucial horticultural tree crop for food security and rural income in Tanzania. Despite its importance, the genomic divergence of avocado populations in the country’s Lake Zone, Western Zone, and the Southern Highlands region of Rukwa has not previously been investigated. While the Southern Highlands are recognized as a major production hub, a significant knowledge gap exists regarding the genomic diversity, population stratification and racial ancestry of landraces in the Western Rift and Lake Victoria Basin, areas characterized by unique microclimates and historical transboundary trade routes with neighboring Great Lakes nations. Therefore, this study aimed to characterize the genomic diversity of avocado germplasm through low-coverage whole-genome resequencing (lcWGS) of 105 trees from five key regions: Mara, Mwanza and Kagera in the Lake Zone and Lake Victoria Basin; Kigoma in the Western Zone and Lake Tanganyika Basin of the Western Rift; and Rukwa in the Southern Highlands’ Lake Rukwa Basin adjacent to the Lake Tanganyika Basin and Western Rift. The study sought to identify patterns of local differentiation and gene flow. We hypothesized that the avocado populations in these regions are not panmictic but are structured by geographic and ecological barriers, where (i) regions bordering the Albertine Rift (i.e., Kigoma and Kagera) exhibit distinct West Indian types likely shaped by transboundary exchange and climate heterogeneity and (ii) the Lake Victoria Eastern Basin regions of Mwanza and Mara harbor unique intermediate genotypes resulting from inter-racial hybridization with lowland genotypes. The lcWGS screening generated more than 63,577,355 SNPs across a total of 405 studied trees, after compilation with published lcWGS reads from 300 avocado trees from Tanzanian Morogoro and the Southern Highlands of Iringa, Mbeya and Ruvuma (95) and racial control groups in the Americas (205). Phylogenetic, unsupervised principal component and ADMIXTURE analyses found that germplasm from Rukwa clustered with Southern Highlands germplasm from Iringa, Mbeya, and Ruvuma. In contrast, accessions from Kigoma and Kagera formed a distinct Western Rift lineage enriched for West Indian ancestry, and populations in Mara and Mwanza occupied intermediate positions, suggesting extensive inter-racial admixture in the eastern Lake Victoria Basin. These genetic clusters may guide the utilization of East African avocado landraces.",
+  "oa_url": "https://doi.org/10.3390/ijms27219699",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.3390/ijms27219699"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Ketahanan pangan rumah tangga"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-31",
+  "summary_id": null,
+  "relevance": 19
+ },
+ {
+  "id": "W7224349064",
+  "doi": "10.1016/j.jag.2026.105644",
+  "title": "Mapping the spatial extent of agroforestry lands across Africa by characterizing tree spatial arrangements",
+  "date": "2026-10-29",
+  "year": "2026",
+  "journal": "International Journal of Applied Earth Observation and Geoinformation",
+  "issn": "03032434",
+  "publisher": "Elsevier BV",
+  "authors": [
+   "Minxuan Sun",
+   "Martin Brandt",
+   "P. Ciais",
+   "David Makowski",
+   "Youngryel Ryu",
+   "Yidi Xu",
+   "Mengjie Han",
+   "Yi Leng",
+   "Zhixuan Guo",
+   "Xiaomeng Du",
+   "Xu Jianchu",
+   "Florian Reiner"
+  ],
+  "abstract": "Agroforestry is a land-use practice that integrates trees into agricultural lands, supporting food security and rural livelihoods while delivering both climate adaptation and mitigation benefits. However, current large-scale assessments often approximate the spatial extent of agroforestry using coarse tree canopy cover or biomass products that cannot characterize tree spatial arrangements within croplands, potentially obscuring structurally distinct agroforestry systems. Here, we produced a 100 m resolution map of the spatial extent of agroforestry lands in Africa for 2019, using 10 m resolution tree canopy cover data derived from PlanetScope, together with Sentinel-2 imagery. This map explicitly delineates croplands where agroforestry systems are practised by distinguishing tree spatial patterns within croplands, focusing on irregularly scattered trees and trees aligned in rows. Scattered trees were identified using tree-pixel distance metrics, whereas trees planted in rows were detected using a U-Net model trained with ∼38,000 manually labelled tree-row features. The identified agroforestry lands with scattered trees and trees in rows on cropland were validated against ground-based sites collected from the literature and Google Earth imagery, yielding an overall accuracy of 77.2%. This agroforestry dataset with explicit spatial tree arrangements can serve as a baseline for assessing the environmental impacts and changes in crop yield associated with agroforestry ecosystems, as well as for supporting the development of process-based agroforestry models.",
+  "oa_url": "https://doi.org/10.1016/j.jag.2026.105644",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1016/j.jag.2026.105644"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Ketahanan pangan rumah tangga"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-31",
+  "summary_id": null,
+  "relevance": 19
+ },
+ {
+  "id": "W7224464450",
+  "doi": "10.2166/hydro.2026.134",
+  "title": "A low-cost hydroinformatics tool for monitoring inter-seasonal water availability in small earth dams: evidence from a data-scarce small sub-basin in Southern Africa",
+  "date": "2026-10-29",
+  "year": "2026",
+  "journal": "Journal of Hydroinformatics",
+  "issn": "14647141",
+  "publisher": "IWA Publishing",
+  "authors": [
+   "Manoah Muchanga",
+   "Emmanuel Mushabati",
+   "Ambrogio Paspanodya Zibbowa",
+   "Sekelani Nsangwa",
+   "Happy Phiri",
+   "Gift Mola",
+   "Everisto Simweene",
+   "Henry Sichigabula"
+  ],
+  "abstract": "ABSTRACT Small earth dams play a critical role in sustaining rural livelihoods and enhancing water and food security in semi-arid regions such as southern Zambia. However, their effective management is constrained by limited hydrological monitoring infrastructure and the absence of cost effective, user-friendly tools for tracking water availability. This study developed and evaluated a low-cost hydroinformatics framework that integrates bathymetric surveying, empirical modelling, and an Android-based mobile application to monitor inter-seasonal water availability in small earth dams. Using Makoye Earth Dam in Southern Zambia as a case study, bathymetric data were collected across rainy, cool-dry, and hot-dry seasons to establish depth–volume relationships. An empirical prediction model was trained and validated using standard performance metrics including R2, Nash–Sutcliffe efficiency (NSE), percent bias, root mean square error (RMSE), and RMSE–standard deviation ratio. The model was subsequently embedded into a mobile application (Madwapp 0.1) to enable real-time estimation of reservoir storage from field-measured water depths. Results show that the empirical model performed exceptionally well during the rainy season (R2 = 0.99; NSE = 0.99), demonstrating high predictive accuracy and minimal error. However, performance declined in the cool and dry seasons due to systematic underestimation linked to bathymetric complexity and seasonal water variability. Validation across multiple dams indicated that the volume–volume empirical model significantly outperforms conventional depth–volume based estimation methods, achieving near-perfect agreement with observed volumes (R2 = 0.99). The study highlights the strong seasonality and rapid depletion dynamics of small dams and provides a practical, scalable, and low-cost solution for improving water resource monitoring and decision-making in small to medium data-scarce rural catchments. The empirical regression model performance was strong during recharge conditions but deteriorated substantially during cool and hot-dry seasons, limiting direct transfer without seasonal recalibration. The study recommends multi-basin–based Android app development for enhanced water monitoring efficiency.",
+  "oa_url": "https://doi.org/10.2166/hydro.2026.134",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.2166/hydro.2026.134"
+  ],
+  "oa_status": "diamond",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Ketahanan pangan rumah tangga"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-31",
+  "summary_id": null,
+  "relevance": 19
+ },
+ {
+  "id": "W7224153966",
+  "doi": "10.1088/1748-9326/aebb4d",
+  "title": "Deforestation footprints for jointly produced food products",
+  "date": "2026-10-29",
+  "year": "2026",
+  "journal": "Environmental Research Letters",
+  "issn": "17489326",
+  "publisher": "IOP Publishing",
+  "authors": [
+   "Christopher L. Gilbert"
+  ],
+  "abstract": "Abstract Deforestation footprints rely on information on import flows. Imports of semi-processed food commodities are converted into commodity equivalents. The paper distinguishes between product yields and conversion factors. It is conversion factors, which relate the commodity requirement for unit production of the semi-processed product, that are the required to estimate deforestation footprints. The simple reciprocal relationship between yields and conversion factors breaks down when there are jointly produced products such as soybean oil and meal. The paper also examines the treatment of processing waste in footprint estimation. Alternative procedures are examined and applied to the footprints of EU imports of cocoa, oil palm and soy products.",
+  "oa_url": "https://doi.org/10.1088/1748-9326/aebb4d",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1088/1748-9326/aebb4d"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Kelapa sawit"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-31",
+  "summary_id": null,
+  "relevance": 19
+ },
+ {
+  "id": "W7224093288",
+  "doi": "10.1186/s13690-026-02115-7",
+  "title": "Individual-and-community level factors associated with completion of continuum of care in maternal health services in Somaliland: a multilevel analysis of the 2020 Somaliland demographic and health survey",
+  "date": "2026-10-29",
+  "year": "2026",
+  "journal": "Archives of Public Health",
+  "issn": "07787367",
+  "publisher": "BioMed Central",
+  "authors": [
+   "Abdirahman Ahmed Jama",
+   "Ahmed Mohamoud Jama",
+   "Li-Nien Chien"
+  ],
+  "abstract": "Continuum of care (CoC) throughout pregnancy, childbirth, and the postnatal period is a vital strategy for reducing maternal and neonatal mortality. Despite its importance, CoC completion remains low in resource-limited settings such as Somaliland, and empirical evidence on its determinants is limited. Therefore, this study aims to explore determinants of CoC completion among ever-married women in Somaliland. We analyzed data from the 2020 Somaliland Demographic and Health Survey, specifically focusing on ever-married women with the most recent live birth. CoC completion was measured at three stages of maternal health services: during antenatal, delivery, and postnatal. Multilevel mixed-effect models were used to examine individual-and community-level factors associated with CoC completion. Statistical significance was declared at a p-value < 0.05. Among the 5,160 women included in the study, the proportion completing CoC was 12.7% (95% CI: 11.4, 14.1). Women with secondary education or higher (AOR = 2.78; 95% CI: 1.66,4.64), those exposed to media (AOR = 3.75; 95% CI: 2.35,5.99), from the richest households, (AOR = 2.48; 95% CI: 1.46, 4.20), and those whose husbands had secondary education or higher (AOR = 2.67; 95% CI: 1.80,3.96) were significantly associated with higher odds of CoC completion. In contrast, older women (≥ 35 years) (AOR = 0.50; 95% CI: 0.31,0.82), women with high parity (AOR = 0.40; 95% CI: 0.22,0.73), and those living in rural (AOR = 0.59; 95% CI: 0.43,0.82) and nomadic settings (AOR = 0.49; 95% CI: 0.35,0.68) were significantly associated with lower odds of CoC completion. Significant regional disparities were observed, with women in the Sool (AOR = 0.43; 95% CI: 0.30,0.62), Sanaag (AOR = 0.36; 95% CI: 0.18,0.72), and Sahil (AOR = 0.41; 95% CI: 0.18,0.96) regions being less likely to complete the CoC. CoC completion remained low and was associated with several individual and community-level factors, including women’s age, education, media exposure, husband’s education, parity, household wealth, residence, and region. These findings highlight socioeconomic and geographic disparities in maternal healthcare continuity and the need to improve equitable access to maternal health services in Somaliland.",
+  "oa_url": "https://doi.org/10.1186/s13690-026-02115-7",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1186/s13690-026-02115-7"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [
+   "continuum of care",
+   "obstetric care",
+   "prenatal care",
+   "postpartum care",
+   "community factors",
+   "personal factors",
+   "Somaliland",
+   "maternal health service utilization"
+  ],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-31",
+  "summary_id": null,
+  "relevance": 15
+ },
+ {
+  "id": "W7224660261",
+  "doi": "10.3390/plants15213348",
+  "title": "Hidden Reservoirs of Genetic Diversity in Common Bean: Wild Populations and Local Landraces Reveal the Evolutionary Legacy of Domestication in Guerrero, Mexico",
+  "date": "2026-10-29",
+  "year": "2026",
+  "journal": "Plants",
+  "issn": "22237747",
+  "publisher": "Multidisciplinary Digital Publishing Institute",
+  "authors": [
+   "Fernando Severiano‐Galeana",
+   "Carina Gutiérrez-Flores",
+   "Xitlali Aguirre Dugua",
+   "Alfonso Delgado‐Salinas",
+   "Violeta Patiño‐Conde",
+   "Jesús Guadalupe Padilla-Serrato",
+   "Vania Jiménez-Lobato"
+  ],
+  "abstract": "The common bean (Phaseolus vulgaris L.) is a key crop for food security in Mexico, yet its genetic resources remain poorly characterized in small farmers’ agricultural fields where landraces are actively conserved. Using genotyping-by-sequencing, we assessed genetic diversity, population structure, and gene flow among wild populations (W), traditional landraces (L), and commercial varieties exchanged through local markets (M). We analyzed 73 individuals and 11,701 SNPs. Population genetic analyses revealed moderate differentiation between wild populations and cultivated forms (landraces and markets) (FstL-W = 0.249 and FstM-W = 0.20), whereas landraces and market varieties were weakly differentiated (FstL-M = 0.024). Wild populations exhibited the highest genetic diversity, with the greatest expected heterozygosity (HeW = 0.25) but also the highest (FisW = 0.339). Cultivated forms showed similar expected heterozygosity between them (HeL = 0.228; HeM = 0.233), which was only slightly lower than that estimated in wild populations, although levels exceeded those previously reported for Guerrero and other Mexican regions. Gene flow was limited between wild and cultivated forms but high between landraces and market varieties (NmL-M = 10.15), highlighting the role of seed exchange networks in maintaining connectivity and diversity. These findings underscore the importance of conserving wild populations, landraces, and traditional seed systems to strengthen crop resilience and food security under climate change.",
+  "oa_url": "https://doi.org/10.3390/plants15213348",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.3390/plants15213348"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Ketahanan pangan rumah tangga"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-31",
+  "summary_id": null,
+  "relevance": 14
+ },
+ {
+  "id": "W7224506968",
+  "doi": "10.9734/jsrr/2026/v32i114672",
+  "title": "Economics of Wheat Production and Marketing in Vidisha District of Madhya Pradesh",
+  "date": "2026-10-29",
+  "year": "2026",
+  "journal": "Journal of Scientific Research and Reports",
+  "issn": "23200227",
+  "publisher": "Sciencedomain International",
+  "authors": [
+   "Hitanshu Sahu",
+   "Ankita Sahu",
+   "Neha Dwivedi",
+   "Aditya Singh",
+   "Aradhana Singh Rajpoot",
+   "Sudhir Singh"
+  ],
+  "abstract": "Aim: To describe the production costs, returns and wheat marketing channels reported for small, medium and large farm households in Vidisha district, Madhya Pradesh. Design and Setting: A cross-sectional farm survey covered 90 wheat growers (30 in each farm-size category) in five villages in the Vidisha and Basoda blocks during the 2024–2025 agricultural year. Methods: Per-hectare expense components for each farm-size group were aggregated using standard agricultural cost identities, with an operational 10% charge for farm management. Group-level gross revenue and grain yields were summarized with equal weights across the three-sampled farm-size groups. Producer share, price spread and two marketing-efficiency ratios were calculated from per-quintal channel prices, costs and margins. Results: The respondent-balanced mean wheat yield was 49.95 q/ha, and mean gross revenue was ₹140,556.92/ha. The corresponding Cost C3, net return over C3 and gross-return-to-cost ratio were ₹70,254.70/ha, ₹70,302.22/ha and 2.00, respectively. The direct producer–consumer channel had the highest producer share (96.40%) and the highest Acharya efficiency ratio (26.76); a multi-stage channel involving a processor had the lowest corresponding values (76.07% and 3.18). Conclusion: The descriptive accounting indicates positive wheat-production returns across farm-size groups and comparatively lower recorded marketing costs in the direct channel. These findings are specific to the sampled farmers and channel valuations; differences among marketing channels cannot be interpreted causally without product-stage and transaction-level comparability.",
+  "oa_url": "https://doi.org/10.9734/jsrr/2026/v32i114672",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.9734/jsrr/2026/v32i114672"
+  ],
+  "oa_status": "diamond",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemasaran, rantai pasok & rantai nilai"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-31",
+  "summary_id": null,
+  "relevance": 9
+ },
+ {
+  "id": "W7224353416",
+  "doi": "10.61308/gafc5391",
+  "title": "Impact of crop diversification on dietary diversity and calorie intake of farm households in Yamethin District, Central Dry Zone, Myanmar",
+  "date": "2026-10-29",
+  "year": "2026",
+  "journal": "Bulgarian Journal of Agricultural Science",
+  "issn": "13100351",
+  "publisher": "Agricultural Academy of Bulgaria",
+  "authors": [
+   "Mee Mee",
+   "Pilaiwan Prapruit",
+   "Aung Tun Oo"
+  ],
+  "abstract": "Farm households in Myanmar are practicing diversification of crops as a strategy to reduce the likelihood of crop failure and meet their household’s dietary and calorie needs. This study aims to evaluate how crop diversification affects the dietary diversity and calorie intake of farm households in Myanmar. The farm household survey was carried out with 282 farm households in Yamethin District, utilizing structured questionnaires that included crop production, food group items, and food intake of farm households. Crop diversification level was determined using Simpson's diversification index, and the difference in dietary diversity intakes of farm households was measured using the Household Dietary Diversity Score (HDDS) method, which is based on seven food groups. Pearson’s correlation analysis was also used to measure the association between the level of crop diversification, and dietary diversity as well as calorie intake of farm households. The study revealed that crop diversification has a positive relationship with own production ratio, HDDS, and calorie intake of farm households. The findings indicate that farm households in Yamethin District should emphasize utilizing improved crop varieties in addition to varying their cropping patterns in order to meet their dietary and calorie needs. Additionally, this study emphasizes the necessity for the distribution of resistant crop varieties and provision of extension services by the government of Myanmar.",
+  "oa_url": "https://doi.org/10.61308/gafc5391",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.61308/gafc5391"
+  ],
+  "oa_status": "hybrid",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Ketahanan pangan rumah tangga"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-31",
+  "summary_id": null,
+  "relevance": 9
+ },
+ {
+  "id": "W7224483519",
+  "doi": "10.3167/fcl.2026.1060107",
+  "title": "Unskilled labor in avocado production",
+  "date": "2026-10-29",
+  "year": "2026",
+  "journal": "Focaal",
+  "issn": "09201297",
+  "publisher": "Berghahn Books",
+  "authors": [
+   "Denisse Román-Burgos"
+  ],
+  "abstract": "The Sierra P'urhépecha in the state of Michoacán (southwest Mexico) was historically a marginal region. Its uneven terrain, dense conifer forests, and lack of extensive plains suitable for agriculture had made it unattractive to the colonial and liberal state. In the 1960s, its climate and soil convinced Californian middlemen that the region was suitable for growing Hass avocados, particularly in the district of Uruapan, a former coffee producing district whose most prosperous period lasted from the second half of the nineteenth century until the early twentieth century (Román-Burgos and Macip-Ríos 2022). They had only to clear the woodlands (Hernández-Fernández 2023: 130).",
+  "oa_url": "https://doi.org/10.3167/fcl.2026.1060107",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.3167/fcl.2026.1060107"
+  ],
+  "oa_status": "diamond",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemasaran, rantai pasok & rantai nilai"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-31",
+  "summary_id": null,
+  "relevance": 0
+ },
+ {
   "id": "W7224116892",
   "doi": "10.1186/s12966-026-02004-w",
   "title": "Sociodemographic and cardiometabolic risk correlates of adherence to pediatric behavioral guidelines: an ecological momentary assessment study",
@@ -32,6 +1010,525 @@
   "found_at": "2026-10-30",
   "summary_id": null,
   "relevance": 0
+ },
+ {
+  "id": "W7224273365",
+  "doi": "10.1007/s10460-026-10979-2",
+  "title": "When seeds change hands: gender, intersectionality, and access to seed in rural Senegal",
+  "date": "2026-10-28",
+  "year": "2026",
+  "journal": "Agriculture and Human Values",
+  "issn": "0889048X",
+  "publisher": "Springer Nature (Netherlands)",
+  "authors": [
+   "Anna Porcuna-Ferrer",
+   "Victoria Reyes‐García",
+   "Sarah Ouadah",
+   "Ndèye Fatou Faye",
+   "Santiago Álvarez‐Fernández",
+   "Laura Calvet‐Mir",
+   "Christian Leclerc",
+   "Vanesse Labeyrie"
+  ],
+  "abstract": "Abstract Despite advances in understanding seed circulation in rural communities, little is known about the gendered and intersectional power relations that shape farmers’ access to seed. Based on a case study in a Bassari community of southeastern Senegal, we examine the roles of women and men in seed circulation and explore who maintains and who controls access to seed for six staple crops. Combining ethnographic data with social network analysis, we show that gender roles in seed circulation are dynamic: some crops traditionally managed by men are entering women’s hands, expanding women’s custodial role for subsistence crops, while some crops historically managed by women are increasingly mediated by external actors who redirect them toward men, potentially undermining women’s control and creating new dependencies. Our findings also show that gender alone does not explain farmers’ positions as seed access maintainers or controllers. Rather, gender intersects with age, wealth, marital status, and other forms of social difference to structure patterns of seed access maintenance and control. These dynamics vary across crops, revealing how crop’s local meanings, trajectories and political entanglements shape seed access. Drawing on feminist political ecology, we discuss how shifting gender roles create opportunities and exclusions for different groups of women and men. By tracing how seeds change hands, this study highlights the importance of intersectional and situated approaches for understanding seed access inequalities. Ensuring equitable access to locally adapted and culturally appropriate seeds is not only a matter of justice but also a means of safeguarding agrobiodiversity.",
+  "oa_url": "https://doi.org/10.1007/s10460-026-10979-2",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1007/s10460-026-10979-2"
+  ],
+  "oa_status": "hybrid",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": true,
+  "language": "en",
+  "found_at": "2026-10-31",
+  "summary_id": null,
+  "relevance": 38
+ },
+ {
+  "id": "W7224124728",
+  "doi": "10.1111/1467-8489.70166",
+  "title": "Rural Food Markets, Dietary Structure and Nutrient Intake: Evidence from Food‐at‐Home Consumption in Central China",
+  "date": "2026-10-28",
+  "year": "2026",
+  "journal": "Australian Journal of Agricultural and Resource Economics",
+  "issn": "1364985X",
+  "publisher": "Wiley",
+  "authors": [
+   "Shi Min",
+   "Cong Pan"
+  ],
+  "abstract": "ABSTRACT Food markets are becoming increasingly important for rural food security in developing countries, beyond subsistence agriculture. This study examines how rural food markets affect food‐at‐home consumption and nutrient intake among rural residents in three provinces of central China. Greater food market availability increases the consumption of relatively more market‐constrained foods, including meat, aquatic products, eggs and milk and dairy products, while reducing the reliance on relatively less market‐constrained staples, particularly cereals. These changes are associated with improved dietary balance and dietary diversity. Although total energy intake does not change significantly, nutrient composition shifts towards higher animal‐source energy, animal‐source protein and fat intake and lower plant‐source energy, plant‐source protein and carbohydrate intake. The effects also vary across market formats. These findings extend the existing evidence on how rural food markets shape diets and nutrition in developing countries and provide policy implications for improving the availability of nutritious foods in rural areas.",
+  "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/1467-8489.70166",
+  "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/1467-8489.70166",
+  "pdf_urls": [
+   "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/1467-8489.70166",
+   "https://doi.org/10.1111/1467-8489.70166"
+  ],
+  "oa_status": "bronze",
+  "cited_by": 0,
+  "keywords": [
+   "nutrient intake",
+   "dietary structure",
+   "dietary diversity",
+   "food security",
+   "cereals",
+   "food availability",
+   "rural diet",
+   "central China"
+  ],
+  "topics": [
+   "Ketahanan pangan rumah tangga"
+  ],
+  "priority_journal": true,
+  "language": "en",
+  "found_at": "2026-10-31",
+  "summary_id": null,
+  "relevance": 38
+ },
+ {
+  "id": "W7224361758",
+  "doi": "10.1007/s10460-026-10961-y",
+  "title": "Building food system resilience in the face of severe and compounding disasters: collaborative disaster food security management insights from northern New South Wales, Australia",
+  "date": "2026-10-28",
+  "year": "2026",
+  "journal": "Agriculture and Human Values",
+  "issn": "0889048X",
+  "publisher": "Springer Nature (Netherlands)",
+  "authors": [
+   "Sheriden Keegan",
+   "Kimberley Reis",
+   "Anne H. Roiko",
+   "Cheryl Desha"
+  ],
+  "abstract": "Abstract The ‘Northern Rivers’ region in the state of New South Wales (central east coast of Australia) has experienced recurrent food supply chain disruptions in recent years due to large-scale compounding disasters, including catastrophic flooding in 2022. The authors investigated barriers, enablers, and cross-cutting themes for organisations in this region to manage food security, spanning public, private and civic sectors. Twenty-seven semi-structured interviews were conducted with food system leaders, decision-makers, managers and emergency food response coordinators from the region. Cross-cutting themes identified focused on developing integrative policy reform, building formal networks across sectors, enabling local resourcing for rapid disaster recovery and enabling systemic solutions for food redundancies. Findings revealed strengths in government leadership and collaborative disaster management in the agricultural sector. Alongside, post-disaster food provision relies heavily upon civic leadership and regional supply chains, enabled through informal networks of trust, however, hindered by ad hoc planning and deficits in public sector leadership and engagement. As civic food organisations are largely assuming responsibilities for post-disaster food access, pre-positioning organisations to manage this effectively is critical, especially mechanisms for collaborative preparedness and lesson learning. Capacity for joint action across sectors could be enabled through disaster food security planning having a broad, regional scope and inclusive participation of relevant local stakeholders. Insights from this research inform food security planning and policymaking that accounts for severe and compounding disasters and are broadly applicable to other coastal and regional settlements in Australia that are vulnerable to flooding.",
+  "oa_url": "https://doi.org/10.1007/s10460-026-10961-y",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1007/s10460-026-10961-y"
+  ],
+  "oa_status": "hybrid",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemasaran, rantai pasok & rantai nilai"
+  ],
+  "priority_journal": true,
+  "language": "en",
+  "found_at": "2026-10-31",
+  "summary_id": null,
+  "relevance": 37
+ },
+ {
+  "id": "W7224086116",
+  "doi": "10.1186/s41043-026-01502-8",
+  "title": "Smallholder dairy farming, child dairy consumption and nutritional status in rural Pakistan",
+  "date": "2026-10-28",
+  "year": "2026",
+  "journal": "Journal of Health Population and Nutrition",
+  "issn": "16060997",
+  "publisher": "BioMed Central",
+  "authors": [
+   "Anam Afzal",
+   "David M. McGill",
+   "H. M. Warriach",
+   "Anita S. Lawrence",
+   "Anke Wiethoelter"
+  ],
+  "abstract": "Child undernutrition is a critical public health challenge in Pakistan. Milk, a nutrient-dense food, can play an important role in reducing nutritional challenges. Some studies suggest that increasing dairy animal ownership could be a potential pathway to improve dairy consumption, and reduce child stunting, wasting and underweight. However, there is limited research into the association between family dairy animal ownership and child nutrition in Pakistan. This study utilised data from the Pakistan Demographic and Health Survey 2017–18 to investigate associations between dairy animal ownership, dairy food consumption and the nutritional status of children aged 6–23 months residing in rural areas of Punjab and Sindh provinces. Data from 655 households (including 708 children) were analysed using univariable and multivariable logistic regression as well as generalised linear mixed-effects regression. Results showed that region is significantly associated with child dairy consumption and nutritional status. Children from Sindh were less likely to consume dairy foods (OR 0.23; 95% CI 0.16–0.32) and were more likely to be stunted (OR 3.12; 95% Cl 1.79–5.49), wasted (OR 2.83; 95% Cl 1.26–6.57) or underweight (OR 4.37; 95% Cl 2.36–8.31). Moreover, parental education and household wealth index were strongly associated with child dairy consumption and nutritional status. Decisions regarding major household purchases, particularly who makes them, showed a significant association with child stunting, wasting and underweight. Interestingly, no association between dairy animal ownership, child dairy consumption, and nutritional status were identified. Despite households owning dairy animals, 33% of children in Punjab and 60% of children in Sindh did not consume milk. This study emphasises that the relationships between dairy animal ownership, dairy consumption, and child nutritional status are not straightforward. They are shaped by a complex interplay of multiple socio-economic factors unique to each province. Dairy animal ownership alone does not seem to improve child nutritional status in smallholder dairy farming households in Pakistan. Improving parental education, household wealth status and women’s empowerment, however, could lead to better child nutrition. Further research is needed to enhace understanding of household milk utilisation practices and decision-making processes in order to develop more effective strategies for overcoming child undernutrition.",
+  "oa_url": "https://doi.org/10.1186/s41043-026-01502-8",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1186/s41043-026-01502-8"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [
+   "smallholder dairy farming",
+   "child nutritional status",
+   "rural households",
+   "child nutrition",
+   "Pakistan"
+  ],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-31",
+  "summary_id": null,
+  "relevance": 35
+ },
+ {
+  "id": "W7224474530",
+  "doi": "10.1002/moda.70054",
+  "title": "Contract Farming and Smallholder Profits in Bangladesh: Evidence From Mango, Tomato, and Potato",
+  "date": "2026-10-28",
+  "year": "2026",
+  "journal": "Modern Agriculture",
+  "issn": "27514102",
+  "publisher": "Wiley",
+  "authors": [
+   "Ehsanur Rauf Prince"
+  ],
+  "abstract": "ABSTRACT This study examines whether contract farming increases smallholder profitability in perishable horticulture. Using primary survey data from 1186 mango, tomato, and potato producers across eight districts of Bangladesh, it combines two‐stage least squares (2SLS) with propensity score matching (PSM) to estimate the effects of participation. The preferred 2SLS estimate indicates that contract farming raises unit profit by 0.28 log points (approximately 32%), while PSM estimates range from 0.26 to 0.29 log points. These consistent estimates support the robustness of the findings under different assumptions. Higher output prices and lower measured production and marketing costs underpin the profit gains although lower expenditures do not necessarily indicate greater efficiency because buyers may provide inputs. Contract farmers also exhibit less variable profits across all three crops, suggesting a potential risk‐stabilising role. Although estimated returns are highest among farmers with the smallest landholdings, these farmers are least likely to participate. Participation is associated with landholding, irrigation, transport ownership, market proximity, and institutional credit access. The findings suggest that policies promoting inclusive contract farming should address asset and infrastructure constraints that limit smallholders' participation, contributing to progress towards Sustainable Development Goals 1 (No Poverty), 2 (Zero Hunger), and 8 (Decent Work and Economic Growth).",
+  "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/moda.70054",
+  "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/moda.70054",
+  "pdf_urls": [
+   "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/moda.70054",
+   "https://doi.org/10.1002/moda.70054"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemasaran, rantai pasok & rantai nilai"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-31",
+  "summary_id": null,
+  "relevance": 29
+ },
+ {
+  "id": "W7224570056",
+  "doi": "10.62051/ijsspa.v10n10.02",
+  "title": "Digital Economy and Rural Industrial Integration in Ethnic Minority Areas of Sichuan: A Theoretical Analysis of Driving Mechanisms",
+  "date": "2026-10-28",
+  "year": "2026",
+  "journal": "International Journal of Social Sciences and Public Administration",
+  "issn": "30059585",
+  "publisher": "",
+  "authors": [
+   "Guoguo Lewu"
+  ],
+  "abstract": "Digital technologies can connect geographically dispersed rural producers with markets, but greater connectivity does not necessarily constitute industrial integration. Focusing on the ethnic minority areas of Sichuan, China, this paper examines how digitalization may transform separate activities in agriculture, processing, distribution, and services into coordinated economic relationships. Drawing on transaction cost economics and the literature on rural industrial integration, it develops a four-stage analytical framework: lowering information and transaction costs, improving cross-industry factor matching, coordinating agricultural value chains, and creating complementary value across industrial boundaries. The analysis distinguishes the potential benefits of digital technologies from the organizational conditions needed to realize them. It argues that infrastructure complementarities, production standards, contractual reliability, local capabilities, and benefit-sharing arrangements condition whether digital connections become durable industrial linkages. The framework offers a bounded theoretical interpretation of digital-driven rural industrial integration in mountainous ethnic minority areas and identifies questions for subsequent empirical research.",
+  "oa_url": "https://doi.org/10.62051/ijsspa.v10n10.02",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.62051/ijsspa.v10n10.02"
+  ],
+  "oa_status": "diamond",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemasaran, rantai pasok & rantai nilai"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-31",
+  "summary_id": null,
+  "relevance": 26
+ },
+ {
+  "id": "W7224124261",
+  "doi": "10.1016/j.clet.2026.101345",
+  "title": "Enhancing clean technologies through risk mitigation in symbiotic industrial networks: A circular economy approach",
+  "date": "2026-10-28",
+  "year": "2026",
+  "journal": "Cleaner Engineering and Technology",
+  "issn": "26667908",
+  "publisher": "Elsevier BV",
+  "authors": [
+   "Jayakrishna Kandasamy",
+   "Sowparnika Muralidharan",
+   "Rajat Mishra",
+   "K.E.K. Vimal",
+   "Sivakumar Kirupanandan",
+   "Sandeep Jagtap"
+  ],
+  "abstract": "The need for sustainability and zero-waste manufacturing in the industrial environment has increased in the last two decades. The adoption of the circular supply chain (CSC) across industries has been a prominent solution to this issue. CSC is a successful strategy that promotes sustainability by reutilizing industrial by-products or wastes, thereby preventing resource exhaustion. However, the complexity of the processes leads to the creation of multiple risks of various categories and dimensions in the circular supply chain, requiring critical analysis of these risks and the proposal of all-encompassing mitigation strategies. This work focuses on a functional symbiotic network involving multiple industries, namely sugarcane agriculture, sugar, paper, spirit manufacturing and cement industries. The study identifies the risks involved through an extensive literature survey followed by their categorization into ten risk categories (five external and five internal), such as demand and supply risk and operational risk. An integrated Decision-Making Trial and Evaluation Laboratory (DEMATEL) and Analytic Network Process (ANP) methodology is applied with the goal of prioritizing the proposed mitigation strategies with respect to the network of project goals, industrial components, and stakeholders. The results show that demand and supply risk and infrastructure risk are the highest-priority external and internal risks, respectively, and that buyer–supplier contracts are the most effective of the five mitigation strategies, followed by collaborative logistics and shared infrastructure. A sensitivity analysis confirms that these rankings are stable. The proposed framework helps the participating industries counter the prevalence and adverse effects of these risks and supports the sustainability goals of the network.",
+  "oa_url": "https://doi.org/10.1016/j.clet.2026.101345",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1016/j.clet.2026.101345"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [
+   "environmental technology",
+   "risk mitigation",
+   "circular economy",
+   "industrial symbiosis",
+   "waste exchange",
+   "resource efficiency"
+  ],
+  "topics": [
+   "Pemasaran, rantai pasok & rantai nilai"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-31",
+  "summary_id": null,
+  "relevance": 19
+ },
+ {
+  "id": "W7224132205",
+  "doi": "10.1080/17477891.2026.2750979",
+  "title": "Philanthropic landowners and what drives them: lessons from implementing nature-based solutions on private land",
+  "date": "2026-10-28",
+  "year": "2026",
+  "journal": "Environmental Hazards",
+  "issn": "14642867",
+  "publisher": "Taylor & Francis",
+  "authors": [
+   "Sophie Holtkötter",
+   "B. Ayça Ataç-Studt",
+   "Peter R. Davids",
+   "Yasmin Anefalos de Oliveira"
+  ],
+  "abstract": "Nature-based solutions (NBS) are a promising strategy for building climate resilience, but their implementation requires land. Realising NBS on private land, which holds great potential, remains a challenge. Aligning landowner interests with climate adaptation goals lies within the realm of land policy. However, studies show that traditional land policy instruments are often ineffective when applied to NBS and private land. Cooperative approaches that engage landowners directly are needed – but they raise new questions: How do we find landowners willing to implement NBS and engage them effectively? This research focuses on landowners who are primarily motivated by non-financial interests to implement NBS. These dynamics are explored through a qualitative case-study-based research design, focused on NBS implementers across Austria, Czechia, Germany, Italy, Romania, and Slovakia. Initial results indicate different types of landowners (homeowners, farmers, company owners) have distinct interests in implementing NBS. While economic incentives play a role, intrinsic motivations mainly shape landowners’ decisions. This underscores the need for tailored solutions considering diverse intrinsic motivations. Effective NBS implementation strategies must strengthen intrinsic motivations, build trust, and respect landowner autonomy.",
+  "oa_url": "https://www.tandfonline.com/doi/pdf/10.1080/17477891.2026.2750979?needAccess=true",
+  "pdf_url": "https://www.tandfonline.com/doi/pdf/10.1080/17477891.2026.2750979?needAccess=true",
+  "pdf_urls": [
+   "https://www.tandfonline.com/doi/pdf/10.1080/17477891.2026.2750979?needAccess=true",
+   "https://doi.org/10.1080/17477891.2026.2750979"
+  ],
+  "oa_status": "hybrid",
+  "cited_by": 0,
+  "keywords": [
+   "nature-based solutions",
+   "private land",
+   "landowner motivations",
+   "private land conservation",
+   "implementation drivers"
+  ],
+  "topics": [
+   "Kelembagaan petani & tindakan kolektif"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-31",
+  "summary_id": null,
+  "relevance": 18
+ },
+ {
+  "id": "W7224105639",
+  "doi": "10.5897/ajar2026.17152",
+  "title": "Assessment of farmers knowledge and management practices of seed-borne fungal diseases of okra, in Tanzania",
+  "date": "2026-10-28",
+  "year": "2026",
+  "journal": "African Journal of Agricultural Research",
+  "issn": "1991637X",
+  "publisher": "Academic Journals",
+  "authors": [
+   "Deonatus Mathayo Sophia",
+   "Mussa Massomo Said",
+   "Amos Chilagane Luseko"
+  ],
+  "abstract": "Effective management of crop diseases depends on farmers' understanding of disease aetiology, transmission and control strategies.However, gaps in such knowledge remain a major constraint to okra production in Tanzania, particularly due to seed-borne fungal diseases.This study assessed farmers' knowledge and management practices regarding seed-borne fungal diseases affecting okra in Morogoro and Arusha.Qualitative approaches, including focus group discussions (FGDs), key informant interviews (KIIs), and field observations, were employed.The most prevalent diseases reported were Alternaria leaf spot (33.8%) and Fusarium wilt (28%), among others.While 80% of farmers could recognise visible disease symptoms, their understanding of underlying causes and seed-borne transmission was limited.Disease management is largely dependent on chemical control methods.However, a notable proportion of farmers also employ cultural practices, particularly crop rotation (44%), intercropping (26%), and timely sowing (12%), indicating some level of integrated management practices.The findings highlight knowledge gaps that hinder effective disease management.Strengthened extension services and multistakeholder collaboration are essential to improve farmers' awareness, promote integrated disease management and enhance okra productivity and food security in Tanzania.",
+  "oa_url": "https://academicjournals.org/journal/AJAR/article-full-text-pdf/CD130D975105",
+  "pdf_url": "https://academicjournals.org/journal/AJAR/article-full-text-pdf/CD130D975105",
+  "pdf_urls": [
+   "https://academicjournals.org/journal/AJAR/article-full-text-pdf/CD130D975105",
+   "https://doi.org/10.5897/ajar2026.17152"
+  ],
+  "oa_status": "diamond",
+  "cited_by": 0,
+  "keywords": [
+   "okra",
+   "seed-borne fungal disease",
+   "farmer knowledge",
+   "disease management",
+   "seed treatment",
+   "plant disease control",
+   "Tanzania"
+  ],
+  "topics": [
+   "Ketahanan pangan rumah tangga"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-31",
+  "summary_id": null,
+  "relevance": 18
+ },
+ {
+  "id": "W7224596380",
+  "doi": "10.1002/pei3.70233",
+  "title": "Impact of Salinity on Rice Production in Vulnerable Southern Coastal Regions of Bangladesh: A Case Study Through a Cobb–Douglas Stochastic Production Function Model",
+  "date": "2026-10-28",
+  "year": "2026",
+  "journal": "Plant-Environment Interactions",
+  "issn": "25756265",
+  "publisher": "Wiley",
+  "authors": [
+   "Shahin Imran",
+   "Newton Chandra Paul",
+   "Md. Asif Mahamud",
+   "Jotirmoy Chakrobortty",
+   "Md. Najmol Hoque",
+   "Md Shihab Uddine Khan",
+   "Md. Jahurul Islam",
+   "Md. Rasheduzzaman",
+   "Akbar Hossain"
+  ],
+  "abstract": "ABSTRACT Salinity in coastal areas has a significant effect on the technical efficiency (maximum potential yield utilizing available inputs) of rice production and subsequently reduces food security in developing countries. We examined the salinity status and its impact on overall rice production across seasonal cycles in the southern coastal region of Bangladesh, utilizing data from 464 farmers from vulnerable coastal areas. The estimation from the Cobb–Douglas stochastic production function revealed that salinity has a statistically negative relationship with rice yield. Our study revealed that technical efficiency increased when farmers adopted salt‐tolerant rice varieties and special techniques to manage salinity problems. Consequently, the profit per hectare was greater in the low‐salinity zone than in the moderate‐ and high‐salinity zones. We also find from binary logistic regression that with a greater possibility of yield loss, rice quality destruction, and salt land, farmers were more likely to migrate from cultivated rice to other crops because of salinity problems. In contrast, higher income, more consultations with extension officers and other farmers, and training knowledge, the likelihood of migrating from rice cultivation is lower. To mitigate salinity problems and ensure a sustainable future, salt‐tolerant hybrid rice varieties need to be developed by research institutes, and frequent consultation and training need to be arranged by extension departments in Bangladesh.",
+  "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/pei3.70233",
+  "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/pei3.70233",
+  "pdf_urls": [
+   "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/pei3.70233",
+   "https://doi.org/10.1002/pei3.70233"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Ketahanan pangan rumah tangga"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-31",
+  "summary_id": null,
+  "relevance": 18
+ },
+ {
+  "id": "W7224524965",
+  "doi": "10.11648/j.eco.20261504.11",
+  "title": "Civil Society Organizations, Savings and Loan Associations, and Structural Transformation in Conflict-Affected Rural Settings: Evidence from Kassala State, Sudan",
+  "date": "2026-10-28",
+  "year": "2026",
+  "journal": "Economics",
+  "issn": "2376659X",
+  "publisher": "Science Publishing Group",
+  "authors": [
+   "Omer Alyas",
+   "Hassan Mohammed"
+  ],
+  "abstract": "In fragile, post-crisis, and conflict-affected rural settings, formal financial intermediaries and state social safety nets frequently collapse, leaving vulnerable populations—particularly women—disproportionately exposed to economic shocks. While microcredit programs have been scrutinized for creating debt traps, community-driven Village Savings and Loan Associations (VSLAs) mobilized by Civil Society Organizations (CSOs) offer a self-capitalizing alternative. This study examines how CSO-facilitated savings mobilization alters rural development outcomes and household bargaining power in Kassala State, Eastern Sudan. Using a mixed-methods empirical case study of the Child Development Organization (CDO)—implemented in tripartite partnership with CARE International, the European Union, and the Italian Agency for Development Cooperation across five localities (Kassala, Rural Kassala, Halfa Eljadida, Wad Elhelew, and Khashm Elgirba)—we analyze program records, governance structures, and household welfare indicators. We evaluate the institutionalization of the \"three-lock cash box\" protocol, democratic governance cycles, and mutual social funds. The empirical findings reveal three primary structural transformations: (1) an economic transition of women-led enterprises from subsistence-level survival to medium-tier market ventures (brick-making, commercial baking, and blacksmithing); (2) a 1,700% expansion in functional literacy classes alongside community-financed private schooling as an alternative to collapsed public services; and (3) an endogenous health emergency buffer that extended essential care and assistive devices to vulnerable households without external donor reliance. We synthesize these dynamics into an integrated Rural Resilience and Financial Maturity Model (RRFMM), demonstrating that financial capability emerges not merely from liquidity provision, but from the iterative behavioral mechanisms of collective governance and social capital formation.",
+  "oa_url": "https://doi.org/10.11648/j.eco.20261504.11",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.11648/j.eco.20261504.11"
+  ],
+  "oa_status": "diamond",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-31",
+  "summary_id": null,
+  "relevance": 15
+ },
+ {
+  "id": "W7224442984",
+  "doi": "10.1007/s41055-026-00240-1",
+  "title": "The Transparency Trap: What if Visibility Demands Moral Justification? A Case Study on Dairy Farmers’ Perspectives on Communication and Exposure",
+  "date": "2026-10-28",
+  "year": "2026",
+  "journal": "Food Ethics",
+  "issn": "23646853",
+  "publisher": "Springer Science+Business Media",
+  "authors": [
+   "Annafrancesca Corradini",
+   "Stefania Celozzi",
+   "Andrea Ravelli",
+   "Anna Gaviglio",
+   "Monica Battini",
+   "Maria Elena Marescotti"
+  ],
+  "abstract": "Abstract This study examines how dairy farmers make sense of contemporary demands for transparency in the livestock sector. Transparency is commonly framed as the disclosure of information about how products are made, by whom, under what labour conditions, and with what environmental impacts. Transparency is commonly understood as the disclosure of information about how products are made, by whom, under what labour conditions, and with what environmental impacts, and is often presented as a means of increasing public trust and strengthening the legitimacy of agri-food systems. Yet the perspective of primary producers remains underexplored. Drawing on two focus groups with fifteen dairy farmers in Lombardy, Northern Italy, this exploratory case study shows that, from farmers' perspective, transparency entails additional costs in terms of time, labour, and moral and emotional exposure, adding to the everyday work of managing and caring for animals. Participants describe public visibility as ambivalent: necessary to explain agricultural practices, yet risky when images, technical procedures, or moments involving animal illness and death are interpreted outside their context. The analysis identifies four themes: transparency as a demand for moral justification; the need for institutional mediation and third-party credibility; experiences of exposure and ethical vulnerability; and selective forms of communicative openness. The findings suggest that greater visibility does not automatically generate trust; when responsibility for transparency falls mainly on individual farmers, it may become a form of unrecognised moral labour. The study therefore argues for understanding transparency as a distributed responsibility across the value chain, supported by institutions and associations able to create fairer and more shared interpretive contexts.",
+  "oa_url": "https://doi.org/10.1007/s41055-026-00240-1",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1007/s41055-026-00240-1"
+  ],
+  "oa_status": "hybrid",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemasaran, rantai pasok & rantai nilai"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-31",
+  "summary_id": null,
+  "relevance": 14
+ },
+ {
+  "id": "W7224083246",
+  "doi": "10.1007/s44187-026-01324-x",
+  "title": "Utilisation of spider plant (Cleome gynandra L.) in Sub-Saharan Africa: a scoping review",
+  "date": "2026-10-28",
+  "year": "2026",
+  "journal": "Discover Food",
+  "issn": "27314286",
+  "publisher": "Springer Nature",
+  "authors": [
+   "Maanea Lonia Ramphinwa",
+   "Bono Nethathe",
+   "Selekane Ananias Motadi",
+   "Fhatuwani Thovhogi",
+   "John B. O. Ogola",
+   "Frans Koketso Matlakala",
+   "Mpho Edward Mashau"
+  ],
+  "abstract": "Cleome gynandra, commonly known as spider plant, is an indigenous leafy vegetable widely consumed in Sub-Saharan Africa (SSA). Despite its adaptability to harsh environments and nutritional benefits, the spider plant has been neglected in agriculture and food systems. This scoping review identified and synthesised the existing literature on spider plant use in SSA, focusing on its cultivation, consumption, nutritional value, processing, value addition, and associated challenges. A comprehensive literature search was conducted using major electronic databases, including Scopus, Web of Science, PubMed, ScienceDirect, and Google Scholar. The review found that the spider plant is widely used across many SSA countries as an indigenous leafy vegetable and medicinal plant. It is known for its high content of protein, dietary fibre, vitamins (A, C, and E), important minerals (iron, calcium, zinc, and magnesium), and antioxidants. The crop is of great significance in promoting dietary diversity, micronutrient intake, and household food security. Clearly, the spider plant holds enormous potential for nutrition security and sustainable agriculture in SSA. Future studies should explore the use of spider plant for biological fortification of various food products to enhance their nutritional quality and functional properties.",
+  "oa_url": "https://doi.org/10.1007/s44187-026-01324-x",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1007/s44187-026-01324-x"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [
+   "Cleome gynandra",
+   "spider plant",
+   "traditional medicine",
+   "medicinal plants",
+   "food plants",
+   "sub-Saharan Africa",
+   "ethnobotany"
+  ],
+  "topics": [
+   "Ketahanan pangan rumah tangga"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-31",
+  "summary_id": null,
+  "relevance": 14
+ },
+ {
+  "id": "W7224491364",
+  "doi": "10.11648/j.ijmea.20261405.17",
+  "title": "Pre-Extension Demonstration and Evaluation of Soybean Grinding Machine for Gender Labour Saving",
+  "date": "2026-10-28",
+  "year": "2026",
+  "journal": "International Journal of Mechanical Engineering and Applications",
+  "issn": "2330023X",
+  "publisher": "Science Publishing Group",
+  "authors": [
+   "Kumale Sadeso",
+   "Teshome Wakeyo",
+   "Tolosa Berhanu",
+   "Kemaru Dalacha",
+   "Adem Tibeso",
+   "Husen Bona"
+  ],
+  "abstract": "Soybean is considered to be an important oilseed crop because it contains highly nutritious oil in large quantities. The increasing use of soybean, its high food value, and growth in production and trade have necessitated greater attention to crop-related post-harvest technologies. This study was conducted in FSRP-supported areas of Jimma and Buno Bedele zones of the Oromia region to demonstrate and evaluate the performance of a soybean grinding machine. Two districts, Seka Chekorsa and Banshure, were purposively selected based on soybean accessibility and suitability. Training and a mini-field day were organized to promote the soya bean grinding machine. The machine was evaluated based on grinding capacity, grinding efficiency, and mechanical damage. The results showed that the machine had an average grinding capacity of 407.73 kg/hr, an average grinding efficiency of 91.43%, and mechanical damage of 2.95% at a feed rate of 7 kg/min. Feedback on attributes including minimized soybean wastage, suitability for use, portability, and time and labor saving was collected from farmers. The majority of respondents (on average, 95%) positively perceived the time and labor savings, portability of the machine (80%), suitability to use (77%), and minimized wastage of soybean (70%). Based on the results, further scaling up and popularization of the soybean grinding machine in other soybean-producing areas are recommended.",
+  "oa_url": "https://doi.org/10.11648/j.ijmea.20261405.17",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.11648/j.ijmea.20261405.17"
+  ],
+  "oa_status": "diamond",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-10-31",
+  "summary_id": null,
+  "relevance": 11
  },
  {
   "id": "W7224106258",
