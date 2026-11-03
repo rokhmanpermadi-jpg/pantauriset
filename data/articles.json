@@ -1,5 +1,324 @@
 [
  {
+  "id": "W7225040136",
+  "doi": "10.1200/go-26-13400",
+  "title": "Implementing a Sustainable Cervical Cancer Screening Program into a Resource-Limited Pacific Island Nation: Yap State, Federated States of Micronesia",
+  "date": "2026-11-01",
+  "year": "2026",
+  "journal": "JCO Global Oncology",
+  "issn": "26878941",
+  "publisher": "Lippincott Williams & Wilkins",
+  "authors": [
+   "Dioreme Navasca",
+   "Mavis Nitta",
+   "Neal A. Palafox",
+   "Martina Reichhardtm",
+   "James Edilyong",
+   "Kassandra Lelman",
+   "Emi Chutaro"
+  ],
+  "abstract": "PURPOSE The North Pacific Islands have extreme cervical cancer (CC) rates (ASR 20.0-65.4 per 100,000 women per year), including Yap State, Federated States of Micronesia. A CDC-funded Pacific Against Cervical Cancer (PACe) Project was developed with the Yap Department of Health Services in the context of Yap’s 22 islands, dispersed over 500,000 square miles of ocean. The PACe worked to implement a high-quality, technologically feasible, effective CC screening system in Yap’s health resource-limited islands to address the high CC burden. METHODS Using a co-development strategy, principles of participatory capacity building were the foundational project elements. The EPIS framework (exploration, preparation, implementation, and sustainment) guided the implementation process. A multi-disciplinary team comprising CC medical, laboratory, community engagement, data/registry, and medical modeling/micro-costing experts was assembled. Through training, an hrHPV DNA screening program was linked to a visual assessment and thermal ablation follow-up protocol for pre-cancer treatment. A CC registry was deployed. The real-time results were analyzed through the modeling and micro-costing teams. RESULTS The PACe provided training to six doctors and five nurses, 16 community health workers, and 15 staff on the CC digital registry. A WHO-aligned triage and treatment algorithm that utilizes thermal ablation was developed. An electronic specimen tracking and client follow-up system was deployed. Over 2.5 years, 18 outer islands and Yap’s main island were covered. 100% of its screening goal (1,600 women) was achieved with a 20% hrHPV positivity rate. 62% of participants had never been screened. An hrHPV self-sampling strategy was instituted. Modeling indicated that Yap can achieve a threshold of ASR 4/100,000 by 2030. CONCLUSION Using a co-development, capacity-building, participatory framework was essential for the project's success. The EPIS framework ensured a process to systematically guide the project development towards sustainability. A multi-disciplinary expert team of medical, laboratory, community engagement, data, and medical modeling provided the evidence-based pieces for all technical components. The PACe project provides a scalable model to reduce CC mortality in underserved Pacific regions. These activities can significantly reduce CC mortality and ensure access for rural regions.",
+  "oa_url": "https://doi.org/10.1200/go-26-13400",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1200/go-26-13400"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-03",
+  "summary_id": {
+   "tujuan": "Menggambarkan implementasi program skrining kanker serviks berbasis hrHPV yang terintegrasi dengan triase visual dan terapi thermal ablation di Negara Bagian Yap, Federated States of Micronesia, dengan pendekatan co-development dan penguatan kapasitas.",
+   "metode": "Studi implementasi dengan pendekatan co-development dan kerangka EPIS (eksplorasi, persiapan, implementasi, keberlanjutan) selama 2,5 tahun di 18 pulau terluar dan pulau utama Yap. Target sampel 1.600 perempuan; data berasal dari registri digital dan pelacakan spesimen, serta dianalisis dengan pemodelan dan micro-costing. Desain tidak dinyatakan secara eksplisit sebagai kuasi-eksperimental.",
+   "temuan": "Target skrining 1.600 perempuan tercapai 100% dengan positivitas hrHPV 20%, dan 62% peserta belum pernah diskrining sebelumnya. Model memproyeksikan Yap dapat mencapai ASR 4 per 100.000 pada 2030, tetapi ini merupakan proyeksi, bukan hasil terukur. Hasil bersifat deskriptif, sehingga tidak dapat disimpulkan sebagai dampak kausal terhadap penurunan mortalitas.",
+   "keterbatasan": "Tampak dari desain: tidak ada kelompok pembanding, hasil utama berupa cakupan dan proyeksi model, serta belum ada data mortalitas atau keberlanjutan jangka panjang. Teks tidak menyebutkan keterbatasan secara eksplisit.",
+   "relevansi": "Kerangka co-development, penguatan kapasitas petugas lokal, dan layanan di wilayah kepulauan tersebar memiliki paralel dengan tantangan akses layanan di wilayah pedesaan dan pulau-pulau Kalimantan Tengah. Namun studi ini berfokus pada kesehatan, sehingga kaitan langsung dengan pemasaran pertanian, rantai nilai, atau kelembagaan petani terbatas.",
+   "skor": 2,
+   "model": "claude-haiku-5-5",
+   "sumber": "abstrak"
+  },
+  "relevance": 30
+ },
+ {
+  "id": "W7225040952",
+  "doi": "10.1200/go-26-27000",
+  "title": "Stage-Specific Barriers to HPV Follow-Up After Screening in Rural India: A Participatory Qualitative Study",
+  "date": "2026-11-01",
+  "year": "2026",
+  "journal": "JCO Global Oncology",
+  "issn": "26878941",
+  "publisher": "Lippincott Williams & Wilkins",
+  "authors": [
+   "Anju Kane",
+   "Devanshi Somaiya",
+   "Kiranmayee Muralidhar",
+   "Raghavi karnam",
+   "Shivamma N.",
+   "Poornima Jaykrishna",
+   "Purnima Madhivanan"
+  ],
+  "abstract": "PURPOSE Cervical cancer screening coverage in Mysore remains extremely low, with fewer than 3% of women ever screened. Despite expanding HPV-based screening, completion of follow-up after positive results remains a critical gap. Understanding stage-specific barriers across the screening cascade is essential to improving outcomes. METHODS We conducted four focus group discussions (FGDs) with women aged 30–65 years from rural Mysore, stratified by screening status including unscreened women (n=16) and screened women awaiting HPV test results (n=11). Participants were recruited from communities engaged in a cervical cancer screening program implemented by the Public Health Research Institute of India (PHRII). FGDs explored psychosocial and structural barriers to follow-up care across stages of the screening cascade, with thematic saturation achieved. Participants prioritized and ranked barriers using a participatory dot voting exercise. Discussions were transcribed and analyzed using inductive thematic analysis. RESULTS Participants ranked discomfort with male providers (10 votes) as the highest-priority barrier, followed by long wait times and unwelcoming provider interactions (6 votes each), and financial constraints, the need for family permission, and fear of pelvic examination (5 votes each). Among unscreened women, barriers were concentrated at the decision-making and clinic access stages, driven by provider gender preferences, financial constraints, and family permission. Among screened women, barriers were more heavily concentrated at clinic access and treatment stages, where long wait times, unwelcoming provider interactions, and fear of pelvic examination were most prominent. These barriers help explain observed attrition between result notification and colposcopy attendance in PHRII records, where only 32.2% of HPV-positive women completed colposcopy. These findings suggest that attrition is driven by a shift from social and decision-making constraints before screening to health system barriers after screening. CONCLUSION Barriers to HPV follow-up are dynamic and shift across stages of the care cascade. Interventions must be stage-specific to improve follow-up and completion. This study highlights the value of participatory ranking for identifying stage-specific, actionable intervention targets for community-based HPV screening programs in similar settings.",
+  "oa_url": "https://doi.org/10.1200/go-26-27000",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1200/go-26-27000"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-03",
+  "summary_id": {
+   "tujuan": "Mengidentifikasi hambatan spesifik tahap dalam tindak lanjut hasil skrining HPV pada perempuan pedesaan di Mysore, India, dan menguji apakah hambatan tersebut berubah sepanjang kaskade layanan.",
+   "metode": "Studi kualitatif partisipatoris dengan empat diskusi kelompok terfokus (FGD) pada perempuan usia 30-65 tahun di pedesaan Mysore, dikelompokkan berdasarkan status skrining (belum diskrining n=16; menunggu hasil HPV n=11). Peserta merangking hambatan melalui dot voting, lalu data dianalisis dengan analisis tematik induktif. Periode pengumpulan data dan teknik analisis kuantitatif pendukung tidak disebutkan.",
+   "temuan": "Ketidaknyamanan dengan tenaga kesehatan laki-laki menjadi hambatan prioritas tertinggi (10 suara), disusul waktu tunggu panjang dan interaksi tenaga kesehatan yang tidak ramah (masing-masing 6 suara), serta biaya, izin keluarga, dan takut pemeriksaan pelvis (masing-masing 5 suara). Hanya 32,2% perempuan HPV-positif yang menyelesaikan kolposkopi menurut catatan program, dan penulis menafsirkan pergeseran hambatan dari tahap keputusan ke tahap sistem layanan sebagai asosiasi, bukan hubungan kausal.",
+   "keterbatasan": "Tidak disebutkan secara eksplisit oleh penulis. Dari desainnya tampak bahwa jumlah peserta kecil, lokasi tunggal di Mysore, dot voting bukan ukuran statistik, dan angka 32,2% berasal dari catatan program yang tidak terhubung langsung dengan peserta FGD.",
+   "relevansi": "Relevansi langsung rendah karena fokusnya pada layanan kesehatan reproduksi, bukan pemasaran pertanian atau rantai nilai. Namun, teknik penilaian prioritas partisipatoris dan kerangka hambatan berlapis (akses, biaya, norma gender) dapat diadaptasi untuk studi akses pasar atau kelembagaan petani kecil di Kalimantan Tengah.",
+   "skor": 2,
+   "model": "claude-haiku-5-5",
+   "sumber": "abstrak"
+  },
+  "relevance": 30
+ },
+ {
+  "id": "W7225054834",
+  "doi": "10.1200/go-26-34000",
+  "title": "Strengthening Cervical Cancer Screening Uptake Using Primary Care Integration and Standardized Community Education in Rural South India",
+  "date": "2026-11-01",
+  "year": "2026",
+  "journal": "JCO Global Oncology",
+  "issn": "26878941",
+  "publisher": "Lippincott Williams & Wilkins",
+  "authors": [
+   "Devanshi Somaiya",
+   "Kiranmayee Muralidhar",
+   "Raghavi karnam",
+   "Poornima Jaykrishna",
+   "Purnima Madhivanan",
+   "Satyanarayana Gavi",
+   "Fazila Begum",
+   "Nagalambika Ningaiah",
+   "Shivamma Nanjaiah"
+  ],
+  "abstract": "PURPOSE Cervical cancer screening coverage in India remains extremely low, with only 1.9% of women aged 30-49 reporting ever having been screened. Low awareness and perceived susceptibility further limit uptake. HPV-DNA testing using self-collected samples offers a scalable approach. We evaluated a community-based screening model integrating contextually-grounded education within primary healthcare systems using the RE-AIM framework (Reach, Effectiveness, Adoption, Implementation, and Maintenance) to assess outcomes. METHODS Using a quasi-experimental design, we evaluated the implementation of HPV-DNA–based cervical cancer screening using self-collected vaginal samples across 22 villages served by two Primary Health Centers (PHCs) in Mysore district, India, from May 2025 to April 2026. Both PHCs served demographically comparable rural populations. In the first PHC, screening was implemented using a non-standardized approach characterized by variation in education content and delivery and limited integration of community health workers (CHWs). Based on these implementation learnings, a standardized model was subsequently introduced in a second PHC. Pre-implementation activities included stakeholder engagement, assessment of local barriers and beliefs, training of PHC staff, and coordinated involvement of CHWs. A community-informed education strategy using multimedia and flip charts was delivered in group and door-to-door settings. Following counseling and informed consent, women self-collected vaginal samples for HPV-DNA testing, and results were returned confidentially. RESULTS In the first PHC, 43.6% (1,288/2,955) of eligible women underwent screening over eight months. In the second PHC, 69.9% (1,058/1,513) of eligible women were reached through education and 60.3% (913/1,513) completed screening within four months, with 86.3% uptake among women who received education. Compared with the first PHC, this represented a 16.7 percentage-point absolute increase and a 38.3% relative increase in screening uptake, achieved in half the implementation time. Low perceived susceptibility remained the primary barrier to participation in both PHCs (56.2% vs 55.3% of non-participants). These findings suggest that standardized education, coordinated CHW engagement, and integration within primary care systems involving all PHC cadres can substantially improve HPV screening uptake. CONCLUSION Embedding HPV screening within primary healthcare systems improved implementation efficiency and substantially increased participation. Persistent gaps in perceived risk highlight an important behavioral barrier requiring targeted communication strategies.",
+  "oa_url": "https://doi.org/10.1200/go-26-34000",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1200/go-26-34000"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-03",
+  "summary_id": null,
+  "relevance": 23
+ },
+ {
+  "id": "W7225034950",
+  "doi": "10.1200/go-26-11000",
+  "title": "Barriers to Optimal Care for Cervical Cancer in the Democratic Republic of the Congo",
+  "date": "2026-11-01",
+  "year": "2026",
+  "journal": "JCO Global Oncology",
+  "issn": "26878941",
+  "publisher": "Lippincott Williams & Wilkins",
+  "authors": [
+   "Jonas Ndeke",
+   "Emily Victoria Meanwell",
+   "Molly S. Rosenberg",
+   "Jonathan T. Macy",
+   "Aurelian Bidulescu",
+   "James E. Klaunig",
+   "Antoine M. Mbutuku",
+   "Paul P. Muanda",
+   "Bismark M. Mpembele",
+   "Lievain D. Mayala",
+   "Viktor Clark",
+   "Luke Joseph Peppone"
+  ],
+  "abstract": "PURPOSE Cervical cancer remains the number one cause of cancer death in sub-Saharan Africa and in the Democratic Republic of Congo (DRC) for both men and women, mainly due to ≈75% of cases being late stage at presentation. However, studies specific to patient’s lived experience from the unique cervical cancer landscape in the DRC are missing from the record. This study identifies patient-perceived barriers to timely optimal care, and the resulting psychosocial and economic burden among DRC cervical cancer survivors. METHODS We conducted in-depth semi-structured interviews with 18 cervical cancer survivors from a cohort across two DRC hospitals (one urban, one rural). Interviews were audio-recorded, transcribed, open-coded, then thematically analyzed by two independent coders using NVivo. We initially analyzed the primary outcome to identify barriers, which we then used to analyze the secondary outcome, disease burden. RESULTS Median age was 50 years; 61% were married and two-thirds had a secondary education or lived in rural areas. We identified three major themes out of 25 codes: (1) Financial and logistical barriers, as patients relied on personal funds for all cancer-related costs (eg, care, travel), leading to delayed/incomplete treatment; (2) Culturally-driven awareness gaps, with limited understanding of cervical cancer symptoms and treatment having delayed care seeking; and (3) Provider system barriers, where inadequate referral workflow/networks and prolonged patient navigation times hindered continuity of care and caused massive disruptions in care provision. These combined barriers often result in delayed care seeking and receipt, late stage at presentation, reportedly higher mortality, and perpetual substantial financial strain, mental, physical, and socioeconomical burdens for the patient and her family. CONCLUSION In these novel insights from the DRC, patients’ reliance on personal finances to cover the cost of care emerged as the major barrier to optimal care and subsequently contributed to the disease burden. Our findings stress the need for locally achievable solutions for clinical practice and cancer management policy, in addition to a universal health coverage to support cervical cancer care in the DRC. Future studies should focus on feasible strategies for community awareness programs, provider training and referral system strengthening, and patient navigation and transport support.",
+  "oa_url": "https://doi.org/10.1200/go-26-11000",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1200/go-26-11000"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-03",
+  "summary_id": null,
+  "relevance": 15
+ },
+ {
+  "id": "W7225050973",
+  "doi": "10.1200/go-26-12100",
+  "title": "De Pilotos Locais a Programas Escaláveis: Implementando o Rastreamento do Câncer Cervical Baseado em Human Papillomavirus na América Latina",
+  "date": "2026-11-01",
+  "year": "2026",
+  "journal": "JCO Global Oncology",
+  "issn": "26878941",
+  "publisher": "Lippincott Williams & Wilkins",
+  "authors": [
+   "Renan Garcia Artus",
+   "Leonardo Storch",
+   "Pedro Melo",
+   "Pedro G. Teixeira",
+   "Rafael Amengual Duarte",
+   "Lucas Guimarães",
+   "Henrique Da Rocha Froncheti"
+  ],
+  "abstract": "PURPOSE Cervical cancer is a leading cause of cancer death among women in Latin America, where many countries are classified as low- and middle-income and experience some of the highest incidence and mortality rates globally. The WHO has launched a global strategy to eliminate cervical cancer as a public health problem, setting 90-70-90 targets by 2030, including 70% screening coverage with a high-performance test, preferably human papillomavirus (HPV) testing, at ages 35 and 45. This narrative review synthesizes recent experience with HPV-based cervical cancer screening in Latin America, highlighting local pilots and programmatic implementations, key barriers and facilitators, and lessons with potential for global impact. METHODS We conducted a narrative review of publications and reports from 2010 to 2026 on HPV-based screening in Latin American countries, using PubMed and major global health sources. We prioritized studies describing real-world implementation or large research platforms such as the International Agency for Research on Cancer-led ESTAMPA study, programmatic HPV testing in Argentina and Mexico, and self-sampling initiatives in rural Ecuador, including quantitative and qualitative assessments of barriers, facilitators, and acceptability. RESULTS Across Latin America, HPV testing has been introduced at scale or in large pilots through initiatives such as ESTAMPA, which evaluates organized HPV-based screening and triage strategies in multiple sites and informs approaches for scale-up. Argentina has been a regional pioneer: the province of Jujuy was the first to implement HPV testing as the primary screening method, including community health worker–delivered self-collection, and has now implemented a second round of HPV-based screening. Experience from nine Latin American countries shows that HPV testing is feasible and a promising tool to reduce cervical cancer burden, although higher test costs and health system constraints remain challenges. In rural Ecuador, diagnostic studies showed that vaginal and urine self-sampling have sensitivity and specificity comparable to clinician-collected samples, while community-based pilots reported high acceptability, with perceived advantages such as comfort, privacy, and time savings. CONCLUSION Latin American experiences demonstrate that HPV-based screening and self-sampling can be effectively implemented in diverse health systems, particularly when integrated with primary care and supported by community outreach. These local “laboratories” of implementation reveal common barriers and key facilitators and offer practical lessons for other settings.",
+  "oa_url": "https://doi.org/10.1200/go-26-12100",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1200/go-26-12100"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-03",
+  "summary_id": null,
+  "relevance": 15
+ },
+ {
+  "id": "W7225051190",
+  "doi": "10.1111/nin.70184",
+  "title": "The Rural Ecological Framework of Intimate Partner Violence (RE‐IPV): Social–Ecological Factors and Constrained Agency Among Rural Women",
+  "date": "2026-11-01",
+  "year": "2026",
+  "journal": "Nursing Inquiry",
+  "issn": "13207881",
+  "publisher": "Wiley",
+  "authors": [
+   "Frances Kimber",
+   "Hanan A. Abusbaitan",
+   "Leso Munala",
+   "Jeneile M. Luebke",
+   "Angelica Walton",
+   "Anwar M. Eyadat",
+   "Kaboni Whitney Gondwe",
+   "Katie Bement",
+   "Missy Jerome",
+   "Cassandra Clark",
+   "Lucy Mkandawire‐Valhmu"
+  ],
+  "abstract": "ABSTRACT Intimate partner violence (IPV) is a pervasive public health crisis, with rural social and structural conditions creating additional challenges for survivors seeking safety and support. Existing applications of the Social–Ecological Model (SEM) have helped identify factors influencing IPV, but offer less explanation about how these factors interact to constrain survivors' agency and shape service navigation. This paper introduces the Rural Ecological Framework of Intimate Partner Violence (RE‐IPV), a conceptual framework informed by the SEM, structural violence perspectives, and a synthesis of empirical literature, with refinement through engagement with rural community partners, nurse scholars, and public health scientists. RE‐IPV illustrates how interacting societal, community, relational, and individual conditions shape the options available for rural women experiencing IPV. Central to the framework is constrained agency, which helps explain how survivors make decisions about safety, disclosure, and service utilization within circumstances that limit their available options. The framework also conceptualizes service navigation as a recursive process in which healthcare and advocacy encounters can influence survivors' trust, perceptions of safety, and subsequent help‐seeking decisions. By moving beyond a descriptive categorization of ecological barriers, RE‐IPV offers a rural‐specific perspective on how structural conditions shape survivors' agency and engagement with services. The framework provides a foundation for future conceptual development, empirical examination, and survivor‐centered nursing and healthcare practice. Trial Registration: Not applicable.",
+  "oa_url": "https://doi.org/10.1111/nin.70184",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1111/nin.70184"
+  ],
+  "oa_status": "hybrid",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-03",
+  "summary_id": null,
+  "relevance": 15
+ },
+ {
+  "id": "W7225047743",
+  "doi": "10.1007/s43621-026-05162-w",
+  "title": "Farmers perceived risks distinguishing domestic wastewater users from non-users in the Sistan Plain of Iran",
+  "date": "2026-11-01",
+  "year": "2026",
+  "journal": "Discover Sustainability",
+  "issn": "26629984",
+  "publisher": "Springer Nature",
+  "authors": [
+   "Pouria Ataei",
+   "Hamid Karimi",
+   "Afshin Mottaghi Dastenaei"
+  ],
+  "abstract": "The water scarcity crisis is a fundamental challenge for agriculture in arid and semi-arid regions like Iran. Using domestic wastewater as an alternative water source can play an essential role in alleviating pressure on water resources. However, farmers’ perceptions of the risks associated with wastewater significantly influence their decision to adopt or reject this technology. This research explores how perceived risks differentiate farmers who use domestic wastewater from those who do not. The research is an analytical descriptive study conducted through survey techniques. The statistical population includes farmers in the Sistan Plain, Iran. A total of 361 farmers (163 wastewater users and 198 non-users) were surveyed, and discriminant analysis was used to identify which perceived risks best distinguish the two groups. Data were collected using a questionnaire whose validity was confirmed through face validity (expert assessment of question clarity and appropriateness) and content validity (systematic evaluation of item relevance to research objectives), and whose reliability was verified by calculating Cronbach’s alpha during a pilot study. Results reveal that ethical (standardized coefficient = 0.671), educational and awareness (0.512), and sociocultural (0.467) risks were the most influential in distinguishing user farmers from non-user farmers. Conversely, health and policy risks had minimal impact on farmers’ decisions—likely due to limited awareness of health hazards and perceived lack of control over policy changes—suggesting that policymakers should prioritize sociocultural interventions over health campaigns or regulatory adjustments. These findings indicate that social, cultural, and ethical concerns are more important than scientific and environmental considerations regarding wastewater use. Additionally, legal and monitoring risks, as well as supply-chain-related risks, also played a role in influencing farmers’ decisions. In conclusion, policymakers seeking to promote wastewater adoption in the Sistan Plain should prioritize sociocultural acceptance and awareness-building over health campaigns or regulatory adjustments, as farmers’ decisions are primarily shaped by social and ethical considerations. Not applicable.",
+  "oa_url": "https://doi.org/10.1007/s43621-026-05162-w",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1007/s43621-026-05162-w"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemasaran, rantai pasok & rantai nilai"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-03",
+  "summary_id": null,
+  "relevance": 11
+ },
+ {
+  "id": "W7225049446",
+  "doi": "10.46743/1052-0147.6709",
+  "title": "Empowering Women in Community-Based Tourism: A Close Look at Tourism Villages",
+  "date": "2026-10-31",
+  "year": "2026",
+  "journal": "The Qualitative Report",
+  "issn": "10520147",
+  "publisher": "Nova Southeastern University",
+  "authors": [
+   "Tristanti Tristanti",
+   "Ismi Dwi Astuti Nurhaeni",
+   "Mulyanto Mulyanto",
+   "Ratna Devi Sakuntalawati"
+  ],
+  "abstract": "This study examines women's empowerment in community-based tourism in Nglanggeran Tourist Village, Indonesia. Using an interpretive phenomenological approach, it explores how women experience the empowerment process within a rural tourism setting. Data were collected through semi-structured interviews with five women actively involved in tourism activities and analyzed thematically. Findings show that empowerment follows five interconnected stages: raising awareness through women's groups, identifying programs based on local tourism potential, designing need-based initiatives, implementing training and mentoring, and evaluating programs through participatory discussions. Active participation and integration of local resources drive the process. Participants reported greater self-confidence, positive mindset changes, improved employment opportunities, and increased income. This study extends community-based tourism literature by proposing a locally grounded empowerment process that links community participation, local resources, and women's economic empowerment. The findings offer practical guidance for policymakers and tourism practitioners in designing inclusive and sustainable empowerment programs for rural tourism communities.",
+  "oa_url": "https://doi.org/10.46743/1052-0147.6709",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.46743/1052-0147.6709"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-03",
+  "summary_id": {
+   "tujuan": "Mengkaji proses pemberdayaan perempuan dalam pariwisata berbasis masyarakat di Desa Wisata Nglanggeran, Indonesia, serta merumuskan proses pemberdayaan yang berakar pada konteks lokal.",
+   "metode": "Desain kualitatif fenomenologi interpretatif dengan wawancara semi-terstruktur terhadap lima perempuan yang aktif dalam kegiatan pariwisata. Data dianalisis secara tematik. Periode pengumpulan data tidak disebutkan.",
+   "temuan": "Pemberdayaan berlangsung melalui lima tahap yang saling terkait: penyadaran melalui kelompok perempuan, identifikasi program berdasarkan potensi wisata, perancangan inisiatif berbasis kebutuhan, pelatihan dan pendampingan, serta evaluasi partisipatif. Partisipasi aktif dan pemanfaatan sumber daya lokal dinilai sebagai penggerak proses, dengan peningkatan kepercayaan diri, perubahan pola pikir, kesempatan kerja, dan pendapatan yang dilaporkan peserta. Temuan bersifat persepsi subjektif dan menunjukkan asosiasi, bukan kausalitas.",
+   "keterbatasan": "Jumlah partisipan sangat kecil (n=5) dan hanya satu lokasi, sehingga transferabilitas terbatas. Data bergantung pada laporan diri peserta tanpa verifikasi kuantitatif terhadap pendapatan atau kesempatan kerja. Keterbatasan yang secara eksplisit diakui penulis tidak disebutkan dalam abstrak.",
+   "relevansi": "Kerangka lima tahap dan peran kelompok perempuan dapat dibandingkan dengan kelompok tani perempuan atau usaha pangan rumah tangga di Kalimantan Tengah, khususnya terkait kelembagaan dan akses pasar. Namun, fokus pada pariwisata membuat relevansinya tidak langsung terhadap agenda utama mengenai sawit, rantai nilai pertanian, dan adopsi digital.",
+   "skor": 2,
+   "model": "claude-haiku-5-5",
+   "sumber": "abstrak"
+  },
+  "relevance": 42
+ },
+ {
   "id": "W7224993566",
   "doi": "10.1007/s43621-026-05184-4",
   "title": "A systematic review of interconnections between coastal intertidal molluscs, sustainable livelihoods, and the blue economy in South African coastal communities",
