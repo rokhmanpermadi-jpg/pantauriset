@@ -1,5 +1,650 @@
 [
  {
+  "id": "W7165393061",
+  "doi": "10.1007/s43621-026-04872-5",
+  "title": "Endline adoption of climate-smart agriculture through participatory training and community savings groups in rural Ghana",
+  "date": "2026-11-02",
+  "year": "2026",
+  "journal": "Discover Sustainability",
+  "issn": "26629984",
+  "publisher": "Springer Nature",
+  "authors": [
+   "Joseph Abazaami"
+  ],
+  "abstract": "Abstract Food security and climate resilience sit in uncomfortable tension across sub-Saharan Africa, and climate-smart agriculture (CSA) has been promoted as the bridge between them. Whether participatory action research (PAR) interventions can close the knowledge-to-practice gap in a lasting way remains inadequately answered in West African smallholder contexts. This paper presents findings from the end-of-project evaluation of the ReDIAL project, a four-year (2020–2024) EU-funded initiative across five agroecologically diverse districts in Ghana. The evaluation used a convergent parallel mixed-methods design: 400 household surveys, 50 focus group discussions, and 60 key informant interviews. By endline, 96% of project beneficiaries had received CSA training and roughly nine in ten were actively applying at least one CSA practice on their farms. Village Savings and Loan Associations (VSLAs) proved central—not as peripheral financial add-ons, but as the institutional mechanism that converted knowledge into sustained practice by providing farmers the credit needed to act on what they had learned. Average monthly household income rose from GHS 413 (USD 38) at baseline to GHS 707.5 (USD 64) at endline, surpassing the national average for comparable occupations by 15.6%, with women’s incomes more than doubling. Persistent challenges remain: agricultural credit is still too expensive for most smallholders, gender income gaps have narrowed but not closed, and no formal exit strategy was produced. Implications for the design, resourcing, and handover of PAR-driven CSA programmes are discussed.",
+  "oa_url": "https://doi.org/10.1007/s43621-026-04872-5",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1007/s43621-026-04872-5",
+   "https://www.researchsquare.com/article/rs-9420044/latest.pdf",
+   "https://doi.org/10.21203/rs.3.rs-9420044/v1"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [
+   "climate-smart agriculture",
+   "participatory action research",
+   "smallholder farmers",
+   "knowledge-practice gap",
+   "village savings and loan associations",
+   "agricultural credit",
+   "food security",
+   "climate resilience"
+  ],
+  "topics": [
+   "Pemberdayaan petani & gender",
+   "Ketahanan pangan rumah tangga"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-04",
+  "summary_id": {
+   "tujuan": "Mengevaluasi hasil adopsi climate-smart agriculture (CSA) dan jalur keberlanjutannya setelah proyek ReDIAL di Ghana, dengan menelaah peran Village Savings and Loan Associations (VSLA) sebagai mekanisme kelembagaan. Studi ini juga menilai perubahan pendapatan rumah tangga petani serealia kecil dari baseline ke endline.",
+   "metode": "Evaluasi akhir proyek (2020–2024) dengan desain convergent parallel mixed-methods di lima distrik Ghana, meliputi survei rumah tangga 400 responden (80 per distrik; 22,8% dari 413 komunitas), 50 focus group discussion, dan 60 wawancara informan kunci. Survei dianalisis secara deskriptif dengan perbandingan baseline–endline, sedangkan data kualitatif dianalisis secara tematik; tidak ada kelompok kontrol.",
+   "temuan": "96% penerima menerima pelatihan CSA dan sekitar 90% menerapkan minimal satu praktik; pendapatan rumah tangga rata-rata naik dari GHS 413 menjadi GHS 707,5 per bulan (+71,4%), dengan pendapatan perempuan lebih dari dua kali lipat (GHS 310 menjadi GHS 703). Penulis menempatkan VSLA (19 kelompok, 581 anggota) sebagai mekanisme utama yang mengubah pengetahuan menjadi praktik melalui akses kredit. Temuan ini bersifat asosiasi dan kontribusi, bukan dampak kausal.",
+   "keterbatasan": "Tidak ada kelompok pembanding sehingga atribusi kausal tidak dapat dibuktikan, dan data produktivitas atau hasil panen tidak dikumpulkan. Periode empat tahun belum cukup untuk menilai adopsi tingkat kedua (second-order adoption). Penulis adalah konsultan utama evaluasi yang dibiayai pihak proyek; hal ini diungkap dalam naskah namun tetap berpotensi memengaruhi interpretasi.",
+   "relevansi": "Berguna untuk Kalimantan Tengah sebagai pembanding model kelompok simpan pinjam yang dikaitkan dengan adopsi teknologi, akses kredit petani, dan isu kesetaraan gender. Konteks serealia Ghana berbeda dengan sawit dan rantai pasok Kalimantan, sehingga temuannya perlu diuji ulang pada petani sawit swadaya atau plasma.",
+   "skor": 4,
+   "model": "claude-haiku-5-5",
+   "sumber": "teks penuh"
+  },
+  "relevance": 64
+ },
+ {
+  "id": "W7225088007",
+  "doi": "10.9734/jsrr/2026/v32i114691",
+  "title": "E-Commerce in Agribusiness: Transforming Agricultural Input and Food Markets in Emerging Economies",
+  "date": "2026-11-02",
+  "year": "2026",
+  "journal": "Journal of Scientific Research and Reports",
+  "issn": "23200227",
+  "publisher": "Sciencedomain International",
+  "authors": [
+   "Sanjiv Kumar",
+   "Shweta Bhatia",
+   "Harkesh Kumar Balai",
+   "Sarita Meena"
+  ],
+  "abstract": "E-commerce is altering the organisation of agricultural input distribution, farm-output marketing and urban food procurement across emerging economies. Yet the proposition that digital platforms necessarily reduce intermediation, raise farm incomes and improve food-system efficiency is not established by the evidence as a whole. This critical narrative review examines transaction-based digital marketplaces, electronic agricultural auctions, input e-stores, digitally mediated procurement and consumer-facing food platforms, with attention to China, India and sub-Saharan Africa. Peer-reviewed empirical studies, reviews and selected methodological sources were purposively assessed for identification strategy, outcome validity, external relevance and conflicting results. The literature indicates that electronic commerce can broaden market reach, enable comparison of input offers, reorganise procurement and support sales continuity during disruptions. The magnitude and distribution of these benefits depend on logistics, verification of goods, intermediary services, buyer competition, digital capabilities and platform rules. A randomised expansion study in rural China found limited producer-income effects, whereas several observational and quasi-experimental studies report gains for selected participants; recent evidence also indicates diminishing returns, unequal benefits and adverse spillovers on offline farmers. Indian electronic agricultural markets demonstrate that price transparency does not guarantee effective cross-market competition, while African evidence documents both opportunities for input dealers and persistent fulfilment and trust constraints. Consumer-facing platforms complicate food-safety oversight and create new informational and nutritional concerns alongside possible improvements in monitoring. The synthesis advances an institutional transaction-chain framework that distinguishes online discovery from fulfilled, contestable and equitable trade. Policy evaluation should prioritise net margins, realised transactions, quality, distributional spillovers and durable market access rather than registrations or platform sales alone. Longer-term, independently evaluated comparisons across crop types and regions remain necessary before broad transformation claims are warranted.",
+  "oa_url": "https://doi.org/10.9734/jsrr/2026/v32i114691",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.9734/jsrr/2026/v32i114691"
+  ],
+  "oa_status": "diamond",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Akses & informasi pasar petani",
+   "Adopsi teknologi & pertanian digital"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-04",
+  "summary_id": {
+   "tujuan": "Mengkaji secara kritis apakah e-commerce agribisnis (pasar digital, lelang elektronik, toko input daring, pengadaan digital, dan platform pangan) benar-benar mengurangi perantara, meningkatkan pendapatan petani, dan memperbaiki efisiensi sistem pangan.",
+   "metode": "Tinjauan naratif kritis terhadap studi empiris peer-reviewed, tinjauan, dan sumber metodologis yang dipilih secara purposif, dengan fokus Tiongkok, India, dan Afrika sub-Sahara. Jumlah studi, rentang periode, dan protokol pencarian tidak disebutkan.",
+   "temuan": "E-commerce dapat memperluas jangkauan pasar, memungkinkan perbandingan penawaran input, dan menjaga kontinuitas penjualan saat gangguan. Uji acak ekspansi di Tiongkok menemukan efek terbatas pada pendapatan produsen, sedangkan studi observasional dan kuasi-eksperimen melaporkan keuntungan bagi peserta terpilih, dengan imbal hasil menurun dan dampak negatif pada petani offline. Transparansi harga di India tidak otomatis menghasilkan persaingan antarpasar.",
+   "keterbatasan": "Penulis mengakui bukti belum cukup untuk klaim transformasi luas dan perlu evaluasi jangka panjang yang independen lintas komoditas dan wilayah. Pemilihan studi secara purposif berpotensi menimbulkan bias seleksi.",
+   "relevansi": "Kerangka rantai transaksi institusional (dari penemuan daring ke transaksi terpenuhi, kontestabel, dan adil) relevan untuk menilai akses pasar petani kecil dan distribusi input di Kalimantan Tengah. Temuan tentang manfaat yang tidak merata dan kendala pemenuhan pesanan layak diuji ulang pada rantai sawit dan hortikultura Indonesia, meski kajian ini tidak membahas konteks Indonesia.",
+   "skor": 4,
+   "model": "claude-haiku-5-5",
+   "sumber": "abstrak"
+  },
+  "relevance": 58
+ },
+ {
+  "id": "W4417212830",
+  "doi": "10.3389/fsufs.2026.1899906",
+  "title": "Knowledge, attitudes, practices and demand for processed fruits and vegetables among low-income consumers and retailers in Kenya",
+  "date": "2026-11-02",
+  "year": "2026",
+  "journal": "Frontiers in Sustainable Food Systems",
+  "issn": "2571581X",
+  "publisher": "Frontiers Media",
+  "authors": [
+   "Willis Owino",
+   "Peter Kahenya",
+   "Elizabeth Wafula",
+   "Geoffrey Otieno"
+  ],
+  "abstract": "Postharvest loss of perishable fruits and vegetables is a significant challenge which can be mitigated by processing them into shelf stable products. This study investigated the knowledge, attitude and practices (KAP) on consumption as well as drivers for consumer demand of raw and processed fruits and vegetables among low-income consumers and retailers in Kenya. A cross-sectional survey was undertaken in urban, peri-urban and rural areas of Central, Coast, Eastern and Nairobi regions. Purposive sampling was used to select sixteen sites predominantly inhabited by low-income consumers. Simple random walk technique was used to sample 1,281 households and 176 retailers. Semi-structured questionnaires were employed to collect qualitative and quantitative data. The results indicated a stronger consumer preference for fresh over processed fruits and vegetables. Nevertheless, respondents acknowledged benefits of processing including shelf life extension and nutrient conservation. Consumers had a higher acceptability for processed products with attributes such as ‘natural taste’, ‘high nutritional value’ and ‘safe’. Almost all sampled households dedicated 28 to 38% of their total food budget to purchase fruits and vegetables. The significant drivers of consumer demand for processed fruits and vegetables included family size, income, educational level, price, gender and age. Consumer demand was a key determinant in retailers’ stocking decisions. The findings provide market intelligence for processors and distributors of value-added products such as mango juice, tomato paste and cereal flour fortified with indigenous green leafy vegetables. Strategic decisions can be made to align product development and marketing with preferences and economic realities of the low-income segment.",
+  "oa_url": "https://www.frontiersin.org/journals/sustainable-food-systems/articles/10.3389/fsufs.2026.1899906/pdf",
+  "pdf_url": "https://www.frontiersin.org/journals/sustainable-food-systems/articles/10.3389/fsufs.2026.1899906/pdf",
+  "pdf_urls": [
+   "https://www.frontiersin.org/journals/sustainable-food-systems/articles/10.3389/fsufs.2026.1899906/pdf",
+   "https://doi.org/10.3389/fsufs.2026.1899906",
+   "https://doi.org/10.2139/ssrn.5903161"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [
+   "processed fruits and vegetables",
+   "consumer demand",
+   "low-income consumers",
+   "retail companies",
+   "knowledge, attitudes and practices",
+   "post-harvest losses",
+   "shelf life extension",
+   "food processing"
+  ],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": true,
+  "language": "en",
+  "found_at": "2026-11-04",
+  "summary_id": {
+   "tujuan": "Menilai pengetahuan, sikap, dan praktik (KAP) konsumsi, serta determinan permintaan rumah tangga berpendapatan rendah dan praktik stok peritel untuk buah dan sayur olahan di Kenya. Fokusnya adalah jus mangga, pasta tomat, dan tepung sereal berisi sayuran hijau indigenus (ILG).",
+   "metode": "Survei cross-sectional pada Desember 2023 di 16 sub-county, empat wilayah (Nairobi, Kiambu, Eastern, Coast), mencakup area perkotaan, pinggiran kota, dan perdesaan. Sampel 1.282 rumah tangga (abstrak menulis 1.281) dipilih dengan simple random walk, ditambah 176 peritel, menggunakan kuesioner semi-terstruktur melalui ODK. Analisis meliputi statistik deskriptif, ANOVA, chi-square, indeks permintaan konsumen (CDI) komposit, dan regresi logistik ordinal (α = 0,05).",
+   "temuan": "Konsumen lebih menyukai produk segar (mangga 80%, tomat 92%, ILG 91%), tetapi 85% menyatakan mungkin mengonsumsi jus mangga dan 64% tepung ILG. Rata-rata CDI jus mangga 0,61 (tinggi), pasta tomat 0,53, dan tepung ILG 0,52 (sedang); rumah tangga menghabiskan 28–38% anggaran pangan untuk buah dan sayur. Wilayah, pendidikan, pekerjaan, dan usia berasosiasi dengan permintaan, bukan bukti kausal.",
+   "keterbatasan": "Tidak disebutkan secara eksplisit dalam teks yang tersedia. Dari desain, studi cross-sectional tidak dapat menguji kausalitas, lokasi dipilih secara purposif, data bersifat self-report, dan responden didominasi perempuan (77%).",
+   "relevansi": "Pendekatan CDI dan kesenjangan antara permintaan konsumen dengan stok peritel relevan untuk merancang hilirisasi buah dan sayur lokal Kalimantan Tengah guna menekan kehilangan pascapanen. Namun studi ini berfokus pada konsumen dan peritel, bukan petani produsen, kelembagaan petani, atau sawit, sehingga kaitannya dengan akses pasar petani kecil bersifat tidak langsung.",
+   "skor": 3,
+   "model": "claude-haiku-5-5",
+   "sumber": "teks penuh"
+  },
+  "relevance": 48
+ },
+ {
+  "id": "W7225124642",
+  "doi": "10.1016/j.foodpol.2026.103224",
+  "title": "Income and food price shocks, urban food security, and dietary deprivation: Evidence from Dakar, Senegal",
+  "date": "2026-11-02",
+  "year": "2026",
+  "journal": "Food Policy",
+  "issn": "03069192",
+  "publisher": "Elsevier BV",
+  "authors": [
+   "Mamadou Abdoulaye Diallo",
+   "Abdoulaye Diagne"
+  ],
+  "abstract": "Understanding household food behavior is key to anticipating the welfare effects of economic shocks, particularly in urban areas where COVID-19 disrupted livelihoods and food access. While a growing body of literature documents the pandemic’s effects on food security, few studies explicitly integrate households’ pre-pandemic sensitivity to income and price changes. This study examines household food demand in Dakar, Senegal, and evaluates the simulated effects of COVID-19-related income contractions and food price increases on food security and diet quality. Using statistically matched household surveys, we estimate a censored Quadratic Almost Ideal Demand System model with subgroup-specific elasticities and develop a microsimulation model incorporating a heterogeneous Engel transmission channel across six counterfactual scenarios combining three income levels with two food price scenarios. The estimates reveal that households are highly sensitive to price shocks, particularly for staples and animal-source foods, while income shocks transmit partially to food expenditure, with subgroup-specific transmission. Simulated shocks reduce average caloric intake by 17%–36% and lower the food security rate from 52% at baseline to between 40% and 22% depending on the scenario, with statistically significant heterogeneity across sociodemographic groups. The Resilient Diet Deprivation index further reveals a simultaneous deterioration in diet quality through wider and deeper food group deficits, with the contribution of staples and animal-source foods to dietary deprivation rising across all scenarios. These findings underscore the importance of price stabilization policies, nutrition-sensitive interventions, and targeted social protection to strengthen household resilience in urban West Africa.",
+  "oa_url": "https://doi.org/10.1016/j.foodpol.2026.103224",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1016/j.foodpol.2026.103224"
+  ],
+  "oa_status": "hybrid",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Ketahanan pangan rumah tangga"
+  ],
+  "priority_journal": true,
+  "language": "en",
+  "found_at": "2026-11-04",
+  "summary_id": null,
+  "relevance": 40
+ },
+ {
+  "id": "W7225122313",
+  "doi": "10.3390/su182111147",
+  "title": "Digital Traffic and Guest Profile Analysis of a Rural Accommodation: An Exploratory Case Study from Győr–Moson–Sopron County",
+  "date": "2026-11-02",
+  "year": "2026",
+  "journal": "Sustainability",
+  "issn": "20711050",
+  "publisher": "Multidisciplinary Digital Publishing Institute",
+  "authors": [
+   "Ferenc Darabos",
+   "Dániel Dóra"
+  ],
+  "abstract": "The digital transformation of the tourism sector, coupled with the proliferation of automated data reporting systems, has rendered precise, data-driven guest analysis accessible even to small, rural lodging businesses. The present study examines visitor behaviour and consumer habits through an embedded case study in Győr–Moson–Sopron County. The objective of the research is to explore the demographic characteristics, the purpose of travel, and stay habits of rural tourism consumers, with a view to laying the groundwork for a more effective, segment-specific marketing strategy. The research also highlights aspects of sustainable tourism management and sustainable consumer behaviour. The methodological framework of the study was provided by primary data from the National Tourism Data Centre (NTAK) for the year 2025. The empirical research employed a quantitative, cross-sectional approach; the analysis was based on a sample of 250 valid cases, representing the total annual revenue of a small rural business. In the statistical analysis, descriptive methods, cross-tabulation, and the chi-square test were utilised. The findings underscore substantial intercorrelations among the indicators examined, with a pronounced correlation evident between guests’ gender and the purpose of their trip. Furthermore, a moderate correlation was identified between the guests’ purpose of travel and their length of stay, as well as between the guests’ region of origin and the purpose of their trip. In addition, a fourth hypothesis was subjected to testing using binary logistic regression, which revealed a highly significant predictive relationship between the age of guests, the purpose of their travel, and the length of their stay (1–2 vs. 3+ nights). Concurrently, cross-tabulation revealed that there was no association between trip purpose and weekend arrivals, thereby establishing a clear temporal distinction between weekday-dominated business trips and weekend-concentrated leisure visits. The study’s findings offer direct, practical guidance for the development of communication strategies tailored to specific target groups. These recommendations facilitate the optimisation of capacity utilisation and the enhancement of the competitiveness of rural accommodation providers in the digital market. In doing so, this paper provides a rigorous framework for analysing sustainable tourism outcomes from an operational and economic perspective. It also establishes methods through which data-driven segment management can be used to mitigate rural seasonality, maximise capacity optimisation, and strengthen local economic resilience. This can be achieved by securing steady tourism cash flow during the traditional business off-season.",
+  "oa_url": "https://doi.org/10.3390/su182111147",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.3390/su182111147"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": true,
+  "language": "en",
+  "found_at": "2026-11-04",
+  "summary_id": null,
+  "relevance": 38
+ },
+ {
+  "id": "W7225115335",
+  "doi": "10.1038/s41598-026-72310-7",
+  "title": "Cervical cancer on-site mass-screening device utilizing multiple biomarkers in Swab samples for surveillance in the resource limited areas of India",
+  "date": "2026-11-02",
+  "year": "2026",
+  "journal": "Scientific Reports",
+  "issn": "20452322",
+  "publisher": "Nature Portfolio",
+  "authors": [
+   "Rashmi Chowdhary",
+   "Ujjawal Khurana",
+   "Ajay Halder",
+   "Sulatha Dwarakanath",
+   "Sanjeev Kumar",
+   "Shilpa Navinchnadra Kaore",
+   "Ashish Jadhav",
+   "Sudhir Kumar Goel",
+   "Neelkamal Kapoor",
+   "Suryabhan Lahanu Lokhande",
+   "Abhijit Ramdas Rozatkar",
+   "Antu Kumar"
+  ],
+  "abstract": "At the World Health Assembly in August 2020, a target was set to eradicate cervical cancer globally by 2030 (incidence < 4/100,000) with 90% vaccination coverage, 70% screening coverage, and 90% treatment coverage. India has a worrying prevalence of between 6 and 30 percent, due to HPV infections and low awareness in rural areas. HPV infections and cervical cancer disease development window period is anytime between 6 and 20 years. Thus mass screening of the population will play a very crucial role. KayaCervi, a lab-free, point-of-care mass screening device based on fluorescence EEM technology, consisting of a cartridge, a reader and a microchip was clinically validated in the study. Initially, ten biomarkers were compared using ELISA and Pap smear. Four (p16INK4a, Ki 67, HPV16, HPV18) were selected. Swab validation was performed with cohorts’ of 200 hospital patients and 800 healthy community females, benchmarked against LBC to optimize sensitivity and ensure high specificity. The community-based validation study was to evaluate the performance of the device as a mass-screening tool among apparently healthy women. In such settings, the majority of participants are disease-negative, and high specificity is essential to minimize false-positive results, unnecessary referrals, psychological distress, and healthcare costs. Sensitivity was measured during the standardization phase by screening participants and confirmed positive cases. Initial findings used biomarkers p16NK4A, Ki67, HPV16, and HPV18 to categorize women into high, moderate, and low risk. The design of the cartridge ensured efficient sample capture and quantification, integrating mechanisms to correct for various light wavelengths during analysis. In community-based evaluation (N = 801), the device demonstrated an overall agreement of 98.0% with the reference standard. Cohen's kappa coefficient was 0.545, indicating moderate agreement beyond chance. The device achieved 100% sensitivity, 98.0% specificity, 38.5% positive predictive value, 100% negative predictive value, and 98.0% overall accuracy and identified high percentage of infections in the apparently healthy women comparable to the liquid based cytology reading done for the relative cellular changes. This study validated KayaCervi, a portable, laboratory-independent point-of-care diagnostic device developed to address India's high burden of cervical cancer. The device integrates a fluorescence-based detection platform with a four-target biomarker panel comprising p16INK4a, Ki-67, HPV16, and HPV18, achieving a specificity of 86–90% in community-based rural screening. As a rapid, low-cost, and user-friendly screening tool, KayaCervi has the potential to democratize access to cervical cancer screening by overcoming barriers related to laboratory infrastructure, trained personnel, and patient follow-up. Further, it include the need for larger, prospective, multicenter studies involving geographically diverse populations, with the biomarker panel and diagnostic thresholds predefined before evaluation and with an appropriate independently established reference standard. Such studies will be essential to confirm the reproducibility, generalizability, diagnostic performance, clinical utility and implementation feasibility of KayaCervi before large-scale deployment. Its suitability for decentralized, large-scale population screening is particularly important given the prolonged natural history of cervical carcinogenesis, where persistent HPV infection may take 15–20 years to progress to invasive cancer, providing a critical window for early detection and timely intervention. This highlights the public health significance by emphasizing the long preclinical phase and the opportunity for early intervention.",
+  "oa_url": "https://doi.org/10.1038/s41598-026-72310-7",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1038/s41598-026-72310-7"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": true,
+  "language": "en",
+  "found_at": "2026-11-04",
+  "summary_id": null,
+  "relevance": 32
+ },
+ {
+  "id": "W7225111362",
+  "doi": "10.1007/s10725-026-01551-3",
+  "title": "Digital technologies for crop water stress detection, prediction and water-management decision-making in smallholder rainfed systems: a review",
+  "date": "2026-11-02",
+  "year": "2026",
+  "journal": "Plant Growth Regulation",
+  "issn": "01676903",
+  "publisher": "Springer Science+Business Media",
+  "authors": [
+   "Admire Rukudzo Dzvene"
+  ],
+  "abstract": "Abstract Drought remains the single largest climatic threat to crop production in rainfed and smallholder farming systems, where irrigation infrastructure is limited and crop failure translates directly into food insecurity. Over the past decade, a rapid expansion of digital technologies has transformed our capacity to detect and anticipate crop water stress. This review examines how these technologies are being connected, or fail to be connected, to water-management decisions and agronomic interventions that improve outcomes for farmers. We reviewed relevant evidence across five dimensions: (i) sensing and prediction technologies; (ii) water-stress indicators; (iii) digital decision-support and advisory systems; (iv) intervention and adoption pathways in smallholder contexts; and (v) measured effects on yield, water-use efficiency (WUE) and drought resilience. Key findings include: detection accuracy has outpaced decision integration, with machine-learning models routinely achieving R² of 0.75–0.90 under controlled conditions but rarely feeding operational decisions; a marked lab-to-field transfer gap, with accuracies falling by up to ~ 22% points in farmer fields; a systematic WUE-yield trade-off under deficit irrigation; and consistent evidence that frugal tools outperform sophisticated systems in smallholder cost-benefit terms. Digital tools deliver their largest gains when they amplify proven agronomy (deficit and supplemental irrigation, rainwater harvesting, drought-tolerant cultivars) and when they are institutionally embedded in extension and water-governance systems. This evidence was integrated into a framework that identifies the “missing middle” between sensing and action as the field’s critical bottleneck, and derive research priorities for transferable, decision-centred, smallholder-appropriate digital water management.",
+  "oa_url": "https://doi.org/10.1007/s10725-026-01551-3",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1007/s10725-026-01551-3"
+  ],
+  "oa_status": "hybrid",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Ketahanan pangan rumah tangga"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-04",
+  "summary_id": null,
+  "relevance": 32
+ },
+ {
+  "id": "W7225075862",
+  "doi": "10.3389/fvets.2026.1972497",
+  "title": "Factors associated with milk rejection, self-reported profitability, raw milk consumption and zoonotic disease awareness among smallholder dairy farmers in southern Malawi",
+  "date": "2026-11-02",
+  "year": "2026",
+  "journal": "Frontiers in Veterinary Science",
+  "issn": "22971769",
+  "publisher": "Frontiers Media",
+  "authors": [
+   "Shareef Ngunguni",
+   "Jwee Chiek Er",
+   "Kumbukani Zinyao",
+   "Upile Kachepa",
+   "Marvin Collen Phonera",
+   "Joseph Nkhoma",
+   "Gilson R. Njunga",
+   "Edgar Brun",
+   "Shimaa E. Ali"
+  ],
+  "abstract": "Background Smallholder dairy farming produces more than 60% of Malawi's milk, most of which is marketed through cooperative Milk Bulking Groups (MBGs). Milk rejection at MBGs can reduce farmer income, while raw milk consumption may increase the risk of exposure to milk-borne zoonotic pathogens. This study investigated factors associated with milk rejection, self-reported milk-sale profitability, household raw milk consumption, and awareness of milk-borne zoonotic disease transmission among smallholder dairy farmers in southern Malawi. Methods A cross-sectional survey using a multistage sampling design was conducted among 300 farmers from 29 MBGs in Blantyre, Thyolo, and Chiradzulu districts. Data were collected using a structured questionnaire and analysed using descriptive statistics, logistic regression, cumulative link mixed models (CLMMs), and mixed-effects logistic regression in R (version 4.5.1). Results An interval of >6 h between milking and MBG delivery was associated with higher odds of milk rejection (OR adj = 2.39, 95% CI: 1.06–5.82; p = 0.043), whereas farmers in Blantyre had lower odds of rejection than those in Thyolo. An interval of 3–6 h was associated with lower odds of being in a higher self-reported profitability category (OR adj = 0.22, 95% CI: 0.06–0.77; p = 0.018), while higher daily milk yield was associated with greater odds of higher profitability (OR adj = 1.04, 95% CI: 1.01–1.08; p = 0.013). Household raw milk consumption was less likely among older farmers, those with secondary education, and those whose milk had never been rejected. Awareness of milk-borne zoonotic disease transmission was higher among male farmers (OR adj = 2.49, 95% CI: 1.40–4.43; p = 0.002) but lower among farmers whose milk had never been rejected. Conclusions An interval of more than 6 h between milking and MBG delivery was associated with milk rejection, whereas the 3–6-h interval, but not the interval exceeding 6 h, was associated with lower self-reported profitability. Higher daily milk yield was associated with greater self-reported profitability. Household raw milk consumption and awareness of milk-borne zoonotic disease transmission varied according to farmer characteristics and previous milk rejection. The findings support interventions to reduce delays in milk delivery, improve access to effective cooling, and strengthen inclusive education on safe milk handling and milk-borne zoonotic risks.",
+  "oa_url": "https://doi.org/10.3389/fvets.2026.1972497",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.3389/fvets.2026.1972497"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Kelembagaan petani & tindakan kolektif"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-04",
+  "summary_id": null,
+  "relevance": 29
+ },
+ {
+  "id": "W7225079883",
+  "doi": "10.3389/fsoc.2026.1919087",
+  "title": "Livelihoods, well-being, and decision-making among women in the Mid-Himalayan region of Uttarakhand: a cross-sectional study",
+  "date": "2026-11-02",
+  "year": "2026",
+  "journal": "Frontiers in Sociology",
+  "issn": "22977775",
+  "publisher": "Frontiers Media",
+  "authors": [
+   "Deepak Paliwal",
+   "Saroj Paliwal"
+  ],
+  "abstract": "Background Women of all ages play a critical role in rural Uttarakhand, they have diverse and different kinds of work to do. For the women of Uttarakhand Jameen, Jungle and Jal or land, forest and water have been three very critical essentials to meet a mundane family requirement. In addition to the tough geographic and climatic conditions most people know the hard work and dedication of the women of Uttarakhand, particularly rural women. This paper examines the socio-economic status, livelihood patterns, decision-making participation, self-rated health, and life satisfaction of women in the Mid-Himalayan region of Pithoragarh district, Uttarakhand. Methods A cross-sectional, descriptive-cum-exploratory design was used. A three-stage purposive sampling procedure selected development blocks, villages, and respondents, yielding 580 ever-married women across ten villages. Data were collected through a structured interview schedule covering socio-demographic profile, livelihood activity, household and community decision-making, self-rated health, and life satisfaction, and were analysed using descriptive statistics (frequencies and percentages). Results Literacy stood at 93.10%, yet only 0.86% of respondents held formal employment; women were engaged principally in household work (55.86%) and agriculture, with 39.66% balancing multiple roles. A majority (56.9%) participated in both household and economic decisions, but only 20.17% took part in social or political decision-making, and 1.2% reported no decision-making role at all. Self-rated health was stable or improving for 96.73% of respondents, and 82.76% reported being satisfied or very satisfied with life, despite a heavy and largely unpaid workload. Conclusion Women’s high subjective well-being coexists with structural constraints on economic and political agency, a pattern this paper interprets through the capability approach’s concept of adaptive preference rather than as evidence of substantive empowerment. Livelihood diversification, healthcare infrastructure, and avenues for women’s political participation are needed to convert social stability into substantive well-being. The paper closes with an agenda for inferential and longitudinal follow-up research.",
+  "oa_url": "https://doi.org/10.3389/fsoc.2026.1919087",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.3389/fsoc.2026.1919087"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-04",
+  "summary_id": null,
+  "relevance": 23
+ },
+ {
+  "id": "W7225093786",
+  "doi": "10.3389/fcosc.2026.1924278",
+  "title": "Climate change trauma and social-ecological resilience building: insights from pastoral women in Kenya",
+  "date": "2026-11-02",
+  "year": "2026",
+  "journal": "Frontiers in Conservation Science",
+  "issn": "2673611X",
+  "publisher": "Frontiers Media",
+  "authors": [
+   "Esther Kanduma",
+   "Virginia W. Wang’ondu",
+   "Scott Jones",
+   "Fiona Nelima Mumoki",
+   "Catherine Taracha",
+   "Susan N Kabacia",
+   "Caroline Makau",
+   "Raphael Shololoi",
+   "Beatrice Tuei",
+   "Dora Chao Kilalo"
+  ],
+  "abstract": "Introduction Climate change is increasingly affecting pastoral communities in sub-Saharan Africa through more frequent and severe droughts and floods, threatening livelihoods, food security, and mental well-being. Pastoral women and children are particularly vulnerable because of their dependence on livestock for nutrition, income, and cultural identity. This study assessed the psychosocial and livelihood impacts of climate change among pastoral women in Kenya and evaluated community-based interventions to strengthen resilience and adaptive capacity. Materials and methods A mixed-method baseline survey was conducted among 1,138 women in Kajiado, Narok, and Taita Taveta counties following severe drought in 2022 - 2024. Data were collected using structured questionnaires, focus group discussions, and Mid-Upper Arm Circumference (MUAC) measurements for 941 children below 10 years. In partnership with the county government, 401 women from 18 women's groups and 342 learners from five schools were trained in climate-smart mushroom and vegetable production. The impact of the interventions was evaluated among 194 women and 204 learners. Results Most baseline survey respondents (64%) were aged below 35 years, 74.3% depended on casual labor, and 13% had no source of income. Narok recorded the highest proportion of children (33%) with poor nutritional status. During the drought, 347 mothers reported being unable to feed their children, while 86% received no food assistance. The most reported impacts were mental health problems (58%), resource conflicts (45%), and starvation (40%). More than half (58%) expressed a need for mental health intervention and support. The introduced farming practices were new to most participants. Among the women trained, 87% rated mushrooms as highly acceptable and 45% incorporated them into household diets. Among learners, 83% participated in training and 39% practiced mushroom cultivation at school. Discussion and conclusion The interventions improved dietary diversity, promoted alternative livelihoods, and strengthened community resilience. Participants also reported increased hope, social cohesion, and confidence. These findings demonstrate that expanding livelihood options and demonstrating alternative ways to grow food and improve nutrition can reduce the collective trauma of communities already burdened by poverty, demographic pressure, early marriage, and pregnancy, while strengthening their resilience the next time prolonged drought strikes.",
+  "oa_url": "https://doi.org/10.3389/fcosc.2026.1924278",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.3389/fcosc.2026.1924278"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Ketahanan pangan rumah tangga"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-04",
+  "summary_id": null,
+  "relevance": 21
+ },
+ {
+  "id": "W7163084413",
+  "doi": "10.3389/fpubh.2026.1954098",
+  "title": "Adverse pregnancy outcomes and associated maternal and infection-related factors in a rural malaria-endemic setting in Western Kenya",
+  "date": "2026-11-02",
+  "year": "2026",
+  "journal": "Frontiers in Public Health",
+  "issn": "22962565",
+  "publisher": "Frontiers Media",
+  "authors": [
+   "Sarah Naulika Kituyi",
+   "Alfred Owino Odongo",
+   "Rachael Wachuka",
+   "Shadrack Wambua",
+   "Francis Kobia",
+   "Jesse Gitaka",
+   "Bernard N. Kanoi"
+  ],
+  "abstract": "ABSTRACT Maternal health during pregnancy is critical for favorable birth outcomes and long-term wellbeing of both mothers and infants. Women in rural, malaria-endemic regions face unique biological and socioeconomic challenges that may increase the risk of adverse pregnancy outcomes (APOs). This study investigated the incidence and determinants of APOs among pregnant women attending antenatal care at Webuye sub-County Hospital in Western Kenya, a rural malaria-endemic setting. We conducted a retrospective cohort analysis utilizing previously collected data of 300 women enrolled during early pregnancy and followed through delivery. Maternal demographic, clinical, and infection-related factors were assessed, and associations with APOs were evaluated using chi-square tests and multivariable logistic regression. Maternal age and gestational age at enrollment were significantly associated with malaria history (P<0.001). Maternal BMI abnormality (124.5/1000 pregnancies), anemia (99.3/1000), fetal or neonatal death (81.3/1000), and preterm birth (43.8/1000) were observed (all P<0.001), suggesting a substantial burden. Younger mothers (<20 years) and older mothers (>35 years) were significantly more likely to develop anemia (P =0.026), and prior malaria infection further increased anemia risk (P =0.02). Abnormal urinalysis findings indicative of urinary tract infection were significantly associated with low birthweight (P =0.031). No significant associations were found between APOs and infant sex, parity, gravidity, or maternal ABO blood type. These findings highlight a substantial burden of APOs in this rural population, exceeding national and global estimates. Strengthening malaria prevention, nutritional support, urinary infection screening, and encouraging early antenatal care attendance are critical to improving maternal and neonatal outcomes. Targeted interventions for adolescent and older mothers, along with enhanced point-of-care diagnostics, may reduce preventable complications in similar resource-limited, malaria-endemic settings.",
+  "oa_url": "https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2026.1954098/pdf",
+  "pdf_url": "https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2026.1954098/pdf",
+  "pdf_urls": [
+   "https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2026.1954098/pdf",
+   "https://doi.org/10.3389/fpubh.2026.1954098",
+   "https://doi.org/10.64898/2026.05.29.26354424"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [
+   "adverse pregnancy outcomes",
+   "maternal age",
+   "malaria",
+   "anemia in pregnancy",
+   "preterm birth",
+   "low birth weight",
+   "urinary tract infection",
+   "maternal body mass index"
+  ],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-04",
+  "summary_id": null,
+  "relevance": 19
+ },
+ {
+  "id": "W7225077457",
+  "doi": "10.1021/acsomega.6c04412",
+  "title": "Data Characterization and Multi-Plant Data Integration Strategies for Artificial Neural Network Modeling in Palm Oil Refining",
+  "date": "2026-11-02",
+  "year": "2026",
+  "journal": "ACS Omega",
+  "issn": "24701343",
+  "publisher": "American Chemical Society",
+  "authors": [
+   "Nur Syuhada Mohd Ali",
+   "Tengku Zulaikha Malim-Busu",
+   "Shahrum Shah Abdullah",
+   "Mohd Fauzi Othman",
+   "Zainal Arifin Ahmad",
+   "Khairiyah Mohd‐Yusof"
+  ],
+  "abstract": "Abstract Real-time quality monitoring in palm oil refining is often hindered by laboratory delays, which can be mitigated through the development of Artificial Neural Network (ANN) soft sensors. However, the effectiveness of these models is constrained by the characteristics of available process data. To address this, this study establishes a quantitative framework for assessing data set suitability by analyzing industrial data from three refineries using coefficient of variation (CV) statistics and self-organizing map (SOM) visualizations, with a feedforward neural network (FFN) used as a baseline model. Results show that process variables with CV exceeding 50% consistently yield better FFN performance than those below 50%. An integration strategy between different refineries was introduced to overcome the limitation of single-plant data and improve model performance to above 80% prediction accuracy for FFA content and Red Lovibond color. To test whether this improvement resulted from model capacity rather than data variability. The results further showed that data variability significantly affects model performance rather than model architecture. These findings establish CV as a practical criterion for data set suitability in ANN modeling for palm oil refining, offering an approach other chemical process industries facing similarly low-variation data may adapt.",
+  "oa_url": "https://doi.org/10.1021/acsomega.6c04412",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1021/acsomega.6c04412"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Kelapa sawit"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-04",
+  "summary_id": null,
+  "relevance": 17
+ },
+ {
+  "id": "W7225101713",
+  "doi": "10.1186/s12872-026-06875-6",
+  "title": "Temporal trends and disparities in mortality involving diabetes mellitus and infective endocarditis among us adults aged 45 years or older, 1999–2024",
+  "date": "2026-11-02",
+  "year": "2026",
+  "journal": "BMC Cardiovascular Disorders",
+  "issn": "14712261",
+  "publisher": "BioMed Central",
+  "authors": [
+   "Shaoxiang Huang",
+   "Xueyu Wang",
+   "Shuming Guo"
+  ],
+  "abstract": "Abstract Background National trends in mortality involving diabetes mellitus (DM) and infective endocarditis (IE) co-recorded on the same death certificate in the United States (US) remain incompletely characterized. We examined temporal patterns and demographic and geographic differences among US adults aged ≥ 45 years. Methods We conducted a population-based ecological time-trend study using the Centers for Disease Control and Prevention Wide-ranging Online Data for Epidemiologic Research (CDC WONDER) multiple-cause-of-death data for 1999–2024. Deaths among US adults aged ≥ 45 years were included when DM (International Classification of Diseases, Tenth Revision [ICD-10] codes E10–E14) and IE (ICD-10 codes B37.6, I33.0, I33.9, or I38) were co-recorded on the same death certificate. Age-adjusted mortality rates (AAMRs) per 100,000 persons in the general US population aged ≥ 45 years and age-specific crude rates were analyzed using Joinpoint regression. Race- and ethnicity-specific trends were analyzed for 1999–2020, whereas 2021–2024 estimates were presented descriptively. Sensitivity analyses reduced the maximum number of joinpoints from four to three, excluded the 2020 and 2021 observations, and restricted the analysis to the 1999–2020 bridged-race database period. Results We identified 41,455 deaths. Annual deaths increased from 1,208 in 1999 to 2,400 in 2024, while the AAMR increased from 1.27 to 1.56 per 100,000. The AAMR declined during 2003–2016 (APC, − 1.94%; P < 0.0001) and increased during 2016–2024 (APC, 4.56%; P < 0.0001), with a full-period AAPC of 0.98% (95% CI, 0.13–1.83; P = 0.0234). The AAPC was significant among men (1.76%; 95% CI, 0.19–3.36) but not women (− 0.04%; 95% CI, − 0.67 to 0.59). Adults aged ≥ 85 years showed a significant full-period increase (AAPC, 2.46%; 95% CI, 1.03–3.92). Regional and urban–rural variation was observed; pooled state-level AAMRs varied within each database period. The recent increase persisted in model-complexity and COVID-period sensitivity analyses; in 1999–2020, the final segment remained significantly increasing although the full-period AAPC was nonsignificant. Conclusions The AAMR for deaths with co-recorded DM and IE increased from the mid-2010s onward and varied across demographic and geographic groups. These findings support continued population-level surveillance but do not establish individual-level causality or prognosis.",
+  "oa_url": "https://doi.org/10.1186/s12872-026-06875-6",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1186/s12872-026-06875-6"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-04",
+  "summary_id": null,
+  "relevance": 15
+ },
+ {
+  "id": "W7225073323",
+  "doi": "10.1002/ppp3.70291",
+  "title": "Organic and conventional agricultural management trigger differential arbuscular mycorrhizal fungal responses to water limitation and elevated CO 2",
+  "date": "2026-11-02",
+  "year": "2026",
+  "journal": "Plants People Planet",
+  "issn": "25722611",
+  "publisher": "Wiley",
+  "authors": [
+   "Meike Katharina Heuck",
+   "Jeff R. Powell",
+   "Jarrod M. Kath",
+   "Christina Birnbaum",
+   "Adam Frew"
+  ],
+  "abstract": "Societal Impact Statement Agriculture faces significant challenges under climate change, including rising atmospheric CO 2 concentrations and increasingly frequent water limitation, which threaten food security and ecosystem health. Our study included collaborations with local farmers and highlights how arbuscular mycorrhizal (AM) fungi, key plant symbionts, respond differently to these stressors based on the agricultural system they originate from. AM fungal communities from the two inoculum sources showed different responses in richness, phylogenetic diversity and taxonomic composition. These insights are a first step towards developing climate‐smart farming strategies under future climate. Summary Arbuscular mycorrhizal (AM) fungi are important plant symbionts with the ability to enhance plant resilience against abiotic stressors, making them important to understand in agricultural systems in a changing climate. Agricultural management can affect AM fungal community composition, yet how these management‐moulded communities respond to climate change remains poorly understood. To address this knowledge gap, we tested representatives of AM fungal communities shaped by organic and conventional management and their response to water limitation, elevated CO 2 (eCO 2 ) and their interaction when grown with Sorghum bicolor . We observed that AM fungal communities responded differently to water limitation and eCO 2 depending on the agricultural system they were sourced from. AM fungal virtual taxon (VT) richness and Faith's phylogenetic diversity showed treatment‐dependent responses that differed between the two inoculum sources. This was reflected by a higher VT richness for AM fungi sourced from organic systems. Further, water limitation resulted in an increased relative abundance of Paraglomus in organic systems. Under eCO 2 without water limitation, the organic treatment had higher VT richness and Faith's phylogenetic diversity than the conventional treatment. In contrast, Archaeospora was primarily detected in the organic treatment, particularly under eCO 2 . Thus, promoting organic agricultural practices, such as reduced soil disturbance, organic instead of synthetic amendments and diversified cropping systems, may be able to support AM fungal diversity under changing climatic conditions; their effects on fungal functioning and plant performance require further testing.",
+  "oa_url": "https://doi.org/10.1002/ppp3.70291",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1002/ppp3.70291"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Ketahanan pangan rumah tangga"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-04",
+  "summary_id": null,
+  "relevance": 14
+ },
+ {
+  "id": "W7225093037",
+  "doi": "10.1002/sae2.70228",
+  "title": "Impact of Pea Genotypes on Their Performance in Intercropping With Different Species",
+  "date": "2026-11-02",
+  "year": "2026",
+  "journal": "Journal of Sustainable Agriculture and Environment",
+  "issn": "2767035X",
+  "publisher": "Wiley",
+  "authors": [
+   "Laura Stefan",
+   "Klervie Bourgoin",
+   "Eve-Anne Laurent",
+   "David Schneider",
+   "Alice Baux"
+  ],
+  "abstract": "ABSTRACT Intercropping has been widely proposed as a strategy to improve the sustainability and resilience of agricultural systems. Grain legumes are particularly suited for intercropping due to their functional diversity and capacity for biological nitrogen fixation; however, challenges remain to design efficient intercropping systems centred on the grain legume species. Notably, varietal differences within the legume species may strongly influence competitive interactions and, consequently, intercrop performance. In this study, we evaluated the performance of twelve pea ( Pisum sativum L.) varieties in pure stands but also intercropped either with barley ( Hordeum vulgare L.) or lentil ( Lens culinaris L.). The experiment was conducted during two contrasting growing seasons in small plots in Switzerland. We assessed grain yields of each species, as well as intercropping effects on lodging and disease development. The main results showed that barley was too competitive, but intercropping with lentil allowed to maintain pea yield during a bad year. Intercropping generally provided advantages in terms of yield stability, lodging control, and disease management. Pea–barley intercrops effectively limited lodging and significantly reduced ascochyta blight severity, but barley proved highly competitive, leading to reduced pea yields. In contrast, pea–lentil intercrops allowed peas to maintain yields under unfavourable climatic conditions and led to moderately reduced disease development, although productivity was more variable. Strong varietal effects were observed, and promising pea varieties for intercropping were identified. These results highlight the importance of jointly selecting associated crops and pea varieties to maximize the benefits of intercropping. Optimizing such systems requires an integrated approach that combines varietal choice, sowing density management, and consideration of downstream value‐chain opportunities.",
+  "oa_url": "https://doi.org/10.1002/sae2.70228",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1002/sae2.70228"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemasaran, rantai pasok & rantai nilai"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-04",
+  "summary_id": null,
+  "relevance": 0
+ },
+ {
+  "id": "W7225083914",
+  "doi": "10.1002/ijfe.70325",
+  "title": "Unilateral Penalty or Mutual Disaster? Assessing the Asymmetric Reduction Effects of Sanctions on Aggregate and Segmented Trade",
+  "date": "2026-11-01",
+  "year": "2026",
+  "journal": "International Journal of Finance & Economics",
+  "issn": "10769307",
+  "publisher": "Wiley",
+  "authors": [
+   "Hua Zhang",
+   "Liuguo Shao",
+   "Tingting LAN"
+  ],
+  "abstract": "ABSTRACT Is the impact of sanctions on two‐way trade between sanctioning and sanctioned countries symmetric? This paper compares the differential impact of sanctions on sanctioning and sanctioned countries, with evidence from aggregate trade, segmented trade, and industry‐specific trade. The results show that the impacts of sanctions on both sanctioning and sanctioned countries are negative, widespread, and asymmetric, with a more pronounced negative effect on sanctioned countries. Specifically, for sanctioning countries, sanctions have a more negative impact on trade in intermediate goods and forward participation in the global value chains, as well as on the agriculture, forestry, fishing, mining, and quarrying sectors. Conversely, for sanctioned countries, sanctions have a greater impact on final goods, backward participation in the global value chains, and the manufacturing sectors. By adopting a two‐way perspective and analysing at a segmented trade and industry‐specific level, this paper contributes to the literature on the impact of sanctions on international trade.",
+  "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ijfe.70325",
+  "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ijfe.70325",
+  "pdf_urls": [
+   "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ijfe.70325",
+   "https://doi.org/10.1002/ijfe.70325"
+  ],
+  "oa_status": "bronze",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemasaran, rantai pasok & rantai nilai"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-04",
+  "summary_id": null,
+  "relevance": 18
+ },
+ {
+  "id": "W7225041782",
+  "doi": "10.1016/j.wmb.2026.100399",
+  "title": "Valorization of tea waste: Composition, extraction technologies, and sustainable applications across agriculture, industry, and biotechnology",
+  "date": "2026-11-01",
+  "year": "2026",
+  "journal": "Waste Management Bulletin",
+  "issn": "29497507",
+  "publisher": "Elsevier BV",
+  "authors": [
+   "Asma Pourbakhtiar",
+   "Shole Mosanefi",
+   "Abooali Golzary"
+  ],
+  "abstract": "Amid growing global interest in sustainable resource management, tea ( Camellia sinensis ), the second most consumed beverage after water, generates substantial biomass waste throughout cultivation, processing, distribution, and consumption. A significant portion of this waste is still managed through conventional practices such as composting, incineration, or landfilling, which limits its potential value recovery and may increase operational and environmental burdens across the supply chain. However, tea waste contains a wide range of valuable bioactive and structural compounds, including polyphenols (e.g., catechins and flavonoids), caffeine, proteins, polysaccharides, cellulose, hemicellulose, lipids, and essential micronutrients. This systematic review examines the physicochemical characteristics of tea waste and evaluates its potential for valorization in multiple sectors. Reported applications include its use as organic fertilizers and soil amendments in agriculture; biosorbents and activated carbons for environmental remediation; functional ingredients and natural additives in the food industry; bioactive compounds for pharmaceutical and cosmetic formulations; eco-dyes in textiles; raw materials in papermaking; and feedstock for bioenergy production, such as biogas, bioethanol, and biodiesel. Recent advances in extraction technologies, including ultrasound-assisted, enzyme-assisted, and supercritical fluid methods, have improved the recovery efficiency of high-value compounds and support the development of integrated biorefinery approaches. Despite promising laboratory-scale results, several challenges remain for large-scale implementation, including variability in raw material composition, techno-economic limitations, and supply chain optimization requirements. By identifying current research gaps and discussing opportunities for industrial integration, this review underscores the role of tea waste valorization in reducing environmental impacts, lowering operational inefficiencies, and supporting circular bioeconomy strategies.",
+  "oa_url": "https://www.sciencedirect.com/science/article/pii/S2949750726001203/pdf",
+  "pdf_url": "https://www.sciencedirect.com/science/article/pii/S2949750726001203/pdf",
+  "pdf_urls": [
+   "https://www.sciencedirect.com/science/article/pii/S2949750726001203/pdf",
+   "https://doi.org/10.1016/j.wmb.2026.100399"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [
+   "tea waste",
+   "waste valorization",
+   "tea by-products",
+   "extraction methods",
+   "agricultural applications",
+   "industrial applications",
+   "biotechnology applications",
+   "waste composition"
+  ],
+  "topics": [
+   "Pemasaran, rantai pasok & rantai nilai"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-04",
+  "summary_id": null,
+  "relevance": 15
+ },
+ {
   "id": "W7225040136",
   "doi": "10.1200/go-26-13400",
   "title": "Implementing a Sustainable Cervical Cancer Screening Program into a Resource-Limited Pacific Island Nation: Yap State, Federated States of Micronesia",
