@@ -1,5 +1,1063 @@
 [
  {
+  "id": "W7225230861",
+  "doi": "10.3389/fsufs.2026.1894351",
+  "title": "Investigating the efficiency of rural industrial integration development in China: based on the undesirable super-efficiency SBM-Malmquist model",
+  "date": "2026-11-05",
+  "year": "2026",
+  "journal": "Frontiers in Sustainable Food Systems",
+  "issn": "2571581X",
+  "publisher": "Frontiers Media",
+  "authors": [
+   "Zenan Sun",
+   "Mo Chen"
+  ],
+  "abstract": "Promoting rural industrial integration development (RIID) to boost farmers’ income is a core strategy for rural revitalization and common prosperity. A reasonable and objective evaluation of RIID efficiency that jointly accounts for farmers’ income growth and the food-security and environmental constraints entailed by integration is critical for advancing sustainable rural development. This paper applies the super-efficiency SBM model with undesirable outputs and the Malmquist index to measure China’s RIID efficiency across 30 provinces from 2012 to 2023, analyzing its spatio-temporal evolution. The results show that the national annual average RIID efficiency fluctuated between 0.423 and 0.663, exhibiting a three-stage trajectory of “steady rise—fluctuating bottoming-out—accelerated climb” alongside a descriptively observed east–central–west gradient (eastern leading, central following, western lagging) that does not attain statistical significance. The annual average Malmquist index reached 1.060, corresponding to an average annual growth rate of 6.0%, and efficiency catch-up became the dominant driver of productivity growth in the later stage. The exploratory regression further reveals that rural human capital and transportation infrastructure are significantly and positively associated with RIID efficiency. This study integrates farmers’ income growth, farmland non-grain conversion, and agricultural non-point source pollution into the efficiency evaluation system of rural industrial integration development. It also provides new empirical evidence regarding the spatio-temporal evolution characteristics and driving factors of rural industrial integration, which can support the formulation of differentiated and welfare-oriented rural development policies in China and other developing economies.",
+  "oa_url": "https://doi.org/10.3389/fsufs.2026.1894351",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.3389/fsufs.2026.1894351"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Ketahanan pangan rumah tangga"
+  ],
+  "priority_journal": true,
+  "language": "en",
+  "found_at": "2026-11-06",
+  "summary_id": null,
+  "relevance": 28
+ },
+ {
+  "id": "W7225224210",
+  "doi": "10.1071/sh26135",
+  "title": "Trend analysis of lifetime sexual activity and condom use self-efficacy in repeated cross-sectional survey data among adolescents in the Northwest Territories, Canada",
+  "date": "2026-11-05",
+  "year": "2026",
+  "journal": "Sexual Health",
+  "issn": "14485028",
+  "publisher": "CSIRO Publishing",
+  "authors": [
+   "Carmen H. Logie",
+   "Ying Wang",
+   "Kayley Inuksuk Mackay",
+   "Renée Monchalin",
+   "Lesley Gittings",
+   "Stephanie Irlbacher‐Fox",
+   "Candice L. Lys"
+  ],
+  "abstract": "Background Evidence of declining condom use over time among adolescents across diverse settings underscores the need to understand sexual health indicators among this population. Few studies have examined trends in lifetime sexual activity and condom use self-efficacy over time among adolescents in Arctic or remote settings. This study assessed changes and sociodemographic patterns in these outcomes across 7 years among Northern and Indigenous adolescents in the Northwest Territories, Canada. Methods We conducted repeated cross-sectional surveys among secondary school students aged 13–18 years across 17 Northwest Territories communities from 2018 to 2024. Outcomes included lifetime sexual activity (ever having engaged in vaginal, anal or oral sex) and condom use self-efficacy. Linear and logistic mixed-effects regression models estimated unadjusted and adjusted associations with time, gender, sexual orientation, Indigenous identity, and rural residence, including interaction terms. Results Among n = 2745 participants (mean age 13.68 years, standard deviation 1.49; gender: 45.65% cisgender girls, 50.27% cisgender boys and 4.08% gender diverse), 19.06% identified as lesbian, gay, bisexual or queer (LGBQ), 72.62% as Indigenous and 71.17% lived in rural settings. From 2018 to 2024, condom use self-efficacy decreased (adjusted beta coefficient −0.25; 95% CI: −0.36, −0.15; P < 0.001), and was lower among LGBQ and rural youth. Sexual activity also declined (adjusted beta coefficient −0.01; 95% CI: −0.02, −0.01; P < 0.001), but remained higher among cisgender girls, LGBQ youth, Indigenous adolescents and rural youth. Conclusion Condom use self-efficacy and sexual activity declined over time, with persistent disparities across groups. Findings highlight the need for sustained, culturally grounded, equity-focused sexual health programming for Northwest Territories adolescents.",
+  "oa_url": "https://doi.org/10.1071/sh26135",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1071/sh26135"
+  ],
+  "oa_status": "hybrid",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-06",
+  "summary_id": null,
+  "relevance": 26
+ },
+ {
+  "id": "W7225232464",
+  "doi": "10.3389/fsufs.2026.1954311",
+  "title": "Compounding capital deficits drives household food and nutrition insecurity in resource-limited communities",
+  "date": "2026-11-04",
+  "year": "2026",
+  "journal": "Frontiers in Sustainable Food Systems",
+  "issn": "2571581X",
+  "publisher": "Frontiers Media",
+  "authors": [
+   "Miyelani Maswanganye",
+   "Mushaisano Agnes Mathaulula",
+   "Mbongeni Maziya"
+  ],
+  "abstract": "Achieving food and nutrition security is fundamental to sustainable rural development and improved household wellbeing. However, food and nutrition insecurity remain a persistent challenge in rural South Africa. This study analysed household food and nutrition security in Mhinga village, Limpopo Province, South Africa. A mixed-methods research design was employed, involving a household survey of 30 randomly selected households and semi-structured interviews with 10 purposively selected key informants. Quantitative data were analysed using descriptive statistics in the Statistical Package for the Social Sciences (SPSS) version 28, while qualitative data were analysed using thematic content analysis in ATLAS.ti version 8. The findings revealed substantial challenges across the four dimensions of food and nutrition security. More than half of households reported insufficient food production and frequent financial constraints on food purchases, while many experienced limited dietary diversity, inadequate nutrition knowledge, and unstable household incomes. Persistent drought, poor soil quality, and water scarcity reduced local food production and increased dependence on market purchases. Qualitative findings further identified environmental, economic, market access, governance, and gender-related challenges as key drivers of food and nutrition insecurity. The study recommends integrated, community-based interventions that promote climate-resilient agriculture, improve market accessibility, strengthen livelihood opportunities, enhance nutrition education, and empower women through equitable access to productive resources. These interventions have the potential to improve household food and nutrition security and contribute to sustainable rural livelihoods in Mhinga village and similar rural communities.",
+  "oa_url": "https://doi.org/10.3389/fsufs.2026.1954311",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.3389/fsufs.2026.1954311"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender",
+   "Ketahanan pangan rumah tangga"
+  ],
+  "priority_journal": true,
+  "language": "en",
+  "found_at": "2026-11-06",
+  "summary_id": {
+   "tujuan": "Menganalisis ketahanan pangan dan gizi rumah tangga di Desa Mhinga, Provinsi Limpopo, Afrika Selatan, pada empat dimensi ketahanan pangan dan gizi.",
+   "metode": "Desain campuran (mixed methods) dengan survei rumah tangga terhadap 30 rumah tangga yang dipilih acak dan wawancara semi-terstruktur terhadap 10 informan kunci yang dipilih secara purposif. Data kuantitatif dianalisis dengan statistik deskriptif (SPSS 28) dan data kualitatif dengan analisis isi tematik (ATLAS.ti 8). Periode pengumpulan data tidak disebutkan.",
+   "temuan": "Lebih dari separuh rumah tangga melaporkan produksi pangan yang tidak mencukupi dan kendala keuangan yang sering untuk membeli pangan, sementara banyak yang mengalami keragaman pangan terbatas, pengetahuan gizi rendah, dan pendapatan tidak stabil. Kekeringan, kualitas tanah buruk, dan kelangkaan air menurunkan produksi pangan lokal dan meningkatkan ketergantungan pada pembelian pasar. Karena desainnya deskriptif dan tanpa uji hubungan, temuan ini bersifat gambaran kondisi dan tidak membuktikan kausalitas, meskipun judul menyebut 'drives'.",
+   "keterbatasan": "Ukuran sampel kecil (30 rumah tangga dan 10 informan) dengan satu desa sehingga sulit digeneralisasi. Analisis hanya deskriptif sehingga hubungan antarfaktor dan arah kausal tidak dapat diuji.",
+   "relevansi": "Temuan tentang keterbatasan akses pasar, ketergantungan pada pembelian pangan, dan peran gender dalam akses sumber daya relevan untuk studi akses pasar petani kecil dan ketahanan pangan di Kalimantan Tengah. Metode campurannya dapat diadopsi, tetapi konteks sawit dan adopsi teknologi digital tidak dibahas.",
+   "skor": 3,
+   "model": "claude-haiku-5-5",
+   "sumber": "abstrak"
+  },
+  "relevance": 56
+ },
+ {
+  "id": "W7225255197",
+  "doi": "10.36956/rwae.v7i4.105666",
+  "title": "Empowering Women Farmers in Nueva Ecija through Entrepreneurship: The Role of Corporate Social Responsibility in Sustainable Economic Development",
+  "date": "2026-11-04",
+  "year": "2026",
+  "journal": "Research on World Agricultural Economy",
+  "issn": "27374777",
+  "publisher": "",
+  "authors": [
+   "Arjhel Valenton Domingo"
+  ],
+  "abstract": "This study examined the role of Corporate Social Responsibility (CSR) in empowering women farmers in Llanera, Nueva Ecija, through entrepreneurship and sustainable economic development. Specifically, it assessed the level of awareness of women farmers regarding CSR, the types and scope of CSR programs implemented by local businesses, their participation and engagement in entrepreneurship initiatives, the socio-economic impacts of CSR-driven activities, and the challenges that hinder program effectiveness. Using purposive sampling, 50 women farmers were surveyed through a validated and reliable questionnaire, with data analyzed using descriptive statistics and Pearson r correlation. Findings revealed that women farmers possess a moderate understanding of CSR concepts and moderate awareness of CSR initiatives supporting entrepreneurship. CSR programs demonstrated moderate effectiveness in providing training, promoting sustainable agricultural practices, and fostering community participation, though financial support, access to technology, and clear communication remained limited. Participation and engagement in CSR-supported activities were moderate, with collaboration and skill development noted, yet limited attendance in workshops and access to coordinators highlighted implementation gaps. Socio-economic impacts were similarly moderate, including improvements in business knowledge, income opportunities, savings, and decision-making capacity, while gains in financial independence and market access were limited. Challenges such as lack of awareness, limited resources, insufficient training, and program biases posed moderate barriers to effectiveness. Correlation analysis indicated a strong relationship between participation and perceived barriers. The study concludes that CSR initiatives positively influence entrepreneurship and economic empowerment among women farmers, but targeted strategies are required to enhance awareness, accessibility, and inclusivity for sustainable, gender-inclusive development.",
+  "oa_url": "https://journals.nasspublishing.com/index.php/rwae/article/download/105666",
+  "pdf_url": "https://journals.nasspublishing.com/index.php/rwae/article/download/105666",
+  "pdf_urls": [
+   "https://journals.nasspublishing.com/index.php/rwae/article/download/105666",
+   "https://doi.org/10.36956/rwae.v7i4.105666"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Akses & informasi pasar petani",
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-06",
+  "summary_id": null,
+  "relevance": 46
+ },
+ {
+  "id": "W7225264667",
+  "doi": "10.1186/s40100-026-00530-6",
+  "title": "Geographical indications and fertilizer reduction",
+  "date": "2026-11-04",
+  "year": "2026",
+  "journal": "Agricultural and Food Economics",
+  "issn": "21937532",
+  "publisher": "Springer Nature",
+  "authors": [
+   "Jihong Ge",
+   "Jing Liu",
+   "Wuyang Hu"
+  ],
+  "abstract": "Abstract Geographical indications (GI) identify products whose quality and reputation are linked to a specific geographical origin and have been widely adopted worldwide. In many countries, GI production standards include explicit requirements for fertilizer use, suggesting that GI may contribute to fertilizer reduction. However, evidence remains limited on whether GI implementation affects fertilizer use intensity at the farm level. Using household-level panel data from 1,517 farmers in China’s Rural Fixed Observation Points survey from 2009 to 2021, this study applies a staggered difference-in-differences (DID) approach to examine the effect of GI implementation on fertilizer use intensity and its potential mechanisms. The results show that GI implementation significantly reduces fertilizer use intensity. Compared with farmers in non-GI areas, those located in GI areas reduce fertilizer application by an average of 124.635 kg per hectare, representing a decline of approximately 11.5%. Mechanism analysis further indicates that price incentives and collective action may serve as two potential channels underlying this reduction. We also find heterogeneity in the effects across different groups of farmers. These findings provide policy implications for promoting green agricultural production through GI implementation and offer practical insights for local governments, industry associations, cooperatives, and other stakeholders seeking to encourage environmentally sustainable farming practices.",
+  "oa_url": "https://doi.org/10.1186/s40100-026-00530-6",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1186/s40100-026-00530-6"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Kelembagaan petani & tindakan kolektif"
+  ],
+  "priority_journal": true,
+  "language": "en",
+  "found_at": "2026-11-06",
+  "summary_id": null,
+  "relevance": 46
+ },
+ {
+  "id": "W7225237298",
+  "doi": "10.1016/j.agsy.2026.105041",
+  "title": "Climate-responsive sowing strategies reduce reproductive heat losses in Eastern Indo-Gangetic wheat",
+  "date": "2026-11-04",
+  "year": "2026",
+  "journal": "Agricultural Systems",
+  "issn": "0308521X",
+  "publisher": "Elsevier BV",
+  "authors": [
+   "Ruiyun Zeng",
+   "Josh Gray",
+   "Xiaomao Lin",
+   "Meha Jain",
+   "Balwinder Singh"
+  ],
+  "abstract": "CONTEXT Climate change is likely to exacerbate persistent yield gaps and food insecurity in the Eastern Indo-Gangetic Plains (EGP). Wheat, one of the EGP's staple crops, is particularly sensitive to rising temperatures and intensifying heat stress. Adjusting sowing timing offers a practical strategy to reduce heat exposure for resource-constrained smallholders. However, substantial variability in climate and cultivation practices precludes uniform sowing recommendations. To capture spatial thermal heterogeneity, we evaluated wheat responses to sowing timing across five agroclimatic zones (AZs) defined by growing degree days (GDD). OBJECTIVE The objectives of this study are to 1) characterize sowing-date responses under irrigated and rainfed conditions across different agroclimatic environments in the EGP wheatbelt; and 2) identify the effects of changes in sowing dates on wheat yield and related climate risks during different growth phases. METHODS The Decision Support System for Agrotechnology Transfer model (DSSAT-CERES-Wheat) was calibrated and evaluated using independent field datasets from different growing seasons across the EGP. The calibrated and validated model was then used to quantify the effects of altered sowing dates on irrigated and rainfed wheat yields across five AZs from 1984 to 2020. Simulations were conducted using 12 sowing scenarios at 5-day intervals from November 1 to December 26 to evaluate sowing-date responses for each AZ. We further examined how climate variability influences sowing-date responses across AZs by classifying growing-season precipitation into three categories: wet, normal, and dry. RESULTS AND CONCLUSIONS Our results show that rainfed yield declined progressively with late sowing, whereas irrigated systems exhibited clear climate-responsive optimal sowing windows. Within the simulated range, earlier sowing therefore generally favored rainfed wheat, and sowing beyond the irrigated optimal window exposed the reproductive stage to higher late-season temperatures. In the hottest zone, postponing sowing to late December reduced yields by up to 15%. Irrigation reduced yield losses associated with heat exposure, halving average yield losses relative to rainfed systems. For irrigated wheat, climate-responsive optimal sowing windows differed systematically across AZs: cooler and wetter conditions supported earlier and broader windows, whereas hotter and drier conditions were associated with later and narrower timing, reflecting greater constraints from reproductive heat stress. SIGNIFICANCE Our model-based results indicate that climate-responsive sowing strategies can reduce climate exposure and reproductive heat-related yield losses across the EGP, particularly in hotter and water-limited areas. However, translating these model-based responses into locally feasible sowing recommendations requires consideration of agroclimatic variation and production constraints.",
+  "oa_url": "https://doi.org/10.1016/j.agsy.2026.105041",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1016/j.agsy.2026.105041"
+  ],
+  "oa_status": "hybrid",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Ketahanan pangan rumah tangga"
+  ],
+  "priority_journal": true,
+  "language": "en",
+  "found_at": "2026-11-06",
+  "summary_id": null,
+  "relevance": 44
+ },
+ {
+  "id": "W7225272403",
+  "doi": "10.1080/23311932.2026.2755110",
+  "title": "Climate change adaptation and livelihood outcomes under rainfall variability: evidence from smallholder farmers in semi-arid Tanzania",
+  "date": "2026-11-04",
+  "year": "2026",
+  "journal": "Cogent Food & Agriculture",
+  "issn": "23311932",
+  "publisher": "Cogent OA",
+  "authors": [
+   "Asnath Malekela",
+   "Stefan Sieber"
+  ],
+  "abstract": "Climate change is increasingly affecting agricultural systems in sub-Saharan Africa, particularly in semi-arid regions where rainfall variability poses significant risks to smallholder livelihoods. This study examines the effectiveness of adaptation strategies in improving livelihood outcomes for smallholder farmers facing rainfall variability in Singida District, Tanzania. The study uses historical rainfall data (1985–2024) and household survey data from 406 farming households. Rainfall trends were analyzed using the Mann–Kendall test and Sen’s slope estimator. The results show high rainfall variability (coefficient of variation = 22.9%) and a statistically insignificant upward trend (Sen’s slope = 1.27 mm/year). Farmers respond by adopting multiple adaptation strategies, with crop diversification (99.5%) and drought-tolerant crops (71.4%) being the most prevalent measures. The results show that rainfall variability affects livelihood outcomes (β = −0.380, p < 0.01). Instrumental variable estimates show a positive and statistically significant effect of adaptation strategies on livelihood outcomes (β = 2.614, p < 0.05). The findings suggest that adaptation strategies can strengthen food security, agricultural productivity, and income stability under rainfall variability. Generally, the results demonstrate that while adaptation plays a critical role in sustaining livelihoods amid climate variability, its benefits are context-dependent. The study provides policy-relevant evidence to inform the design of targeted and integrated interventions that strengthen climate resilience in semi-arid agricultural systems in Africa.",
+  "oa_url": "https://doi.org/10.1080/23311932.2026.2755110",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1080/23311932.2026.2755110"
+  ],
+  "oa_status": "diamond",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Ketahanan pangan rumah tangga"
+  ],
+  "priority_journal": true,
+  "language": "en",
+  "found_at": "2026-11-06",
+  "summary_id": null,
+  "relevance": 44
+ },
+ {
+  "id": "W7225254469",
+  "doi": "10.3389/fpubh.2026.1848955",
+  "title": "Anti-HBc seropositivity among women of childbearing age in Indonesia: a nationally representative cross-sectional study",
+  "date": "2026-11-04",
+  "year": "2026",
+  "journal": "Frontiers in Public Health",
+  "issn": "22962565",
+  "publisher": "Frontiers Media",
+  "authors": [
+   "Noer Endah Pracoyo",
+   "Dede Anwar Musadad",
+   "Besral Besral",
+   "Maria Holly Herawati",
+   "Ristrini",
+   "Gurendro Putro",
+   "Ekowati Rahajeng",
+   "Shinta",
+   "Dasuki",
+   "Nurhayati",
+   "Betty Roosihermiatie",
+   "Rustika"
+  ],
+  "abstract": "Objective This study aimed to estimate the national prevalence of hepatitis B core antigen (anti-HBc) seropositivity, indicating prior hepatitis B virus (HBV) exposure, among Indonesian women aged 15–49 years. Additionally, the study sought to identify associated sociodemographic factors. Methods We analyzed data from the 2018 Indonesian Basic Health Survey (Riskesdas), a nationally representative survey with a complex sampling design and appropriate sampling weights. Anti-HBc seropositivity was measured at the Sulianti Saroso Laboratory. Of the 19,418 participants, 12,617 women were included in the final analysis. Survey-weighted logistic regression was applied to estimate adjusted odds ratios (ORₐⱼ) and 95% confidence intervals (CIs). Results Anti-HBc seropositivity was significantly more common among women aged >35 years (ORₐⱼ = 1.72; 95% CI: 1.58–1.87), those with lower educational attainment (ORₐⱼ = 1.16; 95% CI: 1.05–1.28), employed women (ORₐⱼ = 1.19; 95% CI: 1.09–1.29), rural residents (ORₐⱼ = 1.28; 95% CI: 1.18–1.40), and women reporting contraceptive use (ORₐⱼ = 1.22; 95% CI: 1.11–1.35). Conclusion Anti-HBc seropositivity remains a significant public health concern among Indonesian women of childbearing age, particularly those who are older, less educated, employed, living in rural areas, and reporting contraceptive use. Policy recommendations should prioritize maternal screening, timely and universal birth dose vaccination, administration of hepatitis B immunoglobulin (HBIG) when indicated, and improved vaccination coverage among unvaccinated adults.",
+  "oa_url": "https://doi.org/10.3389/fpubh.2026.1848955",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.3389/fpubh.2026.1848955"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-06",
+  "summary_id": null,
+  "relevance": 40
+ },
+ {
+  "id": "W7225252142",
+  "doi": "10.3389/fsufs.2026.1880768",
+  "title": "Development and standardization of a nutrition knowledge test for rural women in Uttar Pradesh, India: item analysis and socioeconomic associations",
+  "date": "2026-11-04",
+  "year": "2026",
+  "journal": "Frontiers in Sustainable Food Systems",
+  "issn": "2571581X",
+  "publisher": "Frontiers Media",
+  "authors": [
+   "Sweta Kumari",
+   "Sayak Saha",
+   "Sudhanand Prasad Lal",
+   "Swati Kumari",
+   "Raushan Kumar",
+   "Vivek Kumar",
+   "Nirjharini Sahoo",
+   "Rohit Maurya",
+   "Saloni Kumari",
+   "Indrajit Mandal",
+   "Nitin Meena",
+   "Alok Kumar"
+  ],
+  "abstract": "Introduction Context-specific, standardized tools for assessing nutrition knowledge among rural women in Uttar Pradesh are limited. This study aimed to develop and standardize a nutrition knowledge test and examine associations between knowledge scores and selected independent varaibles. Methods An ex post facto research design was employed among 180 rural women from 12 villages in Prayagraj and Saharanpur districts, Uttar Pradesh, India. An initial pool of 32 items was developed through literature review, expert consultation, and content validation and pre-tested among 40 women from a non-sampling area. Item analysis using difficulty index, discrimination index, and point-biserial correlation retained 24 items. Reliability was satisfactory (Cronbach’s alpha = 0.850; Spearman–Brown coefficient = 0.862; Guttman split-half coefficient = 0.822). Pearson’s correlation and multiple regression analyses examined associations with eight variables: age, education, family size, landholding, annual income, mass media exposure, social participation, and capacity building. Results Most respondents had medium knowledge (62.78%), followed by low (21.67%) and high knowledge (15.56%). The mean knowledge score was 61.50 (SD = 17.83). Knowledge was positively correlated with education ( r = 0.893), annual income ( r = 0.878), mass media exposure ( r = 0.535), age ( r = 0.528), landholding ( r = 0.476), capacity building ( r = 0.430), and social participation ( r = 0.396; all p < 0.01). Family size showed a negative, non-significant correlation ( r = −0.127, p = 0.089). In regression analysis, age, education, annual income, social participation, and capacity building had significant positive coefficients, whereas landholding had a significant negative coefficient. Family size and mass media exposure were non-significant. The model explained 87.1% of the variance ( R 2 = 0.871; adjusted R 2 = 0.865). Conclusion The reliable 24-item test identified knowledge gaps concerning micronutrients, protein sources, and specific nutrition concepts. It may support targeted nutrition education and extension interventions. Further validation across diverse geographic and sociocultural settings is recommended.",
+  "oa_url": "https://www.frontiersin.org/journals/sustainable-food-systems/articles/10.3389/fsufs.2026.1880768/pdf",
+  "pdf_url": "https://www.frontiersin.org/journals/sustainable-food-systems/articles/10.3389/fsufs.2026.1880768/pdf",
+  "pdf_urls": [
+   "https://www.frontiersin.org/journals/sustainable-food-systems/articles/10.3389/fsufs.2026.1880768/pdf",
+   "https://doi.org/10.3389/fsufs.2026.1880768"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": true,
+  "language": "en",
+  "found_at": "2026-11-06",
+  "summary_id": null,
+  "relevance": 35
+ },
+ {
+  "id": "W7165010601",
+  "doi": "10.1038/s41598-026-76874-2",
+  "title": "Pan-genome-wide association analysis reveals complementary variant-class associations with key agronomic traits in oil palm",
+  "date": "2026-11-04",
+  "year": "2026",
+  "journal": "Scientific Reports",
+  "issn": "20452322",
+  "publisher": "Nature Portfolio",
+  "authors": [
+   "Heri Adriwan Siregar",
+   "Redi Aditama",
+   "DINY DINARTI",
+   "Willy Bayuardi Suwarno",
+   "Dewi Sukma",
+   "Edy Suprianto",
+   "Abdul Razak Purba",
+   "Tony Liwang",
+   "Sudarsono Sudarsono"
+  ],
+  "abstract": "Abstract Graph-based pan-genomes can improve the representation of genomic variation underlying complex agronomic traits. We conducted a pan-genome-wide association study of 384 oil palm accessions comprising wild African dura populations and elite tenera-derived breeding materials. Mapping short-read sequences to a pan-genome graph identified approximately 32.8 million variants. Structural indels differentiated the germplasm groups and were proportionally enriched in promoter-proximal and intronic regions. Four primary GWAS panels comprising 1,292,996 unique SNPs, multi-nucleotide polymorphisms (MNPs), micro-indels, and larger indels were evaluated, with intermediate- and structural-indel subsets additionally analyzed. The framework recovered the established major-effect SHELL locus controlling shell-to-fruit ratio, providing an internal positive control. Palm-height analysis identified five panel–model-specific FDR-significant candidates, with a structural indel showing the strongest cross-model support. This indel was located near a gene encoding a GATA transcription factor, and a two-marker combination was prioritized for independent validation. Multiple variant classes identified candidate associations with oil-to-dry mesocarp ratio, and MNP analysis detected association signals for rachis length. These findings support integrating multiple variant classes in oil palm association mapping and provide candidates for validation in independent populations and functional studies.",
+  "oa_url": "https://doi.org/10.1038/s41598-026-76874-2",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1038/s41598-026-76874-2",
+   "https://doi.org/10.21203/rs.3.rs-9705045/v1"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [
+   "oil palm",
+   "indels",
+   "single nucleotide polymorphisms",
+   "agronomic traits",
+   "rachis length",
+   "genetic architecture",
+   "candidate loci"
+  ],
+  "topics": [
+   "Kelapa sawit"
+  ],
+  "priority_journal": true,
+  "language": "en",
+  "found_at": "2026-11-06",
+  "summary_id": null,
+  "relevance": 35
+ },
+ {
+  "id": "W7225253483",
+  "doi": "10.3389/fagro.2026.1988774",
+  "title": "The ever-widening gap between molecular discovery and agricultural practice: from laboratory precision to field reality",
+  "date": "2026-11-04",
+  "year": "2026",
+  "journal": "Frontiers in Agronomy",
+  "issn": "26733218",
+  "publisher": "Frontiers Media",
+  "authors": [
+   "Petra Hanáková Bečvářová",
+   "Marek Seidenglanz",
+   "Juan Antonio Lopez-Raez",
+   "Estíbaliz Larrainzar",
+   "Martina Janoušková",
+   "Iva Smýkalová"
+  ],
+  "abstract": "inconsistent and often difficult to reproduce. This discrepancy reveals a critical gap between molecular discoveries and practical agricultural applications (Figure 1A-C). In this Opinion article, we argue that the main limitation of microbial-based agriculture is no longer the lack of fundamental knowledge on microbial processes, but rather a lack of understanding of how environmental context determines their performance.Opinion3The ecosystemic validation gapModern 'omics' approaches rapidly expand our understanding of rhizosphere processes by increasingly precise characterization of microbial communities, functional genes and biochemical pathways involved in soil nutrient cycling and plant physiology. Advances in molecular biology, microbiome research and rhizosphere ecology have generated a vast body of mechanistic knowledge regarding plant-microbe interactions and their potential roles in sustainable agriculture (Bouwmeester et al. 2025). Sophisticated experimental systems enable the identification of complex processes and interactions under highly controlled conditions, yet they differ significantly from real-world field conditions. Thus, microbial inoculants that are highly effective under the simplified controlled conditions often fail to provide consistent agronomic benefits in complex field environments, where, for instance, they must compete with resident soil microbial communities (Adeniji et al. 2024).The discrepancy between results obtained under controlled conditions and their field verification opens an 'ecosystemic validation gap' that reduces the applicability of microbial technologies in practice (Figure 1B). This gap reflects a fundamental inconsistency between the systems used for discovery and the target systems for application. Laboratory experiments intentionally reduce environmental variability to maximize reproducibility and mechanistic resolution. In contrast, agricultural fields are dynamic systems shaped by multiple interacting factors. As microbial functions are inherently context dependent, successful laboratory performance does not necessarily predict field success.Currently, a linear validation approach is employed to bridge this gap (Figure 1A). The first level of validation consists of in vitro screening of microbial strains or products using axenic and monoxenic systems in the laboratory. The second level involves cultivating model plants with inoculants under controlled conditions. The third level requires inoculating crops under field conditions and evaluating their performance using appropriate indicators. While experimental conditions can be carefully controlled at the first and second levels, the third allows for the assessment of the adaptability, stability, and efficacy of microbial strains under real-world field conditions. Recognizing the ecosystemic validation gap not only highlights the key role of field experimentation, but also radically transforms it. Rather than serving as a final pre-commercialization verification stage, field research should become an essential component of hypothesis generation, selection of adapted microbial strains and technological development. Bridging the validation gap requires experimental frameworks that integrate molecular precision with ecological realism instead of treating them as separate research stages.The need for long-term field validationAgroecosystems are inherently heterogeneous in space and time, and microbial establishment and functionality cannot be understood independently of the environmental conditions in which they occur. The effectiveness of beneficial microorganisms in agriculture depends not only on the introduced strains, but also on a wide range of external factors. Some of them are controllable, such as crop genotype, management system, pest management method; however, others are not, such as soil type, climatic region and inter-annual fluctuation of temperature and precipitation.The challenge of understanding the context-dependency of microbial functions and benefits in agroecosystems must be targeted by combining different types of experimentation (Figure 1C). For example, the selection of legume varieties with high symbiotic capacity, i.e. ability to support microbial symbionts, can be initiated by screening trials using verified inoculants in pot experiments under controlled conditions. This allows for the inclusion of wide range of genotypes and reliable linking of symbiont development with explanatory variables, such as root traits or plant growth dynamics. However, further validation of the screening results requires multi-year field trials at multiple locations and under different agronomic conditions to obtain reliable results across confounding factors. Interannual climatic variability is a well-known confounding factor, which not only affects overall crop performance but also determines the outcome of symbiotic interactions. Another important aspect is crop rotation. This affects the comparability of different sites in a given season, but it also complicates replication of field trials, which must be conducted on different plots. Consequently, the spatial heterogeneity of soil chemical and microbial conditions makes interpreting the results difficult. All these challenges are common issues faced by researchers attempting to translate results obtained under controlled experimental conditions into real-world agricultural systems. However, this complexity reflects the reality and cannot simply be excluded from meaningful agronomic research. Consequently, field validation requires substantial financial support, long-term infrastructure, repeated trials, and a certain degree of tolerance for variable or inconclusive results. Notably, it also requires efficient cross-sectoral cooperation among scientists, agronomists, breeders and agri-food companies as well as significant farmer involvement.From the perspective of research funding and agricultural policies, long-term strategies are confronted with short-term funding schemes, publication pressure and the logistical demands of field research. Therefore, long-term field experimentation is systematically underrepresented in research programmes. As a result, some microbial-based technologies reach commercial application without sufficient multi-season and multi-location validation (Kaminsky et al. 2019).Agricultural systems exhibit considerable spatial and temporal variability, which hinders the attainment of objective and reproducible results for both plant and microbial parameters (Stoian et al. 2019;Alesso et al. 2020). Robust and standardized methodologies for evaluating microbial effects under such conditions are difficult and remain underdeveloped (O'Callaghan et al. 2022). Field trials differ fundamentally from controlled experiments in growth dynamics, stand structure, biomass accumulation, maturity and stress responses. In addition, soil heterogeneity, microclimatic variation, uneven water availability, previous management history and edge effects (among others) generate high variability within and among experimental units. Consequently, environmental heterogeneity imposes unrealistic requirements on experimental designs in terms of numbers of replicates or plot dimensions, masks differences between treatments and increases variability among replicates, thereby complicating the statistical assessment of biological effects (Ribeiro et al. 2026). In randomized field experiments, considerable variation may occur among replicates within the same treatment, even when the experimental protocol is carefully standardized (Piepho et al. 2013). Block-randomized small-plot trials illustrate these challenges. They are frequently used because they enable to reflect the effects of spatial heterogeneity with relatively low space and technology requirements. However, the small plot size may introduce other sources of variability, such as edge effects or increased pest pressure and specific technical requirements. While complex and fine-scale responses of soil microorganisms to environmental variation make randomized replicates essential, small plots often create unrealistic conditions for the collection of agronomically relevant crop parameters. Large-plot experiments with multiple assessment points across a plot may provide a more realistic representation of agricultural conditions (Henke 2000), but they also restrict feasible replicate numbers and reduce opportunities for randomization. Nevertheless, randomization remains essential for unbiased statistical inference. However, statistical validity alone does not guarantee ecological realism or agronomic predictability. Therefore, the central challenge lies in employing experimental designs that adequately capture the spatial and temporal complexity relevant to the tested technology, while minimizing the required space.Closing the ecosystemic validation gap requires more than increasing the number of field trials. It requires a fundamental redesign of the microbial technological innovation pipeline. Here, we propose replacing the linear validation approach (Figure 1A) with an iterative validation framework, in which laboratory and field research continuously feedback each other throughout the technology development (Figure 1C). Within this framework, field trials become an integral part of discovery, rather than its endpoint. This approach has the potential to promote development and implementation of specifically tailored technologies reflecting the fact that microbial interactions cannot be universally standardized across environments (Ribeiro et al. 2026). Such, à la carte technologies can serve as components of broader agroecological strategies adapted to local environmental conditions, crop systems and management practices. Molecular analyses should be incorporated into long-term, repetitive and multi-site field experiments to identify the ecosystemic drivers that determine the establishment, performance and functionality of microbial biostimulants. Likewise, field observations should continuously guide microbial strain selection, formulation development and mechanistic investigation. Therefore, variability between locations, seasons and management systems should be considered as an opportunity to define the environmental boundaries of microbial functionality, rather than merely a source of experimental uncertainty. Long-term field infrastructures, living labs and interdisciplinary collaborations among molecular biologists, microbial ecologists, field researchers, agronomists and farmers provide ideal platforms for implementing such interactive feedback between discovery and application (Kaminsky et al. 2019;O'Callaghan et al. 2022). Establishing close collaboration between companies in the agrifood sector and farmers is essential in this context (Toffolini and Jeuffroy 2022). Farmers, with their experience and 'field laboratories' must be directly involved in formulating scientific hypotheses and help guide the direction of research and experimental design.A key question is whether current regulatory frameworks are sufficiently aligned with such an iterative approach. This is particularly relevant for biological products, whose multifunctionality and contextdependent effects do not always fit into predefined regulatory categories (Matyjaszczyk 2026). Some multi-environment efficacy testing is already required within current regulatory frameworks, for example for the recognition of new varieties. More explicit regulatory requirements, extending to a broader range of products, could influence R&D practices by increasing the demand for field-based evidence. However, regulation alone cannot replace the iterative research frameworks and long-term field research needed to understand context-dependent biological performance. At the EU level, the proposed 'Food and Feed Simplification Omnibus' package aims to accelerate market access for biocontrol products. However, faster authorisation and market access alone does not bridge the ecosystemic validation gap: while it may facilitate the uptake and further testing of biological solutions, it does not itself ensure the long-term, multi-environment validation needed to understand their context-dependent performance. A complementary approach could be to introduce a provisional or temporary registration followed by final registration based on the results and evidence accumulated during a period, allowing the product to remain stably established on the market.Plant microbiome research has significantly advanced the understanding of processes and interactions in laboratory conditions, yet their validation in the agroecosystemic context has not progressed at the same pace. We argue that this imbalance constitutes an ecosystemic validation gap that represents one of the main obstacles to the reliable implementation of microbial technologies in modern agriculture. However, addressing this challenge requires a conceptual shift. Rather than treating field experiments as the final step of technology verification, they should become an integral component of the scientific discovery processes. Future progress will depend not only on understanding how microorganisms function, but also on understanding how, where, when and under which environmental conditions these functions translate into reproducible agronomic benefits. Consequently, closing the ecosystemic validation gap would be more than a methodological improvement. This requires redefining the relationship between laboratory discovery and its functionality in the field. Only through iterative integration of mechanistic biology with agronomically and ecologically realistic experimentation can microbial technologies achieve the robustness necessary for sustainable agriculture. Closing this gap will also require more agile and adaptive regulatory frameworks that recognize and accommodate the iterative validation thus accounting for the functional dependence on environmental variability inherent to biological technologies.",
+  "oa_url": "https://www.frontiersin.org/journals/agronomy/articles/10.3389/fagro.2026.1988774/pdf",
+  "pdf_url": "https://www.frontiersin.org/journals/agronomy/articles/10.3389/fagro.2026.1988774/pdf",
+  "pdf_urls": [
+   "https://www.frontiersin.org/journals/agronomy/articles/10.3389/fagro.2026.1988774/pdf",
+   "https://doi.org/10.3389/fagro.2026.1988774"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Akses & informasi pasar petani"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-06",
+  "summary_id": null,
+  "relevance": 32
+ },
+ {
+  "id": "W7225244539",
+  "doi": "10.1038/s41598-026-75193-w",
+  "title": "Temporal trends and disparities in cardiac arrest and co-listed acute myocardial infarction-related mortality in the United States, 1999–2025: Insights from CDC WONDER database",
+  "date": "2026-11-04",
+  "year": "2026",
+  "journal": "Scientific Reports",
+  "issn": "20452322",
+  "publisher": "Nature Portfolio",
+  "authors": [
+   "FNU Arsheen",
+   "Syeda Samia Fatima",
+   "Muhammad Shaheer",
+   "Areeba Asif",
+   "Aliza Fatima",
+   "Muneeb Fareed",
+   "Abdur Rafay Farooq",
+   "Nisha Khalid",
+   "Asma Naz",
+   "Hina Safeer",
+   "Saifullah Khan",
+   "Hasibullah Aminpoor"
+  ],
+  "abstract": "Abstract Cardiac Arrest (CA) and Acute Myocardial Infarction (AMI) are closely linked cardiovascular conditions and major contributors to global mortality. We evaluated national trends in mortality associated with CA co-listed with AMI among United States (U.S) adults from 1999 to 2025 and assessed demographic and geographic disparities. Using CDC WONDER Multiple Cause of Death, we conducted a retrospective analysis of CA and co-listed AMI-related mortality from 1999 to 2025 among adults aged ≥ 25 years. Age-adjusted mortality rates (AAMRs) were calculated, and joinpoint regression was utilized to estimate annual average percentage changes (AAPCs) with 95% confidence intervals (CIs). There were 747,073 reported deaths due to CA and co-listed AMI. The AAMR decreased from 22.06 in 1999 to 7.37 in 2025 (AAPC: −4.28; p ≤ 0.000001). Men had higher mean AAMRs than women (mean AAMR: men 16.38; women: 9.77). Among races, Non-Hispanic (NH) Black individuals had the highest mean AAMR (17.14). Mortality burden was greatest among older adults aged ≥ 65 years (mean AAMR: 51.35). Regionally, the Northeast had the highest mean AAMR (16.29), and rural areas showed slightly higher mortality compared with urban areas (14.29 vs. 13.53). Most deaths (69.22%) occurred in medical facilities. Mortality associated with CA and co-listed AMI has declined substantially in the U.S over the past two decades, with significant disparities. These findings highlight the importance of improved risk stratification and targeted preventive strategies in high-risk populations.",
+  "oa_url": "https://doi.org/10.1038/s41598-026-75193-w",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1038/s41598-026-75193-w"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": true,
+  "language": "en",
+  "found_at": "2026-11-06",
+  "summary_id": null,
+  "relevance": 32
+ },
+ {
+  "id": "W7225260415",
+  "doi": "10.3389/fsufs.2026.1986090",
+  "title": "How information channels influence farmers’ adoption of green production technologies: evidence from perspective of strong and weak ties",
+  "date": "2026-11-04",
+  "year": "2026",
+  "journal": "Frontiers in Sustainable Food Systems",
+  "issn": "2571581X",
+  "publisher": "Frontiers Media",
+  "authors": [
+   "Qing Liao",
+   "Xingdong Wang",
+   "黄纪慧",
+   "Tianyue Zhong",
+   "Juan Du"
+  ],
+  "abstract": "Agricultural green production plays a vital role in reducing environmental pollution and achieving sustainable development. However, in practice, the promotion of agricultural green production technologies often faces a persistent “last mile” challenge, with farmers adopting a few green practices and at low intensity. Based on survey data from 938 farmers in China, this study employs an ordered Probit model to examine the effect of information channels on farmers’ adoption of green production technologies. The findings are as follows: (1) Both strong-tie information channels (relatives, friends and neighbors) and weak-tie information channels (government agencies for agricultural technology dissemination) significantly promote adoption, with strong-tie information channels exerting a stronger effect. (2) The heterogeneity analysis reveals that strong-tie information channels are particularly effective for experience-based technologies and among older or small-scale farmers, whereas weak-tie information channels more strongly support specialist-based technologies and younger or large-scale farmers. (3) Social trust moderates these effects: interpersonal trust rises the influence of strong-tie information channels, while institutional trust reinforces the effect of weak-tie information channels. (4) Environmental benefit perception and economic benefit perception mediate the effects of both strong-tie and weak-tie information channels on farmers’ adoption of green production technologies. These findings have important policy implications for tailoring information channels to technology types and farmer characteristics, strengthening trust, and improving awareness of technology benefits to promote green technology adoption and sustainable agricultural development.",
+  "oa_url": "https://www.frontiersin.org/journals/sustainable-food-systems/articles/10.3389/fsufs.2026.1986090/pdf",
+  "pdf_url": "https://www.frontiersin.org/journals/sustainable-food-systems/articles/10.3389/fsufs.2026.1986090/pdf",
+  "pdf_urls": [
+   "https://www.frontiersin.org/journals/sustainable-food-systems/articles/10.3389/fsufs.2026.1986090/pdf",
+   "https://doi.org/10.3389/fsufs.2026.1986090"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Adopsi teknologi & pertanian digital"
+  ],
+  "priority_journal": true,
+  "language": "en",
+  "found_at": "2026-11-06",
+  "summary_id": null,
+  "relevance": 32
+ },
+ {
+  "id": "W7225246260",
+  "doi": "10.1007/s43621-026-05228-9",
+  "title": "Integrated soil fertility management as a climate adaptation strategy among women cocoa farmers in Ashanti and Western North regions of Ghana",
+  "date": "2026-11-04",
+  "year": "2026",
+  "journal": "Discover Sustainability",
+  "issn": "26629984",
+  "publisher": "Springer Nature",
+  "authors": [
+   "Kwabena Buabeng",
+   "Katharina Löhr",
+   "Richard Asare",
+   "Rich Kofi Kofituo",
+   "Mahlet Degefu Awoke",
+   "Stefan Sieber"
+  ],
+  "abstract": "Abstract Women cocoa farmers in Ghana face significant barriers when accessing agricultural technologies, particularly in the context of climate change. Given the emergence of Integrated Soil Fertility Management (ISFM) as a key climate adaptation strategy for cocoa farming, this study assesses women farmers’ perceptions, knowledge, and adaptation to climate change through the adoption of ISFM practices. A mixed methods approach was employed, combining both qualitative (interviews and focus groups) and quantitative (household survey) methods. Guided by the Feminist Political Ecology (FPE) framework, the qualitative component involved two FGD sessions (one per region), each conducted as two parallel groups of 15 women, with a total of 60 farmers across the Western North and Ashanti regions of Ghana. Complementing this, structured household surveys administered to 160 women cocoa farmers providing broader contextual patterns and trends. Quantitative data were analysed using descriptive statistics in SPSS 21, while qualitative data were thematically coded and analysed in MAXQDA. Findings indicate that most respondents employ a blend of traditional and improved agronomic practices, with the use of plant residues as mulch being the most adopted adaptation strategy. However, the labour-intensive nature of ISFM practices, particularly for aging farmers, poses a major barrier to adoption. Women farmers show a good understanding of ISFM and combine traditional and modern practices on their cocoa farms despite low formal education. However, their participation is constrained by the labour-intensive nature of some ISFM activities. Expanding access to mechanized solutions could reduce this burden and strengthen women’s involvement in climate-resilient cocoa farming.",
+  "oa_url": "https://doi.org/10.1007/s43621-026-05228-9",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1007/s43621-026-05228-9"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-06",
+  "summary_id": null,
+  "relevance": 29
+ },
+ {
+  "id": "W7225238677",
+  "doi": "10.14719/pst.17573",
+  "title": "Satellite-derived vegetation indices and machine learning for food crop yield prediction: A systematic review of methods, performance and research gaps",
+  "date": "2026-11-04",
+  "year": "2026",
+  "journal": "Plant Science Today",
+  "issn": "23481900",
+  "publisher": "",
+  "authors": [
+   "Jagarlamudi Sai Divya Sri",
+   "Ramalingam Kumaraperumal",
+   "Dhanaraju Muthumanickam",
+   "P. C. Prabu",
+   "Balaji Kannan",
+   "Nivas Raj Moorthi",
+   "Subramanian Vishalini"
+  ],
+  "abstract": "Crop yield prediction is essential for global food security, but the current methods for yield estimation are labour-intensive, time-consuming and have limited spatial and temporal coverage. This systematic review focuses on consolidating the evidence from the 32 peer-reviewed studies published from 2018–26 that are concerned with using both satellite-derived vegetation indices (VIs) and machine learning (ML) to predict food crop yields. A preferred reporting items for systematic reviews and meta-analyses (PRISMA)-based search resulted in the identification of studies on rice, wheat, maize, soybean, sugarcane, sorghum and barley across different geographic regions. The evidence clearly shows that across all food crops, Random Forest (RF) is the most consistent ML technique, with an R² of 0.70–0.96 based on crop and region and deep learning approaches like long short-term memory (LSTM) and convolutional neural network (CNN) show higher temporal pattern recognition, but much greater numbers of labelled data are needed. Multi-index approaches consistently outperform single-index approaches, with those extracted from Sentinel-2 performing well in situations where normalised difference vegetation index (NDVI) loses sensitivity due to canopy saturation at high biomass levels in dense-crop canopies. Sentinel-2 is the most frequently used satellite platform (over 65 % of the analysed studies) and Google Earth Engine (GEE) has become the most used data processing environment. There are still gaps in the standardisation of benchmarking metrics, the representation of smallholder and tropical farming systems, the integration of data across phenological stages and the cross-regional transferability of models. This review consolidates evidence and presents clear priorities to move precision agriculture yield forecasting toward global food security applications.",
+  "oa_url": "https://doi.org/10.14719/pst.17573",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.14719/pst.17573"
+  ],
+  "oa_status": "diamond",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Ketahanan pangan rumah tangga"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-06",
+  "summary_id": null,
+  "relevance": 29
+ },
+ {
+  "id": "W7225246725",
+  "doi": "10.3389/fdgth.2026.1908306",
+  "title": "Mental health experiences and help-seeking pathways among young people in Kenya: a qualitative study informing youth-centered digital mental health platforms",
+  "date": "2026-11-04",
+  "year": "2026",
+  "journal": "Frontiers in Digital Health",
+  "issn": "2673253X",
+  "publisher": "Frontiers Media",
+  "authors": [
+   "Paul M Macharia",
+   "Njeri Ngaruiya",
+   "Irene Chepng'etich Misoi",
+   "Anne Mbwayo",
+   "Md Shafiqur Rahman Jabin"
+  ],
+  "abstract": "Background Young people in low- and middle-income countries face social and structural stressors that increase vulnerability to mental health difficulties, while access to formal mental health services remains limited. Digital mental health interventions may expand access to support, but their design requires understanding young people’ lived experiences, coping strategies, and help-seeking behaviors. Objective This study explored young people's experiences of mental health challenges, coping strategies, and help-seeking behaviors in Kenyan communities to inform the design of youth-centered digital mental health interventions. Methods We conducted an exploratory qualitative study using 12 focus group discussions with 72 young people aged 18–24 years in urban (Kibra), peri-urban (Kikuyu Town), and rural (Nachu) Kenya. Participants were purposively sampled by gender, education, and geography. Discussions explored mental health experiences, coping, support-seeking, barriers to care, and perspectives on digital mental health tools. Audio-recorded discussions were transcribed verbatim and analyzed using thematic analysis. Reporting followed COREQ guidelines. Results Six themes emerged: (1) causes of mental distress, including academic pressure, financial hardship, and uncertainty about the future; (2) emotional distress, including sadness, anxiety, loneliness, and overwhelm; (3) stigma and barriers to professional help-seeking; (4) reliance on informal support from friends, family, teachers, and religious leaders; (5) coping strategies, including sports, music, social interaction, and spiritual practices; and (6) openness to digital mental health support. Participants valued digital platforms that offered anonymity, trustworthy information, and culturally relevant content. Conclusions Young people in Kenyan communities face multiple stressors and barriers to formal mental health care. Youth-centered digital mental health platforms may offer accessible and acceptable support when designed to be confidential, culturally relevant, and linked to existing community support systems.",
+  "oa_url": "https://www.frontiersin.org/journals/digital-health/articles/10.3389/fdgth.2026.1908306/pdf",
+  "pdf_url": "https://www.frontiersin.org/journals/digital-health/articles/10.3389/fdgth.2026.1908306/pdf",
+  "pdf_urls": [
+   "https://www.frontiersin.org/journals/digital-health/articles/10.3389/fdgth.2026.1908306/pdf",
+   "https://doi.org/10.3389/fdgth.2026.1908306"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-06",
+  "summary_id": null,
+  "relevance": 28
+ },
+ {
+  "id": "W7225240491",
+  "doi": "10.3389/frph.2026.1924884",
+  "title": "Lived experiences of rural women undergoing hysterectomy in telangana, India: a feminist qualitative study",
+  "date": "2026-11-04",
+  "year": "2026",
+  "journal": "Frontiers in Reproductive Health",
+  "issn": "26733153",
+  "publisher": "Frontiers Media",
+  "authors": [
+   "Giji George",
+   "Lakshmi P",
+   "Ann Maria Thomas",
+   "Alosious Benny",
+   "Bharath Bhushan Mamidi",
+   "Fayaz Ahmad Paul"
+  ],
+  "abstract": "Background Hysterectomy has emerged as a significant reproductive health concern among rural women in Telangana, India, where socioeconomic vulnerability, limited healthcare access, and gendered inequalities often shape women's health decisions. Objective To explore the lived experiences of rural women undergoing hysterectomy and examine the social, economic, psychological, and health-related implications associated with the procedure. Materials and methods A qualitative case study informed by feminist and reproductive justice perspectives was conducted. Purposive sampling was used to recruit women from rural areas of Telangana who had undergone hysterectomy. Data were collected through in-depth semi-structured interviews conducted in participants’ residential settings. Interviews were audio-recorded, transcribed verbatim, and analyzed using Braun and Clarke's thematic analysis framework. Results The findings revealed four major themes: (1) financial burden; (2) health outcomes and complications; (3) medical decision-making; and (4) Social and Familial Impact. Participants described experiences of chronic pain, economic hardship, psychological suffering, loss of work capacity, and limited participation in healthcare decision-making. The findings further highlighted how patriarchal norms, inadequate healthcare regulation, and poor access to ethical gynecological care intensified women's vulnerability. Conclusion The study shows that hysterectomy among rural women in Telangana reflects gender inequality and reproductive injustice beyond its medical implications. The findings highlight the need for ethical healthcare practices, informed consent, and accessible reproductive health services for marginalized women.",
+  "oa_url": "https://www.frontiersin.org/journals/reproductive-health/articles/10.3389/frph.2026.1924884/pdf",
+  "pdf_url": "https://www.frontiersin.org/journals/reproductive-health/articles/10.3389/frph.2026.1924884/pdf",
+  "pdf_urls": [
+   "https://www.frontiersin.org/journals/reproductive-health/articles/10.3389/frph.2026.1924884/pdf",
+   "https://doi.org/10.3389/frph.2026.1924884"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-06",
+  "summary_id": null,
+  "relevance": 26
+ },
+ {
+  "id": "W7225239631",
+  "doi": "10.1007/s43937-026-00206-8",
+  "title": "Socioeconomic drivers of solar PV adoption in Cameroon",
+  "date": "2026-11-04",
+  "year": "2026",
+  "journal": "Discover Energy",
+  "issn": "27307719",
+  "publisher": "Springer Nature",
+  "authors": [
+   "Parfait Gildas Ngouabe",
+   "Henri Ndame Makembe",
+   "Novice Patrick Bakehe"
+  ],
+  "abstract": "This study investigates the socioeconomic and structural drivers of residential photovoltaic (PV) solar energy adoption in Cameroon using the Afrobarometer Round 10 dataset for 2024. Despite the country's vast solar potential, the uptake of decentralized energy remains uneven. Employing a robust probit model with spatial interactions, we analyze how household characteristics, information access, and infrastructure constraints influence the decision to adopt PV systems in the region. Our empirical results indicate that access to the national electricity grid is strongly associated with lower solar adoption, reducing the probability of PV uptake by 25.3% points. This suggests that solar energy currently functions as a critical off-grid substitute rather than as a supplementary power source for grid-connected households. Conversely, rural residence was a significant catalyst, increasing the adoption probability by 9.3% points. Furthermore, human capital, measured by education level, and access to information via ICT assets (radio and television) were positively and significantly associated with adoption, with educational effects being notably amplified in rural areas. Socio-demographic factors such as age and gender showed no statistically significant correlation in our robust specification, suggesting that economic and structural barriers override individual demographic traits. These findings have essential policy implications for decentralized renewable energy strategies in sub-Saharan Africa, highlighting the need for targeted financial instruments, such as battery storage subsidies and microcredit, to overcome the prohibitive initial capital expenditures faced by rural households.",
+  "oa_url": "https://doi.org/10.1007/s43937-026-00206-8",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1007/s43937-026-00206-8"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-06",
+  "summary_id": null,
+  "relevance": 24
+ },
+ {
+  "id": "W7225249181",
+  "doi": "10.1016/j.cliser.2026.100755",
+  "title": "Linking climate projections with farmer perspectives to inform agricultural adaptation in northern Tanzania",
+  "date": "2026-11-04",
+  "year": "2026",
+  "journal": "Climate Services",
+  "issn": "24058807",
+  "publisher": "Elsevier BV",
+  "authors": [
+   "A. Quandt",
+   "J. Bross",
+   "D. Rose",
+   "L. Danielson",
+   "I.R. Simpson",
+   "A. Foster",
+   "F. Lacey",
+   "M.E. Israel"
+  ],
+  "abstract": "While there is growing evidence about how African farmers are adapting to climate change, there remains a lack of research highlighting direct linkages between future climate scenarios, impacts on agriculture, and viable adaptation strategies. To address this gap, our research objectives are to understand how farmers in Tanzania perceive (1) climate change-impacts, (2) current adaptation strategies and future adaptation options given climate scenarios. First, we modeled future climate scenarios with a focus on temperature and precipitation. Second, we directly integrated these scenarios into a survey of 125 farmers; eliciting crop-specific concerns and targeted adaptation options given future climate scenarios. Third, we conducted 12 qualitative farmer interviews to interpret the survey findings. Key study findings highlighted farmer concerns about high wind events, as well as excessive precipitation and drought. However, farmer concerns about future climate scenarios varied by crop type, with some impacts perceived as beneficial. Overall, 73.5% of survey respondents perceived not having implemented any climate change-specific adaptation strategies, and interviewees highlighted a lack of climate services, training, and extension staff as a major adaptation barrier. In the future, about 30% of respondents said they would like to implement soil and water conservation practices, such as berms and terraces, to avoid soil erosion during extreme precipitation events. Our findings suggest that increased access to context-specific climate information services, combined with agricultural extension programs, may have practical implications for effective, informed adaptation responses. Our study also provides an example of integrating climate modeling and social science research methods. Practical implications In this study, we integrate climate projections into an analysis of climate change impacts and adaptation options for farmers in Tanzania. In these efforts, we used climate projections of increased temperature and precipitation as a scenario for future climate conditions, and used these climate scenarios in a survey of 125 farmers to ask which crops they would be concerned about, as well as adaptation options they would want to pursue. We then followed up with qualitative interviews of 12 farmers to better contextualize the survey results and understand adaptation challenges. This mixed-methods approach helped us to directly link future climate scenarios with farmer concerns about specific crops, understand perceptions of adaptation options, as well as identify climate information, adaptation knowledge, and technical assistance as major adaptation challenges. Our methodological approach offers an example for how to integrate climate information with stakeholder knowledge to support climate-resilient decision-making in other agricultural regions, ensuring the findings provide useful information that may be actionable for policymakers, extension services, and practitioners working at the climate–agriculture interface. In our study, we identify three major results with practical and policy implications. First, we find that farmers' concerns for their crops based on future climate scenarios was nuanced, and varied by crop type. For example, we find that given increased precipitation, farmers were concerned for crops that can easily rot if it rains too much like beans and tomatoes, while they viewed increased precipitation as potentially beneficial to other crops including tree crops and some livestock species. Second, we find that most farmers perceive that they have yet to adopt any climate change adaptation strategies. During our interviews this lack of perceived adaptation was attributed to uncertainty about future weather and climate patterns, a lack of climate information services, education, and training about adaptation strategies, as well as limited access to agricultural extension agents and other trained experts. However, despite a lack of current adaptation, our results highlight that given future climate scenarios many would like to adopt soil and water conservation strategies like building berms or terraces. Lastly, given an increased likelihood of extreme precipitation farmers recognized the increasing importance of berms and terraces, as well as tree planting, to avoid the dangerous impacts of extreme precipitation in the future. These results are timely given the expected climate change impacts of increased rainfall and changes in the onset of the rainy season. Further, the significance of this research stems from several key advancements in understanding how farmers perceive the impacts of specific weather and climate events on particular crops. Our approach aims to provide a nuanced understanding about impacts on specific crops, and perceived adaptation strategies to combat specific future climate scenarios. Further, we focus on extreme precipitation and center part of our analysis on a recent extreme precipitation event that led to severe localized flooding. Generally, flooding in agricultural communities has been understudied in Africa ( Reed et al., 2022 ), and our study provides empirical evidence about impacts and adaptation strategies, as well as challenges in the adoption of soil and water conservation strategies. Across Africa, it is predicted that from 2009 to 2020, 12% of food insecure households had their food insecurity worsened by flooding ( Reed et al., 2022 ), and our study provides specific information on what adaptation farmers prefer and the challenges they face in their adoption. This research has policy and practice relevance through its identification of both farmer adaptation strategies and perceived barriers to their broader implementation. Our study findings provide useful information for improving extension activities and resilience programs. Survey results identtify agricultural extension as a critical need in the study context, and increased access to agricultural extension may be combined with increased access to climate and weather information for more nuanced, context-specific adaptation. Increased access to climate and weather information services may enhance climate literacy throughout Africa, a topic that remains understudied in the global south ( Simpson et al., 2021 ).",
+  "oa_url": "https://doi.org/10.1016/j.cliser.2026.100755",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1016/j.cliser.2026.100755"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Ketahanan pangan rumah tangga",
+   "Adopsi teknologi & pertanian digital"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-06",
+  "summary_id": null,
+  "relevance": 24
+ },
+ {
+  "id": "W7225229748",
+  "doi": "10.3389/fnut.2026.1949121",
+  "title": "Beyond calories: rainfall shocks, dietary composition, and the limits of standard food security indicators in Malawi",
+  "date": "2026-11-04",
+  "year": "2026",
+  "journal": "Frontiers in Nutrition",
+  "issn": "2296861X",
+  "publisher": "Frontiers Media",
+  "authors": [
+   "ramzi knani",
+   "Majdi Argoubi",
+   "Khaled Mili",
+   "Mujtaba Hashim Ramadan"
+  ],
+  "abstract": "Background Climatic shocks are known to undermine food security in rainfed African farming systems, but the evidence base relies overwhelmingly on indicators of energy adequacy and consumption frequency. Whether shocks also alter the composition of diets, independently of their quantity, remains largely untested. Methods We use four waves of the Malawi Integrated Household Panel Survey (2010, 2013, 2016, and 2019; 5,866 household–wave observations), in which food consumption is recorded item by item in physical quantities and disaggregated by source. Household and wave fixed effects identify associations from within-household variation over time, and our preferred inference uses Conley standard errors that allow for the spatial correlation of rainfall. Results A 20 percentage point rainfall deficit is not robustly associated with lower energy intake but is associated with a consistent shift in diet composition. The share of dietary energy from nutrient-dense foods falls by about 0.7 percentage points (4.1% of its mean), the staple share rises correspondingly, and dietary energy concentrates on fewer food groups; fruits and pulses bear the adjustment while cereals are unaffected. Own production declines by 1.9 percentage points and households consume 0.7 fewer distinct food items, while real food expenditure does not rise—a pattern of non-compensation rather than substitution toward the market. These four indicators of composition are complementary transformations of the same vector of food-group energy shares rather than independent tests; they move in a consistent direction, but their magnitude is modest and, under our preferred spatially-robust inference, the effect is imprecise and a joint test is not significant (χ 2 (4) = 7.75, p = 0.10). Conclusion The results are consistent with households maintaining energy intake while the composition of the diet shifts toward staples and away from nutrient-dense food groups—a compositional margin that energy-based indicators capture poorly. Because this margin is both small and imprecisely estimated under our preferred spatially-robust inference, the study carries a methodological caution as much as a substantive finding: analyses of climate shocks on diets that rely on energy-based measures, or on standard errors that ignore spatial dependence, are liable to report effects that are larger and more statistically secure than the data support.",
+  "oa_url": "https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2026.1949121/pdf",
+  "pdf_url": "https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2026.1949121/pdf",
+  "pdf_urls": [
+   "https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2026.1949121/pdf",
+   "https://doi.org/10.3389/fnut.2026.1949121"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Ketahanan pangan rumah tangga"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-06",
+  "summary_id": null,
+  "relevance": 18
+ },
+ {
+  "id": "W7225273809",
+  "doi": "10.1371/journal.pwat.0000546",
+  "title": "Examining the association between household water insecurity, food insecurity and depression among people living with HIV in Ghana",
+  "date": "2026-11-04",
+  "year": "2026",
+  "journal": "PLOS Water",
+  "issn": "27673219",
+  "publisher": "Public Library of Science",
+  "authors": [
+   "Jerry John Nutor",
+   "Agani Afaya",
+   "Jaffer Okiring",
+   "Sera Young",
+   "Rachel G. A. Thompson",
+   "Torsten B. Neilands",
+   "Tarik Benmarhnia",
+   "Isaac Yeboah",
+   "Raymond Aborigo",
+   "Monica Getahun",
+   "Sheri D. Weiser"
+  ],
+  "abstract": "Although recent literature increasingly recognizes HIV, food insecurity, water insecurity, and depression as interconnected syndemics, research simultaneously evaluating the role of all these factors is limited among people living with HIV. We assessed the associations between water insecurity and food insecurity and how they relate to depression among people living with HIV in Ghana. This was a cross-sectional analysis of the baseline data of an ongoing cohort in three regions of Ghana. PHQ-9 depression scale was used, summed up to generate a depression score, which was then recoded into 4 categories of ‘none-minimal’,’mild’,’moderate’, and ‘severe’. Multivariable ordered logistic regression analysis (controlling for a priori identified confounders) was used to quantify the association between water insecurity and depression. Overall average depression score was 5.88 (SD = 4.82), with 47.1% of the participants having ‘none-minimal’ depression, 32.2% having mild, 19.9% having moderate, and only 0.8% having severe depression. In the multivariate model, depression was more prevalent among participants experiencing low (aOR = 1.96; 95% CI: 1.30–2.95) or moderate water insecurity (aOR = 2.64; 95% CI: 1.45–4.82), and moderate (aOR = 2.22; 95% CI: 1.27–3.87) or high food insecurity (aOR = 3.32; 95% CI: 2.22–4.95). Higher odds of depression were also observed among females (aOR = 1.73; 95% CI: 1.23–2.44), and those reporting moderate (aOR = 6.22; 95% CI: 1.85–20.86) or high perceived stress (aOR = 21.07; 95% CI: 6.75–65.80). Lower odds of depression was observed among widowed women (aOR = 0.61; 95% CI: 0.41–0.86). The study demonstrates that both water insecurity and food insecurity are strongly associated with depression among people living with HIV. The substantially higher odds of depression among women and those experiencing moderate to high perceived stress highlight the importance of incorporating gender-responsive and stress-focused mental health interventions into HIV care.",
+  "oa_url": "https://doi.org/10.1371/journal.pwat.0000546",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1371/journal.pwat.0000546"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Ketahanan pangan rumah tangga"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-06",
+  "summary_id": null,
+  "relevance": 18
+ },
+ {
+  "id": "W7116970601",
+  "doi": "10.1111/1471-0528.70356",
+  "title": "First‐Trimester Maternal Gut Microbiome and Small Vulnerable Newborns: A Prospective Cohort Study",
+  "date": "2026-11-04",
+  "year": "2026",
+  "journal": "BJOG An International Journal of Obstetrics & Gynaecology",
+  "issn": "03065456",
+  "publisher": "Wiley",
+  "authors": [
+   "Rachel McMillan",
+   "Rebecca M. Carpenter",
+   "G. Brett Moreau",
+   "Jennie Z. Ma",
+   "Md Shahjahan Siraj",
+   "Md. Mostofa Shakil",
+   "Sk Masum Billah",
+   "William Petrie",
+   "R. Haque",
+   "Gregory R. Madden"
+  ],
+  "abstract": "ABSTRACT Objectives To investigate the relationship between the first trimester gut microbiome and small vulnerable newborns (SVN). Setting Rural low‐ and middle‐income country: Bangladesh. Population 213 women were enrolled during the first trimester of pregnancy as part of the NICHD Global Network for Women's and Children's Health registry, Bangladesh. Methods Observational study of the maternal gut microbiome and birth outcomes. Blood and stool samples were collected at enrollment. Birth outcomes were recorded within 72 h of delivery. Random forest machine learning models trained on microbiome data were used to predict SVN or first‐trimester maternal features of interest. Hold out sets were used to test model accuracy. Main Outcome Measures SVN (born preterm, low birth weight, or small for gestational age). Results The birth outcome SVN ( n = 106) was discriminated from non‐SVN ( n = 107) using a microbiome‐trained random forest model (AUC = 0.653, 95% CI 0.518–0.789). The microbiome also predicted the inflammatory markers plasma alpha‐1‐acid glycoprotein and faecal calprotectin (AUC = 0.742, 95% CI: 0.616–0.868 and AUC = 0.793, 95% CI: 0.680–0.905, respectively), while micronutrient concentrations, anaemia, C‐reactive protein and the presence of atypical Enteropathogenic E. coli were not reliably predicted. Higher alpha‐1‐acid glycoprotein was significantly associated with SVN (aOR = 1.98; 95% CI: 1.04–3.85) whereas calprotectin was not. Conclusions In this prospective cohort, first‐trimester maternal gut microbiome composition showed modest discrimination for SVN and a marker of systemic inflammation. These findings support further investigation of early pregnancy microbiome–inflammation pathways in fetal growth restriction and preterm birth.",
+  "oa_url": "https://doi.org/10.1111/1471-0528.70356",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1111/1471-0528.70356"
+  ],
+  "oa_status": "hybrid",
+  "cited_by": 0,
+  "keywords": [
+   "maternal gut microbiota",
+   "first trimester",
+   "preterm birth",
+   "low birth weight",
+   "small for gestational age",
+   "systemic inflammation",
+   "alpha-1-acid glycoprotein",
+   "fecal calprotectin"
+  ],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-06",
+  "summary_id": null,
+  "relevance": 15
+ },
+ {
+  "id": "W7225252672",
+  "doi": "10.1002/hpja.70280",
+  "title": "Acceptability of Teledentistry in Mobile Oral Health Applications for Australian Children: A Qualitative Study",
+  "date": "2026-11-04",
+  "year": "2026",
+  "journal": "Health Promotion Journal of Australia",
+  "issn": "10361073",
+  "publisher": "Wiley",
+  "authors": [
+   "Johanna Groundwater",
+   "Ria Aiyar",
+   "Lisa Jamieson",
+   "Tamanna Tiwari",
+   "Estie Kruger",
+   "Marc Tennant",
+   "Sonia Nath"
+  ],
+  "abstract": "ABSTRACT Issues Addressed Access to timely dental care remains inequitable for children in rural, remote and disadvantaged communities. Teledentistry could narrow this gap, and mobile oral health apps offer a platform, yet user acceptance remains largely unexamined. This study explored how parents, public health professionals, software and design professionals and dental professionals perceive a teledentistry feature within a children's oral health app, and the equity and governance issues it raises. Methods Parents and caregivers, public health professionals, software and design professionals and dental professionals were recruited through purposive and snowball sampling via professional networks, social media and organisational contacts. Participants completed an online questionnaire capturing demographic characteristics and perceptions of mobile oral health technologies, followed by a semi‐structured interview conducted in person, by telephone or via videoconference by one of four researchers. Interviews were audio‐recorded and transcribed verbatim. Questionnaire data were summarised descriptively, and interviews were analysed using Braun and Clarke's six‐phase reflexive thematic analysis. Two researchers coded the data and developed preliminary themes. Results A total of 59 participants (39 women, 20 men) were interviewed, and four themes were developed: (1) acceptance of a teledentistry feature within a mobile oral health application; (2) the potential for teledentistry to improve access and equity; (3) preferences for in‐person care, reflecting concerns about diagnostic accuracy, communication and clinician–patient relationships; and (4) perceived logistical and governance challenges to implementation. Participants viewed teledentistry as an acceptable, complementary feature for screening, triage, follow‐up and continuity of care, recognising its potential to reduce geographical, social and systemic barriers, particularly for rural and isolated paediatric populations. However, concerns persisted that diagnostic accuracy, communication, trust and cultural safety are difficult to replicate remotely, alongside logistical and governance challenges including cost, funding, workforce capacity, oversight and safeguarding. Conclusions Teledentistry has the potential to improve equitable access to oral healthcare for children and families. However, its effectiveness depends on careful design and on its recognition as a trusted supplement to, rather than a replacement for, in‐person care. This approach requires strong governance, sustainable funding and child‐safe consent. So What? Teledentistry is likely to be accepted by families and professionals only when it is positioned as an adjunct that extends, rather than substitutes for, in‐person paediatric dental care. Developers and policymakers should therefore prioritise triage, follow‐up and continuity functions, with clear pathways to a clinician and attention to cultural safety.",
+  "oa_url": "https://doi.org/10.1002/hpja.70280",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1002/hpja.70280"
+  ],
+  "oa_status": "hybrid",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-06",
+  "summary_id": null,
+  "relevance": 15
+ },
+ {
+  "id": "W7225251450",
+  "doi": "10.9734/air/2026/v27i61765",
+  "title": "Backyard Poultry Farming among Selected Households in Namakkal District, Tamil Nadu: Socioeconomic Characteristics, Production Constraints and Farm-level Economics",
+  "date": "2026-11-04",
+  "year": "2026",
+  "journal": "Advances in Research",
+  "issn": "23480394",
+  "publisher": "Sciencedomain International",
+  "authors": [
+   "S. Paulpandi",
+   "K. Velmurugan",
+   "V. Kannan"
+  ],
+  "abstract": "This descriptive survey examines backyard poultry activities among selected households in three villages of Namakkal district, Tamil Nadu. The survey dataset comprised 120 households, with 40 each from Sambamed, Kalkurchi and Naraikinar. Household characteristics and perceived production constraints were summarized as counts and percentages. Three first-year account schedules, each describing a 50-bird backyard poultry unit, were evaluated separately using recorded costs and quantities of eggs and birds sold. Women constituted 64.17% (77/120) of the respondents, and agriculture was the principal occupation of 60.83% (73/120). The most frequently reported constraints were inadequate year-round availability of improved chicks (92.50%), predator-related losses (89.17%) and limited technical knowledge (79.17%). In the three illustrative units, egg sales ranged from 960 to 1,600 eggs; the corresponding gross sales receipts from eggs and birds were ₹19,800, ₹18,327 and ₹23,500. Recorded production costs were ₹10,071.35, ₹11,570 and ₹11,280, giving sales-based net margins of ₹9,728.65, ₹6,757 and ₹12,220, respectively. These accounts exclude the initial housing outlay as a direct expense and do not value eggs consumed at home. The findings identify practical constraints and potentially positive unit-level sales margins, but do not establish a population-average profit, a change in household income or nutritional adequacy.",
+  "oa_url": "https://doi.org/10.9734/air/2026/v27i61765",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.9734/air/2026/v27i61765"
+  ],
+  "oa_status": "diamond",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-06",
+  "summary_id": null,
+  "relevance": 9
+ },
+ {
+  "id": "W7225241212",
+  "doi": "10.3389/fcosc.2026.1955584",
+  "title": "Diet pattern and human grey wolf conflict in Orakzai District, Pakistan",
+  "date": "2026-11-04",
+  "year": "2026",
+  "journal": "Frontiers in Conservation Science",
+  "issn": "2673611X",
+  "publisher": "Frontiers Media",
+  "authors": [
+   "Syed Arif Hussain",
+   "Muqaddas Javed",
+   "Tariq Mahmood",
+   "Tahir Mehmood"
+  ],
+  "abstract": "Introduction The grey wolf ( Canis lupus ) is an important apex predator whose persistence in human-dominated landscapes is increasingly influenced by livestock depredation and negative human perceptions. This study investigated grey wolf diet composition, reported livestock depredation patterns, and community perceptions in Orakzai District, Khyber Pakhtunkhwa, Pakistan. Methods Field surveys were conducted from August 2024 to July 2025 across 25 purposively selected sites. Grey wolf scats were collected and analysed using morphological characteristics and microscopic examination of prey remains. Structured household interviews were conducted with 123 respondents across 25 villages. Firth penalized logistic regression was used to assess factors associated with negative rather than neutral perceptions of grey wolves. Results A total of 29 wolf scats yielded 30 identified prey occurrences representing 15 prey species. Wild prey accounted for 17 occurrences (56.67%), whereas domestic prey accounted for 13 (43.33%). Wild boar ( Sus scrofa ) was the most frequently detected prey species, followed by Asiatic palm civet (Paradoxurus hermaphroditus), while cattle ( Bos taurus ) were the most frequently detected domestic prey. Dietary diversity was H′ = 2.52, with prey species richness of 15 and evenness of 0.93. These findings represent prey occurrences detected in scats and cannot establish prey preference or selection because prey availability was not independently quantified. All 123 respondents reported at least one livestock attack attributed to grey wolves. Most reported attacks occurred at night (61.0%), followed by evening (35.0%), and October had the highest frequency of reported attacks (20.5%). Overall, 80.5% of respondents expressed negative perceptions of grey wolves. The reported number of grey wolves killed during the previous 5–10 years was positively associated with the odds of negative rather than neutral perception (OR = 2.495, 95% CI = 1.453–4.740, P < 0.001). Age, occupation, livestock holdings, wolf sightings, attack timing, and livestock injury were not statistically significant. Discussion The findings highlight substantial interactions between grey wolves and livestock-dependent communities. They emphasize the need for evidence-based conflict mitigation, improved livestock protection, and conservation strategies informed by prey availability and local ecological conditions.",
+  "oa_url": "https://www.frontiersin.org/journals/conservation-science/articles/10.3389/fcosc.2026.1955584/pdf",
+  "pdf_url": "https://www.frontiersin.org/journals/conservation-science/articles/10.3389/fcosc.2026.1955584/pdf",
+  "pdf_urls": [
+   "https://www.frontiersin.org/journals/conservation-science/articles/10.3389/fcosc.2026.1955584/pdf",
+   "https://doi.org/10.3389/fcosc.2026.1955584"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Ketahanan pangan rumah tangga"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-06",
+  "summary_id": null,
+  "relevance": 6
+ },
+ {
+  "id": "W7225266107",
+  "doi": "10.3389/fpls.2026.1996132",
+  "title": "Climate-sensitive, spatially explicit multi-objective thinning for stand-structure and living-biomass-carbon trade-offs",
+  "date": "2026-11-04",
+  "year": "2026",
+  "journal": "Frontiers in Plant Science",
+  "issn": "1664462X",
+  "publisher": "Frontiers Media",
+  "authors": [
+   "Pengcheng Ma",
+   "Zhifeng Guo",
+   "Zhirui Guo",
+   "Yue Pang",
+   "Zhidong Zhang"
+  ],
+  "abstract": "Thinning can improve stand spatial structure but removes living biomass carbon, creating a trade-off that may vary among stand types and future climate pathways. We developed a spatially explicit, climate-sensitive multi-objective computational framework that integrates an individual-tree growth model, five neighborhood-based spatial metrics, species-specific biomass equations, and Monte Carlo optimization. The framework was applied to 15 mapped plots comprising secondary Betula platyphylla forests, Larix principis-rupprechtii–B. platyphylla mixed forests, and L. principis-rupprechtii plantations in northern China. Stand development was projected from 2025 to 2030 under SSP1-2.6 and SSP5-8.5, and thinning was optimized under carbon-retention, balanced, and structure-priority objectives. Across stand types, the best-found thinning intensity increased from 5.0–12.0% under the carbon-retention objective to 32.1–41.0% under the balanced objective and 44.2–49.3% under the structure-priority objective. Mixed stands showed higher absolute spatial-structure improvement efficiency per unit of living biomass carbon removed than larch plantations. Under the balanced objective, SSP5-8.5 reduced best-found thinning intensity by 3.9 and 6.0 percentage points in secondary birch and larch stands, respectively, but increased it by 4.6 percentage points in mixed stands. Across the evaluated scenarios, variation among management objectives was greater than variation between climate pathways, while stand composition mediated the direction of climate effects. The framework provides spatially explicit, stand-specific decision support for evaluating thinning intensity and candidate harvest-tree locations while reconciling structural diversification with short-term living biomass carbon retention.",
+  "oa_url": "https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2026.1996132/pdf",
+  "pdf_url": "https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2026.1996132/pdf",
+  "pdf_urls": [
+   "https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2026.1996132/pdf",
+   "https://doi.org/10.3389/fpls.2026.1996132"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Tenaga kerja & produktivitas perkebunan"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-06",
+  "summary_id": null,
+  "relevance": 6
+ },
+ {
+  "id": "W7225260912",
+  "doi": "10.1080/17421772.2026.2744755",
+  "title": "Economy-wide effects of transitioning to organic agriculture: evidence from European regions",
+  "date": "2026-11-04",
+  "year": "2026",
+  "journal": "Spatial Economic Analysis",
+  "issn": "17421772",
+  "publisher": "Routledge",
+  "authors": [
+   "Elias Giannakis",
+   "Dimitris Kremmydas"
+  ],
+  "abstract": "This paper assesses the regional economic impacts of transitioning to organic agriculture in the European Union by linking policy simulations from the IFM-CAP (Individual Farm Model for Common Agricultural Policy Analysis) model with regional input-output models. This multi-modelling approach evaluates how production changes propagate through regional economies via agricultural supply and manufacturing demand linkages across EU regions. Results reveal substantial regional heterogeneity, with economy-wide impacts ranging from moderate contractions to small gains depending on production structures and value-chain integration. Regions with strong agro-industrial linkages experience larger spillovers, while diversified economies are more resilient. The findings highlight the importance of spatially differentiated policy design for the EU's Farm-to-Fork strategy.",
+  "oa_url": "https://doi.org/10.1080/17421772.2026.2744755",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1080/17421772.2026.2744755"
+  ],
+  "oa_status": "hybrid",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemasaran, rantai pasok & rantai nilai"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-06",
+  "summary_id": null,
+  "relevance": 0
+ },
+ {
+  "id": "W7225239643",
+  "doi": "10.1186/s12889-026-29945-y",
+  "title": "Prevalence and factors associated with adolescent-reported food insecurity in an urban Spanish setting: a cross-sectional study",
+  "date": "2026-11-04",
+  "year": "2026",
+  "journal": "BMC Public Health",
+  "issn": "14712458",
+  "publisher": "BioMed Central",
+  "authors": [
+   "Laura Capitán‐Moyano",
+   "María Arias-Fernández",
+   "Pablo Alvarez-Greciano",
+   "Miquel Bennasar‐Veny",
+   "Enrique Castro‐Sánchez",
+   "Aina M. Yañez"
+  ],
+  "abstract": "Food insecurity (FI) is a multidimensional phenomenon with significant consequences for adolescent health and wellbeing. Much of the existing evidence relies on household-level indicators that may underestimate adolescents’ own experiences. In Spain, systematic data on adolescent FI remain scarce, particularly in settings shaped by distinct socioeconomic and community conditions. This study aimed to estimate the prevalence of adolescent-reported FI in Palma de Mallorca and to examine its association with individual, household, and community factors. A cross-sectional study was conducted between 2022 and 2024 among adolescents aged 10 to 19 attending secondary schools in Palma de Mallorca, Spain. Schools were selected through stratified sampling based on their socioeconomic profile. FI was assessed at adolescent level using the Child Food Insecurity Experiences Scale and at household level using the Food Insecurity Experiences Scale (parent-reported). Perceptions of neighbourhood assets were assessed using the Neighborhood Assets Assessment Scale. Weighted prevalence estimates accounting for the sampling design were calculated. Bivariate analyses, generalized estimating equations, and Cohen’s Kappa coefficient were used. Among 600 adolescents (mean age 14.1 years; 57.5% female), the weighted prevalence of FI was 40.4% (95% CI: 31.1–50.5), with 31.7% experiencing mild FI and 8.7% moderate or severe FI. Agreement between adolescent and parental reports was low (K = 0.232), and 66.7% of adolescents reporting FI lived in households classified as food secure by their parents or guardians. In the adjusted model, being born outside Spain (OR = 3.04; 95% CI: 1.43–6.45) and living in a household with a monthly income below €1,500 (OR = 3.88; 95% CI: 2.08–7.22) were independently associated with higher odds of FI. Higher perceived neighbourhood social support was also independently associated with lower odds of FI (OR = 0.96; 95% CI: 0.92–0.99). FI affects a substantial proportion of adolescents in this urban Spanish setting, with prevalence higher than in previous studies. Economic disadvantage and migrant background were the factors most strongly associated with FI, while perceived neighbourhood social support was associated with lower odds of FI. The marked discrepancy between adolescent and parental reports supports incorporating adolescent self-report alongside household measures in FI research and monitoring. Addressing adolescent FI requires structural responses and sustained institutional commitment.",
+  "oa_url": "https://doi.org/10.1186/s12889-026-29945-y",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1186/s12889-026-29945-y"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Ketahanan pangan rumah tangga"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-06",
+  "summary_id": null,
+  "relevance": 0
+ },
+ {
+  "id": "W7225255975",
+  "doi": "10.1186/s12903-026-10398-z",
+  "title": "Food insecurity and homelessness are associated with worse oral health among emerging adult college students",
+  "date": "2026-11-04",
+  "year": "2026",
+  "journal": "BMC Oral Health",
+  "issn": "14726831",
+  "publisher": "BioMed Central",
+  "authors": [
+   "Ryan J. Gamba",
+   "Hallie F. Sullivan",
+   "Joseph Garo",
+   "Samuel Bankole",
+   "Malenah Lewis",
+   "Matthew Magaling",
+   "Samuel Appiah",
+   "Natasha L. Burke",
+   "Giovanna N. Rafanello",
+   "Elizabeth T. Couch",
+   "Alison Klebanoff Cohen",
+   "Lindsay Till Hoyt"
+  ],
+  "abstract": "Emerging adulthood (approximately ages 18–25) represents a critical developmental period when lifelong health behaviors are established. Food insecurity and homelessness are disproportionately common among college students compared with emerging adults in the general population, and oral healthcare is often less utilized among this population. Past research has identified associations between basic needs insecurity and adverse oral health outcomes, but minimal research explores these relationships among college students. This study examines associations between food insecurity, homelessness, and oral health among undergraduate students at two public universities in California. Participants ( N = 2,068) aged 18–24 years completed surveys on demographic variables, food insecurity, homelessness, and oral health indicators, including self-rated oral health, time since last dental exam or cleaning, and gum bleeding in the past 12 months. Logistic regression models adjusted for sex, work status, race/ethnicity, age, study site, and household income to quantify associations between food insecurity, homelessness, and oral health outcomes. Among all respondents, 10% reported experiencing past-year homelessness and 36% reported past 30-day food insecurity. After covariable adjustment, both homelessness and food insecurity were associated with higher odds of reporting poor or fair oral health. Food insecurity was associated with double the odds of not having a past-year dental exam or cleaning (OR = 2.0, 95% CI: 1.6– 2.6). Food insecurity and homelessness were associated with adverse oral health outcomes among emerging adult college students at public universities in California. Integrating oral health promotion and preventive care into campus-based basic needs and student wellness initiatives may improve the overall health of college students.",
+  "oa_url": "https://doi.org/10.1186/s12903-026-10398-z",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1186/s12903-026-10398-z"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Ketahanan pangan rumah tangga"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-06",
+  "summary_id": null,
+  "relevance": 0
+ },
+ {
   "id": "W7225201953",
   "doi": "10.3389/fsufs.2026.1888510",
   "title": "Farmers’ perspectives of how farmer research networks shape behaviour and contribute to agroecological systems change in Eastern and Southern Africa",
@@ -36,6 +1094,212 @@
   "found_at": "2026-11-05",
   "summary_id": null,
   "relevance": 43
+ },
+ {
+  "id": "W7225115463",
+  "doi": "10.1016/j.afres.2026.102800",
+  "title": "Unlocking food security through social capital networks: a synthesis of evidence from farming households in Nigeria",
+  "date": "2026-11-03",
+  "year": "2026",
+  "journal": "Applied Food Research",
+  "issn": "27725022",
+  "publisher": "Elsevier BV",
+  "authors": [
+   "Ayodeji Damilola Kehinde"
+  ],
+  "abstract": "Understanding the role of social relationships in shaping livelihood outcomes is critical to addressing persistent food insecurity among smallholder farmers in Nigeria. This scoping review synthesizes peer-reviewed empirical evidence on the relationship between social capital and food security outcomes among Nigerian smallholder agricultural households. Following PRISMA-ScR guidelines, a systematic database search across Scopus, Web of Science, PubMed, AGRICOLA, African Journals Online (AJOL), and Google Scholar identified 62 primary empirical studies meeting strict inclusion criteria (January 2000–May 2025). Theoretical frameworks, methodological guidelines, and studies relying solely on agricultural productivity or yield proxies were excluded. The synthesized evidence demonstrates that bonding, bridging, and linking social capital perform distinct yet complementary functions across the four dimensions of food security: availability, access, utilization, and stability. Bonding networks (kinship and informal community ties) primarily enable labour sharing, mutual aid, and informal food transfers during shocks. Bridging ties (farmer cooperatives and producer associations) facilitate market access, information sharing, and agricultural technology adoption. Linking social capital connects farmers with formal financial institutions, agricultural extension services, and policy support, enhancing resource acquisition. However, network benefits are unevenly distributed, frequently constrained by gender inequalities, socioeconomic stratification, and regional disparities. The review highlights critical research gaps, including limited applications of quantitative social network analysis (SNA) and insufficient examination of digital social capital and climate resilience mechanisms among farming households.",
+  "oa_url": "https://www.sciencedirect.com/science/article/pii/S2772502226011352/pdf",
+  "pdf_url": "https://www.sciencedirect.com/science/article/pii/S2772502226011352/pdf",
+  "pdf_urls": [
+   "https://www.sciencedirect.com/science/article/pii/S2772502226011352/pdf",
+   "https://doi.org/10.1016/j.afres.2026.102800"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [
+   "food security",
+   "social capital",
+   "social networks",
+   "farm households",
+   "smallholder farmers",
+   "Nigeria"
+  ],
+  "topics": [
+   "Akses & informasi pasar petani",
+   "Kelembagaan petani & tindakan kolektif",
+   "Pemberdayaan petani & gender",
+   "Ketahanan pangan rumah tangga",
+   "Adopsi teknologi & pertanian digital"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-06",
+  "summary_id": {
+   "tujuan": "Mensintesis bukti empiris tentang hubungan modal sosial (bonding, bridging, linking) dengan empat dimensi ketahanan pangan pada rumah tangga petani kecil di Nigeria.",
+   "metode": "Scoping review mengikuti PRISMA-ScR dengan penelusuran enam basis data (Scopus, Web of Science, PubMed, AGRICOLA, AJOL, Google Scholar); 62 studi empiris primer terbit Januari 2000–Mei 2025 disintesis secara naratif. Kerangka teoretis dan studi berbasis proksi produktivitas dikecualikan; teknik analisis statistik tidak disebutkan.",
+   "temuan": "Bonding (kekerabatan, komunitas) memungkinkan berbagi tenaga kerja dan transfer pangan saat guncangan; bridging (koperasi, asosiasi produsen) memfasilitasi akses pasar, informasi, dan adopsi teknologi; linking menghubungkan petani dengan lembaga keuangan dan penyuluhan. Manfaat jaringan tidak merata karena gender, stratifikasi sosial-ekonomi, dan disparitas wilayah. Karena berupa sintesis deskriptif, hubungan yang dilaporkan bersifat asosiatif, bukan kausal.",
+   "keterbatasan": "Tidak disebutkan secara eksplisit oleh penulis; dari desain tampak bahwa scoping review tidak menilai kualitas metodologis studi primer dan tidak mengukur besaran efek. Abstrak juga menyoroti minimnya analisis jaringan sosial kuantitatif (SNA) serta kajian modal sosial digital dan ketahanan iklim.",
+   "relevansi": "Kerangka bonding-bridging-linking relevan untuk meneliti kelembagaan petani, akses pasar, dan ketahanan pangan petani kecil di Kalimantan Tengah, termasuk peran koperasi dan kelompok tani. Celah SNA dan modal sosial digital membuka peluang riset lanjutan, misalnya tentang adopsi teknologi digital dan jaringan pemasaran sawit atau hortikultura rakyat. Konteks Nigeria perlu diuji ulang karena struktur adat dan pasar yang berbeda.",
+   "skor": 4,
+   "model": "claude-haiku-5-5",
+   "sumber": "abstrak"
+  },
+  "relevance": 72
+ },
+ {
+  "id": "W7225268559",
+  "doi": "10.1080/19452829.2026.2758639",
+  "title": "The Gender Gap in Relative Autonomy: Domain-specific Evidence on Intrahousehold Decision-making in Rural Bangladesh",
+  "date": "2026-11-03",
+  "year": "2026",
+  "journal": "Journal of Human Development and Capabilities",
+  "issn": "19452829",
+  "publisher": "Taylor & Francis",
+  "authors": [
+   "Namira Shameem"
+  ],
+  "abstract": "Aggregate gender-parity indices rank Bangladesh ahead of its South Asian neighbours but say little about the quality of women's agency inside the household. Grounding the analysis in the capability approach, in which agency is constitutive of well-being, this paper uses the motivation modules of the Women's Empowerment in Agriculture Index in the 2018–19 Bangladesh Integrated Household Survey to construct the Relative Autonomy Index for spouses across nine decision domains, and studies the within-couple gap in normalised autonomy. Husbands are significantly more autonomously motivated than their wives in every domain, with the numerical gap largest for serious health problems and protection from violence, although their threat-related framing requires caution, and smallest for daily tasks. The correlates of the gap are domain-specific, but a wider spousal education gap, the husband's agricultural occupation, and the wife's experience of domestic violence accompany a larger gap, while the wife's age, her activity participation, and most robustly, her membership of a collective-action group accompany a smaller one. These associations survive clustering on the primary sampling unit and a correction for testing nine domains at once. The findings are associational and identify women's collective action, education parity, and information access as priorities for gender-responsive programme design.",
+  "oa_url": "https://www.tandfonline.com/doi/pdf/10.1080/19452829.2026.2758639?needAccess=true",
+  "pdf_url": "https://www.tandfonline.com/doi/pdf/10.1080/19452829.2026.2758639?needAccess=true",
+  "pdf_urls": [
+   "https://www.tandfonline.com/doi/pdf/10.1080/19452829.2026.2758639?needAccess=true",
+   "https://doi.org/10.1080/19452829.2026.2758639"
+  ],
+  "oa_status": "hybrid",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Kelembagaan petani & tindakan kolektif",
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-06",
+  "summary_id": {
+   "tujuan": "Menilai kualitas agensi perempuan dalam rumah tangga, bukan sekadar indeks paritas gender agregat, dengan menguji kesenjangan otonomi motivasional (Relative Autonomy) antara suami dan istri di Bangladesh pedesaan.",
+   "metode": "Desain kuantitatif cross-sectional menggunakan modul motivasi Women's Empowerment in Agriculture Index dari Bangladesh Integrated Household Survey 2018–19, dengan pasangan suami-istri pada sembilan domain pengambilan keputusan. Peneliti menyusun Relative Autonomy Index ternormalisasi, lalu menganalisis kesenjangan dalam pasangan. Ukuran sampel tidak disebutkan dalam abstrak. Teknik analisis meliputi regresi korelat dengan klaster pada primary sampling unit serta koreksi uji ganda untuk sembilan domain.",
+   "temuan": "Suami secara signifikan lebih otonom secara motivasional dibandingkan istri di setiap domain, dengan selisih numerik terbesar pada masalah kesehatan serius dan perlindungan dari kekerasan, dan terkecil pada tugas harian. Kesenjangan lebih besar berhubungan dengan selisih pendidikan pasangan yang lebih lebar, pekerjaan pertanian suami, dan pengalaman kekerasan domestik istri, sedangkan usia istri, partisipasi kegiatan, dan terutama keanggotaan kelompok aksi kolektif berhubungan dengan kesenjangan lebih kecil. Temuan bersifat asosiatif, bukan kausal.",
+   "keterbatasan": "Penulis mengakui temuan bersifat asosiatif; kerangka motivasi yang berbasis ancaman pada domain tertentu memerlukan kehati-hatian dalam interpretasi. Keterbatasan lain seperti ukuran sampel dan kemungkinan bias seleksi tidak disebutkan dalam abstrak.",
+   "relevansi": "Temuan tentang peran kelompok aksi kolektif dan kesetaraan pendidikan dapat diuji ulang pada kelompok tani, koperasi, dan rumah tangga petani sawit di Kalimantan Tengah. Indeks serupa juga berguna untuk menilai agensi perempuan dalam keputusan adopsi teknologi digital dan akses informasi pasar, meski konteks sosial Bangladesh berbeda dari Indonesia.",
+   "skor": 4,
+   "model": "claude-haiku-5-5",
+   "sumber": "abstrak"
+  },
+  "relevance": 61
+ },
+ {
+  "id": "W7225249876",
+  "doi": "10.3390/jrfm19110886",
+  "title": "FinTech Access and Climate-Resilient Agricultural Investment: Evidence from Smallholder Farmers in Pakistan",
+  "date": "2026-11-03",
+  "year": "2026",
+  "journal": "Journal of risk and financial management",
+  "issn": "19118066",
+  "publisher": "Multidisciplinary Digital Publishing Institute",
+  "authors": [
+   "Umar Daraz",
+   "Štefan Bojnec"
+  ],
+  "abstract": "Access to appropriate finance is central to smallholder agricultural adaptation, but the relationships among digital financial access, financial inclusion, and financial literacy remain insufficiently examined. This study examined the association between FinTech access and climate-resilient agricultural investment, assessing financial inclusion as a mediator and financial literacy as a moderator. A quantitative cross-sectional survey collected data from 384 smallholder farmers in Mardan, Charsadda, and Nowshera districts of Khyber Pakhtunkhwa, Pakistan. Respondents were predominantly male (91.4%); therefore, the findings primarily reflect male farmers’ experiences and cannot be generalized to female-headed smallholder operations without dedicated gender-disaggregated sampling. Multiple regression, bootstrapped mediation, and interaction analyses tested hypothesized relationships, controlling for socioeconomic and farming characteristics. FinTech access was positively associated with both investment and financial inclusion. Financial inclusion retained a positive association with investment after adjustment and partially mediated the access–investment relationship, with an indirect effect of 0.222 (95% bootstrap confidence interval: 0.158–0.292), accounting for approximately 57.5% of the total association. Financial literacy positively moderates the association between FinTech access and investment (B = 0.137, p = 0.001), with stronger associations observed at higher literacy levels. These findings support the financial capability perspective, highlighting the distinct roles of financial participation and financial knowledge in climate-resilient agricultural investment. The results provide an empirical basis for evaluating integrated initiatives combining digital financial access, appropriate financial products, financial education, and agricultural extension support.",
+  "oa_url": "https://doi.org/10.3390/jrfm19110886",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.3390/jrfm19110886"
+  ],
+  "oa_status": "hybrid",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender",
+   "Adopsi teknologi & pertanian digital"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-06",
+  "summary_id": null,
+  "relevance": 40
+ },
+ {
+  "id": "W7225175663",
+  "doi": "10.1016/j.sftr.2026.102280",
+  "title": "Testing protection motivation theory in climate–hunger nexus: food insecurity, climate perceptions, and environmental policy support in Ghana with urban–rural inequalities",
+  "date": "2026-11-03",
+  "year": "2026",
+  "journal": "Sustainable Futures",
+  "issn": "26661888",
+  "publisher": "Elsevier BV",
+  "authors": [
+   "Mohammed Tanko",
+   "Abdul-Fatahi Alidu",
+   "Yakubu Zakaria"
+  ],
+  "abstract": "This study examines the climate–hunger nexus by evaluating how climate change perceptions influence environmental policy support through food insecurity, accounting for urban–rural and income inequalities in Ghana. The paper advances Protection Motivation Theory (PMT) by integrating material hardship, framing food insecurity as a key mediator between cognitive threat appraisal and public policy support. Utilizing nationally representative data from the Afrobarometer Round 10 (2024) survey with a sample size of 2 , 400 adult respondents, the analytical framework employs Structural Equation Modelling (SEM) with bootstrapped mediation, multi-group analysis, and interaction structural models. The results indicate that climate threat perceptions positively impact food insecurity, which in turn significantly increases support for environmental policies. Food insecurity mediates the relationship between climate perceptions and policy support. Multi-group and interaction analyses further reveal that this indirect pathway is significantly stronger among rural ( β = 0.17 , p < 0.001 ) and low-income ( β = 0.19 , p < 0.001 ) households. In conclusion, cognitive recognition of climate risk translates into policy support primarily when mediated by real material vulnerability. Consequently, climate risk communication and adaptation policies must explicitly integrate household food security mechanisms, targeting rural and low-income communities with climate-smart agricultural support and social protection to enhance national adaptive capacity.",
+  "oa_url": "https://www.sciencedirect.com/science/article/pii/S2666188826006374/pdf",
+  "pdf_url": "https://www.sciencedirect.com/science/article/pii/S2666188826006374/pdf",
+  "pdf_urls": [
+   "https://www.sciencedirect.com/science/article/pii/S2666188826006374/pdf",
+   "https://doi.org/10.1016/j.sftr.2026.102280"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [
+   "protection motivation theory",
+   "climate change",
+   "hunger",
+   "food insecurity",
+   "climate perception",
+   "environmental policy support",
+   "urban-rural inequality",
+   "Ghana"
+  ],
+  "topics": [
+   "Ketahanan pangan rumah tangga"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-06",
+  "summary_id": null,
+  "relevance": 30
+ },
+ {
+  "id": "W7225258690",
+  "doi": "10.25259/jksus_1820_2025",
+  "title": "Association of body shape trajectories with hypertension in rural adults: An observational study with mendelian randomization analysis",
+  "date": "2026-11-03",
+  "year": "2026",
+  "journal": "Journal of King Saud University - Science",
+  "issn": "10183647",
+  "publisher": "Elsevier BV",
+  "authors": [
+   "Fayaz Ahmad",
+   "Xiaotian Liu",
+   "Wei Liao",
+   "Yinghao Yuchi",
+   "Han Pang",
+   "Xiaokang Dong",
+   "Zhenxing Mao",
+   "Linlin Li",
+   "Jian Hou",
+   "Chongjian Wang"
+  ],
+  "abstract": "This study investigated the association between long-term body shape trajectories and hypertension (HTN) risk among rural Chinese adults, while assessing the influence of lifestyle factors and potential causal relationships using Mendelian randomization (MR) analysis. A total of 21,500 adults aged 50–79 years from the Henan Rural Cohort Study were included. Group-based trajectory modeling identified five recalled body shape trajectories from childhood to middle adulthood (ages 5–50 years). Logistic regression models were used to evaluate associations between body shape trajectories and HTN risk after adjustment for demographic, socioeconomic, and lifestyle factors. MR analyses using genome-wide association study (GWAS) data were conducted to provide additional evidence regarding the potential causal relationship between body size and HTN. Compared with the lean-stable trajectory, heavier body shape trajectories were associated with increased HTN risk. The multivariable-adjusted odds ratios (ORs) were 1.82 (95% CI: 1.55–2.12) among women with the lean-moderate increase trajectory and 2.80 (95% CI: 2.27–3.45) among men with the heavy-stable trajectory. Unhealthy lifestyle factors, including lower vegetable and fruit intake and high-fat dietary patterns, further increased HTN risk among individuals with unfavorable body shape trajectories. MR analyses provided supportive evidence for a potential causal relationship between larger body size and HTN, although the use of cross-sectional genetic proxies for longitudinal body shape trajectories should be considered when interpreting the findings. This study demonstrates that long-term body shape trajectories are associated with HTN risk in rural Chinese adults. Maintaining healthy body weight throughout adulthood and implementing early, sex-specific prevention strategies may help reduce the future burden of HTN. GRAPHICAL ABSTRACT",
+  "oa_url": "https://jksus.org/content/185/2026/0/1/pdf/JKSUS_1820_2025.pdf",
+  "pdf_url": "https://jksus.org/content/185/2026/0/1/pdf/JKSUS_1820_2025.pdf",
+  "pdf_urls": [
+   "https://jksus.org/content/185/2026/0/1/pdf/JKSUS_1820_2025.pdf",
+   "https://doi.org/10.25259/jksus_1820_2025"
+  ],
+  "oa_status": "hybrid",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-06",
+  "summary_id": null,
+  "relevance": 19
  },
  {
   "id": "W7225138971",
