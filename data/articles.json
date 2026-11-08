@@ -1,5 +1,960 @@
 [
  {
+  "id": "W7225419174",
+  "doi": "10.1007/s43621-026-05219-w",
+  "title": "The role of climate adaptation bundles in enhancing sustainable food security and resilience in Ethiopia",
+  "date": "2026-11-06",
+  "year": "2026",
+  "journal": "Discover Sustainability",
+  "issn": "26629984",
+  "publisher": "Springer Nature",
+  "authors": [
+   "Fenet Belay",
+   "Yusuf M. Adamu",
+   "Bello Gambo",
+   "Sami Florent Palm",
+   "Alemayehu Oljira"
+  ],
+  "abstract": "Climate change poses a major threat to food security in Ethiopia, where smallholder agriculture remains highly dependent on rainfall. Although farmers often adopt multiple adaptation practices, evidence on whether joint adoption generates additive, complementary, or sub-additive food-security effects remains limited. This study examines the treatment effects of adaptation combinations among 500 mixed crop-livestock households in Jimma and East Shewa Zones of Ethiopia. Focusing on improved seeds (IV), small-scale irrigation (IR), and crop diversification (CD), a Multinomial Endogenous Switching Regression (MESR) model was employed to estimate the effects of eight adaptation regimes on per capita daily caloric intake while controlling for selection bias. Results from the adoption model show that credit access, extension services, climate information, landholding size, and market access significantly influence adaptation choices. The outcome analysis indicates that adoption of the full three-practice package increases food security by 1170.08 kcal/AE/day relative to non-adoption. However, this effect is significantly lower than the additive benchmark of 1863.41 kcal/AE/day, demonstrating sub-additivity in the complete adaptation bundle. In contrast, the irrigation–crop diversification combination shows positive complementarity, indicating that food-security outcomes depend on the specific composition of adaptation portfolios rather than the number of practices adopted. Qualitative evidence further suggests that farmers perceive adaptation combinations primarily as risk-management strategies under production uncertainty. Overall, the findings highlight the heterogeneous effects of adaptation packages and the importance of understanding interactions among climate adaptation practices.",
+  "oa_url": "https://doi.org/10.1007/s43621-026-05219-w",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1007/s43621-026-05219-w"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Akses & informasi pasar petani",
+   "Ketahanan pangan rumah tangga"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-08",
+  "summary_id": {
+   "tujuan": "Menguji efek perlakuan kombinasi praktik adaptasi iklim (benih unggul, irigasi skala kecil, dan diversifikasi tanaman) terhadap asupan kalori per kapita harian, serta apakah dampak gabungannya bersifat aditif, komplementer, atau sub-aditif.",
+   "metode": "Survei rumah tangga pertanian campuran tanaman-ternak sebanyak 500 rumah tangga di Zona Jimma dan East Shewa, Ethiopia; periode pengumpulan data tidak disebutkan. Analisis menggunakan Multinomial Endogenous Switching Regression (MESR) untuk delapan rezim adaptasi dengan kontrol bias seleksi, dilengkapi bukti kualitatif yang teknik analisisnya tidak dirinci.",
+   "temuan": "Paket tiga praktik meningkatkan asupan kalori 1.170,08 kkal/UE/hari dibandingkan non-adopsi, tetapi lebih rendah dari benchmark aditif 1.863,41 kkal/UE/hari, yang menunjukkan sub-aditivitas. Kombinasi irigasi dan diversifikasi tanaman menunjukkan komplementaritas positif. Akses kredit, penyuluhan, informasi iklim, luas lahan, dan akses pasar memengaruhi pilihan adopsi; hasilnya dapat ditafsirkan kausal hanya jika asumsi identifikasi model terpenuhi.",
+   "keterbatasan": "Tidak disebutkan secara eksplisit dalam abstrak. Dari desain tampak bahwa identifikasi bergantung pada asumsi model seleksi (termasuk variabel identifikasi dan distribusi galat), dan sampel terbatas pada dua zona sehingga generalisasi ke wilayah lain perlu hati-hati.",
+   "relevansi": "Pendekatan MESR dan logika analisis paket adopsi dapat diadaptasi untuk menguji paket teknologi (misalnya digital atau mekanisasi) pada petani kecil sawit atau hortikultura di Kalimantan Tengah. Temuan tentang peran kredit, penyuluhan, dan akses pasar relevan dengan kajian kelembagaan petani dan ketahanan pangan, meskipun konteks iklim dan sistem pangan Ethiopia berbeda.",
+   "skor": 3,
+   "model": "claude-haiku-5-5",
+   "sumber": "abstrak"
+  },
+  "relevance": 53
+ },
+ {
+  "id": "W7225422420",
+  "doi": "10.1371/journal.pone.0362299",
+  "title": "Antibiotic stewardship challenges in Madagascar’s poultry sector: informality, knowledge gaps, and market constraints",
+  "date": "2026-11-06",
+  "year": "2026",
+  "journal": "PLoS ONE",
+  "issn": "19326203",
+  "publisher": "Public Library of Science",
+  "authors": [
+   "Sophie Molia",
+   "Ilo Tsimok’Haja Ramahatafandry",
+   "Michel Rakotoharinome",
+   "Christian Lienhardt",
+   "Muriel Figuié",
+   "Alexandre Hobeika",
+   "Daouda Kassié"
+  ],
+  "abstract": "Antibiotic resistance (ABR) is a major global public health threat, largely driven by the overuse and misuse of antibiotics. Tackling its animal health component is particularly difficult in low- and middle-income countries, where data and resources are limited. This qualitative study aims to explore antibiotic use (ABU) and its underlying drivers in poultry farms in Analamanga, Madagascar’s region with the highest poultry density. In April 2023, we conducted semi-structured interviews with 79 poultry farmers (13 backyard and 66 semi-intensive), 10 animal health professionals, and 10 agrovet shop sellers. Thematic analysis was used to examine farm characteristics, poultry health management, veterinary medicine supply and use, and interactions with poultry production stakeholders, in order to identify antibiotic stewardship challenges in Madagascar's poultry sector. Backyard and semi-intensive farmers shared several features: informality (absence of farm registration, rare cooperative membership, limited training), irregular profitability, easy access to antibiotics, recurrent antibiotic misuse (for example use in poultry viral infection treatment, first-line fluoroquinolone treatments), and limited veterinary inspection by competent authorities. However, the two farmer groups differed, as semi-intensive farmers had slightly greater knowledge of ABU and ABR than backyard farmers; they primarily consulted chick and feed suppliers for health advice and medicine purchase; and they widely perceived antibiotics as essential to maintaining poultry health and productivity. Practical roadblocks to invest in preventive measures or adopt effective antibiotic stewardship (ABS) were their narrow profit margins, limited access to credit, and weak bargaining power towards poultry product buyers. Tailored approaches such as supporting professionalization of poultry sector, building capacity of chick and feed suppliers to provide training in appropriate ABU and management of flocks, flock vaccination, deworming schedules, treatment record keeping and ABS principles may enhance antibiotic usage in the Madagascar poultry sector. Future research should build on this exploratory study, which used a convenience sample of stakeholders, by examining ABU trends and drivers in Analamanga with representative sampling and rigorous quantitative validation across Madagascar’s poultry sector.",
+  "oa_url": "https://doi.org/10.1371/journal.pone.0362299",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1371/journal.pone.0362299"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Kelembagaan petani & tindakan kolektif"
+  ],
+  "priority_journal": true,
+  "language": "en",
+  "found_at": "2026-11-08",
+  "summary_id": null,
+  "relevance": 41
+ },
+ {
+  "id": "W7225383598",
+  "doi": "10.1016/j.jrurstud.2026.104522",
+  "title": "‘Seeing someone like me’: Digital relatability and women's identity in the rise of digital agricultural entrepreneurship",
+  "date": "2026-11-06",
+  "year": "2026",
+  "journal": "Journal of Rural Studies",
+  "issn": "07430167",
+  "publisher": "Elsevier BV",
+  "authors": [
+   "Farai Alice Gwelo"
+  ],
+  "abstract": "This study examines how digitally-facilitated peer relatability shapes the entrepreneurial identities of young women agrifood entrepeneurs in South Africa. Women's engagement in agrifood entrepreneurship is often constrained by gender norms, stereotypes, and institutional barriers, which can limit their own identification as legitimate entrepreneurs. Digital technologies are increasingly recognised as tools for breaking down some of these barriers, yet little research has explored the mechanism by which digital platforms facilitate identity reconstruction among young women to enable them to see themselves as capable and legitimate agrifood entrepreneurs. Understanding these dynamics is crucial for revealing how women develop the confidence, entrepreneurial capabilities, and drive necessary to pursue entrepreneurial agriculture, and how they can be supported to do so effectively. Drawing on in-depth interviews with 26 young women agrifood entrepreneurs, members of the Redefine Facebook Group, this study demonstrates that encounters with relatable peers and relatable mentorship helps women see themselves as capable and competent actors, strengthening their entrepreneurial identity and ambition. These interactions challenge exclusionary gender norms, affirm women's capabilities, and motivate sustained engagement in agricultural entrepreneurship, even against challenges. The findings suggest that digital platforms designed to support young women should prioritize relatability, peer mentorship, and representation, as these directly facilitate their entrepreneurial identity reconstruction and formation.",
+  "oa_url": "https://doi.org/10.1016/j.jrurstud.2026.104522",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1016/j.jrurstud.2026.104522"
+  ],
+  "oa_status": "hybrid",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": true,
+  "language": "en",
+  "found_at": "2026-11-08",
+  "summary_id": null,
+  "relevance": 39
+ },
+ {
+  "id": "W7225425710",
+  "doi": "10.1080/23311932.2026.2749901",
+  "title": "The effect of agroecological practices on land allocation between crops in Burkina Faso: a conditional mixed process approach",
+  "date": "2026-11-06",
+  "year": "2026",
+  "journal": "Cogent Food & Agriculture",
+  "issn": "23311932",
+  "publisher": "Cogent OA",
+  "authors": [
+   "Winley  Michèle Brigitte GOH",
+   "Pam Zahonogo"
+  ],
+  "abstract": "Food insecurity amid land scarcity challenges many developing countries. Optimal land allocation between crops can improve agricultural productivity and household income. The aim of this article is to analyze the effect of adopting agroecological practices on farm households’ decisions about how to allocate land among different crops in Burkina Faso. Roodman’s recursive Conditional Mixed Process (CMP) method is applied using data collected by LAQAD-S in 2017 as part of the second National Land Management Program, phase 3 (PNGT-II). The results indicate that the adoption of agroecological practices positively affects households’ decisions to allocate their land to sorghum and millet production and negatively affects their decisions to produce cotton, maize. The results also show that access to credit, land area, and agroclimatic zone determine agricultural land allocation decisions. To boost the production of traditional cereals, particularly sorghum, public authorities must encourage the adoption of agroecological practices, including Soil and Water Conservation techniques (SWC), by promoting these techniques and providing financial support to producers through better structuring of farmers’ organizations.",
+  "oa_url": "https://doi.org/10.1080/23311932.2026.2749901",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1080/23311932.2026.2749901"
+  ],
+  "oa_status": "diamond",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Kelembagaan petani & tindakan kolektif",
+   "Ketahanan pangan rumah tangga"
+  ],
+  "priority_journal": true,
+  "language": "en",
+  "found_at": "2026-11-08",
+  "summary_id": null,
+  "relevance": 38
+ },
+ {
+  "id": "W7225407573",
+  "doi": "10.1111/ruso.70077",
+  "title": "Breaking Barriers or Filling Low‐Paid Positions? Gendered Narratives of Women Village Cadres in Rural China",
+  "date": "2026-11-06",
+  "year": "2026",
+  "journal": "Rural Sociology",
+  "issn": "00360112",
+  "publisher": "Wiley",
+  "authors": [
+   "Chengxi Liu",
+   "Billie de Haas",
+   "Bettina Barbara Bock",
+   "Tialda Haartsen"
+  ],
+  "abstract": "ABSTRACT Although rural women have long played essential roles in sustaining village communities in China, these contributions have rarely translated into greater formal participation in local governance. Existing knowledge has covered the barriers that limit women's access to leadership positions in rural communities. Far less is known about those women who, despite these barriers, managed to become village leaders. Understanding the opportunities, enablers, and pathways that allow women to become village leaders is important for advancing women's representation in local governance. This paper studies how rural women became village cadres in rural China. It employs a qualitative approach, utilizing semi‐structured interviews with ten women cadres in three villages in Sichuan, Jiangxi, and Yunnan provinces. Using Bronfenbrenner's Bioecological Model, which emphasizes interactions across multiple contextual levels over time as an analytical framework, this study reveals that the increasing administrative and service‐oriented focus of China's rural governance has opened opportunities for women's participation while reinforcing traditional gender roles by assigning women only certain positions. Women village cadres' success is shaped by their constant interactions with multiple system contexts over time, including support from family members, clan ties, township officials, and men's withdrawal from village cadre positions. The findings suggest that increasing rural women's formal participation requires a fair, women‐inclusive governmental structure.",
+  "oa_url": "https://doi.org/10.1111/ruso.70077",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1111/ruso.70077"
+  ],
+  "oa_status": "hybrid",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": true,
+  "language": "en",
+  "found_at": "2026-11-08",
+  "summary_id": null,
+  "relevance": 38
+ },
+ {
+  "id": "W7225420261",
+  "doi": "10.1371/journal.pone.0362368",
+  "title": "Harrowing experiences of vagina fistula victims in the Kpandai District of Ghana: A qualitative study",
+  "date": "2026-11-06",
+  "year": "2026",
+  "journal": "PLoS ONE",
+  "issn": "19326203",
+  "publisher": "Public Library of Science",
+  "authors": [
+   "Eric Elorm Ahorsu",
+   "Joshua Adeti",
+   "Ernest Kemevor Selasie",
+   "Mohammed Ibn Shamsudeen",
+   "Cynthia Akos Okumasi",
+   "Benjamin Amedume",
+   "Justice Wiston Amstrong Jonathan"
+  ],
+  "abstract": "Background Vaginal fistula (VF), particularly vesicovaginal fistula (VVF), remains a significant reproductive health challenge in many low-resource settings, including the Kpandai District of Ghana. Despite its profound physical and psychosocial impact, the lived experiences of affected women in rural districts remain under-documented. Aim This study explored the lived experiences of women diagnosed with vesicovaginal fistula in the Kpandai District of Ghana, focusing on their physical, emotional, and social challenges, as well as coping strategies. Methods A qualitative descriptive study was conducted using in-depth interviews with ten women with clinically confirmed VVF. Participants were initially identified through a district health facility and subsequently recruited using a combination of purposive and snowball sampling techniques. Interviews were audio-recorded, transcribed verbatim, and analysed thematically. Results Prolonged and obstructed labour—often occurring at home—emerged as the primary reported cause of VVF. Cultural beliefs, gender-based decision-making dynamics, limited access to healthcare, and financial constraints were key barriers to timely medical intervention. Consequences included persistent urinary incontinence, social stigma, emotional trauma, marital dissolution (reported by eight participants), loss of livelihood, and social isolation. Coping strategies included frequent washing, use of absorbent materials, and reliance on perfumes or herbal remedies. Conclusions Vesicovaginal fistula remains a devastating yet largely preventable condition in rural Ghana. The findings highlight the need to strengthen maternal health services, improve timely referral systems, and integrate psychosocial support within community-based care frameworks.",
+  "oa_url": "https://doi.org/10.1371/journal.pone.0362368",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1371/journal.pone.0362368"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": true,
+  "language": "en",
+  "found_at": "2026-11-08",
+  "summary_id": null,
+  "relevance": 38
+ },
+ {
+  "id": "W7225391161",
+  "doi": "10.9734/jsrr/2026/v32i114705",
+  "title": "From Farm-level Tools to State-level Assessment: A Scoping Review of Dairy Sustainability Indicators",
+  "date": "2026-11-06",
+  "year": "2026",
+  "journal": "Journal of Scientific Research and Reports",
+  "issn": "23200227",
+  "publisher": "Sciencedomain International",
+  "authors": [
+   "Swati Singh",
+   "Subhasis Mandal",
+   "Ajmer Singh",
+   "Gunjan Bhandari",
+   "Kaushik Khamrui",
+   "Sanchita Garai",
+   "Vikas Vohra"
+  ],
+  "abstract": "Dairy production is expected to deliver nutritious food, rural livelihoods and export earnings while reducing greenhouse gas emissions, nutrient losses and pressures on land, water, biodiversity and animal welfare. Indicators are the principal means by which these expectations are translated into measurable performance, yet they are developed for different purposes and at different scales, from on-farm diagnostic tools to sector inventories and jurisdiction-wide composite indices. This critical narrative review, conducted with a scoping purpose, maps how dairy sustainability indicators are constructed, applied and aggregated across the farm, supply-chain, regional and state or national levels, and evaluates whether information generated at one level can legitimately inform decisions at another. Peer-reviewed studies, methodological reviews and authoritative institutional sources were identified through multidisciplinary, agricultural, economic and regional scholarly indexes, supplemented by citation tracking, and were appraised qualitatively for relevance, transparency, representativeness and robustness. The synthesis shows that farm-level tools differ widely in normative framing, indicator logic, scoring and aggregation, so that tools applied to the same farms can produce divergent judgements. Environmental indicators are the most mature, but carbon footprints remain sensitive to allocation rules, emission-factor tiers and functional units, and intensity metrics often move in the opposite direction to absolute emissions that matter for state targets. Economic indicators are comparatively well supported by accountancy data, whereas social and animal-welfare indicators remain under-specified and are frequently lost or distorted during aggregation. State-level assessments follow four broad routes: weighting representative farm samples, top-down inventories, modelled regional typologies and composite indices built from administrative statistics. Each route carries characteristic risks, including unrepresentative sampling, spatial misallocation, leakage through imported feed and weighting choices that can reorder jurisdictions. Smallholder and mixed crop–livestock systems, which dominate milk supply in several countries, are poorly served by tools designed for specialised temperate farms. A nested indicator architecture, built on a verifiable core of farm data, explicit scaling rules and paired intensity and absolute metrics, is proposed as a defensible direction. Its validity remains to be demonstrated through longitudinal and cross-jurisdictional testing.",
+  "oa_url": "https://doi.org/10.9734/jsrr/2026/v32i114705",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.9734/jsrr/2026/v32i114705"
+  ],
+  "oa_status": "diamond",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemasaran, rantai pasok & rantai nilai",
+   "Pembangunan pedesaan & kebijakan pertanian"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-08",
+  "summary_id": null,
+  "relevance": 34
+ },
+ {
+  "id": "W7225408042",
+  "doi": "10.3390/agriculture16212432",
+  "title": "Cooperative Biodegradation of Procymidone and Its Toxic Metabolite 3,5-Dichloroaniline by a Microbial Consortium",
+  "date": "2026-11-06",
+  "year": "2026",
+  "journal": "Agriculture",
+  "issn": "20770472",
+  "publisher": "Multidisciplinary Digital Publishing Institute",
+  "authors": [
+   "Jehyeong Yeon",
+   "Jae-Hyung Ahn",
+   "Joon-hui Chung",
+   "Dayeon Kim",
+   "Young-Joon Ko",
+   "Sihyun An",
+   "Hang‐Yeon Weon"
+  ],
+  "abstract": "Procymidone is a dicarboximide fungicide; its persistence and the formation of the toxic metabolite 3,5-dichloroaniline (3,5-DCA) pose environmental risks. A microbial strategy was developed to enhance the degradation of procymidone and its intermediates via complementary bacterial metabolism. A procymidone-degrading bacterium, Prescottella equi strain YW-05, was previously isolated from agricultural soil with long-term procymidone application. Strain YW-05 degraded 86% of procymidone (10 mg L−1) within 7 days in mineral medium, exhibiting a half-life of 2.6 days. However, the strain showed a limited ability to degrade the intermediate metabolite 3,5-DCA. Pseudomonas putida strains were screened to degrade dichloroaniline isomers, and Pseudomonas putida KACC 10270T exhibited the highest degradation activity toward 3,5-DCA. Co-inoculation with strain YW-05 and P. putida KACC 10270T enhanced 3,5-DCA degradation, reaching 90.5% removal within 14 days and 92.8% within 28 days. In soil microcosms, co-inoculation accelerated the early removal of 3,5-DCA, with 80.3% removed within 3 days compared with 52.3% in the uninoculated control, and reduced the half-life to 1.4 days. Metabolite analysis using LC-MS/MS revealed 4-chlorocatechol and cis,cis-muconic acid and suggested procymidone degradation proceeded through hydrolytic cleavage, followed by dechlorination and aromatic ring cleavage. These findings highlight the use of complementary microbial consortia as an effective strategy for detoxifying pesticide residues and their toxic intermediates in agricultural soils.",
+  "oa_url": "https://doi.org/10.3390/agriculture16212432",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.3390/agriculture16212432"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Kelembagaan petani & tindakan kolektif"
+  ],
+  "priority_journal": true,
+  "language": "en",
+  "found_at": "2026-11-08",
+  "summary_id": null,
+  "relevance": 32
+ },
+ {
+  "id": "W7225421754",
+  "doi": "10.3390/agriculture16212434",
+  "title": "Adaptive Profiling Control for Tea-Plucking Machines via Spatiotemporal Perception Reconstruction and Feedforward–Feedback Anti-Windup Control",
+  "date": "2026-11-06",
+  "year": "2026",
+  "journal": "Agriculture",
+  "issn": "20770472",
+  "publisher": "Multidisciplinary Digital Publishing Institute",
+  "authors": [
+   "Luofa Wu",
+   "Helai Liu",
+   "Chunwang Dong",
+   "Yanqi Wu",
+   "Shifu Shu",
+   "Chun Ye"
+  ],
+  "abstract": "Mechanized harvesting of bulk tea in unstructured hilly tea gardens requires accurate dynamic profiling of irregular canopies at a constant cutting depth to avoid harvesting coarse and old leaves, missing tender shoots, and reducing yield and quality. This task is complicated by high-frequency vibrations from crawler travel; perception disturbances caused by impacts with hard, thick branches; and actuator saturation and control chattering when abrupt chassis-posture changes occur under motor torque constraints. To address these challenges, this study proposes a cooperative control architecture that integrates spatiotemporal perception reconstruction with adaptive anti-windup control. First, a global inverse-kinematics mapping model that fuses an inertial measurement unit (IMU) with an absolute encoder is developed. The model decouples chassis motion from local terrain measurements and establishes a unified spatial reference for constant-depth actuator profiling. Second, a spatiotemporal perception reconstruction mechanism is designed for composite multifrequency noise. In the amplitude domain, a robust outlier-rejection kernel adaptively suppresses non-Gaussian transient pulses; in the temporal domain, environmental background-noise estimation and abrupt-change activation dynamically adjust the filtering bandwidth and reduce phase lag in absolute elevation reconstruction during terrain steps. Finally, a nonsingular fast terminal sliding-mode control (NFTSMC) law incorporating active feedforward and anti-windup compensation is developed to address the servo motor torque limit. The law uses chassis pitch angular velocity for feedforward compensation and combines a continuous boundary layer with an auxiliary dynamic system to correct the error manifold, thereby reducing integral windup and high-frequency servo chattering caused by torque saturation. Comparative simulations show that, under extreme multifrequency composite conditions, the global root-mean-square (RMS) tracking error is 41.1% and 35.8% lower than those of Kalman filter-proportional-integral-derivative control (KF-PID) and standard moving-horizon-estimation sliding-mode control (SMHE-SMC), respectively. Field evaluations across 30 measurement areas showed that under the Challenging Scenario (combined slope, speed, and density variations), the proposed architecture maintained mean missed-plucking and loss rates of 0.46% and 0.43%, respectively. ANOVA confirmed a significant main effect of the control strategy on the missed-plucking rate (p < 0.001, ηp2>0.9). Additionally, a structured component-wise ablation study was conducted to evaluate the specific contributions of the core modules. The results indicated that the omission of mechanisms such as inverse-kinematics mapping or anti-windup dynamics notably degraded the overall tracking accuracy by inducing uncompensated spatial drift and saturation-induced errors. These results indicate the potential of the proposed architecture for closed-loop profiling control in intelligent agricultural machinery.",
+  "oa_url": "https://doi.org/10.3390/agriculture16212434",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.3390/agriculture16212434"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Kelembagaan petani & tindakan kolektif"
+  ],
+  "priority_journal": true,
+  "language": "en",
+  "found_at": "2026-11-08",
+  "summary_id": null,
+  "relevance": 32
+ },
+ {
+  "id": "W7225381035",
+  "doi": "10.1002/pan3.70477",
+  "title": "Forest governance and the politics of care: Practices, subjectivities and more‐than‐human‐relations in contemporary conservation regimes in Guaviare, Colombia",
+  "date": "2026-11-06",
+  "year": "2026",
+  "journal": "People and Nature",
+  "issn": "25758314",
+  "publisher": "Wiley",
+  "authors": [
+   "Sandra Ángel Moreno",
+   "Cristina Espinosa",
+   "Zabrina Welter"
+  ],
+  "abstract": "Abstract Market‐based conservation instruments such as REDD+ and Payments for Ecosystem Services (PES) have been promoted to curb deforestation in the Colombian Amazon. Yet these schemes remain contested, as they advance neoliberal conservation and reproduce gender inequalities. Although feminist scholarship has documented these problems, less attention has been paid to how market‐based conservation shapes the politics of care. We examine how, within Colombia's REDD+ strategy REM Visión Amazonía (VA), the PES Amazon Forestry Incentive enacts, organizes and recognizes forest care, and how this intersects with campesina (smallholder farmers) women's forest care practices in Guaviare. Drawing on feminist political ecology and care scholarship, we analyse the forest ontologies, care practices, environmental subjectivities and political projects sustained and obscured by VA. We rely on fieldwork combining semi‐structured interviews, document analysis and focus groups with programme staff and campesina women. Our findings show that VA enacts forests as discrete land units, made legible through carbon accounting and satellite monitoring and valued for their economic contributions. Care, in turn, becomes a contractual responsibility enacted through conservation agreements, financial incentives and monitoring systems, cultivating subjectivities aligned with economic rationalities and contract compliance. These framings reproduce structural gendered inequalities that value ‘productive’ work while rendering invisible the reproductive labour sustaining life and forested landscapes. In contrast, campesina women enact forests as a mosaic of life‐sustaining relations embedded in the finca (small farm). Through embodied, affective labour and sustained attentiveness to local ecologies, they practise forest care to secure campesino life across generations. These practices inform collective political projects such as La Guardiana del Chiribiquete , a grassroots initiative through which campesino communities contest institutional definitions of forest conservation and assert alternative caring subjectivities grounded in territorial permanence, self‐determination and intergenerational responsibility. An analytics of care highlights the multiplicity of relations that sustain forests and the exclusions through which some forms of care are recognized while others are not. Thereby, we contribute to debates on market‐based conservation by raising questions, beyond its economic logics, about the worlds and socio‐ecological relations nourished through forest governance arrangements. Read the free Plain Language Summary for this article on the Journal blog.",
+  "oa_url": "https://doi.org/10.1002/pan3.70477",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1002/pan3.70477"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-08",
+  "summary_id": null,
+  "relevance": 32
+ },
+ {
+  "id": "W7225408078",
+  "doi": "10.3389/fsufs.2026.1984635",
+  "title": "Women’s roles in rural livelihoods and agricultural practices across an altitudinal gradient in Loja, Ecuador",
+  "date": "2026-11-06",
+  "year": "2026",
+  "journal": "Frontiers in Sustainable Food Systems",
+  "issn": "2571581X",
+  "publisher": "Frontiers Media",
+  "authors": [
+   "Leticia Jiménez",
+   "Daniel Capa-Mora",
+   "Julissa Gaona",
+   "Natacha Fierro",
+   "Rubén Carrera"
+  ],
+  "abstract": "Women play a fundamental role in agricultural and livestock production in rural areas of Loja; however, the extent of their participation varies according to the tasks they perform, their access to technology, and prevailing social norms. This study examined rural livelihoods, agricultural practices, and community dynamics across an altitudinal gradient in Loja Province, southern Ecuador, encompassing low (<1,000 m a.s.l.), lower-intermediate (1,000–1,500 m a.s.l.), upper-intermediate (1,500–2,000 m a.s.l.), and high-elevation zones (>2,000 m a.s.l.). Data from 338 semi-structured surveys were analyzed using descriptive statistics and chi-square ( χ 2 ) tests to identify associations between altitudinal zones and socioeconomic, household, agricultural, and community-related variables. The findings reveal that the study area encompasses diverse production systems and livelihood strategies shaped by contrasting environmental and socioeconomic conditions. Agricultural activities included crop cultivation, harvesting, fertilization, and livestock care, while household responsibilities and family participation in decision-making were important across the study zones. Perceptions of organizational support varied along the gradient and were generally limited, particularly at elevations above 2,000 m a.s.l. Although most respondents perceived agricultural decisions as involving the family, significant differences among altitudinal zones were identified in perceptions of decision-making over agricultural and livestock production. These findings highlight the importance of considering territorial variation when designing rural development initiatives. Policies and programs should be adapted to local production systems and socioeconomic conditions to strengthen institutional support, access to productive resources, market opportunities, and livelihood diversification across the altitudinal gradient.",
+  "oa_url": "https://doi.org/10.3389/fsufs.2026.1984635",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.3389/fsufs.2026.1984635"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": true,
+  "language": "en",
+  "found_at": "2026-11-08",
+  "summary_id": null,
+  "relevance": 32
+ },
+ {
+  "id": "W7225392754",
+  "doi": "10.9734/jsrr/2026/v32i114709",
+  "title": "Digital Finance for Agriculture: Mobile Money, FinTech, Credit Access and Smallholder Investment",
+  "date": "2026-11-06",
+  "year": "2026",
+  "journal": "Journal of Scientific Research and Reports",
+  "issn": "23200227",
+  "publisher": "Sciencedomain International",
+  "authors": [
+   "Harkesh Kumar Balai",
+   "Sanjiv Kumar",
+   "Sarita Meena"
+  ],
+  "abstract": "Digital finance promises to lower the costs of financial transactions, expand rural savings and credit, and improve the timing of agricultural investment. Yet access to an account is not equivalent to access to suitable finance, and the movement from digital transactions to farm productivity is neither automatic nor uniform. This critical narrative review examines peer-reviewed evidence on mobile money, digital savings, algorithmic credit, payment digitisation, and their relationships with smallholder investment, risk management and livelihoods. Evidence from randomised trials, panel studies, observational farm surveys, qualitative research and recent reviews is compared with attention to causal identification, agricultural seasonality, inclusion and consumer protection. The strongest findings concern reduced transfer frictions and improved opportunities for remittance-based consumption smoothing. More conditional evidence links mobile payments and savings to specific productive inputs; incentives and the timing of liquidity often determine whether financial access changes investment. Recent experimental work on agricultural digital credit shows greater input spending without reliably demonstrated improvements in harvest output or profits. Consumer risks, including data misuse, opaque pricing and adverse credit reporting, complicate welfare assessments. The review argues that agricultural digital finance should be appraised as an interconnected system of payments, liquidity, insurance, market relationships and safeguards rather than as an isolated application or financial inclusion metric. Research priorities include seasonally timed randomised evaluations, long-term farm profitability, distributional effects, interoperable value-chain payments and transparent risk-adjusted consumer outcomes. Digital finance may relax consequential frictions, but durable agricultural benefits depend on product design, institutions and the broader production environment.",
+  "oa_url": "https://doi.org/10.9734/jsrr/2026/v32i114709",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.9734/jsrr/2026/v32i114709"
+  ],
+  "oa_status": "diamond",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemasaran, rantai pasok & rantai nilai"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-08",
+  "summary_id": null,
+  "relevance": 31
+ },
+ {
+  "id": "W7225327808",
+  "doi": "10.1186/s40066-026-00652-6",
+  "title": "Toward climate-resilient date palm agriculture in the United Arab Emirates: a strategic triangulated knowledge mapping",
+  "date": "2026-11-06",
+  "year": "2026",
+  "journal": "Agriculture & Food Security",
+  "issn": "20487010",
+  "publisher": "BioMed Central",
+  "authors": [
+   "Sajid Safeer",
+   "Giuseppe Natale Basile",
+   "Sajid Maqsood",
+   "Cataldo Pulvento"
+  ],
+  "abstract": "The date palm (Phoenix dactylifera L.) plays a vital role in food security, rural livelihoods, and cultural heritage in the hyper-arid United Arab Emirates (UAE). However, increasing climate stress, water scarcity, and persistent production constraints threaten the sector’s long-term resilience. Addressing these challenges requires a comprehensive understanding of existing research and its limitations. This study systematically maps the thematic structure of UAE date-palm research, identifies dominant knowledge domains, and highlights critical gaps hindering the transition toward climate-resilient and integrated agricultural systems. A mixed-methods approach was adopted, combining bibliometric analysis of 124 peer-reviewed articles (2005–2026) with Latent Dirichlet Allocation (LDA) topic modelling to identify major thematic clusters. A complementary systematic literature review (SLR) was conducted to validate findings and synthesize emerging research trajectories. The results reveal a mature, internationally collaborative research landscape structured around ten thematic clusters, with Date Palm Diseases and Control and Phytochemical and Nutritional Analysis emerging as dominant motor themes. Despite advances in water management, biomass valorization, and genomics, the field remains fragmented, with limited integration across technological, environmental, and socio-economic dimensions. Significant gaps persist, particularly in IoT and blockchain-enabled agricultural systems and in socio-technical studies of innovation adoption. This study provides an evidence-based roadmap, emphasizing unified socio-technical frameworks to support a sustainable and climate-resilient UAE date-palm sector. Graphical abstract",
+  "oa_url": "https://link.springer.com/content/pdf/10.1186/s40066-026-00652-6.pdf",
+  "pdf_url": "https://link.springer.com/content/pdf/10.1186/s40066-026-00652-6.pdf",
+  "pdf_urls": [
+   "https://link.springer.com/content/pdf/10.1186/s40066-026-00652-6.pdf",
+   "https://doi.org/10.1186/s40066-026-00652-6"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [
+   "climate resilience",
+   "knowledge mapping",
+   "United Arab Emirates",
+   "agricultural adaptation",
+   "knowledge co-production"
+  ],
+  "topics": [
+   "Ketahanan pangan rumah tangga"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-08",
+  "summary_id": null,
+  "relevance": 30
+ },
+ {
+  "id": "W7225432779",
+  "doi": "10.1186/s12889-026-30284-1",
+  "title": "Consumers’ knowledge, attitude, and risk perception of pesticide residues and factors associated with health risk perception of consumers in selected districts of Jimma Zone, Southwest Ethiopia",
+  "date": "2026-11-06",
+  "year": "2026",
+  "journal": "BMC Public Health",
+  "issn": "14712458",
+  "publisher": "BioMed Central",
+  "authors": [
+   "Hawi Hussen Ahmed",
+   "Higemengist Astatike",
+   "Seblework Mekonen",
+   "Samuel Fekadu"
+  ],
+  "abstract": "Pesticide residues (PR) in vegetables pose potential health risks. In Ethiopia, smallholder farmers depend on vegetable production for income and food security, yet consumer awareness and safety practices regarding PR are poorly understood. This study, therefore, aimed to assess knowledge, attitudes, risk perception, and consumer safety practices related to PR in vegetables and to identify factors associated with risk perception among households in the Jimma Zone. A cross-sectional study was conducted from October to December 2024 among 468 households in three Jimma Zone districts (Gomma, Dedo, and Seka Chokorsa). Participants were randomly and proportionally selected from each kebele. Data were collected using a structured questionnaire and analyzed with descriptive statistics to summarize socio-demographic characteristics, knowledge, attitudes, and practices. The outcome variable, risk perception of vegetable pesticide residues, was measured with Likert-scale items and categorized as low or high. The associations between independent variables and risk perception were examined with bivariate analysis. Variables with p < 0.25 were entered into a multivariable binary logistic regression to identify independent predictors of high-risk perception. Statistical significance was set at p < 0.05. Model fit was assessed with the Hosmer-Lemeshow test. The study found that 76.3% of participants had good knowledge about pesticide residues, while 52.8% had high-risk perceptions, 59.2% showed positive attitudes, and 50.9% practiced safe preventive behaviors. Multivariable analysis showed that respondents earning ≤ 5,000 ETB per month were 1.53 times more likely to perceive low risk [AOR = 1.53, 95% CI: 1.04–2.25], and those with negative attitudes toward PR were 3.58 times more likely to perceive low risk [AOR = 3.58, 95% CI: 2.41–5.30]; socio-demographics, knowledge, and consumer practices were not significant predictors. Strengthening positive attitudes and supporting vulnerable groups through targeted programs could improve safe practices, protect public health, and enhance food safety.",
+  "oa_url": "https://doi.org/10.1186/s12889-026-30284-1",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1186/s12889-026-30284-1"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Ketahanan pangan rumah tangga"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-08",
+  "summary_id": null,
+  "relevance": 29
+ },
+ {
+  "id": "W7225380791",
+  "doi": "10.3389/fsufs.2026.2007378",
+  "title": "The relationship between food insecurity, diet quality, and behavioural cardiovascular health among adults",
+  "date": "2026-11-06",
+  "year": "2026",
+  "journal": "Frontiers in Sustainable Food Systems",
+  "issn": "2571581X",
+  "publisher": "Frontiers Media",
+  "authors": [
+   "Tuba Tekin",
+   "Nurcan Bağlam"
+  ],
+  "abstract": "Objective This study examined the association between food insecurity, diet quality, and behavioural cardiovascular health (CVH) risk among adults in Türkiye. Methods Data were collected from 808 adults aged 18 years and older, using an online survey. Diet quality was assessed with the 14-item Mediterranean Diet Adherence Screener (MEDAS), food insecurity with the Household Food Insecurity Access Scale (HFIAS), and behavioural CVH with a composite score (0–100) adapted from the American Heart Association’s Life’s Essential 8 framework. Associations were examined using Spearman correlation, Mann–Whitney U /Kruskal-Wallis H tests with Benjamini-Hochberg correction, hierarchical multiple regression, bootstrapped mediation analysis, and logistic regression. Results Food insecurity was reported by 27.5% ( n = 222) of participants. Mediterranean diet adherence was low in 29.3%, moderate in 67.1%, and high in 3.6% of participants, while cardiovascular health was low in 47.5%, moderate in 49.9%, and high in 2.6%. After adjustment for age, BMI, sex, income, and education, food insecurity was not significantly associated with Mediterranean diet adherence or cardiovascular health in correlation, regression, mediation, or logistic regression analyses. In contrast, Mediterranean diet adherence was strongly and positively associated with cardiovascular health ( β = 0.309, p < 0.001). Male sex was the most consistent predictor of both lower diet quality ( β = −0.229, p < 0.001) and lower cardiovascular health ( β = −0.140, p < 0.001). These findings were unchanged after accounting for age bracket and sex. Discussion In this population, no direct or indirect association was found between food insecurity and either diet quality or cardiovascular health, although diet quality remained a robust, independent predictor of cardiovascular health. Longitudinal research is warranted, as food insecurity may affect cardiovascular health through mechanisms other than nutrition.",
+  "oa_url": "https://www.frontiersin.org/journals/sustainable-food-systems/articles/10.3389/fsufs.2026.2007378/pdf",
+  "pdf_url": "https://www.frontiersin.org/journals/sustainable-food-systems/articles/10.3389/fsufs.2026.2007378/pdf",
+  "pdf_urls": [
+   "https://www.frontiersin.org/journals/sustainable-food-systems/articles/10.3389/fsufs.2026.2007378/pdf",
+   "https://doi.org/10.3389/fsufs.2026.2007378"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Ketahanan pangan rumah tangga"
+  ],
+  "priority_journal": true,
+  "language": "en",
+  "found_at": "2026-11-08",
+  "summary_id": null,
+  "relevance": 26
+ },
+ {
+  "id": "W7225386563",
+  "doi": "10.3390/resources15110146",
+  "title": "Artificial Intelligence for the POME-Centred Water–Energy–Waste Nexus in Palm Oil Production: Towards a Resource-Nexus Digital Twin",
+  "date": "2026-11-06",
+  "year": "2026",
+  "journal": "Resources",
+  "issn": "20799276",
+  "publisher": "Multidisciplinary Digital Publishing Institute",
+  "authors": [
+   "Kian Lun Soon",
+   "Lam Tatt Soon",
+   "Hong Zhe Lee",
+   "Hui Hwang Goh",
+   "Wai Leong Pang",
+   "Wei Hown Tee",
+   "Ming‐Hui Tan",
+   "Dongdong Zhang",
+   "Wai Ching Poon"
+  ],
+  "abstract": "This review addresses a key research gap: palm oil milling’s water, energy, Palm Oil Mill Effluent (POME), and solid-residue flows are typically managed independently, while AI applications remain fragmented and rarely support integrated resource-allocation decisions. To address this gap, the review synthesises 109 sources retrieved under a PRISMA-reported protocol and classifies every reported capability as demonstrated in palm oil (A), demonstrated in analogous systems only (B), or proposed as an integration by this review (C), each class being given an operational definition and a validation scale. The term artificial intelligence is used here in the restricted sense of data-driven predictive modelling, model-based optimisation and closed-loop control, and these three functions are kept distinct throughout. The review states the nexus as a formal coupled decision problem with declared variables, objectives, constraints and time scales; specifies the dynamic material flow analysis and in-loop life cycle assessment that existing reviews identify as missing, including reconciliation, functional unit and allocation rules; and specifies how calibrated predictive uncertainty enters resource allocation. These are assembled into an AI-enabled resource-nexus digital twin operated under human oversight. The review finds that current palm-oil AI applications are concentrated in plantation sensing, single-unit treatment modelling, and response-surface optimisation, with validated industrial applications mainly involving anaerobic digestion, membrane separation, and selected biomass-conversion processes. It further identifies limited integration of Material Flow Analysis (MFA) and Life Cycle Assessment (LCA) into real-time operational decisions and inadequate propagation of feedstock and POME variability into resource allocation. Practically, the proposed framework provides a pathway for mills to coordinate water, energy, wastewater and residue management. The framework is a conceptual architecture accompanied by a stated evaluation protocol covering mass-balance closure, predictive accuracy and interval coverage, allocation performance against an incumbent policy, life-cycle consistency, robustness to effluent variability and computational feasibility.",
+  "oa_url": "https://doi.org/10.3390/resources15110146",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.3390/resources15110146"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Kelapa sawit"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-08",
+  "summary_id": null,
+  "relevance": 24
+ },
+ {
+  "id": "W4413431634",
+  "doi": "10.1080/00036846.2026.2756536",
+  "title": "Shifting hours: time allocation and gender inequality in India 1999–2019",
+  "date": "2026-11-06",
+  "year": "2026",
+  "journal": "Applied Economics",
+  "issn": "00036846",
+  "publisher": "Taylor & Francis",
+  "authors": [
+   "Mehtabul Azam",
+   "Qinghe Su"
+  ],
+  "abstract": "Using two waves of Time Use Survey (1998-99 and 2019) from six states of India, we examine shifts in time allocation across leisure, employment, childcare, and domestic work. A Blinder-Oaxaca decomposition shows that the increase in leisure time and the decrease in employment time is driven more by changes in behavior within demographic groups than by changes in population composition. Women have also reduced time spent in domestic work, reallocating some of it to leisure. Applying the Juhn-Murphy-Pierce framework, we uncover contrasting distributional patterns: the inequality of leisure time, captured by the 90-10 percentile gap, has widened sharply, driven almost entirely by unobservable factors. Employment time inequality has increased among men but declined among women; inequality in domestic work has also narrowed for women. However, domestic work remains overwhelmingly the domain of women in both urban and rural areas, underscoring the persistence of gendered constraints in time allocation.",
+  "oa_url": "https://doi.org/10.2139/ssrn.5392174",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.2139/ssrn.5392174"
+  ],
+  "oa_status": "green",
+  "cited_by": 0,
+  "keywords": [
+   "time allocation",
+   "gender inequality",
+   "leisure",
+   "domestic work",
+   "child care",
+   "women's unpaid work",
+   "time use",
+   "India"
+  ],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-08",
+  "summary_id": null,
+  "relevance": 23
+ },
+ {
+  "id": "W7225388639",
+  "doi": "10.2166/washdev.2026.290",
+  "title": "Women in leadership positions in rural water, sanitation, and hygiene committees: enhancing water system performance and sustainability in Ethiopia",
+  "date": "2026-11-06",
+  "year": "2026",
+  "journal": "Journal of Water Sanitation and Hygiene for Development",
+  "issn": "20439083",
+  "publisher": "IWA Publishing",
+  "authors": [
+   "Adugnaw T. Akale",
+   "Emmanuel Kyereh",
+   "Kelly Alexander"
+  ],
+  "abstract": "ABSTRACT In Ethiopia, as in many other countries, women are often responsible for fetching water for domestic use. Despite government and NGO encouragement, women's participation in community Water, Sanitation and Hygiene Committees (WASHCOs) remains limited. The objective of this study was to assess the association between women's participation in WASHCO leadership positions and water scheme management and functionality. A total of 1,175 water schemes with WASHCOs were surveyed using the mWater application in East and West Belesa of the Central Gondar zone of Amhara regional state, Ethiopia. Data were collected from January to February 2024. Of the surveyed WASHCOs, 49% (n = 573) had women in leadership positions, while 602 WASHCOs had no women (all men) in leadership. Among the water schemes managed by WASHCOs with women in leadership positions, 73% were functional, compared with 67% of schemes managed by men WASHCOs. This difference was statistically significant (p ≤ 0.05; two-tailed chi-square test). For other indicators associated with water scheme functionality: good committee governance, availability of an operation and maintenance budget, preventive maintenance and regular frequency of committee meetings were significantly more likely to be observed among WASHCOs with women in leadership positions than among WASHCOs all men in the leadership position. These findings highlight the association between women's participation in community leadership and improved water scheme management and functionality. Advocacy efforts are needed to not only improve the gender balance in WASHCOs but also the openness and acceptance of women's essential contributions in these spaces.",
+  "oa_url": "https://doi.org/10.2166/washdev.2026.290",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.2166/washdev.2026.290"
+  ],
+  "oa_status": "diamond",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-08",
+  "summary_id": null,
+  "relevance": 23
+ },
+ {
+  "id": "W7225402829",
+  "doi": "10.3389/fcvm.2026.1945915",
+  "title": "Epidemiological characteristics, risk factors, and prevention and control progress of ischemic heart disease in elderly people in China",
+  "date": "2026-11-06",
+  "year": "2026",
+  "journal": "Frontiers in Cardiovascular Medicine",
+  "issn": "2297055X",
+  "publisher": "Frontiers Media",
+  "authors": [
+   "Feifan Wang",
+   "Lixin Zeng",
+   "Yanchao Ma",
+   "Jiexiu Wang",
+   "Yang Mooi Lim",
+   "Jia Mi",
+   "Chai Nien Foo"
+  ],
+  "abstract": "The aging population in China continues to intensify, and ischemic heart disease (IHD) has become the leading cause of death and disability among the elderly population (> 60 years), with a substantial disease burden. This review is based on multiple databases and summarizes the epidemiological characteristics, multidimensional risk factors, pathogenesis, diagnosis and treatment techniques, as well as prevention and control progress of elderly IHD in China. Although the standardized incidence and mortality indicators of IHD among the elderly in China have slightly declined, driven by population aging, the absolute total number of cases, deaths, and Disability-Adjusted Life-Years (DALYs) continues to rise. The disease burden shows a distribution pattern of high in the north and low in the south, higher in rural areas than in cities, concentrated in the population over 70 years old, and accelerated risk growth among elderly women; Non-modifiable factors (age, gender, heredity), unhealthy lifestyle, hypertension/diabetes and other comorbidity, psychosocial factors, and environmental pollution constitute a superposition risk. Aging related coronary microvascular disease, mitochondrial dysfunction, chronic low-grade inflammation, and imbalance of multiple signaling pathways are the core pathological mechanisms of elderly ischemic myocardial injury. Non invasive cardiac imaging, high-sensitivity troponin, and multiple-omics biomarkers may be can improve diagnostic accuracy in elderly patients with atypical symptoms. A hierarchical chronic disease prevention and control system has been established in China, but weak community-level monitoring, insufficient disease awareness among the population, and the slow translation of research findings into clinical practice remain weaknesses. In the future, it is necessary to rely on local cohorts to deepen research on the etiology and mechanism of aging, promote comprehensive multidimensional risk-factor intervention, and provide scientific basis for reducing the burden of cardiovascular disease in the elderly and achieving healthy aging.",
+  "oa_url": "https://doi.org/10.3389/fcvm.2026.1945915",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.3389/fcvm.2026.1945915"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-08",
+  "summary_id": null,
+  "relevance": 23
+ },
+ {
+  "id": "W7225431346",
+  "doi": "10.1186/s12884-026-10202-4",
+  "title": "Keeping teens in school after marriage can delay their pregnancy: a time-to-event analysis from National Family Health Survey 5, India",
+  "date": "2026-11-06",
+  "year": "2026",
+  "journal": "BMC Pregnancy and Childbirth",
+  "issn": "14712393",
+  "publisher": "BioMed Central",
+  "authors": [
+   "Jagyenswar Rath",
+   "Manisha Padhy",
+   "Deepika Bahl",
+   "Devika Mehra",
+   "Suba Sankar Das",
+   "Mehra Sunil",
+   "Rashmi Das",
+   "Jyoti Ghosal",
+   "Ambarish Dutta"
+  ],
+  "abstract": "Teenage marriage and subsequent early pregnancies remain critical issues in many developing regions, particularly India, where socio-cultural norms and economic disadvantages perpetuate these practices. Early pregnancies following teenage marriages significantly affect maternal and child health, educational attainment, and economic opportunities, ultimately reinforcing cycles of poverty and gender inequity. While various interventions aim to delay marriage, there is limited evidence on strategies to delay pregnancy in already-married adolescents. This study examines factors influencing the time interval between teenage marriage and first pregnancy in a nationally representative sample of young Indian women. Data from the National Family Health Survey-5 (NFHS-5) were analysed, focusing on 44,921 women who were aged 20–24 years at the time of survey, but who were married in their teens. was carried out where first pregnancy (live birth or termination or conception) was the event and the interval between marriage and event was the time variable. Socio-economic factors included wealth, caste, rural/urban residence and three dimensions of education. Among women who were married in their teens, 91.13% experienced pregnancy by the time of their interview, with a median interval of 2 years between marriage and first pregnancy event. Socio-economic factors like wealth, education, and caste showed minimal protective effects, but notably those teens continuing education post-marriage delayed their first pregnancy by 35%; minimally adjusted (ETR):1.18(95% confidence interval:1.15, 1.21); fully adjusted ETR: 1.35(1.29,1.41). Once women get married in their teens, cultural norms promoting early procreation often neutralise the effect of classic socio-economic factors that normally delay pregnancies, leading to early childbirth. But only those continuing education after teenage marriage carried significant less risk of early pregnancy, highlighting the need for policies enabling continuation of education or re-entry into the education system of married teens. A multi-sectoral approach involving education, health, and social welfare systems is crucial to keep married adolescents in the education system.",
+  "oa_url": "https://doi.org/10.1186/s12884-026-10202-4",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1186/s12884-026-10202-4"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-08",
+  "summary_id": null,
+  "relevance": 23
+ },
+ {
+  "id": "W7225385834",
+  "doi": "10.3389/fpsyg.2026.1896071",
+  "title": "Development and validation of an ideological-political literacy scale for university students in the New Era using multidimensional item response theory",
+  "date": "2026-11-06",
+  "year": "2026",
+  "journal": "Frontiers in Psychology",
+  "issn": "16641078",
+  "publisher": "Frontiers Media",
+  "authors": [
+   "连桐",
+   "Wenzheng Zheng"
+  ],
+  "abstract": "Introduction Existing measures of ideological-political literacy among Chinese university students have limited dimensional clarity and cross-group comparability. This study developed and evaluated a five-dimensional scale covering political identification, patriotic sentiment, moral cultivation, rule-of-law awareness, and cultural confidence using multidimensional item response theory. Methods Framework-based qualitative coding, two-round Delphi consultation, content-validity screening, and pilot testing yielded 47 candidate items. A stratified cluster sample of 3,716 undergraduates from 28 universities across 12 provinces provided calibration data. A compensatory multidimensional graded response model (C-MGRM) was estimated by marginal maximum likelihood, with Metropolis-Hastings Robbins-Monro estimation as a same-sample robustness check. Competing dimensional specifications, reliability, measurement invariance, and differential item functioning (DIF) were examined. Results The 47-item oblique model yielded RMSEA = 0.043, CFI = 0.957, and TLI = 0.951. After four items were removed, the final 43-item model yielded RMSEA = 0.039, CFI = 0.964, and TLI = 0.958; marginal reliabilities ranged from 0.82 to 0.91. Although bifactor models showed slightly better approximate fit, their indices did not support a substantive general-factor interpretation. Scalar invariance was reported across gender, grade, and disciplinary clusters. Eight items showed DIF across urban-rural or party-membership comparisons, leading to proposed wording revisions or interpretive caveats. Discussion The scale provides dimension-specific scores and a basis for further measurement development. Same-sample model selection, incomplete external-validity evidence, and unadjusted clustering in the MIRT and DIF analyses limit interpretation. Independent validation is needed, and the findings do not establish readiness for an operational computerized adaptive test.",
+  "oa_url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1896071/pdf",
+  "pdf_url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1896071/pdf",
+  "pdf_urls": [
+   "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1896071/pdf",
+   "https://doi.org/10.3389/fpsyg.2026.1896071"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-08",
+  "summary_id": null,
+  "relevance": 21
+ },
+ {
+  "id": "W7225390008",
+  "doi": "10.3389/fpubh.2026.1895107",
+  "title": "Beyond medication: rethinking postpartum obesity management in the era of increasing GLP-1 receptor agonist use",
+  "date": "2026-11-06",
+  "year": "2026",
+  "journal": "Frontiers in Public Health",
+  "issn": "22962565",
+  "publisher": "Frontiers Media",
+  "authors": [
+   "Verena Atud Achick-Muyu"
+  ],
+  "abstract": "Obesity remains one of the most pressing public health challenges worldwide and is increasingly prevalent among women of reproductive age. 17 Beyond pregnancy and childbirth, the postpartum period offers an important opportunity for obesity prevention and health promotion because it influences women's long-term cardiometabolic health. 8 Persistent postpartum weight retention is common and is recognised as an important contributor to longterm obesity, cardiometabolic disease, and adverse outcomes in subsequent pregnancies. 2,6,10 Improving postpartum weight management has therefore become an important component of strategies to reduce the long-term burden of chronic disease among women. 8 In this context, glucagon-like peptide-1 receptor agonists (GLP-1 RAs), originally developed for the treatment of type 2 diabetes, have rapidly emerged as effective pharmacological therapies for obesity management. 14,15 Their expanding use has generated considerable interest alongside concerns regarding medication shortages, equitable access, and appropriate prescribing. 3,9 Recent evidence indicates that the use of GLP-1 receptor agonists is increasing during the postpartum period, with weight reduction appearing to be the primary indication for use. 4 Given that obesity is an established indication for GLP-1 receptor agonists, this trend is not inherently unexpected. 15 It is also occurring within a broader social context in which many women experience societal expectations to regain their pre-pregnancy body weight while simultaneously navigating the physical recovery of childbirth, infant caregiving, sleep disruption, breastfeeding, and changing family roles. 5 Together, these biological, social, and environmental factors make postpartum obesity management particularly complex .Because the postpartum period represents a critical window for improving long-term maternal health, the increasing use of pharmacological therapy provides an opportunity to reconsider how these treatments can be integrated within comprehensive approaches to postpartum obesity management. 8 This opinion paper examines the public health implications of the increasing use of GLP-1 receptor agonists during the postpartum period. For the purposes of this Opinion, the postpartum period refers broadly to the first 12 months after childbirth, while recognising that individual studies use different postpartum observation periods and that obesity management initiated during this period should transition into longer-term care across the reproductive life course. Instead of focusing solely on pharmacological therapy, it also considers what this emerging trend means for postpartum obesity management from a public health perspective.The discussion examines the evolving evidence on postpartum GLP-1 receptor agonist use, the importance of long-term obesity management across the life course, the structural and equity challenges influencing women's ability to engage in comprehensive care, and the policy actions needed to strengthen postpartum obesity management beyond medication alone.Published evidence on the use of GLP-1 receptor agonists during the postpartum period remains limited. Recent reviews have highlighted growing interest in the potential role of GLP-1 receptor agonists across the reproductive continuum, from preconception through the postpartum period. 14 However, primary evidence describing postpartum prescribing remains scarce and is currently informed largely by the Danish cohort reported by Bliddal et al. 4 Using national registry data from 382,277 pregnancies between January 2018 and June 2024, the study identified 1,549 mothers who filled a GLP-1 receptor agonist prescription within 182 days after delivery. Postpartum use increased from 34 per 10,000 deliveries in the second quarter of 2022 to 173 per 10,000 in the second quarter of 2024. 4 Although these findings are derived from a single national cohort, they provide an important sentinel signal that postpartum prescribing of GLP-1 receptor agonists may be changing. 4 It is still uncertain whether this emerging prescribing pattern reflects trends in other healthcare systems. This highlights the need for surveillance and real-world evidence from diverse settings. As obesity is an established indication for these medications, the observed trend is not unexpected. Furthermore, it provides an opportunity to consider how pharmacological therapy can be integrated within comprehensive models of postpartum obesity management.The postpartum period is increasingly recognized as a critical window for improving women's long-term health. 2 Although clinical care traditionally focuses on pregnancy and the first six weeks after birth 2 , physiological, metabolic, and behavioural adaptations initiated during pregnancy often extend well beyond the immediate postpartum period. 2,6 The International Federation of Gynecology and Obstetrics (FIGO) recommends viewing obesity as a chronic disease requiring continuous management across the reproductive life course rather than episodic care confined to pregnancy. 8 Consequently, postpartum care should extend beyond short-term recovery to support sustained weight management and long-term maternal health.Persistent postpartum weight retention is common and has been associated with an increased risk of long-term obesity. 11 It is also associated with an increased risk of hypertension, type 2 diabetes, and cardiovascular disease. 6,10 Women who enter subsequent pregnancies with persistent obesity or excess weight are also more likely to experience adverse maternal and neonatal outcomes, reinforcing the importance of achieving optimal health between pregnancies. 2 Given that obesity is a major risk factor for noncommunicable diseases, addressing postpartum weight retention offers an important opportunity for primary prevention across the life course. 8,17 Beyond its physical health consequences, postpartum obesity may also affect psychological well-being during the transition to motherhood. Women may experience body dissatisfaction and depressive symptoms during the postpartum period. 5,12,13 These interconnected physical and psychological challenges further support the need for comprehensive postpartum obesity management that addresses both physical and mental health after childbirth.Lifestyle interventions, particularly regular physical activity, contribute to healthy weight maintenance while also improving mental health and reducing long-term disease risk, underscoring the interconnected nature of maternal health across the life course 1,18 These long-term approaches are particularly important within a broader social context where many women experience expectations to rapidly return to their pre-pregnancy body weight while simultaneously navigating childbirth recovery, infant caregiving, breastfeeding, sleep disruption, and changing family responsibilities. 5 Supporting women through this period therefore requires sustainable, comprehensive postpartum obesity management that promotes long-term health as opposed to focusing solely on short-term weight reduction.The challenge is therefore no longer whether postpartum weight management is important, but how best to deliver comprehensive and sustainable postpartum obesity management.Comprehensive postpartum obesity management extends beyond achieving weight loss alone. 8 Consistent with the recognition of obesity as a chronic disease, it requires a long-term, multidisciplinary approach that addresses the biological, behavioural, psychological, and social factors influencing maternal health. 8,17 Such care should integrate evidence-based nutritional counselling, regular physical activity, behavioural interventions, ongoing clinical follow-up, and, where clinically indicated, pharmacological treatment. 8,10 Rather than representing competing strategies, these components should be viewed as complementary elements of care that support sustained maternal health across the postpartum period and beyond Within this multidisciplinary framework, lifestyle interventions remain the foundation of postpartum obesity management. 8 Healthy dietary patterns, regular physical activity, adequate sleep, and behavioural support contribute not only to weight management but also to improved cardiometabolic health, physical function, psychological well-being, and overall quality of life. 17,18 These benefits extend beyond weight reduction and remain relevant regardless of whether pharmacological treatment is prescribed, underscoring the importance of supporting healthy behaviours throughout the postpartum period. 8,17 Pharmacological therapies, including GLP-1 receptor agonists, should complement, instead of replacing, comprehensive postpartum obesity management. 8 Current obesity management guidelines recommend combining pharmacotherapy with lifestyle interventions to optimise treatment outcomes, recognising that these approaches are complementary rather than mutually exclusive. 8,10 From a public health perspective, the priority is not to choose between pharmacological therapy and lifestyle interventions, but to ensure that women have access to the multidisciplinary support needed to initiate, adopt, and sustain healthy behaviours throughout the postpartum period.However, translating comprehensive postpartum obesity management into routine practice also requires consideration of the structural and health system factors that influence women's ability to access and sustain these interventions.Defining comprehensive postpartum obesity management is only one step towards improving maternal health; delivering it consistently in routine practice presents a different challenge.operating at the individual, community, and health system levels. 7,16 Contemporary public health frameworks recognise that sustained behaviour change is shaped by interactions between individuals and the environments in which they live, work, and care for their families, highlighting the importance of supportive health systems and health-promoting environments alongside evidence-based clinical care. 16 The transition to motherhood introduces substantial changes that influence participation in long-term health promotion. 1,5 Recovery from childbirth, infant caregiving, breastfeeding, sleep disruption, return to employment, household responsibilities, and changing patterns of healthcare use all compete for women's time and attention during the months following birth. 1,5,7 As recognised by the World Health Organization (WHO), health behaviours are shaped by the social, environmental, and organisational conditions in which people live, work, and care for their families. 17 These competing demands can therefore influence the extent to which healthy nutrition, physical activity, behavioural support, and clinical followup are initiated and sustained during the postpartum period. Effective postpartum obesity management requires not only the availability of evidence-based interventions but also women's ability to access and sustain them across the life course, beginning in the postpartum period. 8,17 Achick-Muyu (2025) proposed that postpartum obesity management should move beyond recommendations directed solely at individual women and instead promote mother-friendly health-promoting environments that support healthy behaviours within the realities of family life. 1 Rather than expecting women to adapt to services that may not reflect the practical demands of the postpartum period, health systems should adapt services to better meet women's needs by integrating health promotion into settings they already access and designing care that accommodates caregiving responsibilities. Such approaches align with contemporary public health strategies that recognise supportive environments and responsive health system design as essential components of sustainable behaviour change. 16,17 Viewing postpartum obesity management through a structural and health systems lens shifts the focus from treatment alone to the conditions that enable long-term health. 16 Although pharmacological therapy, lifestyle interventions, behavioural support, and clinical follow-up remain essential components of care, their effectiveness depends on whether women can access the services and environments needed to sustain healthy behaviours over time. 8,17 Access to these resources varies according to socioeconomic circumstances, geography, healthcare organisation, and the availability of community-based support. 17These differences also influence who is most able to benefit from emerging obesity therapies, making equity a central consideration in the expanding use of GLP-1 receptor agonists during the postpartum period.The increasing use of GLP-1 receptor agonists during the postpartum period has important implications for equity in obesity care. 4,14 While these medications have expanded therapeutic options for women living with obesity, equitable access to GLP-1 receptor agonists depends on prescribing policies, reimbursement mechanisms, affordability, health knowledge and health system capacity. However, medication access alone is unlikely to address postpartum obesity unless it is integrated within comprehensive models of care that also support nutrition, physical activity, behavioural interventions, and long-term follow-up.Contemporary clinical guidance supports this approach. During recent GLP-1 receptor agonist shortages, UK health authorities advised clinicians to prioritise prescribing for licensed indications, reinforcing the importance of appropriate patient selection and evidence-based prescribing. 3,9 Similarly, The National Institute for Health and Care Excellence (NICE) recommends that pharmacological therapy for obesity be delivered within a structured weight management pathway that incorporates dietary modification, physical activity, behavioural support, and regular clinical review rather than as a standalone intervention. 10 However, opportunities to benefit from comprehensive postpartum obesity management are not equally distributed. 17 Women living in socioeconomically disadvantaged communities, rural settings, or other underserved populations may face greater barriers to accessing specialist obesity services, structured lifestyle programmes, transportation, childcare, and ongoing follow-up. 1,5,16 These structural barriers can limit access to both pharmacological treatment and the multidisciplinary care needed to support sustained weight management. 16 Ensuring equity therefore requires more than expanding access to medication alone; it requires equitable access to comprehensive postpartum obesity management that integrates evidence-based pharmacological treatment with nutritional support, physical activity, behavioural interventions, long-term follow-up, and supportive health-promoting environments. 10,16 Such an approach is more likely to ensure that advances in obesity treatment reduce, rather than widen, existing health inequalities. 17With evidence of increasing postpartum use of GLP-1 receptor agonists, there is an opportunity to strengthen postpartum obesity management beyond pharmacological treatment alone. 4 Rather than focusing solely on pharmacological treatment, health systems should adopt comprehensive models of care that extend beyond the traditional postpartum care model, which often focuses on the first 4-6 weeks after birth. 2 This could be delivered through stronger continuity between maternity services, primary care, and existing weightmanagement services, allowing nutritional counselling, physical activity, behavioural support, long-term follow-up, and pharmacotherapy where appropriate to continue beyond early postpartum care. 8,10 Health systems and community health services could strengthen access by integrating health promotion into services women already use after childbirth and expanding community-based opportunities for healthy behaviours. 16 , 17 Building on this broader health-promotion approach, I further propose mother-friendly interventions, including family-centred and childcaresupported opportunities for physical activity, to reduce the caregiving barriers discussed earlier.¹ Policies should also promote supportive social environments by addressing weight stigma, encouraging realistic expectations of postpartum recovery, and recognising that maternal health extends beyond returning to pre-pregnancy weight. 5As the use of GLP-1 receptor agonists continues to expand, 4 policy development should also ensure that pharmacological therapy is integrated within equitable and evidence-based models of care. Future research should evaluate not only the effectiveness and long-term safety of GLP-1 receptor agonists in postpartum populations but also the implementation of integrated care models, their impact on maternal health outcomes and health equity, and the effectiveness of structural interventions that enable women to sustain healthy behaviours over time.Given the importance of postpartum obesity management across the life course, the evolving role of GLP-1 receptor agonists provides an opportunity to rethink how health systems deliver comprehensive, equitable, and sustainable postpartum care. Although evidence on postpartum GLP-1 receptor agonist use remains limited, this emerging field highlights the need to move beyond a medication-centred approach towards models of care that address the biological, behavioural, social, and structural factors influencing maternal health.Pharmacological therapy should complement, rather than replace, comprehensive postpartum obesity management. Integrating evidence-based pharmacological treatment with nutritional support, regular physical activity, behavioural interventions, long-term follow-up, and mother-friendly health-promoting environments offers an opportunity to strengthen long-term maternal health and reduce the burden of obesity across the life course.",
+  "oa_url": "https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2026.1895107/pdf",
+  "pdf_url": "https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2026.1895107/pdf",
+  "pdf_urls": [
+   "https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2026.1895107/pdf",
+   "https://doi.org/10.3389/fpubh.2026.1895107"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-08",
+  "summary_id": null,
+  "relevance": 19
+ },
+ {
+  "id": "W7225400592",
+  "doi": "10.3390/ma19214725",
+  "title": "Torrefied Agri-Food Residues as a Coal Substitute: How the Supply Chain and the Allocation Rule Determine the Carbon Footprint",
+  "date": "2026-11-06",
+  "year": "2026",
+  "journal": "Materials",
+  "issn": "19961944",
+  "publisher": "Multidisciplinary Digital Publishing Institute",
+  "authors": [
+   "Lukáš Jeníček",
+   "Jan Malaťák"
+  ],
+  "abstract": "Agri-food processing leaves large volumes of lignocellulosic residues for which their energy is rarely recovered, while coal-fired heat and power in Europe carries a rising carbon price. This study quantifies the carbon footprint of five food-processing residues—spent coffee grounds (SCGs), spent tea leaves (TEAs) and walnut, pistachio and peanut shells—with spruce wood chips as a non-food benchmark, torrefied at 250–550 °C and burned in place of Czech lignite. Fuel properties were measured for all six materials at five temperatures and their replicate variances propagated. Emissions were quantified for nine process stages—from cultivation of the crop to combustion of the fuel—per tonne of dry residue under a fuel-first allocation that charges the residue with the agricultural chain and credits the food co-product by system expansion; cut-off, mass and economic allocation were compared. All six materials save emissions at their selected temperature, from −557 ± 22 kg CO2-eq t−1 for SCG to −1214 ± 23 for spruce, avoiding 36–77% of the emissions of the lignite they replace. The ranking is set by the supply chain rather than by the fuel: SCG has the highest calorific value of the set yet saves least, because 89% of its residual burden comes from roasting, brewing and intercontinental freight. The result is conditional: Under mass allocation, four of the five food residues become net emitters, and so do SCG and TEA when collected wet. At 65 EUR tCO2−1, the avoided emissions are worth 36–79 EUR t−1 against a fuel-cost advantage over lignite of 116–200 EUR t−1.",
+  "oa_url": "https://doi.org/10.3390/ma19214725",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.3390/ma19214725"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemasaran, rantai pasok & rantai nilai"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-08",
+  "summary_id": null,
+  "relevance": 18
+ },
+ {
+  "id": "W7225399136",
+  "doi": "10.3390/world7110190",
+  "title": "Water Policies and Farmers’ Irrigation Behavior: Evidence from Groundwater Governance Reforms in China",
+  "date": "2026-11-06",
+  "year": "2026",
+  "journal": "World",
+  "issn": "26734060",
+  "publisher": "Multidisciplinary Digital Publishing Institute",
+  "authors": [
+   "Jie Zhu",
+   "常 青",
+   "Yi Cui"
+  ],
+  "abstract": "Groundwater overexploitation poses a major challenge to sustainable agricultural water management, yet the behavioral mechanisms through which different groundwater policies affect farmers’ irrigation decisions remain poorly understood. The objective of this study is to estimate the causal effects of two groundwater governance interventions in northern China—a water rights reform based on water-use quotas and a ban on new agricultural tubewell construction—and to identify the behavioral channels through which they operate. Using a household panel dataset from pilot areas in Hebei Province and Inner Mongolia, we combine difference-in-differences, multinomial logit, and two-stage least squares (2SLS) estimators to identify policy effects on irrigation water use, water-saving technology adoption, groundwater infrastructure, and irrigation water prices. The results reveal distinct behavioral responses to the two policies. The water rights reform reduces irrigation water use by approximately 430–563 m3 per ha across specifications, with the effect statistically significant in the pooled and village fixed-effects specifications and marginally significant with household fixed effects, but does not significantly affect the adoption of water-saving irrigation technologies. In contrast, the tubewell ban does not significantly reduce water use directly but increases farmers’ relative propensity to adopt large-sprinkler, micro-spray, and drip irrigation. The fixed-effects and 2SLS estimates further show that the tubewell ban significantly increases irrigation water prices by approximately 0.42–0.62 CNY per m3. Neither policy significantly affects village tubewell stocks. Estimates for household tubewell ownership are likewise statistically insignificant, but the weak instruments in the ownership equation preclude a definitive conclusion. Overall, the evidence points primarily to adjustments along the price and technology margins rather than village infrastructure. These findings suggest that quantity-based water rights regulation and groundwater-access restrictions operate through different behavioral channels and should be regarded as complementary instruments for agricultural groundwater conservation.",
+  "oa_url": "https://doi.org/10.3390/world7110190",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.3390/world7110190"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Adopsi teknologi & pertanian digital"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-08",
+  "summary_id": null,
+  "relevance": 18
+ },
+ {
+  "id": "W7119479631",
+  "doi": "10.1007/s00148-026-01222-7",
+  "title": "Stuck in place? Intergenerational occupational mobility in Türkiye",
+  "date": "2026-11-06",
+  "year": "2026",
+  "journal": "Journal of Population Economics",
+  "issn": "09331433",
+  "publisher": "Springer Science+Business Media",
+  "authors": [
+   "Meryem Türel",
+   "Ensar Yılmaz"
+  ],
+  "abstract": "Abstract This study analyzes intergenerational occupational mobility in Türkiye using 2021 Family Structure Survey data (N = 13,076). Applying mobility matrices, Altham's statistics, and rank-rank correlations across four birth cohorts (1951 1994), we separate structural economic change from genuine social fluidity. Results reveal a stark divergence. While absolute mobility rose significantly due to de-agrarianization and service-sector expansion, relative mobility stagnated or declined after controlling for these shifts. This implies a \"compositional illusion\" economic transformation created movement without improving equality of opportunity. We identify \"asymmetric permeability\": a \"sticky top\" where the children of professionals are protected by a \"glass oor,\" and a \"slippery bottom\" where origins in agricultural or low-status positions lead primarily to manual labor. The analysis uncovers profound heterogeneity. Mobility is highly gendered, with daughters facing stronger status persistence than sons, and spatially fractured. Econometric results confirm education as the key engine for upward mobility, while paternal education buffer against social descent. JEL Classification: J31, J24, D31, J21, O15",
+  "oa_url": "https://www.researchsquare.com/article/rs-8388578/latest.pdf",
+  "pdf_url": "https://www.researchsquare.com/article/rs-8388578/latest.pdf",
+  "pdf_urls": [
+   "https://www.researchsquare.com/article/rs-8388578/latest.pdf",
+   "https://doi.org/10.21203/rs.3.rs-8388578/v1"
+  ],
+  "oa_status": "green",
+  "cited_by": 0,
+  "keywords": [
+   "intergenerational occupational mobility",
+   "relative mobility",
+   "absolute mobility",
+   "structural economic change",
+   "social fluidity",
+   "glass ceiling",
+   "gender differences in mobility",
+   "spatial mobility"
+  ],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-08",
+  "summary_id": null,
+  "relevance": 15
+ },
+ {
+  "id": "W7225386417",
+  "doi": "10.1097/md.0000000000051421",
+  "title": "Effect of counselling intervention on perception of stressful school event among educational administrators and special educators: Implications for medical educational policy",
+  "date": "2026-11-06",
+  "year": "2026",
+  "journal": "Medicine",
+  "issn": "00257974",
+  "publisher": "Wolters Kluwer",
+  "authors": [
+   "Theresa Chinma Agodo",
+   "Ngozi Sandra Ikenyesi",
+   "Vera Nneka Ogakwu",
+   "Mercy Benedette Ifeoma Uba",
+   "Ogochukwu Vivian Nwabuani",
+   "Florence N. Ogbonna",
+   "Patrick Chinenye Okafor",
+   "Moses Onyemaechi Ede",
+   "Beth Nnenne Oluka",
+   "Nneka Charity Nwosu",
+   "Andrew Nnabuchi Ogbochie",
+   "Ndubuisi Collins Enyi"
+  ],
+  "abstract": "Background: The physiological and psychological demands and responses in the workplace, including school settings, are very high among school administrators and teachers. They experience high levels of stress due to several factors, such as heavy workloads, emotional and psychological pressures, and challenging working environments. Consequently, this has a continued negative impact on their job performance and productivity. Some individuals may experience this negative impact more than others based on how they perceive stressful situations. With this in mind, this study aimed to investigate the effect of counseling intervention on the perception of stressful school events among professional educational administrators and special educators in Enugu State, Nigeria. Methods: The study involved 85 administrators and nonspecialist special educators who were divided into 2 groups: 43 participants in the experimental group and 42 in the control group. In Nigeria, a quasi-experimental design was chosen and carried out. The Teachers’ Job Stress Scale was used to quantify the special educators’ occupational stress at 3 different stages. Cronbach’s alpha (0.79) coefficient was used to verify the scale’s validity and reliability. Analysis of covariance was used to examine the gathered data. Results: The study results indicate that counseling intervention was effective in reducing stress among administrators and nonspecialist teachers in special schools in Enugu State. The findings also suggest that time significantly impacts administrators’ and nonspecialist teachers’ work-related stress. This implies notable differences in participants’ reactions to work-related stress at different points in time. Follow-up results indicated that the intervention’s effectiveness persisted over time. Gender did not have a statistically significant impact on participants’ occupational stress. Conclusion: The study concluded that REBT is a therapeutic stress management strategy that is significant in the reduction of work stress among Agricultural and Industrial Arts Educators. Therefore, university administrators should establish a REBT institute where the mental health of staff members will be frequently monitored.",
+  "oa_url": "https://doi.org/10.1097/md.0000000000051421",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1097/md.0000000000051421"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-08",
+  "summary_id": null,
+  "relevance": 11
+ },
+ {
+  "id": "W7225394817",
+  "doi": "10.1001/jamanetworkopen.2026.42259",
+  "title": "A Scalable Teacher Professional Development and Wellness Program in Primary Schools",
+  "date": "2026-11-06",
+  "year": "2026",
+  "journal": "JAMA Network Open",
+  "issn": "25743805",
+  "publisher": "American Medical Association",
+  "authors": [
+   "Keng-Yen Huang",
+   "Janet Nakigudde",
+   "Hyung Park",
+   "Eddie Tinka Mugisa",
+   "Christine Tusiime",
+   "Elizabeth Nsamba Kisakye",
+   "Sabrina Cheng",
+   "Michelle J. Boyd",
+   "Solomon Kamya",
+   "Jimmy Mayatsa",
+   "Dickson Muyomba",
+   "Hafsa Sentogo Lukwata"
+  ],
+  "abstract": "Importance In Uganda and other low-income settings with prevalent mental health problems and limited resources, scalable professional development (PD) models are needed to strengthen teachers’ capacity to apply evidence-based practices to support child mental health. Objective To examine the short-term effectiveness of PD and PD with a teacher-wellness enhancement (PDT) compared with a control condition on teacher knowledge and use of evidence-based practices, teacher stress, and teacher stress management; implementation outcomes; and the differential outcomes between urban and rural primary schools in Uganda. Design, Setting, and Participants This cluster randomized clinical trial was conducted in 47 urban and rural schools in Uganda between August 2021 and February 2025. Participating teachers in the schools were followed-up 24 months after the intervention, and the present trial focused on short-term teacher outcomes. Statistical analysis followed the intention-to-treat principle. Interventions Schools and teachers were randomized to 1 of 3 conditions: PD, PDT, and control. The PD intervention (mWEL-PD or Mental Wellbeing and Empowering Lives of the School Community: Professional Development) consisted of 3 days of training and 8 one-hour coaching sessions in person for 2 to 3 months. The PDT intervention (mWEL-PD with a teacher-wellness enhancement) was provided as the PD program plus a 1-day workshop and 3 group support sessions. The control condition offered no intervention during year 1, but mental health knowledge and promotion materials and a 1-day teacher-wellness workshop were provided in year 2. Main Outcomes and Measures The primary outcomes for PD and PDT groups were knowledge and use of evidence-based practices. Teachers completed 15 self-report measures assessing 4 key outcomes: knowledge of evidence-based practices, use of evidence-based practices, teacher stress, and teacher stress management. Implementation outcomes, self-assessed after completion of the intervention, included teacher engagement in the intervention, teacher perception of acceptability and usefulness of the content, and teacher perception of the competence of the program facilitators. Results A total of 47 schools with 509 teachers (mean [SD] age, 40.60 [11.12] years; 368 females [72.3%]) were included in the analysis. Among the schools, 15 (31.9%) were randomly assigned to the control, 16 (34.0%) to the PD, and 16 (34.0%) to the PDT groups. Among teachers, 165 (32.4%) were randomly assigned to the control, 187 (36.7%) to the PD, and 157 (30.8%) to the PDT groups. Teacher attendance at training and coaching sessions and ratings of relevance and facilitator competence were high in both urban and rural contexts. Compared with teachers in the PD group, those in the PDT group were more likely to attend all training days offered (120 of 187 [64.1%] in the PD group vs 127 of 157 [80.9%] in the PDT group) and participated in more coaching sessions (mean [SD] number, 4.58 [2.91] vs 6.09 [2.28]). Compared with teachers in the control condition, teachers in the PDT condition benefited on all 4 key outcomes: increased knowledge (standardized mean difference [SMD], 0.57; 95% CI, 0.26-0.88) and use (SMD, 0.36; 95% CI, 0.01-0.71) of evidence-based practices, increased stress management (SMD, 0.50; 95% CI, 0.19-0.80), and decreased stress (SMD, −0.27; 95% CI, −0.54 to 0.01). Benefits of PD were limited to knowledge of evidence-based practices (SMD, 0.33; 95% CI, 0.03-0.62). Conclusions and Relevance This trial of a scalable teacher PD program delivered through existing educational infrastructure and resources demonstrates the program’s feasibility, acceptability, and impact on self-reported teacher outcomes. The finding of short-term benefits for teacher practice and wellness suggests the potential of the PDT model for school-based mental health promotion. Trial Registration ClinicalTrials.gov Identifier: NCT04383327",
+  "oa_url": "https://doi.org/10.1001/jamanetworkopen.2026.42259",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1001/jamanetworkopen.2026.42259"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-08",
+  "summary_id": null,
+  "relevance": 7
+ },
+ {
   "id": "W7160912536",
   "doi": "10.1186/s12889-026-30079-4",
   "title": "Environmental influences on physical activity among young rural women: a qualitative study",
@@ -40,6 +995,280 @@
   "found_at": "2026-11-07",
   "summary_id": null,
   "relevance": 15
+ },
+ {
+  "id": "W7165308483",
+  "doi": "10.1111/1467-8489.70168",
+  "title": "Experiment on Cognitive Ability, Behavioural Preferences and Improved Seed Technology Adoption",
+  "date": "2026-11-05",
+  "year": "2026",
+  "journal": "Australian Journal of Agricultural and Resource Economics",
+  "issn": "1364985X",
+  "publisher": "Wiley",
+  "authors": [
+   "Yining Wang",
+   "Chao Liu"
+  ],
+  "abstract": "ABSTRACT Seeds are the ‘chips’ of agriculture; the use and promotion of improved seeds are crucial for ensuring food security. This study employs Rehmannia glutinosa as a case study and conducts a joint measurement experiment on farmers' risk and time preferences in rural China. This study aimed to assess the contribution of cognitive ability to farmers' adoption of agricultural technology and to identify potential underlying channels. The study builds upon and extends prior research on the determinants of farmers' adoption of agricultural technologies. The results indicate that higher cognitive ability increases the likelihood of adopting improved seed technology. Farmers with greater cognitive ability exhibit lower risk aversion and greater patience, making them more likely to adopt such innovations. Overall, this study has substantial practical implications for advancing the dissemination of improved agricultural seeds.",
+  "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/1467-8489.70168",
+  "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/1467-8489.70168",
+  "pdf_urls": [
+   "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/1467-8489.70168",
+   "https://doi.org/10.1111/1467-8489.70168"
+  ],
+  "oa_status": "bronze",
+  "cited_by": 0,
+  "keywords": [
+   "cognitive ability",
+   "behavioral preferences",
+   "agricultural technology adoption",
+   "farmer decision-making"
+  ],
+  "topics": [
+   "Ketahanan pangan rumah tangga",
+   "Adopsi teknologi & pertanian digital"
+  ],
+  "priority_journal": true,
+  "language": "en",
+  "found_at": "2026-11-08",
+  "summary_id": {
+   "tujuan": "Menilai kontribusi kemampuan kognitif petani terhadap adopsi teknologi benih unggul serta menelusuri saluran mekanisme yang mendasarinya. Studi ini menggunakan Rehmannia glutinosa sebagai studi kasus di pedesaan Tiongkok.",
+   "metode": "Eksperimen pengukuran gabungan (joint measurement experiment) terhadap preferensi risiko dan preferensi waktu petani pedesaan Tiongkok, dengan kemampuan kognitif sebagai variabel utama. Ukuran sampel, periode pengumpulan data, dan teknik estimasi tidak disebutkan dalam abstrak.",
+   "temuan": "Kemampuan kognitif yang lebih tinggi meningkatkan kemungkinan adopsi benih unggul. Petani dengan kemampuan kognitif lebih tinggi menunjukkan penghindaran risiko yang lebih rendah dan kesabaran yang lebih besar, yang diduga menjadi saluran pengaruhnya. Karena kemampuan kognitif tidak ditetapkan secara acak, temuan ini bersifat asosiatif dan klaim kausalnya perlu dibaca hati-hati.",
+   "keterbatasan": "Tidak disebutkan",
+   "relevansi": "Studi ini relevan dengan kajian adopsi teknologi dan kelembagaan petani kecil, khususnya bagaimana karakteristik perilaku memengaruhi penyebaran benih unggul. Kerangka ini dapat diuji ulang pada adopsi benih padi atau bibit sawit di Kalimantan Tengah, termasuk kaitannya dengan ketahanan pangan dan akses pasar petani.",
+   "skor": 4,
+   "model": "claude-haiku-5-5",
+   "sumber": "abstrak"
+  },
+  "relevance": 61
+ },
+ {
+  "id": "W7225427848",
+  "doi": "10.1080/14735903.2026.2748781",
+  "title": "Bundling solar-based irrigation and vermicompost using a living lab approach in Ethiopia: impacts on crop yield, soil moisture and rural livelihoods",
+  "date": "2026-11-05",
+  "year": "2026",
+  "journal": "International Journal of Agricultural Sustainability",
+  "issn": "14735903",
+  "publisher": "Taylor & Francis",
+  "authors": [
+   "Desalegn Tegegne",
+   "Stefan Sieber",
+   "Götz Uckert",
+   "Rediet Girma",
+   "Amare Haileslassie",
+   "Wolde Mekuria"
+  ],
+  "abstract": "This study in Ethiopia's Rift Valley tested two hypotheses: integrating solar-based irrigation with vermicompost would considerably increase crop yields and soil moisture retention; and smallholder farmers would perceive solar irrigation as contributing positively to livelihood diversification, household income, food security, livestock feed availability and environmental co-benefits. Participatory on-farm trials and key informant interviews were conducted to address these research questions. The trial used cabbage and pepper as test crops and employed a randomized complete block design with three treatments: Treatment 1/Control (solar-based irrigation with farmers' current practices); Treatment 2 (Treatment 1plus 4 t ha−1 of vermicompost); and Treatment 3 (Treatment 1 plus 8 t ha−1 of vermicompost). The first hypothesis was confirmed: bundling vermicompost with solar-based irrigation increased yields (pepper +78.6%, cabbage +14.3%) and improved soil moisture retention. These yield gains were economically viable, with benefit–cost ratios ranging from 0.38 to 2.46 across sites. The second hypothesis was supported: 88% of farmers adopted 2–5 new crops (75% citing improved water access), shifting toward vegetables, fruits and fodder, with reported gains in income, food security, nutrition, dry-season fodder and environmental co-benefits. Solar irrigation therefore delivers greater agronomic and livelihood benefits when integrated with vermicompost, supporting the scaling of bundled interventions.",
+  "oa_url": "https://www.tandfonline.com/doi/pdf/10.1080/14735903.2026.2748781?needAccess=true",
+  "pdf_url": "https://www.tandfonline.com/doi/pdf/10.1080/14735903.2026.2748781?needAccess=true",
+  "pdf_urls": [
+   "https://www.tandfonline.com/doi/pdf/10.1080/14735903.2026.2748781?needAccess=true",
+   "https://doi.org/10.1080/14735903.2026.2748781"
+  ],
+  "oa_status": "diamond",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Ketahanan pangan rumah tangga",
+   "Pembangunan pedesaan & kebijakan pertanian"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-08",
+  "summary_id": {
+   "tujuan": "Menguji dua hipotesis: integrasi irigasi berbasis tenaga surya dengan vermikompos meningkatkan hasil panen dan retensi kelembaban tanah, serta irigasi surya memberi manfaat bagi penghidupan petani kecil di Rift Valley, Ethiopia.",
+   "metode": "Living lab dengan uji coba on-farm partisipatif menggunakan rancangan acak kelompok lengkap (RCBD) pada kubis dan cabai, dengan tiga perlakuan: kontrol, tambahan 4 t/ha, dan 8 t/ha vermikompos. Data tambahan diperoleh dari wawancara informan kunci; periode, jumlah situs, dan ukuran sampel petani tidak disebutkan dalam abstrak. Analisis mencakup rasio manfaat-biaya (B/C).",
+   "temuan": "Vermikompos meningkatkan hasil cabai 78,6% dan kubis 14,3% serta memperbaiki retensi kelembaban tanah dibanding irigasi surya saja, dengan dasar eksperimen terkontrol. Rasio B/C berkisar 0,38–2,46 antarsitus, sehingga klaim kelayakan ekonomi tidak berlaku merata. Sebanyak 88% petani mengadopsi 2–5 tanaman baru (75% karena akses air membaik) dan melaporkan peningkatan pendapatan, pangan, dan pakan, yang bersifat persepsi dan asosiatif.",
+   "keterbatasan": "Penulis tidak menyebut keterbatasan secara eksplisit. Dari desain, hasil penghidupan bersumber dari persepsi yang dilaporkan sendiri tanpa ukuran kuantitatif, ukuran sampel tidak jelas, dan rasio B/C di bawah 1 di beberapa situs menunjukkan variasi hasil yang besar.",
+   "relevansi": "Studi ini berguna untuk mempelajari paket input (pupuk organik dan irigasi) serta adopsi komoditas hortikultura bernilai tinggi oleh petani kecil, yang relevan dengan rantai nilai dan diversifikasi usaha di Kalimantan Tengah. Temuannya dapat diuji ulang pada lahan gambut atau lahan marginal dan dibandingkan dengan kondisi musim kemarau; aspek akses pasar dan kelembagaan petani belum dibahas.",
+   "skor": 3,
+   "model": "claude-haiku-5-5",
+   "sumber": "abstrak"
+  },
+  "relevance": 50
+ },
+ {
+  "id": "W7225329764",
+  "doi": "10.1016/j.agsy.2026.105043",
+  "title": "Towards pesticide-free systems: a territorial co-design approach that challenges research frontiers",
+  "date": "2026-11-05",
+  "year": "2026",
+  "journal": "Agricultural Systems",
+  "issn": "0308521X",
+  "publisher": "Elsevier BV",
+  "authors": [
+   "Lorène Prost",
+   "Aude Alaphilippe",
+   "Valérie Angeon",
+   "Aude Barbottin",
+   "Antoine Gardarin",
+   "Laure Hossard",
+   "Alice Michelot‐Antalik",
+   "Marc Moraine",
+   "Mireille Navarrete",
+   "Solène Pissonnier",
+   "Wilfried Queyrel",
+   "Muriel Valantin‐Morison"
+  ],
+  "abstract": "CONTEXT Reducing pesticide dependence has become a major scientific and societal challenge. Although substantial advances have been made in understanding the environmental and health impacts of pesticides and in developing technical alternatives, pesticide use remains widespread in industrialized agricultural systems. This persistence reflects interdependent ecological, technical, economic, social, organizational, and institutional constraints operating across multiple actors and levels, which are insufficiently addressed by current research and innovation approaches. OBJECTIVE This article examines how research can better contribute to transitions towards pesticide-free agricultural systems. It argues that overcoming pesticide dependency requires shifting from field- and farm-centered perspectives towards a territorial perspective that connects ecological, socio-technical, and collective dynamics across multiple levels, while investigating territorial transformation as a complex design process and reconsidering how research engages with the actors and processes involved. METHOD The article integrates insights from agroecology, socio-technical transition studies, territorial approaches, and design sciences to develop a territorial co-design perspective. Rather than proposing a new methodological toolkit, it considers territorial transformation as a design process and draws attention to how design issues are framed, how collective exploration and creativity are fostered, and how emerging directions are assessed and progressively redefined. RESULTS AND CONCLUSIONS The analysis positions the territorial level as a key arena in which ecological dynamics, socio-technical constraints, collective action, and institutional arrangements can be jointly understood and transformed. It further argues that territorial transformation towards pesticide-free systems should be understood as an open-ended design process rather than approached as the implementation of predefined solutions. Engaging with such processes can generate situated knowledge while making researchers part of the processes they seek to understand, raising questions about their role, influence, and legitimacy. SIGNIFICANCE By bringing together territorial thinking, participatory research and design-oriented approaches, this article proposes a perspective for addressing one of the major challenges facing agricultural systems. It extends the research agenda on pesticide-free transitions beyond the search for technical solutions and enabling conditions. It invites broader reflection on how research is conducted, how knowledge is produced through engagement with societal actors, and how researchers position themselves in relation to the transformations they seek to understand and contribute to.",
+  "oa_url": "https://www.sciencedirect.com/science/article/pii/S0308521X26004117/pdf",
+  "pdf_url": "https://www.sciencedirect.com/science/article/pii/S0308521X26004117/pdf",
+  "pdf_urls": [
+   "https://www.sciencedirect.com/science/article/pii/S0308521X26004117/pdf",
+   "https://doi.org/10.1016/j.agsy.2026.105043"
+  ],
+  "oa_status": "hybrid",
+  "cited_by": 0,
+  "keywords": [
+   "participatory research",
+   "agroecology",
+   "research frontiers"
+  ],
+  "topics": [
+   "Kelembagaan petani & tindakan kolektif"
+  ],
+  "priority_journal": true,
+  "language": "en",
+  "found_at": "2026-11-08",
+  "summary_id": null,
+  "relevance": 36
+ },
+ {
+  "id": "W7225302498",
+  "doi": "10.1111/pbr.70149",
+  "title": "Breeding Values and Genetic Parameters Estimation for Crude Palm Oil Yield Traits in Two Elaeis guineensis Jacq. Heterotic Groups Based on a Large‐Scale Multi‐Trial Genetic Design Planted in North Sumatra",
+  "date": "2026-11-05",
+  "year": "2026",
+  "journal": "Plant Breeding",
+  "issn": "01799541",
+  "publisher": "Wiley",
+  "authors": [
+   "Nicolas Turnbull",
+   "Sandrine Le Squin",
+   "Albert Flori",
+   "Virginie Riou",
+   "Sébastien Tisné",
+   "Alphonse Omoré",
+   "Indra Syahputra",
+   "Edyana Suryana",
+   "Tristan Durand-Gasselin",
+   "Bénoît Cochard",
+   "Florence Jacob"
+  ],
+  "abstract": "ABSTRACT Oil palm ( Elaeis guineensis ) accounts for the largest part of global edible oil production, and its genetic improvement is one of the main levers to increase yields while minimizing the social and environmental impacts. The oil palm breeding scheme implemented by PalmElit and its partners relies on the exploitation of the general combining abilities (GCAs) of parent palms from two heterotic groups. The GCAs are estimated for complex yield‐related traits through incomplete factorial mating designs planted in large‐scale trials. A total of 140 parents from the heterotic group A (GA) and 150 parents from the heterotic group B (GB) were evaluated through 450 test crosses assessed over a 9‐year period for 12 yield‐related traits. Breeding values (BVs) were estimated as pedigree‐based best linear unbiased predictions (P‐BLUP) using linear mixed models integrating pedigree information. Parental BVs were used to generate the best possible outcomes for A × B commercial hybrid production. The 45 best predicted combinations from the 10% best parents gave an adult yield ranging from 8.9 to 9.6 t crude palm oil (CPO) ha −1 yr. −1 which represents a genetic gain of 21.3% compared to the mean of all trialled crosses. In comparison, genetic progress obtained from the 10% best trialled crosses only reached 10.7% demonstrating the advantage of a breeding strategy based on accurate parental BV estimation and cross prediction. Overall genetic progress on oil yield in the best predicted crosses was found to be mostly attributable to the improvement of the oil extraction rate (OER), which averaged 29.2% due to the stringent pre‐selection on bunch quality traits applied to the parents. In addition, the genetic parameters calculated for all measured traits were used to characterize the breeding populations of restricted origins (BPROs) within both heterotic groups and define an optimal recombination strategy.",
+  "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/pbr.70149",
+  "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/pbr.70149",
+  "pdf_urls": [
+   "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/pbr.70149",
+   "https://doi.org/10.1111/pbr.70149"
+  ],
+  "oa_status": "bronze",
+  "cited_by": 0,
+  "keywords": [
+   "oil palm",
+   "breeding value",
+   "general combining ability",
+   "heterotic groups",
+   "oil extraction rate",
+   "genetic parameters",
+   "genetic gain",
+   "hybrid production"
+  ],
+  "topics": [
+   "Kelapa sawit"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-08",
+  "summary_id": null,
+  "relevance": 33
+ },
+ {
+  "id": "W7225293198",
+  "doi": "10.1080/03003930.2026.2755811",
+  "title": "Public policy and political trust within unequal societies: evidence from India",
+  "date": "2026-11-05",
+  "year": "2026",
+  "journal": "Local Government Studies",
+  "issn": "03003930",
+  "publisher": "Taylor & Francis",
+  "authors": [
+   "Ganesh Gorti",
+   "Nathan J. Cook",
+   "Krister Par Andersson"
+  ],
+  "abstract": "Deeply entrenched socioeconomic inequalities complicate public service delivery, especially for local governments in developing countries. In jurisdictions characterized by deep economic cleavages, it can be exceedingly difficult for local governments to fund and deliver public works that satisfy most citizens’ needs in a timely and efficient manner. However, one of the tragic consequences of extreme inequality is that it reduces people’s trust in their government. Here, we hypothesize that policy interventions that encourage the co-production of local public works, such as bottom-up, demand-driven rural development programs, help neutralize the negative effect of inequalities on trust in local governance institutions by improving perceptions of state responsiveness and building social capital. Using quasi-experimental methods, large-N panel data, and the case of the Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA) – the world’s largest rural employment guarantee initiative – our analysis finds support for these expectations.",
+  "oa_url": "https://ihds.umd.edu/sites/default/files/technical%20paper%201.pdf",
+  "pdf_url": "https://ihds.umd.edu/sites/default/files/technical%20paper%201.pdf",
+  "pdf_urls": [
+   "https://ihds.umd.edu/sites/default/files/technical%20paper%201.pdf",
+   "https://doi.org/10.1080/03003930.2026.2755811"
+  ],
+  "oa_status": "bronze",
+  "cited_by": 0,
+  "keywords": [
+   "public trust in government",
+   "socioeconomic disparities",
+   "municipal public works",
+   "co-production of public services",
+   "MGNREGA",
+   "rural employment guarantee",
+   "state responsiveness",
+   "social capital"
+  ],
+  "topics": [
+   "Pembangunan pedesaan & kebijakan pertanian"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-08",
+  "summary_id": null,
+  "relevance": 12
+ },
+ {
+  "id": "W7225309416",
+  "doi": "10.1016/j.jenvman.2026.131301",
+  "title": "Incentive-compatible risk preferences and sustainable land management adoption under climate risk: Evidence from semi-arid Kenya",
+  "date": "2026-11-05",
+  "year": "2026",
+  "journal": "Journal of Environmental Management",
+  "issn": "03014797",
+  "publisher": "Elsevier BV",
+  "authors": [
+   "Amos Nyangira Tirra",
+   "Rose Adhiambo Nyikal",
+   "John Mburu",
+   "Marcos Ritel",
+   "Henrietta Moore"
+  ],
+  "abstract": "Sustainable land management (SLM) practices are widely promoted as an effective pathway for mitigating climate-induced production risks and enhancing agricultural sustainability. However, their uptake has remained low across Sub-Saharan Africa despite the associated benefits. Existing studies have primarily evaluated socio-economic and institutional determinants, with limited evidence on incentivized risk preference and loss aversion, particularly for multiple practice adoption. This gap is especially consequential in arid and semi-arid regions, where production uncertainty is high and adoption decisions are inherently risky. In South Eastern Kenya (SEK), recurrent droughts and extreme climate events have contributed to widespread food insecurity, crop losses, and livestock deaths, making adoption important for agricultural sustainability and climate resilience. Using data from 867 farm households selected through multistage sampling in semi-arid SEK, this study examines how risk preference and loss aversion are associated with SLM adoption breadth. An incentivized field experiment was employed to elicit both measures while adoption behaviour was assessed using a generalized Poisson regression model. Risk-loving farmers show greater adoption breadth than risk-averse farmers, while higher loss aversion is associated with lower adoption breadth. Locus of control, aspiration, wealth, shock exposure and crop diversity are positively associated with adoption breadth. Perceived climate-resilience benefits show a modest positive association, whereas perceived productivity and environmental-quality benefits are negatively associated. These findings highlight the relevance of behavioural heterogeneity for strategies to broaden SLM adoption in climate-vulnerable semi-arid areas.",
+  "oa_url": "https://doi.org/10.1016/j.jenvman.2026.131301",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1016/j.jenvman.2026.131301"
+  ],
+  "oa_status": "hybrid",
+  "cited_by": 0,
+  "keywords": [
+   "sustainable land management",
+   "technology adoption",
+   "risk preferences",
+   "loss aversion",
+   "incentive compatibility",
+   "climate risk",
+   "semi-arid agriculture",
+   "drought"
+  ],
+  "topics": [
+   "Ketahanan pangan rumah tangga"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-08",
+  "summary_id": null,
+  "relevance": 11
  },
  {
   "id": "W7161868346",
