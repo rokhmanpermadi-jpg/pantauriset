@@ -1,5 +1,210 @@
 [
  {
+  "id": "W7225458273",
+  "doi": "10.1007/s43621-026-05141-1",
+  "title": "Good agricultural practices and technical efficiency in spatially differentiated rice farming systems in Indonesia",
+  "date": "2026-11-07",
+  "year": "2026",
+  "journal": "Discover Sustainability",
+  "issn": "26629984",
+  "publisher": "Springer Nature",
+  "authors": [
+   "Imade Yoga Prasada",
+   "Jangkung Handoyo Mulyo",
+   "Hani Perwitasari",
+   "Agus Dwi Nugroho"
+  ],
+  "abstract": "Abstract Spatial differences can shape both technical efficiency and the implementation of Good Agricultural Practices (GAP) in rice farming. This study compares technical efficiency and GAP implementation across urban, peri-urban, and rural rice farming systems and examines whether the relationship between GAP implementation and benchmark-level technical efficiency differs across these settings. Data from rice farmers in Kebumen and Pekalongan Regencies were analyzed using Stochastic Frontier Analysis (SFA), Kruskal–Wallis and Mann–Whitney tests, and binary logistic regression with spatial interaction terms. Urban farming systems recorded higher technical efficiency than rural systems and marginally higher efficiency than peri-urban systems, providing partial evidence of spatial differences in technical efficiency. GAP implementation also varied significantly across farming systems, with the highest level found in urban areas. Higher GAP implementation was positively associated with the likelihood of achieving benchmark-level technical efficiency, although the strength of this relationship differed across farming systems. Education was positively associated with benchmark-level technical efficiency in urban areas, while participation in agricultural extension and training was positively associated with benchmark-level technical efficiency in the pooled model and in urban farming systems. These findings highlight the importance of considering differences across farming systems when developing strategies to strengthen GAP implementation and improve technical efficiency in rice farming.",
+  "oa_url": "https://doi.org/10.1007/s43621-026-05141-1",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1007/s43621-026-05141-1"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Adopsi teknologi & pertanian digital"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-09",
+  "summary_id": {
+   "tujuan": "Membandingkan efisiensi teknis dan implementasi Good Agricultural Practices (GAP) pada sistem usahatani padi urban, peri-urban, dan perdesaan, serta menguji apakah hubungan GAP dengan pencapaian efisiensi tingkat benchmark berbeda antarsistem tersebut.",
+   "metode": "Studi observasional pada petani padi di Kabupaten Kebumen dan Pekalongan, dengan Stochastic Frontier Analysis, uji Kruskal–Wallis dan Mann–Whitney, serta regresi logistik biner dengan suku interaksi spasial. Periode pengumpulan data dan ukuran sampel tidak disebutkan dalam abstrak.",
+   "temuan": "Sistem urban memiliki efisiensi teknis lebih tinggi dibanding perdesaan dan sedikit lebih tinggi dibanding peri-urban, dengan bukti parsial. Implementasi GAP tertinggi di wilayah urban dan berasosiasi positif dengan peluang mencapai efisiensi benchmark, dengan kekuatan hubungan yang berbeda antarsistem. Pendidikan dan partisipasi penyuluhan/pelatihan berasosiasi positif dengan efisiensi benchmark, terutama di urban; temuan ini bersifat asosiatif, bukan kausal.",
+   "keterbatasan": "Tidak disebutkan secara eksplisit dalam abstrak. Dari desain tampak bahwa cakupan hanya dua kabupaten di Jawa Tengah, hubungan bersifat asosiatif, dan variasi antarsistem mungkin dipengaruhi faktor lain yang tidak terukur.",
+   "relevansi": "Kerangka perbandingan spasial (urban, peri-urban, perdesaan) dan kaitan GAP, penyuluhan, serta pendidikan dengan efisiensi berguna untuk studi kelembagaan petani dan akses pasar di Kalimantan Tengah. Namun komoditas padi di Jawa dan lahan irigasi berbeda dengan lahan rawa dan kelapa sawit di Kalimantan, sehingga perlu diuji ulang di konteks lokal.",
+   "skor": 3,
+   "model": "claude-haiku-5-5",
+   "sumber": "abstrak"
+  },
+  "relevance": 46
+ },
+ {
+  "id": "W7225451861",
+  "doi": "10.1186/s12889-026-29667-1",
+  "title": "The knowledge, attitude and practice (KAP) of safe medication use among pregnant women in Suzhou, China",
+  "date": "2026-11-07",
+  "year": "2026",
+  "journal": "BMC Public Health",
+  "issn": "14712458",
+  "publisher": "BioMed Central",
+  "authors": [
+   "Yuwei Wang",
+   "Jing Deng",
+   "Shuteng Zhang",
+   "Shuqi Xie",
+   "Jingjing Li",
+   "Li‐Ting Sheng",
+   "Yanxia Yu"
+  ],
+  "abstract": "Suzhou is characterized by advanced economy, high-quality healthcare, but a low birth rate, making good prenatal and postnatal care a priority, with medication safety as a key component. Medication use during pregnancy is common, yet inappropriate knowledge, attitudes, and practices (KAP) can increase the risk of adverse outcomes for both mother and fetus. Therefore, the study aims to systematically evaluate the KAP of pregnant women regarding safe medication use in Suzhou, China. A hospital-based, multicenter, cross-sectional study in Suzhou from June 2023 to March 2025 was carried out. A validated self‑designed questionnaire was used to assess the knowledge, attitude, and practice among pregnant women. Participants’ demographic, socioeconomic and maternal features were collected as covariates. Univariate and multivariate logistic regression analysis were used to identify the influencing factors for KAP. Restricted cubic splines (RCS) analysis was employed to assess potential nonlinear associations. A total of 2010 valid questionnaires were analyzed. Among the participants, the overall prevalence of medication use was 69.35%, with progestogens (57.11%), iron (12.49%) and levothyroxine (10.60%) being the most commonly used. Regarding safe medication use during pregnancy, 41.29% had good knowledge, 79.10% held good attitudes and 75.32% performed good practices. Higher education (aOR 1.28, 95% CI 1.08–1.50, p = 0.004) and monthly household income (aOR 1.19, 95% CI 1.08–1.31, p < 0.001) were independent positive predictors of knowledge. An inverted U-shaped association was observed between age and knowledge ( p -nonlinear = 0.012), peaking at 32.4 years. For attitude, only education level was significantly associated (aOR 1.42, 95% CI 1.21–1.67, p < 0.001). Significant positive factors influencing practice included older age(aOR 1.05, 95% CI 1.02–1.08, p < 0.001), medical occupation (aOR 1.72, 95% CI 1.04-3.00, p = 0.043), and higher number of medications used (aOR 1.31, 95% CI 1.16–1.47, p < 0.001), while higher education (aOR 0.78, 95% CI 0.65–0.93, p = 0.006) and rural residence(aOR 1.44, 95% CI 1.15–1.80, p < 0.001) was unexpectedly associated with poorer practices. There was inadequate knowledge, yet an overall positive attitude and practice among pregnant women in Suzhou. Higher education level demonstrated significantly better knowledge, more positive attitudes but poorer practices. Tailored interventions should be implemented.",
+  "oa_url": "https://doi.org/10.1186/s12889-026-29667-1",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1186/s12889-026-29667-1"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-09",
+  "summary_id": null,
+  "relevance": 15
+ },
+ {
+  "id": "W7225432156",
+  "doi": "10.1016/j.geoforum.2026.104909",
+  "title": "Smallholders beyond the snapshot: Tracing transient lives in Southeast Asia’s oil palm landscapes",
+  "date": "2026-11-06",
+  "year": "2026",
+  "journal": "Geoforum",
+  "issn": "00167185",
+  "publisher": "Elsevier BV",
+  "authors": [
+   "Yusuke Koizumi",
+   "Ryoji Soda"
+  ],
+  "abstract": "Oil palm smallholders have attracted growing attention in Southeast Asian agrarian studies, especially as research has disaggregated the category to reveal diverse constraints, opportunities, and forms of differentiation. Yet such approaches have an analytical limitation: they often capture smallholders as “snapshots” observed at the time of research, treating oil palm cultivation as a relatively stable component of livelihoods. To address this limitation, this paper develops the framework of “transient lives” to shift attention from smallholders as a stable analytical category to smallholding as a provisional position within changing livelihood trajectories. The framework examines how shifting access to land, labor, and capital is assembled across places through mobility at entry, and how the role of smallholding is subsequently recalibrated as oil palm’s long productive cycle intersects with changing household circumstances. Drawing on long-term field research in Sarawak, Malaysia, and Riau, Indonesia, the paper compares these processes under contrasting boom conditions. In Sarawak, a secure-boom setting, entry depends largely on labor and capital mobilized through multi-local livelihoods, whereas in Riau, an insecure-boom setting, it depends more on land access shaped by the timing of migration. Across both cases, the role of smallholding is repeatedly recalibrated as household circumstances and access to resources change over time. The framework thus foregrounds the spatial and temporal dynamics of livelihoods that are difficult to capture through snapshot analysis. It further suggests that policy interventions, particularly replanting programs, should account for gradual livelihood reassessment rather than treating replanting solely as a technical matter of renewing aging trees.",
+  "oa_url": "https://doi.org/10.1016/j.geoforum.2026.104909",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1016/j.geoforum.2026.104909"
+  ],
+  "oa_status": "hybrid",
+  "cited_by": 0,
+  "keywords": [
+   "smallholder farmers",
+   "oil palm",
+   "livelihood trajectories",
+   "Southeast Asia",
+   "rural livelihoods"
+  ],
+  "topics": [
+   "Kelapa sawit"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-09",
+  "summary_id": {
+   "tujuan": "Mengembangkan kerangka \"transient lives\" untuk memahami pekebun sawit kecil sebagai posisi sementara dalam lintasan nafkah yang berubah, bukan sebagai kategori yang stabil. Kerangka ini juga menilai implikasinya bagi kebijakan peremajaan sawit.",
+   "metode": "Penelitian lapangan jangka panjang (desain kualitatif longitudinal berbasis kasus) di Sarawak, Malaysia, dan Riau, Indonesia, dengan membandingkan kondisi boom yang aman dan yang tidak aman. Ukuran sampel, periode penelitian, dan teknik analisis tidak disebutkan dalam abstrak.",
+   "temuan": "Di Sarawak (boom aman), masuk ke perkebunan bergantung terutama pada tenaga kerja dan modal yang dimobilisasi melalui nafkah multi-lokal. Di Riau (boom tidak aman), akses lahan yang dibentuk oleh waktu migrasi lebih menentukan, dan peran kepemilikan kebun terus disesuaikan seiring perubahan rumah tangga. Temuan bersifat deskriptif-konseptual, sehingga menunjukkan asosiasi pola, bukan hubungan kausal yang terukur.",
+   "keterbatasan": "Ukuran sampel, periode lapangan, dan teknik analisis tidak disebutkan dalam abstrak. Desain studi kasus dua lokasi dengan konteks boom yang berbeda membatasi generalisasi ke wilayah dan kelompok petani lain.",
+   "relevansi": "Sangat dekat dengan agenda riset tentang pekebun sawit kecil, kelembagaan, dan pembangunan pedesaan di Kalimantan Tengah, dan memberi kerangka untuk menguji ulang dinamika nafkah di Riau dan wilayah Kalimantan. Argumen tentang peremajaan sebagai keputusan bertahap, bukan sekadar teknis, relevan untuk mengkaji program replanting di Indonesia, meski fokus studi ini bukan pemasaran atau adopsi digital.",
+   "skor": 4,
+   "model": "claude-haiku-5-5",
+   "sumber": "abstrak"
+  },
+  "relevance": 69
+ },
+ {
+  "id": "W7225404614",
+  "doi": "10.1080/15440478.2026.2755694",
+  "title": "Engineering Performance and Sustainability Assessment of Concrete Incorporating Banana Leaf Ash and Rice Husk Ash",
+  "date": "2026-11-06",
+  "year": "2026",
+  "journal": "Journal of Natural Fibers",
+  "issn": "1544046X",
+  "publisher": "Taylor & Francis",
+  "authors": [
+   "S Theodore Chandra",
+   "Karthik S",
+   "Prashant M. Topalakatti",
+   "Rajeeth T J",
+   "Durga Prashanth L"
+  ],
+  "abstract": "The environmental effects of cement manufacturing and river sand removal have increased interest in environmentally friendly construction materials that reduce resource use and greenhouse gas emissions. This study examined concrete using banana leaf ash (BLA) as a partial replacement for Portland cement and RHA to replace fine aggregate in concrete proportioned for an M30 target strength. Five mixes containing 0–20% each of BLA and RHA were evaluated for fresh properties, mechanical characteristics, durability, economic feasibility, and sustainability characteristics. The best-performing mix (M2) contained 10% BLA and 10% RHA and achieved the greatest 28 day compressive strength of 39.2 MPa, exceeding the control at 34.8 MPa. One-way ANOVA confirmed statistically significant differences among compressive strength values; Tukey HSD post-hoc analysis identified statistically significant differences in seven of the ten pairwise comparisons. M2 also showed higher split tensile and flexural strength and lower water absorption and sorptivity than the control. Cost comparison indicated minimal material cost savings due to substituting RHA for river sand. Sustainability analysis showed reduced cement, river sand, and embodied CO2 from cement manufacturing. These data indicate retained engineering performance overall.",
+  "oa_url": "https://www.tandfonline.com/doi/pdf/10.1080/15440478.2026.2755694?needAccess=true",
+  "pdf_url": "https://www.tandfonline.com/doi/pdf/10.1080/15440478.2026.2755694?needAccess=true",
+  "pdf_urls": [
+   "https://www.tandfonline.com/doi/pdf/10.1080/15440478.2026.2755694?needAccess=true",
+   "https://doi.org/10.1080/15440478.2026.2755694"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [
+   "rice husk ash",
+   "concrete",
+   "supplementary cementitious materials",
+   "compressive strength",
+   "durability",
+   "sustainability assessment",
+   "agricultural waste valorization"
+  ],
+  "topics": [
+   "Komoditas: pisang, nanas, padi rawa"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-09",
+  "summary_id": {
+   "tujuan": "Menguji pengaruh substitusi parsial semen Portland dengan abu daun pisang (BLA) dan pengganti agregat halus dengan abu sekam padi (RHA) terhadap kinerja teknik, daya tahan, kelayakan ekonomi, dan keberlanjutan beton mutu M30. Penelitian ini juga menilai apakah campuran tersebut tetap mempertahankan kinerja teknik secara keseluruhan.",
+   "metode": "Studi eksperimental laboratorium dengan lima campuran beton (0–20% BLA dan RHA) untuk target M30. Pengujian meliputi sifat segar, kuat tekan 28 hari, kuat tarik belah, kuat lentur, serapan air, dan sorptivitas, dengan analisis ANOVA satu arah dan uji lanjut Tukey HSD. Lokasi, periode, dan jumlah benda uji tidak disebutkan.",
+   "temuan": "Campuran M2 (10% BLA dan 10% RHA) menghasilkan kuat tekan 28 hari tertinggi, 39,2 MPa, dibanding kontrol 34,8 MPa. ANOVA menunjukkan perbedaan signifikan, dan Tukey HSD signifikan pada 7 dari 10 pasang perbandingan. M2 juga memiliki kuat tarik belah dan lentur lebih tinggi serta serapan air dan sorptivitas lebih rendah, meski penghematan biaya bahan minimal; temuan ini bersifat asosiatif pada skala laboratorium.",
+   "keterbatasan": "Tidak disebutkan secara eksplisit. Dari desain, studi tampaknya berskala laboratorium dengan rasio campuran terbatas, tanpa uji paparan lapangan jangka panjang, dan analisis ekonomi bersifat sederhana.",
+   "relevansi": "Kurang relevan dengan agenda pemasaran dan kelembagaan petani. Hanya ada kaitan tipis pada pemanfaatan limbah agro (daun pisang, sekam padi) sebagai nilai tambah dalam ekonomi sirkular yang dapat ditelaah dari sisi rantai nilai di Kalimantan Tengah.",
+   "skor": 2,
+   "model": "claude-haiku-5-5",
+   "sumber": "abstrak"
+  },
+  "relevance": 29
+ },
+ {
+  "id": "W7225457056",
+  "doi": "10.61336/im/26-11-12",
+  "title": "Antenatal Care Utilization and Its Determinants Among Rural, Urban, and Rural-Migrant Women in Karachi, Pakistan: A Comparative Study.",
+  "date": "2026-11-06",
+  "year": "2026",
+  "journal": "International Journal of Medicine",
+  "issn": "23091622",
+  "publisher": "",
+  "authors": [],
+  "abstract": "Background: Rural-urban disparities in antenatal care (ANC) utilization are well-documented in Pakistan, but little is known about rural women who migrate to urban areas for childbirth. This study compared ANC utilization among three groups in Karachi: rural residents with rural birth (Group A), urban residents with urban birth (Group B), and rural residents with urban birth (Group C). Methods: A comparative cross-sectional study was conducted among 207 women who had given birth within the preceding 12 months (69 per group). Data were collected using a structured interview schedule. ANC adequacy was defined as four or more visits. Chi-square tests, one-way ANOVA with Welch's correction, and binary logistic regression were used. Results: Just over three-quarters of the women (77.3%) had adequate ANC. Adequacy was lowest in Group A (62.3%) and clearly higher in Groups B (85.5%) and C (84.1%); the difference between the three groups was significant (χ² = 13.27, p = .001). Mean ANC visits were 3.45 (Group A), 3.81 (Group B), and 3.68 (Group C) (F = 4.21, p = .016); Group A had significantly fewer visits than Group B (mean difference = −0.36, p = .009). After adjustment for education, spouse education, and household size, Group B had 3.32 times the odds (95% CI: 1.33–8.26) and Group C had 2.99 times the odds (95% CI: 1.32–6.79) of adequate ANC compared with Group A. Socioeconomic covariates were not significant. Distance to hospital (p = .017) and hospital type (p < .001) differed significantly across groups. Conclusions: ANC utilization was significantly lower among rural women compared to urban and rural-migrant women. Migration for delivery was associated with utilization comparable to urban women, unexplained by socioeconomic factors. Targeted interventions are needed for rural women in Pakistan.",
+  "oa_url": "https://app.theinternationalmedicine.com/public/testarticle/pdfFile-1794034175856-177609672.pdf",
+  "pdf_url": "https://app.theinternationalmedicine.com/public/testarticle/pdfFile-1794034175856-177609672.pdf",
+  "pdf_urls": [
+   "https://app.theinternationalmedicine.com/public/testarticle/pdfFile-1794034175856-177609672.pdf",
+   "https://doi.org/10.61336/im/26-11-12"
+  ],
+  "oa_status": "diamond",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-09",
+  "summary_id": null,
+  "relevance": 19
+ },
+ {
   "id": "W7225419174",
   "doi": "10.1007/s43621-026-05219-w",
   "title": "The role of climate adaptation bundles in enhancing sustainable food security and resilience in Ethiopia",
