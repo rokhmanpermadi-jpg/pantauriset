@@ -1,5 +1,259 @@
 [
  {
+  "id": "W7225562802",
+  "doi": "10.1108/mscra-05-2026-0074",
+  "title": "Supply chain networks in horticulture: an assessment of farmers' perceptions and market linkages",
+  "date": "2026-11-09",
+  "year": "2026",
+  "journal": "Modern Supply Chain Research and Applications",
+  "issn": "26313871",
+  "publisher": "Emerald Publishing Limited",
+  "authors": [
+   "Vikas Kumar",
+   "Kulbhushan Chandel"
+  ],
+  "abstract": "Purpose This study investigates the determinants of horticulture supply chain efficiency (SCE) and the mediating effects of market linkage strength (MLS). Design/methodology/approach The study conceptualises and tests a partial least squares structural equation modelling model based on the resource-based view and relational exchange theory, with the data collected from 500 horticultural farmers from Shimla, Kullu and Kinnaur districts of Himachal Pradesh. Findings The findings show that logistics capability (LC) has the strongest effects on MLS (β = 0.395) and SCE (β = 0.388), followed by information and coordination (IC). Transaction fairness (TF) and digital adoption (DA) significantly strengthen MLS, while MLS positively influences SCE (β = 0.233). MLS provides complementary mediation for LC and IC and indirect-only mediation for TF and DA. Originality/value The study integrates operational capabilities and relational mechanisms to explain how market linkages contribute to horticultural supply-chain efficiency, offering context-specific evidence from an underexplored horticultural setting.",
+  "oa_url": "https://doi.org/10.1108/mscra-05-2026-0074",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1108/mscra-05-2026-0074"
+  ],
+  "oa_status": "diamond",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemasaran, rantai pasok & rantai nilai"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-10",
+  "summary_id": null,
+  "relevance": 32
+ },
+ {
+  "id": "W7225597406",
+  "doi": "10.3389/fsufs.2026.1990189",
+  "title": "Access, not ability: gender disparities in access to smartphone-based AI advisory tools for banana disease management among smallholder farmers in Rwanda",
+  "date": "2026-11-08",
+  "year": "2026",
+  "journal": "Frontiers in Sustainable Food Systems",
+  "issn": "2571581X",
+  "publisher": "Frontiers Media",
+  "authors": [
+   "Jean Paul Ndayizeye",
+   "Bonaventure Aman Omondi",
+   "Nozomi Kawarazuka",
+   "Vincent de Paul Bigirimana",
+   "Svetlana V. Gaidashova"
+  ],
+  "abstract": "Artificial intelligence (AI)-powered decision support tools can strengthen crop disease management, but their benefits reach farmers only when access is equitable. This study investigated how gender shapes access to smartphone-based AI advisory tools for banana disease management among smallholder farmers in Rwanda, using Tumaini, an AI-powered banana disease detection app, as a case. Using a mixed-method design, we combined a survey of 357 smallholder farmers across three districts, 12 focus groups, interviews with 61 farmers, and 12-month WhatsApp monitoring of 40 smartphone owners. Men had significantly greater smartphone ownership than women, and gender remained a significant predictor after controlling for education, income, and electricity access. However, among smartphone users, no significant gender differences were observed in digital literacy. Decision-making power was significantly lower among married women than married men. Despite high willingness to adopt, post-training use remained limited, with women significantly less likely to use the app than men. Men interacted with the app on significantly more days than women, though engagement per active day was comparable. Gender disparities in AI-tool use are associated with unequal access to devices and enabling conditions rather than with differences in technical capability. Addressing them requires gender-responsive interventions prioritizing equitable access, localized design (local-language and voice-guided interfaces), and structured group-based support. Such gender-responsive efforts are essential for women farmers to benefit equally from improved banana disease management and sustainable banana production, and for inclusive digital transformation in agriculture.",
+  "oa_url": "https://doi.org/10.3389/fsufs.2026.1990189",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.3389/fsufs.2026.1990189"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender",
+   "Komoditas: pisang, nanas, padi rawa"
+  ],
+  "priority_journal": true,
+  "language": "en",
+  "found_at": "2026-11-10",
+  "summary_id": {
+   "tujuan": "Menganalisis bagaimana gender membentuk akses dan penggunaan aplikasi saran AI berbasis smartphone (Tumaini) untuk pengelolaan penyakit pisang oleh petani kecil di Rwanda.",
+   "metode": "Desain campuran (mixed-method) di tiga distrik Rwanda, mencakup survei 357 petani kecil, 12 focus group, wawancara 61 petani, dan pemantauan WhatsApp selama 12 bulan terhadap 40 pemilik smartphone. Teknik analisis regresi tidak dirinci dalam abstrak, namun gender diuji setelah mengontrol pendidikan, pendapatan, dan akses listrik.",
+   "temuan": "Pemilik smartphone laki-laki jauh lebih banyak daripada perempuan, dan gender tetap menjadi prediktor signifikan setelah kontrol pendidikan, pendapatan, serta akses listrik. Di antara pengguna smartphone, tidak ada perbedaan signifikan dalam literasi digital, sedangkan perempuan menikah memiliki kekuasaan pengambilan keputusan yang lebih rendah. Meskipun minat adopsi tinggi, perempuan secara signifikan lebih jarang menggunakan aplikasi pascapelatihan; laki-laki aktif pada lebih banyak hari, tetapi intensitas per hari aktif setara. Temuan ini bersifat asosiatif, bukan kausal.",
+   "keterbatasan": "Abstrak tidak secara eksplisit mengakui keterbatasan. Dari desain tampak bahwa sub-sampel pemantauan hanya 40 pemilik smartphone, studi hanya menguji satu aplikasi di satu negara, dan desain survei tampak cross-sectional.",
+   "relevansi": "Sangat relevan untuk agenda adopsi teknologi digital dan kesenjangan akses pada petani kecil, serta peran kelompok tani (structured group-based support) dalam kelembagaan petani. Pola ketimpangan gender dan keputusan rumah tangga ini dapat diuji ulang pada petani sawit swadaya atau plasma di Kalimantan Tengah, meski komoditas dan konteks kelembagaannya berbeda.",
+   "skor": 4,
+   "model": "claude-haiku-5-5",
+   "sumber": "abstrak"
+  },
+  "relevance": 66
+ },
+ {
+  "id": "W7225461746",
+  "doi": "10.1080/23311932.2026.2760063",
+  "title": "Stakeholder-perceived effectiveness and implementation constraints of Zambia’s electronic voucher system: a mixed-methods study in Chongwe District",
+  "date": "2026-11-07",
+  "year": "2026",
+  "journal": "Cogent Food & Agriculture",
+  "issn": "23311932",
+  "publisher": "Cogent OA",
+  "authors": [
+   "Leah Mvula",
+   "Enock Siankwilimba"
+  ],
+  "abstract": "Zambia’s electronic Farmer Input Support Programme (e-FISP) is intended to widen farmer choice and shift subsidised-input redemption toward private agro-dealers. This descriptive cross-sectional mixed-methods study examined stakeholder-perceived service performance and implementation constraints in purposively selected sites in Chongwe District. The planned stakeholder sample was 96 (82 small-scale farmers, 6 agro-dealers, 5 village heads, and 3 agricultural extension officers), whereas the archived quantitative summaries available for audit used n = 59 for farmer outcomes and n = 5 for dealer results. Analysis-specific denominators are therefore reported and no district-wide sampling precision is claimed. Rounded archived agreement percentages indicated favourable perceptions of timely fertiliser access (81%), reduced distribution delays (79%), certified-seed access (78%), and allocation transparency (78%). The archived n = 59 outcome summary reported only the categories ‘increased slightly’ and ‘increased significantly’: 50.8% and 49.2%, respectively, for household food security, and 83.1% and 16.9% for both income and productivity. Because respondent-level records were not available for independent reconstruction, these figures are treated as descriptive perception signals rather than verified population prevalences or causal effects. Qualitative accounts identified delayed activation, weak connectivity, identity mismatches, platform failures, stock constraints, and delayed dealer reimbursement. The study identifies implementation mechanisms and monitoring priorities, not attributable programme impacts. Future evaluation should link administrative process data with objective longitudinal agricultural and welfare outcomes.",
+  "oa_url": "https://www.tandfonline.com/doi/pdf/10.1080/23311932.2026.2760063?needAccess=true",
+  "pdf_url": "https://www.tandfonline.com/doi/pdf/10.1080/23311932.2026.2760063?needAccess=true",
+  "pdf_urls": [
+   "https://www.tandfonline.com/doi/pdf/10.1080/23311932.2026.2760063?needAccess=true",
+   "https://doi.org/10.1080/23311932.2026.2760063"
+  ],
+  "oa_status": "diamond",
+  "cited_by": 0,
+  "keywords": [
+   "stakeholder perspectives",
+   "program effectiveness",
+   "implementation constraints",
+   "cash transfers",
+   "social protection",
+   "Zambia"
+  ],
+  "topics": [
+   "Ketahanan pangan rumah tangga",
+   "Adopsi teknologi & pertanian digital"
+  ],
+  "priority_journal": true,
+  "language": "en",
+  "found_at": "2026-11-10",
+  "summary_id": {
+   "tujuan": "Menilai persepsi pemangku kepentingan terhadap kinerja dan hambatan implementasi e-FISP Zambia, voucher input elektronik yang mengalihkan penebusan input bersubsidi ke agro-dealer swasta.",
+   "metode": "Studi cross-sectional deskriptif campuran di Distrik Chongwe dengan lokasi dipilih purposif. Sampel terencana 96 responden (82 petani, 6 dealer, 5 kepala desa, 3 penyuluh), tetapi ringkasan kuantitatif arsip memakai n=59 petani dan n=5 dealer; analisis berupa persentase deskriptif dan kualitatif. Periode pengumpulan data tidak disebutkan.",
+   "temuan": "Persepsi positif tercatat pada ketersediaan pupuk tepat waktu (81%), pengurangan keterlambatan distribusi (79%), akses benih bersertifikat (78%), dan transparansi alokasi (78%). Pada n=59 petani, ketahanan pangan terbagi hampir sama (50,8% 'meningkat sedikit'; 49,2% 'meningkat signifikan'), sedangkan pendapatan dan produktivitas masing-masing 83,1% dan 16,9% pada kategori tersebut. Hambatan meliputi aktivasi tertunda, konektivitas lemah, ketidaksesuaian identitas, kegagalan platform, keterbatasan stok, dan penggantian dana dealer yang terlambat; hasilnya bersifat persepsi, bukan dampak kausal.",
+   "keterbatasan": "Sampel kuantitatif lebih kecil dari rencana, tidak ada presisi tingkat distrik, dan data tingkat responden tidak tersedia untuk rekonstruksi ulang. Desain deskriptif tidak dapat mengatribusikan dampak program.",
+   "relevansi": "Relevan untuk kajian peran agro-dealer swasta dan digitalisasi distribusi input, yang dapat dibandingkan dengan e-RDKK dan Kartu Tani di Kalimantan Tengah. Pemisahan antara persepsi dan dampak, serta tuntutan menghubungkan data administratif dengan hasil longitudinal, layak diadopsi dalam evaluasi kelembagaan petani.",
+   "skor": 4,
+   "model": "claude-haiku-5-5",
+   "sumber": "abstrak"
+  },
+  "relevance": 57
+ },
+ {
+  "id": "W7225465439",
+  "doi": "10.1057/s41599-026-09112-9",
+  "title": "Gendered social norms in coastal farming systems in Bangladesh",
+  "date": "2026-11-07",
+  "year": "2026",
+  "journal": "Humanities and Social Sciences Communications",
+  "issn": "20551045",
+  "publisher": "Palgrave Macmillan",
+  "authors": [
+   "Mou Rani Sarker",
+   "Haseeb Md. Irfanullah",
+   "Maria Fay Rola‐Rubzen",
+   "Mary Ann Batas",
+   "Md. Abdul Haque",
+   "Humnath Bhandari",
+   "Andrew M. McKenzie",
+   "Md Abdur Rouf Sarkar"
+  ],
+  "abstract": "Women play a fundamental role in agriculture, yet gendered social norms significantly shape their participation and access to benefits within farming systems. While these norms influence agricultural structures and practices, their impact on women’s agency and economic contributions remains insufficiently examined. Our study addresses this gap by critically examining the influence of gendered social norms in coastal farming in Bangladesh. Data were collected from 320 men and women engaged in traditional farming across two coastal sub-districts in Barishal division using an open-structured questionnaire. The results are categorized into five interrelated domains of social norms shaping the coastal farming system. Findings reveal that while women have access to financial resources, their control remains limited. Structural barriers, not lack of interest, hinder their adoption of agricultural technology. While their leadership roles are accepted, decision-making opportunities remain restricted. Mobility constraints in farming and markets further limit agency, while gender meta-norms reinforce traditional domestic and childcare responsibilities. The Social Norms Index indicates that 85% of descriptive norms (what is typical) and 44% of injunctive norms (what is appropriate) in coastal farming systems are restrictive. Hence, descriptive constraints contribute more to women’s economic and social resilience as well as gender inequalities than normative norms. Women perceive social norms as more restrictive than men, highlighting persistent gender disparities. Despite this, findings suggest that social norms are dynamic, evolving through socio-political, cultural, and economic shifts. While progress is gradual and uneven, it presents opportunities to renegotiate patriarchy. The study recommends gender-transformative interventions that promote equitable participation, agency, and decision-making opportunities for women within farming systems while remaining responsive to local social contexts.",
+  "oa_url": "https://www.nature.com/articles/s41599-026-09112-9_reference.pdf",
+  "pdf_url": "https://www.nature.com/articles/s41599-026-09112-9_reference.pdf",
+  "pdf_urls": [
+   "https://www.nature.com/articles/s41599-026-09112-9_reference.pdf",
+   "https://doi.org/10.1057/s41599-026-09112-9"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [
+   "gender norms",
+   "gender roles",
+   "women in agriculture",
+   "smallholder farming",
+   "Bangladesh"
+  ],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-10",
+  "summary_id": {
+   "tujuan": "Menganalisis pengaruh norma sosial gender terhadap partisipasi, agensi, dan akses perempuan terhadap manfaat dalam sistem pertanian pesisir di Bangladesh.",
+   "metode": "Survei kuantitatif dengan kuesioner semi-terstruktur terhadap 320 laki-laki dan perempuan petani tradisional di dua sub-distrik pesisir, Divisi Barishal, Bangladesh. Analisis menggunakan Social Norms Index untuk norma deskriptif dan injunktif. Periode pengumpulan data tidak disebutkan.",
+   "temuan": "Perempuan memiliki akses terhadap sumber daya keuangan, tetapi kontrolnya terbatas; hambatan adopsi teknologi bersifat struktural, bukan karena kurangnya minat. Sebanyak 85% norma deskriptif dan 44% norma injunktif bersifat restriktif, dan perempuan memandang norma lebih membatasi dibanding laki-laki. Temuan ini bersifat asosiatif, bukan kausal.",
+   "keterbatasan": "Cakupan geografis hanya dua sub-distrik sehingga generalisasi terbatas. Desain survei tampaknya cross-sectional sehingga dinamika norma yang disebutkan belum dapat diuji secara longitudinal. Keterbatasan lain tidak disebutkan.",
+   "relevansi": "Temuan tentang hambatan struktural adopsi teknologi, mobilitas ke pasar, dan kontrol keuangan perempuan sangat relevan untuk meneliti akses pasar dan adopsi teknologi digital petani perempuan di Kalimantan Tengah. Kerangka Social Norms Index dapat diadaptasi untuk menguji peran perempuan dalam rantai nilai sawit dan pertanian lahan gambut.",
+   "skor": 4,
+   "model": "claude-haiku-5-5",
+   "sumber": "abstrak"
+  },
+  "relevance": 55
+ },
+ {
+  "id": "W7225562387",
+  "doi": "10.1002/puh2.70439",
+  "title": "Federalism and Health System Performance: Lessons From Sub‐National Case Studies in Nepal",
+  "date": "2026-11-07",
+  "year": "2026",
+  "journal": "Public Health Challenges",
+  "issn": "27692450",
+  "publisher": "Wiley",
+  "authors": [
+   "Deepak Paudel",
+   "Subheksha Adhikari",
+   "Ghanshyam Gautam",
+   "Yeshoda Aryal",
+   "Khim Bahadur Khadka",
+   "Sagar Prasad Ghimire",
+   "Sunita Dharel",
+   "Anil Bhattarai",
+   "Kimat Adhikari"
+  ],
+  "abstract": "ABSTRACT Background Nepal's sub‐national health systems face persistent capacity gaps requiring assessments beyond World Health Organization (WHO) building blocks to capture system performance, effectiveness, efficiency, and equity. Methods This short communication synthesizes three case studies: (1) technical assistance evaluating WHO framework capacity gains in municipal learning sites (pre/post scores) in two municipalities; (2) participatory institutional capacity assessments across seven domains in 79 municipalities of Karnali Province; and (3) a mixed‐methods study using 166 household surveys, 12 key informant interviews, and one focus group discussion in a rural municipality of Bagmati Province applying extended WHO framework. Results Targeted technical assistance yielded rapid municipal capacity gains, particularly in low‐baseline sites in Koshi and Madhesh; Karnali assessments showed legacy functions (supply, budgeting) outperforming new governance roles (policy, monitoring, and evaluation); rural municipality in Bagmati's moderate performance linked effectiveness, efficiency, and equity to geographic access barriers, staff shortages, gender biases, insurance gaps, and disaster impacts. Conclusions Federalism's early phase demands urgent tier‐to‐tier collaboration and bottom‐up assessments incorporating community realities, gender, and social inclusion, which are not captured in the WHO's building blocks. Streamlined, harmonized support across federalized role division is essential to build responsive, people‐centered sub‐national health systems meeting Nepal's evolving demands.",
+  "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/puh2.70439",
+  "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/puh2.70439",
+  "pdf_urls": [
+   "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/puh2.70439",
+   "https://doi.org/10.1002/puh2.70439"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-10",
+  "summary_id": null,
+  "relevance": 26
+ },
+ {
+  "id": "W7225454809",
+  "doi": "10.1016/j.indcrop.2026.124752",
+  "title": "Stepwise cellulase-assisted solid-state processing upgrades plantation agarwood powder into a chemically characterized and storage-stable aromatic solid",
+  "date": "2026-11-07",
+  "year": "2026",
+  "journal": "Industrial Crops and Products",
+  "issn": "09266690",
+  "publisher": "Elsevier BV",
+  "authors": [
+   "Zhengcheng Zhang",
+   "Rui Wang",
+   "Pushuang Gong",
+   "Shan Wang",
+   "Yi Song",
+   "Xia Luo"
+  ],
+  "abstract": "Low-grade agarwood powder from plantation-grown Aquilaria sinensis (Lour.) Spreng. retains sesquiterpenoids and 2-(2-phenylethyl)chromones, but limited accessibility and rapid volatile loss restrict higher-value use. This study tested whether stepwise cellulase-assisted solid-state processing could improve chemical-marker abundance, time-dependent headspace behavior, and storage stability while retaining the native solid as the product. A divided 0.60% enzyme dose outperformed one-time 0.30%, 0.60%, and 0.90% treatments. Relative to untreated material, the optimized route increased the sum of nine authentic-standard quantified volatiles from 51.98 to 92.18 µg/g dry weight and six chromone-related analytical features from 1.503 to 2.516 mg agarotetrol equivalents/g dry weight. Time-resolved measurements showed an early increase in total reducing sugars and glucose, followed by organic-acid accumulation, pH decline, and later marker enrichment; under the two process-perturbation controls, substantial residual hydrolase activity and carbohydrate mobilization were retained without the full acidification-and-marker-enrichment pattern observed in OPT. Fitted-plateau analysis of the normalized HS-SPME headspace response increased the 25 °C half-plateau time from 10.93 to 17.36 h and reduced the apparent fitted 72 h headspace-response plateau from 82.83% to 71.01%. After 30 d at 40 °C/75% RH, the optimized material retained 77.18% of volatile markers, and three independent 2 kg batches showed low variability in chemical, storage, and material-property endpoints. Stepwise cellulase-assisted solid-state processing therefore provides a reproducible post-harvest route for upgrading plantation agarwood powder into a chemically characterized, storage-stable aromatic solid without an external carrier or preparative extraction.",
+  "oa_url": "https://doi.org/10.1016/j.indcrop.2026.124752",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1016/j.indcrop.2026.124752"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [
+   "solid-state processing",
+   "storage stability"
+  ],
+  "topics": [
+   "Tenaga kerja & produktivitas perkebunan"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-10",
+  "summary_id": null,
+  "relevance": 0
+ },
+ {
   "id": "W7225458273",
   "doi": "10.1007/s43621-026-05141-1",
   "title": "Good agricultural practices and technical efficiency in spatially differentiated rice farming systems in Indonesia",
