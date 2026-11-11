@@ -1,5 +1,918 @@
 [
  {
+  "id": "W7225631392",
+  "doi": "10.1007/s42535-026-01928-9",
+  "title": "Indigenous edible vegetables processing practices and their role in achieving four SDGs",
+  "date": "2026-11-10",
+  "year": "2026",
+  "journal": "Vegetos",
+  "issn": "09704078",
+  "publisher": "Springer Science+Business Media",
+  "authors": [
+   "Mokgaetji Georginah Mokganya"
+  ],
+  "abstract": "Abstract Rural South African communities continue to face food insecurity and malnutrition, yet valuable indigenous knowledge of wild edible vegetables remains insufficiently documented, limiting its contribution to sustainable nutrition. Among the Vhavenda people of Vhembe District, Limpopo Province, wild vegetables form an essential component of diet, cultural identity, and culinary heritage, offering an example of a resilient, bioculturally rooted food system. Through semi-structured interviews with 160 participants across age groups, this study recorded the diversity of wild vegetables, their edible parts, and preparation methods. A total of 46 species were identified, with ten frequently cited. Preparation techniques included cooking species individually or blending them, as seen with Cleome gynandra and Amaranthus dubius , which are often combined for improved flavour and nutrient density. Leaves were the most consumed plant part, though flowers, fruits, stems, and tubers also contributed to dietary variety. Dishes such as bovhola , made from different parts of Cucurbita pepo , illustrate the culinary versatility and cultural continuity embedded in these practices. The findings highlight the urgent need to preserve indigenous knowledge and utilise the nutritional value of wild vegetables. Strengthening these practices supports SDG 2, SDG 3, SDG 12, and SDG 15 by enhancing nutrition, promoting sustainable consumption, and conserving biodiversity and cultural landscapes.",
+  "oa_url": "https://doi.org/10.1007/s42535-026-01928-9",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1007/s42535-026-01928-9"
+  ],
+  "oa_status": "hybrid",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Ketahanan pangan rumah tangga"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-11",
+  "summary_id": null,
+  "relevance": 7
+ },
+ {
+  "id": "W7225659467",
+  "doi": "10.1016/j.indcrop.2026.124556",
+  "title": "Market access, agricultural product prices, and smallholder farm income in China",
+  "date": "2026-11-09",
+  "year": "2026",
+  "journal": "Industrial Crops and Products",
+  "issn": "09266690",
+  "publisher": "Elsevier BV",
+  "authors": [
+   "Ling Chen",
+   "Ming Li",
+   "Qiang Zhao"
+  ],
+  "abstract": "This paper examines the causal effects of digital market access on agricultural product prices and smallholder farm income in China, using a balanced county panel. We construct a Digital Market Access Index (DMAI) through principal component analysis of multiple dimensions: e-commerce adoption, mobile payment penetration, price information access, and rural logistics services. County and year fixed effects, instrumental variable estimation, and Hansen panel threshold regression identify large, nonlinear, and causally robust effects of DMAI on farm gate prices, price transmission efficiency, marketing margins, and farm income. An improvement in DMAI raises log farm gate prices and log per-capita farm income while compressing wholesale-to-retail marketing margins. Threshold analysis identifies significant transition points that partition counties into early-adoption, expansion, and maturity regimes, with increasing marginal effects across regimes. Bootstrap mediation decomposes the total price effect into price information capacity, supply chain reduction, bargaining power, and logistics efficiency channels, which jointly account for most of the total effect. Moderation analysis reveals complementarities with road infrastructure, farmer education, and cooperative membership. Spatial Durbin models document significant cross-county price spillovers. Results are robust across multiple alternative specifications.",
+  "oa_url": "https://doi.org/10.1016/j.indcrop.2026.124556",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1016/j.indcrop.2026.124556"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Akses & informasi pasar petani",
+   "Pemasaran, rantai pasok & rantai nilai",
+   "Kelembagaan petani & tindakan kolektif",
+   "Adopsi teknologi & pertanian digital"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-11",
+  "summary_id": {
+   "tujuan": "Menguji pengaruh akses pasar digital terhadap harga produk pertanian, margin pemasaran, dan pendapatan petani kecil di China.",
+   "metode": "Panel kabupaten seimbang dengan efek tetap kabupaten dan tahun, estimasi variabel instrumental, dan regresi ambang Hansen; indeks akses pasar digital (DMAI) dibentuk dengan analisis komponen utama. Mediasi bootstrap, moderasi, dan model Durbin spasial juga digunakan; periode dan jumlah sampel tidak disebutkan.",
+   "temuan": "Peningkatan DMAI menaikkan log harga gerbang usaha tani dan log pendapatan per kapita, serta menekan margin grosir-ke-eceran. Ambang batas membagi kabupaten ke tiga rezim dengan efek marginal yang meningkat. Saluran informasi harga, pemangkasan rantai pasok, daya tawar, dan logistik menjelaskan sebagian besar efek total, serta ditemukan spillover harga antarkabupaten.",
+   "keterbatasan": "Klaim kausal bergantung pada validitas instrumen yang tidak dirinci dalam abstrak. Analisis mediasi bersifat asosiatif sehingga urutan kausal antarsaluran belum terbukti. Generalisasi ke konteks non-China perlu kehati-hatian.",
+   "relevansi": "Sangat relevan untuk studi akses pasar petani kecil dan rantai nilai di Kalimantan Tengah, terutama pengukuran akses digital melalui indeks komposit dan dampaknya pada margin harga. Interaksi dengan jalan, pendidikan, dan keanggotaan koperasi dapat diuji ulang pada kelembagaan petani di wilayah pedesaan Kalimantan.",
+   "skor": 4,
+   "model": "claude-haiku-5-5",
+   "sumber": "abstrak"
+  },
+  "relevance": 70
+ },
+ {
+  "id": "W7225616601",
+  "doi": "10.12688/f1000research.187495.1",
+  "title": "Communication Network Structure and Information Flow in Layer Duck Agribusiness: A Social Network Analysis of Farmer Groups in Indonesia",
+  "date": "2026-11-09",
+  "year": "2026",
+  "journal": "F1000Research",
+  "issn": "20461402",
+  "publisher": "Faculty of 1000",
+  "authors": [
+   "Dyah Gandasari",
+   "Diena Dwidienawati",
+   "David Tjahjana",
+   "Mochamad Sugiarto"
+  ],
+  "abstract": "Background The agribusiness sector plays a crucial role in supporting economic development and rural livelihoods in Indonesia. However, the effectiveness of farmer groups, particularly in layer duck agribusiness, is often constrained by limited information flow and weak coordination among members. Methods A quantitative descriptive design was employed, involving all 10 members of the Rambon Sari farmer group in Cirebon Regency through a census method. Data were collected using sociometric questionnaires and analyzed using a Social Network Analysis (SNA) approach with UCINET 6 to measure degree, closeness, betweenness centrality, and network structure. Results The results reveal that the communication network exhibits low connectivity, with an average degree centrality of 1–2, indicating limited direct communication ties among members. High closeness centrality values suggest low efficiency in information access across the network. The leader of the group could be a mediator between the group and sources of information from outside the group to obtain information on cultivation, institutional, and capital. The network is highly centralized, with key actors such as the group leader and administrators dominating information flows. Additionally, members show significant reliance on external sources for critical information, particularly regarding livestock health and marketing. Conclusions These findings indicate that the group has not yet functioned effectively as a coordinated communication system. This condition reflects that the group is not yet functioning optimally as an effective communication system supporting the exchange of agribusiness information.",
+  "oa_url": "https://doi.org/10.12688/f1000research.187495.1",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.12688/f1000research.187495.1"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Kelembagaan petani & tindakan kolektif",
+   "Pembangunan pedesaan & kebijakan pertanian"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-11",
+  "summary_id": {
+   "tujuan": "Menganalisis struktur jaringan komunikasi dan aliran informasi dalam agribisnis ayam petelur (layer duck) pada kelompok tani di Indonesia. Penelitian ini juga menilai sejauh mana kelompok berfungsi sebagai sistem komunikasi yang terkoordinasi.",
+   "metode": "Desain deskriptif kuantitatif dengan metode sensus terhadap seluruh 10 anggota Kelompok Tani Rambon Sari di Kabupaten Cirebon. Data dikumpulkan melalui kuesioner sosiometrik dan dianalisis dengan Social Network Analysis (SNA) menggunakan UCINET 6 untuk degree, closeness, dan betweenness centrality. Periode pengumpulan data tidak disebutkan.",
+   "temuan": "Jaringan komunikasi memiliki konektivitas rendah, dengan rata-rata degree centrality 1–2. Jaringan bersifat tersentralisasi, dengan ketua dan pengurus mendominasi aliran informasi, serta ketua berperan sebagai penghubung ke sumber informasi luar kelompok. Anggota juga sangat bergantung pada sumber eksternal untuk informasi kesehatan ternak dan pemasaran. Karena desainnya deskriptif tanpa uji inferensial, temuan ini bersifat asosiatif, bukan kausal.",
+   "keterbatasan": "Jumlah responden sangat kecil (n=10) dan hanya mencakup satu kelompok, sehingga generalisasi terbatas. Desain cross-sectional dan ketiadaan uji statistik inferensial membatasi kesimpulan tentang hubungan sebab-akibat. Penafsiran closeness centrality dalam abstrak tampak tidak konsisten, karena nilai tinggi umumnya menunjukkan akses informasi yang efisien.",
+   "relevansi": "Penelitian ini relevan dengan agenda kelembagaan petani dan akses informasi pasar, khususnya peran ketua kelompok sebagai broker informasi. Metode SNA dapat diterapkan untuk memetakan jaringan kelompok tani sawit atau padi di Kalimantan Tengah. Konteks komoditas unggas perlu diadaptasi sebelum dibandingkan dengan rantai nilai sawit.",
+   "skor": 4,
+   "model": "claude-haiku-5-5",
+   "sumber": "abstrak"
+  },
+  "relevance": 62
+ },
+ {
+  "id": "W7225657726",
+  "doi": "10.3389/fsufs.2026.1951168",
+  "title": "Can rural e-commerce policies enhance the total factor productivity of agricultural enterprises? Causal inference based on dual machine learning models",
+  "date": "2026-11-09",
+  "year": "2026",
+  "journal": "Frontiers in Sustainable Food Systems",
+  "issn": "2571581X",
+  "publisher": "Frontiers Media",
+  "authors": [
+   "Hailong Yan",
+   "Luzhong Zhang",
+   "Xiang Li",
+   "Yunfang Yang"
+  ],
+  "abstract": "Introduction Rural e-commerce policies, as an important component of the digital economy, are profoundly reshaping the agricultural value chain and food supply chain, and are of great significance for enhancing the economic efficiency of the grain industry. Methods Based on the panel data of 231 A-share agricultural listed enterprises in China from 2010 to 2024, this paper takes the comprehensive demonstration policy of e-commerce entering rural areas in China as the standard natural experiment, constructs A dual machine learning model, and systematically examines the impact of rural e-commerce policies (RECP) on the total factor productivity (TFP) of agricultural enterprises and its mechanism of action. Results The research findings are as follows: (1) RECP significantly enhanced the TFP of agricultural enterprises. After introducing high-dimensional fixed effects, replacing machine learning algorithms, and using instrumental variable methods to alleviate potential endogeneity, the conclusion remained robust. (2) Mechanism analysis indicates that RECP mainly promotes the improvement of TFP in agricultural enterprises by reducing information asymmetry, increasing R&D investment and optimizing the human capital structure. (3) Heterogeneity analysis shows that this promoting effect is more significant in enterprises in the growth stage, those with lower financing constraints, those engaged in agricultural product processing, and large listed agricultural enterprises. Discussion The research conclusion provides new empirical evidence for understanding the micro-mechanism by which the digital economy empowers the productivity improvement of listed agricultural enterprises, and offers policy implications for enhancing the supporting digital ecosystem of listed agricultural enterprises.",
+  "oa_url": "https://doi.org/10.3389/fsufs.2026.1951168",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.3389/fsufs.2026.1951168"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemasaran, rantai pasok & rantai nilai",
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": true,
+  "language": "en",
+  "found_at": "2026-11-11",
+  "summary_id": {
+   "tujuan": "Menguji dampak kebijakan e-commerce pedesaan (RECP) terhadap produktivitas total faktor (TFP) perusahaan agribisnis terdaftar serta mekanisme yang mendasarinya di Cina. Studi ini juga menelaah heterogenitas efek berdasarkan tahap pertumbuhan, kendala pembiayaan, jenis usaha, dan skala perusahaan.",
+   "metode": "Desain kuasi-eksperimen dengan kebijakan demonstrasi nasional e-commerce masuk desa sebagai pengalaman alamiah, menggunakan data panel 231 perusahaan agribisnis terdaftar di bursa saham A-share periode 2010-2024. Analisisnya memakai dual (double) machine learning, dengan uji ketahanan melalui efek tetap berdimensi tinggi, algoritma ML alternatif, dan variabel instrumental.",
+   "temuan": "RECP secara signifikan meningkatkan TFP perusahaan agribisnis, dan hasilnya bertahan pada berbagai uji ketahanan. Mekanisme yang diajukan mencakup penurunan asimetri informasi, peningkatan investasi R&D, dan perbaikan struktur modal manusia. Efek lebih kuat pada perusahaan tahap pertumbuhan, berkendala pembiayaan rendah, bergerak di pengolahan hasil pertanian, dan berskala besar; abstrak tidak melaporkan besaran koefisien.",
+   "keterbatasan": "Abstrak tidak menyebut keterbatasan secara eksplisit. Dari desainnya, sampel hanya perusahaan terdaftar bursa sehingga tidak merepresentasikan petani kecil, mekanisme bersifat asosiatif, dan generalisasi ke konteks non-Cina perlu kehati-hatian.",
+   "relevansi": "Studi ini relevan untuk menelaah peran digitalisasi dan kebijakan e-commerce dalam peningkatan produktivitas dan rantai nilai agribisnis, yang dapat diuji ulang pada program serupa di Indonesia. Namun, fokus pada perusahaan terdaftar membuatnya kurang langsung terkait akses pasar petani kecil, kelembagaan petani, maupun kelapa sawit di Kalimantan Tengah.",
+   "skor": 3,
+   "model": "claude-haiku-5-5",
+   "sumber": "abstrak"
+  },
+  "relevance": 53
+ },
+ {
+  "id": "W7225612922",
+  "doi": "10.3390/agriculture16212452",
+  "title": "Research on the Impact of Demographic Structure Transition on Rural Economic Resilience: Empirical Evidence from China",
+  "date": "2026-11-09",
+  "year": "2026",
+  "journal": "Agriculture",
+  "issn": "20770472",
+  "publisher": "Multidisciplinary Digital Publishing Institute",
+  "authors": [
+   "Zeyu Wang",
+   "Xiaodong Chang",
+   "Chenyang Liu"
+  ],
+  "abstract": "Enhancing rural economic resilience is a critical pathway for unleashing endogenous momentum in rural development, safeguarding national food security, and ensuring macroeconomic stability. Employing panel data from 31 Chinese provinces (autonomous regions and municipalities) spanning 2008–2023, this study employs the FAHP–Entropy Weight–TOPSIS composite method to measure the levels of rural demographic structure transition and rural economic resilience. We systematically integrate two-way fixed effects models, mediation-moderation models, and Spatial Durbin Models to identify the mechanisms, transmission pathways, and spatial spillover characteristics through which rural demographic structure transition affects rural economic resilience. The findings indicate that: ① The spatiotemporal evolution of China’s rural economic resilience is characterized by “stage-differentiated growth, synergistic evolution across dimensions, and regional pattern divergence,” and it currently displays a pronounced “core–periphery” structure. ② Rural demographic structure transition exerts a significant and robust negative effect on rural economic resilience. Heterogeneity analysis reveals that this inhibitory effect is only significant in major grain-producing areas and the central region, primarily weakening the resistance-recovery and innovation-reconfiguration capabilities of the rural economy. ③ The mechanism analysis reveals that the mediating effect of agricultural technological progress is not empirically supported, while the scale of cultivated land operations and rural digital infrastructure further amplify this negative effect. From a spatial perspective, changes in rural population structure significantly inhibit the development of rural economic resilience in the local region while generating a significant positive spillover effect on rural economic resilience in neighboring regions. However, the estimated total effects are highly sensitive to the specification of the spatial weight matrix. These findings should therefore be interpreted with caution. ④ Based on these findings, this paper constructs optimization pathways encompassing differentiated talent cultivation, industrial technology empowerment, scale operation adaptation, digital literacy enhancement, and cross-regional agricultural synergy, providing theoretical reference and policy references for hierarchically enhancing rural economic resilience and promoting high-quality agricultural development in the context of demographic structural transformation in the new era.",
+  "oa_url": "https://doi.org/10.3390/agriculture16212452",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.3390/agriculture16212452"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender",
+   "Ketahanan pangan rumah tangga"
+  ],
+  "priority_journal": true,
+  "language": "en",
+  "found_at": "2026-11-11",
+  "summary_id": null,
+  "relevance": 49
+ },
+ {
+  "id": "W7127166790",
+  "doi": "10.1016/j.agsy.2026.105062",
+  "title": "GenderUp in practice: Barriers and opportunities for responsible scaling in agricultural research for development",
+  "date": "2026-11-09",
+  "year": "2026",
+  "journal": "Agricultural Systems",
+  "issn": "0308521X",
+  "publisher": "Elsevier BV",
+  "authors": [
+   "Ebenezer Ngissah",
+   "Esther Kihoro",
+   "Cees Leeuwis",
+   "Katharine Legun",
+   "Marc Schut",
+   "Mareike Smolka",
+   "Comfort Kudadjie Freeman",
+   "Erin McGuire",
+   "Adebayo  Adebola Bunmi",
+   "Hanna Ewell",
+   "Jasada Ijudai"
+  ],
+  "abstract": "CONTEXT,To encourage agri-food system change, Agricultural Research for Development (AR4D) organizations emphasize the integration of gender and social diversity into innovation design and scaling, but translating these commitments into practice remains challenging. Although scaling decision support tools (SDSTs) look promising, research on their practical effects is limited.,OBJECTIVE,This study assesses GenderUp, a dialogue-based Scaling Decision Support Tool (SDST) designed to identify relevant social diversity, anticipate differentiated consequences, and adapt scaling strategies for equity, by (i) eliciting its underlying mechanisms of change through which it is expected to influence scaling processes and (ii) examining how and under what conditions it contributes to socially inclusive scaling.,METHODS,We adopted a realist evaluation approach—using document analysis, observations of a two-day GenderUp workshop, follow-up observations of 5 days-long project inception meetings one year and six months after the workshop, and interviews and focus group discussions with stakeholders across the value chain—to examine and test GenderUp’s elicited mechanisms of change in the context of scaling high-quality cassava peel (HQCP) mash technology in Nigeria.,RESULTS AND CONCLUSIONS,GenderUp triggered critical reflection enabling teams to identify diversity dimensions, articulate intersectional at-risk profiles, and revise scaling-strategy elements. However, donor requirements and consortium structures shaped the translation of insights into actionable strategies, enabling participation but constraining implementation of re-designed scaling strategies by prioritizing quantitative targets. Limited local representation meant that outcomes reflected national-level assumptions rather than local realities; and insufficient historical reflexivity left key barriers—e.g. feed adulteration—undetected.,SIGNIFICANCE,The study provides empirical insight into how SDSTs can advance inclusive scaling in AR4D and highlights key enabling conditions and methodological improvements such as: enhancing participant selection guidance, incorporating local cross-checking and information gathering , and engaging donors and consortium partners more explicitly. These can strengthen the contextual validity and institutional uptake of findings generated through tools like GenderUp.",
+  "oa_url": "https://doi.org/10.1016/j.agsy.2026.105062",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1016/j.agsy.2026.105062",
+   "https://doi.org/10.2139/ssrn.6170348"
+  ],
+  "oa_status": "hybrid",
+  "cited_by": 0,
+  "keywords": [
+   "agricultural research for development",
+   "intersectionality",
+   "donor requirements",
+   "local representation",
+   "feed adulteration",
+   "mechanisms of change"
+  ],
+  "topics": [
+   "Pemasaran, rantai pasok & rantai nilai",
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": true,
+  "language": "en",
+  "found_at": "2026-11-11",
+  "summary_id": null,
+  "relevance": 44
+ },
+ {
+  "id": "W7225654639",
+  "doi": "10.1016/j.cliser.2026.100748",
+  "title": "Climate change risks and agricultural adaptation strategies: A Cross-sectional survey of the riverine char lands in Bangladesh",
+  "date": "2026-11-09",
+  "year": "2026",
+  "journal": "Climate Services",
+  "issn": "24058807",
+  "publisher": "Elsevier BV",
+  "authors": [
+   "Ashfaq Ahmad Shah",
+   "A K M Kanak Pervez",
+   "Waheed Ullah",
+   "Md Mahedi",
+   "Md Shahriar Kabir",
+   "Bader Alhafi Alotaibi"
+  ],
+  "abstract": "Climate change is having an increasingly severe effect on Bangladesh's agricultural sector, and the riverine char lands (remote, flood-prone sandbar islands) are among the most vulnerable areas. This study examines the relationship between char farmers' perceptions of climate change and their adaptive responses, and assesses how socio-demographic and institutional factors are associated with the adoption of those responses. A survey of 267 farmers in Phulchhari Upazila, Gaibandha District, was analyzed using descriptive statistics and linear regression models. Most farmers recognize climate change as a threat, though not as an immediately catastrophic one, and identify drought and sudden flooding as the most serious risks to their livelihoods. This perception is mirrored in a measured pattern of adaptation: farmers have mainly adopted practical, low-cost, agriculturally oriented measures such as crop diversification and agroforestry, indicating a response that is reactive and incremental rather than transformative. Perception and adaptation are strongly associated with the availability of climate information and with financial capacity. Access to information is the factor most strongly associated with both risk perception and adoption, while income is strongly associated with adoption. Extension service access is also positively associated with adoption. In contrast, formal education shows a negative association, and the traditional socio-demographic characteristics (age, gender, and farming experience) are largely insignificant, indicating that adaptation is associated not with social characteristics but with access to knowledge and resources. Overall, the results are consistent with an association linking information, perception, and adaptation. However, disparities in access to information, financial resources, and institutional support may limit more substantial, transformative change. Stronger policy measures are needed to strengthen locally relevant climate information and extension services so that awareness translates more effectively into action. Greater financial support is also essential to enable farmers to adopt more effective adaptation solutions. At the same time, educational and institutional systems should be reoriented to emphasize regionally relevant climate information and the equitable provision of services, in order to reduce disparities in adaptive capacity. Practical Implications The study's findings point to three priorities for strengthening climate resilience in Bangladesh's char lands and comparable settings, each supported by the regression results: expanding access to climate information, strengthening farmers' financial capacity, and improving the reach and consistency of agricultural extension services. Access to information and income were associated with both risk perception and adoption, and extension service access with adoption. These were the factors most strongly associated with adaptive behavior in this study, and they could form the core of a policy response. Beyond these findings, the wider adaptation literature, which emphasizes early warning, climate information and extension support for char farmers, suggests more specific interventions that could translate these priorities into practice in char environments, where mobility and instability limit the effectiveness of fixed infrastructure. For information dissemination, illustrative options include mobile-based alert systems, toll-free agricultural helplines, and community radio programming aligned with the agricultural calendar. For financial support, options could include microfinance products with repayment schedules aligned with seasonal income cycles, weather-indexed insurance with automatic payouts, and mobile money platforms for direct subsidy delivery, given that access to credit is an important barrier to adaptation among hazard-prone rural households in Bangladesh. For extension services, mobile extension units able to follow shifting char settlements, paired with digital platforms offering location-specific advice, may help address the irregular extension contact reported in this study. These specific measures illustrate how the study's core findings could be operationalized, but they have not themselves been tested in this research and should be treated as proposals for further piloting rather than as direct implications of the data. The negative association between education and both risk perception and adoption, together with a possible U-shaped pattern that should be treated as exploratory, may point to a need to integrate climate science and local environmental knowledge into schooling at all levels. There may also be value in developing formal channels for incorporating indigenous knowledge of river and flood behavior into early warning and extension systems. Finally, given the cross-sectional design of this study, continued monitoring and participatory research would help clarify the longer-term effectiveness of these measures and support the development of scalable, evidence-based policies for climate-vulnerable communities more broadly.",
+  "oa_url": "https://doi.org/10.1016/j.cliser.2026.100748",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1016/j.cliser.2026.100748"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender",
+   "Adopsi teknologi & pertanian digital"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-11",
+  "summary_id": null,
+  "relevance": 39
+ },
+ {
+  "id": "W7225629984",
+  "doi": "10.3390/su182111433",
+  "title": "Digital Engagement in an Ageing Society: Rising Engagement, Persistent Disparities, and Multilevel Associated Factors",
+  "date": "2026-11-09",
+  "year": "2026",
+  "journal": "Sustainability",
+  "issn": "20711050",
+  "publisher": "Multidisciplinary Digital Publishing Institute",
+  "authors": [
+   "Kairan Zhang",
+   "Wanning Li",
+   "Hongwang Guo"
+  ],
+  "abstract": "In the context of active ageing, equitable digital engagement is essential to sustaining older adults’ social participation. Using the China Family Panel Studies (CFPS) from 2014 to 2022, this study constructed a composite index of older adults’ digital engagement and examined its associated factors, as well as the degree and source of inequality using multiple imputation, a Heckman two-step selection model, the Theil Index, and Oaxaca-Blinder decomposition. The results show that: (1) Digital engagement increased substantially, but divides persisted between older adults and middle-aged and younger adults and within the older population across age, urban–rural, and regional groups. (2) In the main Heckman model, education, household income, and non-agricultural Hukou were positively associated with digital engagement, while life satisfaction was negatively associated. Associations for medical and pension insurance, gender, marital status, family size, and self-rated health were sensitive to analytical specifications. (3) Inequalities in digital engagement across the age, urban–rural, and regional dimensions were predominantly attributable to within-group disparities. (4) The unexplained component dominated the age-group gap, whereas the explained component accounted for most of the urban–rural gap. In 2022, the regional gap was not statistically significant, with the two components largely offsetting each other. Given the inequalities in digital engagement among older adults, policies should expand access to digital resources and reduce the barriers faced by disadvantaged groups to ensure that the benefits of digitalization are more equitably shared.",
+  "oa_url": "https://doi.org/10.3390/su182111433",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.3390/su182111433"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": true,
+  "language": "en",
+  "found_at": "2026-11-11",
+  "summary_id": null,
+  "relevance": 38
+ },
+ {
+  "id": "W7213892915",
+  "doi": "10.1007/s43621-026-05254-7",
+  "title": "Farmers’ adaptive strategies to drought based on social capital and knowledge access as a pathway to rural livelihood security",
+  "date": "2026-11-09",
+  "year": "2026",
+  "journal": "Discover Sustainability",
+  "issn": "26629984",
+  "publisher": "Springer Nature",
+  "authors": [
+   "Masoumeh Thaghibaygi",
+   "Amirhossein Alibaygi"
+  ],
+  "abstract": "Abstract Drought, one of the most devastating and pervasive natural hazards, has severely challenged the livelihood resilience of smallholder farmers in rainfed regions worldwide, making adaptation an undeniable necessity. This study explains the adoption of adaptive strategies among smallholder rainfed farmers, focusing on three dimensions of social capital (bonding, bridging, and linking) and two types of knowledge (technical-extension and indigenous-local). The research is applied and descriptive-correlational. The statistical population consisted of smallholder rainfed farmers in Kermanshah province (N = 45,000), western Iran, from which 385 individuals were selected via multi-stage stratified random sampling. Data were collected using a structured questionnaire and analyzed through structural equation modeling (SmartPLS). Findings showed that social capital in all three dimensions and knowledge in both types positively and significantly affect adaptive strategies. Perceived effectiveness partially mediated, while drought experience positively moderated these relationships. The model explained 45% of the variance in adaptive strategies. By designing a novel framework, this study, for the first time, uncovers the simultaneous interplay of social capital and knowledge with the mediating effect of perceived effectiveness and the moderating role of drought experience, demonstrating how these capitals can be leveraged to facilitate a transformative shift from a state of inaction to proactive adaptive agency. The findings offer an actionable framework for policymakers, illustrating that targeted investment in strengthening social networks, expanding extension services, and harnessing lived drought experiences can enhance the adoption of adaptive strategies by up to 45%, thereby taking a meaningful step toward improving rural livelihood security.",
+  "oa_url": "https://doi.org/10.1007/s43621-026-05254-7",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1007/s43621-026-05254-7",
+   "https://www.researchsquare.com/article/rs-10753128/latest.pdf",
+   "https://doi.org/10.21203/rs.3.rs-10753128/v1"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [
+   "drought adaptation",
+   "smallholder farmers",
+   "rainfed agriculture",
+   "social capital",
+   "bonding social capital",
+   "bridging social capital",
+   "linking social capital",
+   "agricultural extension"
+  ],
+  "topics": [
+   "Pembangunan pedesaan & kebijakan pertanian"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-11",
+  "summary_id": null,
+  "relevance": 36
+ },
+ {
+  "id": "W7225630187",
+  "doi": "10.1016/j.agsy.2026.105059",
+  "title": "Multi-criteria decision analysis for sustainable agriculture: A critical review, method-selection framework, and future research directions",
+  "date": "2026-11-09",
+  "year": "2026",
+  "journal": "Agricultural Systems",
+  "issn": "0308521X",
+  "publisher": "Elsevier BV",
+  "authors": [
+   "Karmen Pažek",
+   "Črtomir Rozman"
+  ],
+  "abstract": "CONTEXT Sustainable agriculture requires decisions across economic, environmental, social and technical objectives. Multi-criteria decision analysis (MCDA) can make these trade-offs explicit, but method choice can materially shape recommendations. OBJECTIVE To critically compare established and recent agricultural MCDA approaches, assess their fit to different decision problems, and develop a problem-driven framework for method selection, validation and future AI-enabled applications. METHODS We conducted a critical, selective review of foundational MCDA sources, established agricultural applications, recent domain reviews and publications available through August 2026. The review primarily addresses multi-attribute decision-making (MADM) for discrete alternatives and includes selected multi-objective decision-making (MODM) approaches where agricultural decisions require resource allocation under constraints. Methods were grouped by decision logic and applications by farm management, land/resource assessment, agri-food supply chains and digital or precision agriculture. Comparison focused on decision output, evidence, criteria interdependence, stakeholder involvement, compensation, uncertainty, resource constraints and robustness. RESULTS AND CONCLUSIONS Four recurring issues emerged: justification of weights, ranking stability, treatment of uncertainty and transparency of stakeholder input. The proposed framework links method choice to required output, available evidence, interdependence, stakeholder setting, compensation rules and constraints, with robustness testing as an integral validation step. AI can strengthen prediction and scenario generation, while MCDA retains a distinct role in making preferences, thresholds and trade-offs explicit. The value of MCDA therefore depends less on methodological novelty than on the fit between the decision problem, evidence, assumptions and validation. SIGNIFICANCE The review moves beyond cataloguing MCDA techniques by linking problem characteristics to method choice and validation requirements. It provides a practical basis for more transparent, robust and explainable decision support in sustainable agriculture, including AI-enabled systems.",
+  "oa_url": "https://doi.org/10.1016/j.agsy.2026.105059",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1016/j.agsy.2026.105059"
+  ],
+  "oa_status": "hybrid",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemasaran, rantai pasok & rantai nilai"
+  ],
+  "priority_journal": true,
+  "language": "en",
+  "found_at": "2026-11-11",
+  "summary_id": null,
+  "relevance": 35
+ },
+ {
+  "id": "W7225627718",
+  "doi": "10.3389/frph.2026.2005066",
+  "title": "Parenting and social media: millennial parents and adolescent pregnancy prevention in rural Peru",
+  "date": "2026-11-09",
+  "year": "2026",
+  "journal": "Frontiers in Reproductive Health",
+  "issn": "26733153",
+  "publisher": "Frontiers Media",
+  "authors": [
+   "Favio Rafael Valdivia-Gironda",
+   "Carlos D. Abanto-Ramírez",
+   "Julio Samuel Torres-Miranda",
+   "Carlos Mediver Coaquira Tuco",
+   "Willian Huamanttupa Mar"
+  ],
+  "abstract": "We use \"millennial parents\" descriptively for adults born between 1981 and 1996, without implying uniform digital competence. Although this cohort matured alongside the expansion of the internet and social media, digital experience varies across territorial and social conditions (Latipah et al., 2020;Naveen Kumar et al., 2025). In rural Peru, unequal connectivity intersects with poverty, educational, and health-service inequalities (Cajachagua-Torres et al., 2024;Francke et al., 2026). Patterns of neonatal mortality illustrate broader regional health inequalities (Avila et al., 2026), while rural adolescent girls face barriers to information, care, and sexual and reproductive rights (Del Mastro, 2023;Sanca-Valeriano et al., 2022;Ticona et al., 2025).Digital access does not ensure that information is evaluated or converted into family guidance. Digital activity tracking among rural U.S. families increased awareness and conversation but produced little behavioral change (Sharaievska et al., 2019). Although indirect and not generalizable to rural Peruvian sexual-health communication, this evidence illustrates a possible gap between technology adoption and family action.We propose the digital-family divide as a hypothesized gap that may arise when parents encounter digital sexual-health information but lack capacities or conditions to evaluate, contextualize, and translate it into developmentally appropriate communication with adolescents. Unlike the conventional digital divide, centered on connectivity, skills, uses, and benefits, it concerns the relational conversion of information into family guidance (Monteagudo Barandalla, 2019). It is distinct from digital health literacy, parental mediation, and family sexual communicationrespectively, individual information capacities, guidance of media engagement, and family dialogue (Flaibam Giovanelli et al., 2025;Güven et al., 2025;Krantz et al., 2026). Because this process has not been directly studied among millennial parents in rural Peru, the proposed pathway requires empirical testing. This Opinion article examines how digital health literacy, parental communication self-efficacy, and sociocultural norms may shape the movement from digital exposure to preventive family communication. exposure, use, evaluation, interpretation, mediation, communication, possible preventive action as a potentially recursive, hypothesized pathway not a fixed or empirically demonstrated causal sequence.The framework integrates digital health literacy, parental mediation theory, family communication patterns theory, and a social-ecological perspective. The first three explain how information may be appraised and converted into family guidance; the fourth locates this process within individual, family, community, service, and structural conditions (McLeroy et al., 1988;Yang and Park, 2026). Together, they support three proposed mechanisms: digital health literacy may shape which information appears credible; parental communication self-efficacy may influence whether and how it is discussed; and sociocultural norms may condition what can be said, by whom, and under what circumstances. Parental mediation is one possible relational process connecting them, not the sole or necessarily preferred pathway. Adolescents remain active agents whose digital health literacy, autonomy, privacy and confidentiality needs, peer networks, preferred sources, and professional or digital help-seeking may shape how guidance is negotiated (Leos et al., 2023;Rotermann and McKay, 2024).Frequent platform use may increase exposure without ensuring that parents can assess credibility or contextual relevance. Educational limitations, intermittent connectivity, and restricted professional guidance may intensify this difficulty (Reyes Ortiz et al., 2026). Evidence from South Korean parents in another pediatric context suggests that fragmented support may increase uncertainty when interpreting complex information, although its relevance here is indirect (Choi, 2025). Moreover, online content may lack the linguistic, cultural, or service relevance required across diverse Andean and Amazonian settings (Juniper, 2026). Digital health literacy may therefore influence whether content becomes usable guidance without necessarily producing preventive action.Reliable information may still fail to become dialogue when parents lack confidence, appropriate language, or communication skills (Hyde et al., 2010). Parents may defer sexuality education to schools, despite its potentially limited or predominantly biological focus (Page Jeffery et al., 2025), or assume that adolescents will find adequate answers online. Communication self-efficacy may therefore influence whether parents initiate and sustain receptive, developmentally appropriate dialogue (McCrimmon et al., 2025;PettyJohn et al., 2025).Family, community, and gender norms may shape what can be discussed, by whom, and under which circumstances. In different rural settings, sexuality may be associated with shame, disrespect, or fears of encouraging sexual initiation (Achen et al., 2025;Manocha et al., 2025). Technological adoption does not necessarily erase intergenerational communication patterns (Turhan et al., 2026;Wesche et al., 2025). Evidence from rural Peruvian young adults-not parents-also suggests that trust, privacy, and gender differences matter in reproductive-health information seeking (McGuire et al., 2024). We cautiously propose that sociocultural norms may enable, constrain, or reshape parental communication, with configurations varying across communities, languages, and families.Parental mediation is not inherently protective. Dialogic, autonomy-supportive practices, including jointly evaluating sources and negotiating boundaries, may support trust and informed decisions. Controlling mediation may instead involve covert surveillance, censorship, punishment, broad restrictions, misinformation, or stigmatization. Covert monitoring has been associated with perceived privacy invasion, lower disclosure, and greater secrecy, while mediation strategies show inconsistent implications for adolescents' online privacy and protection (Hawk, 2017;Lo Cricchio et al., 2022). Fear-based sexual-health communication may likewise reinforce mistrust and redirect adolescents toward less visible sources (Achen et al., 2025). Mediation is therefore treated as a conditional process whose potential value depends on accuracy, transparency, proportionality, privacy, and respect for adolescents' evolving autonomy.Together, the mechanisms may interact as parents evaluate, interpret, mediate, and communicate information, while learning and trust may influence subsequent information seeking. The digital-family divide represents the hypothesized gap between access and exposure and their conversion into supportive communication and possible preventive action. Figure 1 summarizes this potentially reciprocal, non-causal pathway.Rural Peruvian connectivity has expanded but remains unequal and dependent on mobile access, prepaid plans, or unstable services (Humpiri Mamani, 2023;INEI, 2025;Trujillo Valdiviezo et al., 2025;Vidal et al., 2026;Levey et al., 2021;Prieto-Egido et al., 2020). Evidence on parent-adolescent sexual communication is mixed: communication and monitoring were associated with lower sexual activity among rural Malawian girls (Kalumbi et al., 2025); a U.S. study found no significant direct association between father-teen communication and sexual behavior (Grossman et al., 2021); and rural Latino adolescents valued open dialogue but described embarrassment and cultural and gender barriers (Manocha et al., 2025). Conducted elsewhere, these studies suggest plausible mechanisms rather than direct evidence about rural Peruvian millennial parents.Peru-specific evidence is similarly informative but incomplete. Across seven Asháninka communities, parent-adolescent sexual and reproductive-health communication was associated with lower odds of adolescent pregnancy (OR = 0.17, 95% CI: 0.06-0.47), although only one-third of sexually active participants used contraception (Mejia et al., 2021). Rural Peruvian young adults also described source trust, gender barriers, and physical constraints affecting access to reproductive-health information and services (McGuire et al., 2024). These findings concern rural and Indigenous youth, not specifically millennial parents, and therefore contextualize rather than validate the proposed pathway.The article's conceptual contribution is the digital-family divide: a hypothesized gap between digital access or exposure and their conversion into supportive family communication and possible preventive action. It does not assign responsibility for adolescent pregnancy to families. Social determinants of health and intersectional perspectives suggest that parenting resources and communication vary with poverty, education, ethnicity, gender, age, language, services, and community environments (Viner et al., 2012;Banati et al., 2024). Rural Peru is therefore heterogeneous across Andean and Amazonian, Indigenous and non-Indigenous, linguistic, socioeconomic, and service contexts.Practical implications follow the three mechanisms. First, digital health literacy could be strengthened through low-data, culturally and linguistically appropriate resources that help parents evaluate credibility, identify misinformation, and adapt content. Second, communication self-efficacy could be supported through conversation guides, role-play, and referral prompts, while discouraging surveillance, censorship, punitive restriction, and fear-based messages that may undermine privacy, disclosure, and trust (Hawk, 2017;Lo Cricchio et al., 2022;Achen et al., 2025). Third, sociocultural norms could be addressed through family-and community-based initiatives coordinated with schools and adolescent-friendly health services (Guerrero et al., 2020). Across all mechanisms, strategies should respect adolescents' autonomy, privacy, confidentiality, digital health literacy, peer networks, and preferences for professional or reliable digital sources; parental communication should complement, not replace, confidential help-seeking (Leos et al., 2023;Rotermann and McKay, 2024).This Opinion article is limited by its conceptual design and reliance on evidence drawn from different populations and settings; neither the digital-family divide nor the proposed pathway has been empirically tested among rural Peruvian millennial parents. The generational label should therefore be treated as a contextual descriptor, not a homogeneous profile. Future mixed-method and parentadolescent dyadic studies should examine the mechanisms across diverse rural settings and operationalize the divide as configurations or discrepancies among access, literacy, mediation, and communication rather than as a single score. The framework redirects attention from connectivity alone toward the relational and contextual conditions that may convert digital information into supportive preventive communication while preserving adolescent agency. Generative AI StatementDuring the preparation of this manuscript, the authors used OpenAI Codex in ChatGPT (GPT-5 model, accessed in October 2026) to support the English translation and linguistic and stylistic editing. The tool was not used to generate data or conduct empirical analyses. The authors reviewed, verified, and edited all content produced with the assistance of the tool and take full responsibility for the content of the publication.",
+  "oa_url": "https://www.frontiersin.org/journals/reproductive-health/articles/10.3389/frph.2026.2005066/pdf",
+  "pdf_url": "https://www.frontiersin.org/journals/reproductive-health/articles/10.3389/frph.2026.2005066/pdf",
+  "pdf_urls": [
+   "https://www.frontiersin.org/journals/reproductive-health/articles/10.3389/frph.2026.2005066/pdf",
+   "https://doi.org/10.3389/frph.2026.2005066"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-11",
+  "summary_id": null,
+  "relevance": 33
+ },
+ {
+  "id": "W7225652728",
+  "doi": "10.3390/su182111412",
+  "title": "Leaf Morphological Diversity of Traditional Fig (Ficus carica L.) Varieties Grown in Northern Morocco",
+  "date": "2026-11-09",
+  "year": "2026",
+  "journal": "Sustainability",
+  "issn": "20711050",
+  "publisher": "Multidisciplinary Digital Publishing Institute",
+  "authors": [
+   "Mohammed Elmeknassia",
+   "Rachid Boulfia",
+   "Abdelali Boussakouran",
+   "Mohamed El Yamani",
+   "Yahia Rharrabti"
+  ],
+  "abstract": "The fig tree (Ficus carica L.) is an important Mediterranean fruit crop that supports rural livelihoods, dietary diversity, and traditional agroecosystems. Maintaining its locally adapted diversity is increasingly relevant to sustainable fruit production as climate change intensifies water scarcity and environmental variability. This study quantified leaf morphological variation in four traditional Moroccan fig varieties (Fassi, Ghouddane, Nabout, and Ounq Hmam) grown at three sites representing contrasting agroclimatic conditions in northern Morocco: Taza being the warmest and driest, Taounate intermediate, and Chefchaouen the coolest and wettest. Leaf traits related to size, shape, lobing, sinus configuration, and venation were measured from digital images collected in late August 2023. Analyses of variance and principal component analysis showed that site-associated variation predominated for leaf-size and structural traits, whereas varietal effects were more pronounced for selected sinus and venation descriptors. Chefchaouen was associated with greater leaf expansion, while Taza showed smaller leaves and higher major-vein length density, highlighting the influence of growing conditions. The varieties also displayed differences in leaf proportions and venation geometry. These findings improve our understanding of how site, variety, and their interaction shape leaf morphological diversity, highlighting the importance of environmental context in varietal differentiation. From a practical perspective, low-cost digital morphometrics provide accessible quantitative descriptors for traditional fig germplasm characterization, supporting varietal documentation, preliminary screening, and conservation planning in Mediterranean rainfed agroecosystems. However, these morphological differences do not establish drought tolerance or agronomic superiority.",
+  "oa_url": "https://doi.org/10.3390/su182111412",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.3390/su182111412"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Ketahanan pangan rumah tangga"
+  ],
+  "priority_journal": true,
+  "language": "en",
+  "found_at": "2026-11-11",
+  "summary_id": null,
+  "relevance": 33
+ },
+ {
+  "id": "W7225621385",
+  "doi": "10.3390/agriculture16212454",
+  "title": "Valorization of Biostimulant Made from Microalgae for Sustainable Tomato Production: Yield Enhancement and Carbon Mitigation Potency",
+  "date": "2026-11-09",
+  "year": "2026",
+  "journal": "Agriculture",
+  "issn": "20770472",
+  "publisher": "Multidisciplinary Digital Publishing Institute",
+  "authors": [
+   "Liliana Guadalupe Alfaro-Sifuentes",
+   "Raghad Alahmadi",
+   "Gabriel Ivan Romero-Villegas",
+   "Alawi Jifri",
+   "Akram Filimban",
+   "Raghdah Malibari",
+   "Ricardo E. González‐Portela",
+   "Rahul Vijay Kapoore",
+   "Emna Mhedhbi",
+   "Mohamad Padri",
+   "Claudio Fuentes-Grünewald"
+  ],
+  "abstract": "A sustainable biostimulant has been gaining more attention, as it provides eco-friendly agriculture practices and helps achieve sustainable results. This study investigated the effects of microalgae-based biostimulants on tomato seedling vigor, plant growth, and fruit productivity. Four microalgae biomasses from different strains and conditions were tested (Limnospira maxima in seawater and freshwater cultivation, Leptolyngbya sp. and Chlorella sp.) for the early stage of cultivation and later followed by testing in mature stages. Limnospira maxima freshwater was found to significantly improve germination up to 99.3% and reduced T50 from 38.4 to 29.6 h. It was also found to increase the mean germination time (MGT) from 12.6 to 9.96 h. Overall, the germination index (GI) increased from 1.2 to 1.6. Root length was also found to increase significantly in the microalgae biostimulant, similar to the effect of a commercial biostimulant. In terms of productivity, the algal-based biostimulant has higher fruit productivity than the control and commercial biostimulant (2.64 kg, 2.2 kg, and 1.9 kg, respectively). These findings highlight the potential of algal-based biostimulants for sustainable tomato crop cultivation for clean agriculture practices in semi-arid environments. Linking to the carbon footprint, the application also avoided emissions of more than 14,000 kg CO2 equivalent per hectare per crop cycle. These outcomes position locally produced microalgae biostimulants as a green product that couples crop productivity with carbon mitigation and supply chain resilience in semi-arid environments.",
+  "oa_url": "https://doi.org/10.3390/agriculture16212454",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.3390/agriculture16212454"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemasaran, rantai pasok & rantai nilai"
+  ],
+  "priority_journal": true,
+  "language": "en",
+  "found_at": "2026-11-11",
+  "summary_id": null,
+  "relevance": 30
+ },
+ {
+  "id": "W7225640961",
+  "doi": "10.3389/fsufs.2026.1953396",
+  "title": "Identifying and validating suitable strategies for promoting ICT-based agro-advisory services: an expert consensus study in Eastern Uttar Pradesh, India",
+  "date": "2026-11-09",
+  "year": "2026",
+  "journal": "Frontiers in Sustainable Food Systems",
+  "issn": "2571581X",
+  "publisher": "Frontiers Media",
+  "authors": [
+   "Harshit Paliwal",
+   "Arun Kumar Singh",
+   "Sarvesh Kumar",
+   "Manisha S. Shinde",
+   "Desai Tusharkumar A.",
+   "Jagriti Kumari",
+   "Prashish Singh",
+   "U. S. S. Lekha",
+   "Om Kumar",
+   "Gaurav Kumar"
+  ],
+  "abstract": "Information and Communication Technology (ICT)-based agro-advisory services can expand the timeliness, reach and responsiveness of agricultural extension, but their sustained use depends on strategies that are locally relevant, operationally feasible and institutionally scalable. This study identified and expert-validated strategies for promoting ICT-based agro-advisory services through a three-round Delphi design incorporating Fuzzy Delphi principles. A purposive panel of 75 experts drawn from agricultural universities, Indian Council of Agricultural Research (ICAR) institutes, Krishi Vigyan Kendras (KVKs; Farm Science Centers) and allied professional institutions participated in the process. Literature-derived domains provided the initial structure, while Round I expert inputs generated and refined candidate strategies. Twenty-eight strategies entered Rounds II and III. Round-II ratings were summarized as normalized relevance weights and represented through triangular fuzzy numbers; final retention was decided after Round III using pre-specified consensus criteria (mean and median >= 3.50, |median-mode| <= 1 and interquartile range <= 1.50). Twenty-four strategies (85.7%) were retained. Digital content in regional languages (mean = 4.89), ICT-enabled Quick Response Teams (4.82), ICT-based FAQ repositories (4.74), digital claim-processing systems (4.74) and digital knowledge libraries (4.70) received the strongest support. Four strategies were rejected because their interquartile range was 2, indicating insufficient consensus despite moderate-to-high central ratings. The accepted strategies formed five domains: digital knowledge management, decision-support and advisory services, communication and farmer engagement, digital infrastructure and institutional collaboration, and governance and service facilitation. The results support an ecosystem perspective in which effective digital extension combines localized content, real-time decision support, two-way communication, interoperable infrastructure and service-linked governance. The framework offers a practical basis for program design and monitoring while requiring field validation with farmers and service providers before use as a standardized evaluation instrument.",
+  "oa_url": "https://doi.org/10.3389/fsufs.2026.1953396",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.3389/fsufs.2026.1953396"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Adopsi teknologi & pertanian digital"
+  ],
+  "priority_journal": true,
+  "language": "en",
+  "found_at": "2026-11-11",
+  "summary_id": null,
+  "relevance": 30
+ },
+ {
+  "id": "W7225634116",
+  "doi": "10.3390/polym18212797",
+  "title": "Water Hyacinth Cellulose for Polymer Composites and Bioplastics: A Review of Extraction, Formulation and Applications",
+  "date": "2026-11-09",
+  "year": "2026",
+  "journal": "Polymers",
+  "issn": "20734360",
+  "publisher": "Multidisciplinary Digital Publishing Institute",
+  "authors": [
+   "Oluwaseyi Matthew Abioye",
+   "Oluwaseun Temitope Faloye",
+   "Timothy A. Adekanye",
+   "Matthew Folorunsho Amodu",
+   "Abiodun Afolabi Okunola",
+   "Oluwafemi E. Adeyeri",
+   "Laemthong Laokhongthavorn",
+   "Viroon Kamchoom‬"
+  ],
+  "abstract": "Petroleum-based plastics generate over 400 million tonnes of waste annually, posing severe ecological threats to terrestrial and aquatic environments. Concurrently, water hyacinth (Eichhornia crassipes, Mart.) infests over 50 countries, disrupting waterways, fisheries, and riparian economies. This review proposes that both challenges can be addressed within a single material strategy: valorizing water hyacinth biomass into cellulose-derived bioplastics, nanocellulose composites, and functional hydrogels. To organize the evidence, the review uses a conceptual Harvest–Extract–Formulate–Deploy (HEFD) scheme that follows the value chain from field harvest through cellulose extraction, composite formulation and crosslinking to end use. The scheme is a structuring device and not a validated model. The review draws on the peer-reviewed literature published between 2018 and 2026 and examines composition, mechanical and thermal performance, synthesis routes, and applications in packaging, agriculture and biomedicine. Water hyacinth is not a plastic in itself but a variable lignocellulosic raw material, and the properties of materials made from it depend mainly on the matrix polymer, filler content, and the interface between the two. Reported tensile strengths are modest and elongation at break is far below that of low-density polyethylene (LDPE), so equivalence with LDPE has not been shown. Mass loss in soil-burial tests ranges from a few percent to near-complete disintegration depending on the formulation, and few studies measure mineralization. Feedstock may be cheap, or even paid for, where removal is publicly funded, but no peer-reviewed techno-economic study has confirmed this advantage. A decentralized small-scale production model is proposed for tropical smallholder settings, and clear gaps remain in life-cycle assessment, standardization, and regulation.",
+  "oa_url": "https://doi.org/10.3390/polym18212797",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.3390/polym18212797"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemasaran, rantai pasok & rantai nilai"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-11",
+  "summary_id": null,
+  "relevance": 29
+ },
+ {
+  "id": "W7197013678",
+  "doi": "10.3390/app162111065",
+  "title": "DTW-kNN and Sentinel-2 NDVI Time Series for Field-Scale Maize Identification and Multi-Crop Classification in an African Smallholder Landscape",
+  "date": "2026-11-09",
+  "year": "2026",
+  "journal": "Applied Sciences",
+  "issn": "20763417",
+  "publisher": "Multidisciplinary Digital Publishing Institute",
+  "authors": [
+   "Wonga Masiza",
+   "Pitso Walter Khoboko",
+   "George Chirima"
+  ],
+  "abstract": "Accurate crop mapping provides spatially explicit information for agricultural planning, monitoring and resource allocation, while supporting agribusiness decisions related to supply chains and risk management. However, mapping crops in smallholder landscapes remains difficult because fields are often fragmented, small, and irregularly shaped, with varying planting dates. This study evaluated Sentinel-2 Normalised Difference Vegetation Index (NDVI) time series and Dynamic Time Warping (DTW) for maize identification and multi-crop field-boundary classification in a smallholder farming area. A maize reference trajectory was developed from known maize fields and tested using an independent set of maize fields. The maize reference fields showed low DTW distances (0.106 - 0.281) to the reference trajectory, while independent validation fields produced comparable distances (0.074 - 0.325), indicating that maize followed a recognisable NDVI trajectory despite variable planting dates. DTW distances (0.151 to 0.565) of candidate fields suggested that some fields had maize-like phenological behaviour while others were less similar to the maize reference. Days After Planting (DAP) alignment produced a clear maize curve, with NDVI increasing after planting, peaking between 90 and 120 DAP, and later declining. The approach was then extended to multi-crop classification using maize, soybean, potato and tea reference trajectories. The multi-reference DTW classifier achieved an overall validation accuracy of 80.0%, with maize and tea classified most reliably. When applied to 128 unlabelled fields, most were predicted as maize, although DTW confidence varied. The findings show that Sentinel-2 NDVI time series and DTW provide an interpretable and data-efficient approach for maize detection and field-level crop classification in smallholder systems.",
+  "oa_url": "https://doi.org/10.3390/app162111065",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.3390/app162111065",
+   "https://doi.org/10.20944/preprints202608.0223.v1"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [
+   "dynamic time warping",
+   "crop classification",
+   "NDVI time series",
+   "Sentinel-2",
+   "smallholder farming",
+   "crop phenology",
+   "reference trajectory",
+   "soybean"
+  ],
+  "topics": [
+   "Pemasaran, rantai pasok & rantai nilai"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-11",
+  "summary_id": null,
+  "relevance": 26
+ },
+ {
+  "id": "W7225655279",
+  "doi": "10.3390/su182111406",
+  "title": "Process-Activity-Based Screening of Life-Cycle Occupational Safety Burdens: Country-Specific Characterization and Production-Line Worker-Hour Allocation in 500 mL Beverage Manufacturing",
+  "date": "2026-11-09",
+  "year": "2026",
+  "journal": "Sustainability",
+  "issn": "20711050",
+  "publisher": "Multidisciplinary Digital Publishing Institute",
+  "authors": [
+   "Noh-hyun Lim",
+   "Jong-Seok Kim",
+   "Gyu-sun Cho"
+  ],
+  "abstract": "Product-level screening of occupational safety burdens requires traceable worker-hour inventories and explicit treatment of alternative workforce-allocation boundaries. This study compares four boundaries and reports conditional injury and fatality burdens for characterized pathways associated with one 500 mL bottled beverage. The 2024 manufacturing records comprise 785,659 actual productive working hours derived from working-time and shift records for separately assigned workers on six PET lines (72 line–month observations). Plant–month pooling attributes 278,268.55 h to 171,696,216 studied bottles, 5.04% more than line–month attribution; the pooling boundary is a counterfactual allocation test. The 2024 syrup supplier coefficient is 0.0005097243 h/kg from 60,347.5 contractual hours and 118,392,431 kg supplier-wide production. The agricultural source equation defines harvested-sugarcane units (h/kg cane): principal Scenario A applies recovery once and yields 3.356 × 10−8 modeled injuries and 7.501 × 10−10 modeled fatalities per bottle. Diagnostic Scenario B applies cane-based coefficients directly to refined sugar mass, yielding 1.096 × 10−8 and 1.859 × 10−10, respectively. A separate 2024 format-inventory sensitivity test evaluates bottle-count versus beverage-volume weighting; a controlled SKU comparison shows how the worker-hour allocation boundary affects the characterized ranking under common nonmanufacturing pathway inputs. These outcomes are modeled as case-equivalent screening indicators for the characterized processes, rather than observed event probabilities or complete supply-chain injury rates.",
+  "oa_url": "https://doi.org/10.3390/su182111406",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.3390/su182111406"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemasaran, rantai pasok & rantai nilai"
+  ],
+  "priority_journal": true,
+  "language": "en",
+  "found_at": "2026-11-11",
+  "summary_id": null,
+  "relevance": 23
+ },
+ {
+  "id": "W7225609059",
+  "doi": "10.1007/s12559-026-10634-2",
+  "title": "Empowering Digital Twins with Generative AI: Applications, Case Studies, and Limitations",
+  "date": "2026-11-09",
+  "year": "2026",
+  "journal": "Cognitive Computation",
+  "issn": "18669956",
+  "publisher": "Springer Science+Business Media",
+  "authors": [
+   "Ishika Goyal",
+   "Siva Sai",
+   "Vinay Chamola",
+   "Amir Hussain"
+  ],
+  "abstract": "Abstract The rise of the Generative Pre-Trained Transformer(GPT) language model, more commonly used as ChatGPT, has brought a spotlight on the ever-developing field of Generative AI (GAI). With current advancements in graphics processing units (GPUs), training and using deep generative models have become easier. Similarly, the developments in edge computing have made it possible to make the most of GAI’s potential for numerous use cases. One such use case involves its integration with Digital Twin technology, offering new possibilities for enhanced simulations, predictive analytics, and real-time decision-making. This paper explores the prospects of combining GAI with Digital Twin technology to create innovative solutions for applications like healthcare, manufacturing, agriculture, cybersecurity, etc. It also discusses how GAI can train Digital Twins by simulating various scenarios and providing different data sets, enabling predictive maintenance. It also delves into the real-world scenarios in which the technology has been implemented. The paper concludes with the limitations of GAI technology for Digital Twin applications, which can be worked upon in the future.",
+  "oa_url": "https://link.springer.com/content/pdf/10.1007/s12559-026-10634-2.pdf",
+  "pdf_url": "https://link.springer.com/content/pdf/10.1007/s12559-026-10634-2.pdf",
+  "pdf_urls": [
+   "https://link.springer.com/content/pdf/10.1007/s12559-026-10634-2.pdf",
+   "https://doi.org/10.1007/s12559-026-10634-2"
+  ],
+  "oa_status": "hybrid",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-11",
+  "summary_id": null,
+  "relevance": 15
+ },
+ {
+  "id": "W7225633311",
+  "doi": "10.1186/s41043-026-01507-3",
+  "title": "Maternal education and lifetime fertility in Bangladesh: a mean-parameterized Conway-Maxwell-Poisson regression approach",
+  "date": "2026-11-09",
+  "year": "2026",
+  "journal": "Journal of Health Population and Nutrition",
+  "issn": "16060997",
+  "publisher": "BioMed Central",
+  "authors": [
+   "Borhan Uddin",
+   "Farzana Afroz",
+   "Bikash Pal",
+   "Md Muddasir Hossain Akib",
+   "Sahera Akter"
+  ],
+  "abstract": "Children ever born (CEB) is the standard cumulative measure of realised fertility and the quantity on which Bangladesh’s long-standing small-family policy target is defined. CEB in contemporary Bangladeshi survey data is markedly underdispersed, a feature that conventional count regression models cannot represent. We analysed 3,839 ever-married women aged 15–49 years who reported a live birth in the three years preceding the 2022 Bangladesh Demographic and Health Survey (BDHS). A mean-parameterized Conway-Maxwell-Poisson (COM-Poisson) regression model incorporating sampling weights and a cluster-level random intercept was fitted using a pre-specified three-stage sequential strategy: maternal education alone (Model I), plus reproductive timing and sociodemographic and economic covariates (Model II), and plus information-related covariates (Model III). Underdispersion was evaluated using the estimated dispersion parameter, a likelihood ratio test against the Poisson model, the model-implied variance-to-mean ratio, comparison of observed with model-predicted count distributions, and simulation-based residual diagnostics. Poisson and generalized Poisson specifications were fitted for comparison. CEB was strongly underdispersed (mean 1.993; variance 1.078; variance-to-mean ratio 0.541). The COM-Poisson dispersion parameter was 0.231 (95% CI 0.220 to 0.242) and the likelihood ratio test against the Poisson model gave a test statistic of 2135.21 on 1 degree of freedom ( p < 0.001). The COM-Poisson model achieved the lowest AIC (8748.45), the lowest BIC (8867.26) and the highest log-likelihood (-4355.23) and was the only specification whose simulated residuals were consistent with uniformity (Kolmogorov-Smirnov p = 0.185). Maternal education showed a graded inverse association with CEB in the fully adjusted model: relative to women with no formal education, the adjusted incidence rate ratio (IRR) was 0.937 (95% CI 0.891 to 0.985) for primary, 0.828 (95% CI 0.787 to 0.871) for secondary and 0.640 (95% CI 0.601 to 0.683) for higher education. Later age at last birth (IRR 1.937 and 2.964 for ages 20–35 and above 35 years relative to below 20 years), current employment (IRR 1.088) and rural residence were associated with higher CEB, whereas husband’s education and knowledge of family planning were associated with lower CEB. Household wealth was not significantly associated with CEB when the poor group was used as the reference. Between-cluster variation was modest (intraclass correlation 2.31%; median rate ratio 1.077; design effect 1.11). Maternal education is the strongest modifiable correlate of cumulative fertility in this nationally representative sample, and the association is robust to adjustment for household and information-related characteristics. Explicit modelling of underdispersion materially changes the estimated education-fertility gradient relative to equidispersed and overdispersion-oriented alternatives, which supports the use of the COM-Poisson framework for this outcome. Because the design is cross-sectional, all associations should be interpreted as associational rather than causal.",
+  "oa_url": "https://doi.org/10.1186/s41043-026-01507-3",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1186/s41043-026-01507-3"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-11",
+  "summary_id": null,
+  "relevance": 15
+ },
+ {
+  "id": "W7225649772",
+  "doi": "10.5281/zenodo.24072580",
+  "title": "A Prospective Study on Utilization of Comprehensive Antenatal Care Services and Pregnancy Outcomes in the Field Practice Areas of Apollo Institute of Medical Sciences and Research, Hyderabad",
+  "date": "2026-11-09",
+  "year": "2026",
+  "journal": "STEMedicine",
+  "issn": "27051188",
+  "publisher": "",
+  "authors": [
+   "Dr. Dareedy Tejsawini",
+   "Dr. Saba Mahamood",
+   "Snigdha Pattnaik",
+   "Dr. Sukka Dena Suhitha"
+  ],
+  "abstract": "Background: Comprehensive antenatal care (ANC) is essential for improving maternal and neonatal health. This study assessed ANC utilization, associated sociodemographic factors, and pregnancy outcomes.Methods: A prospective observational study was conducted among 323 pregnant women attending urban and rural field practice areas of Apollo Institute of Medical Sciences and Research, Hyderabad, from January 2023 to June 2024. Data on ANC utilization, sociodemographic characteristics, and pregnancy outcomes were collected prospectively. Associations were assessed using the chi-square test.Results: Among 323 participants, 86.4% completed at least four ANC visits, 64.4% registered during the first trimester, and 63.8% consumed at least 100 iron–folic acid tablets. Only 42.7% received adequate comprehensive ANC. Utilization was significantly associated with maternal and paternal education, occupation, socioeconomic status, and parity. Adequate ANC was associated with gestational outcome (p=0.008), mode of delivery (p=0.031), and neonatal birth weight (p<0.001). Low or very low birth weight occurred in 15.6% of adequately attended pregnancies compared with 37.0% of inadequately attended pregnancies.Conclusion: Comprehensive ANC utilization remained suboptimal despite high visit attendance and was significantly associated with favourable pregnancy and neonatal outcomes.",
+  "oa_url": "https://doi.org/10.5281/zenodo.24072580",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.5281/zenodo.24072580",
+   "https://doi.org/10.5281/zenodo.24072581"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-11",
+  "summary_id": null,
+  "relevance": 15
+ },
+ {
+  "id": "W7225657335",
+  "doi": "10.3389/fonc.2026.1968434",
+  "title": "Social determinants of health and breast cancer disparities in the United States: a multilevel review of barriers to diagnosis and treatment",
+  "date": "2026-11-09",
+  "year": "2026",
+  "journal": "Frontiers in Oncology",
+  "issn": "2234943X",
+  "publisher": "Frontiers Media",
+  "authors": [
+   "Abhinav Anand Vayal Veettil",
+   "Jasmin Hundal",
+   "Jame Abraham"
+  ],
+  "abstract": "Background US breast cancer mortality has more than halved since 1975, but the decline has not been shared equally. Black women’s death rates remain 36% higher than White women’s, and rates among American Indian and Alaska Native women have not fallen in three decades. Within-subtype survival gaps are widest in hormone receptor-positive, HER2-negative disease, where sustained treatment matters most, a pattern more consistent with unequal access than with biology alone. Approach We conducted a narrative review with a structured, documented search of US evidence (PubMed, 2010 to 2026, prespecified eligibility criteria) on five domains of social determinants of health: insurance status and healthcare access, neighborhood socioeconomic deprivation, structural racism, geographic access, and individual socioeconomic status. We present them as four interrelated levels (upstream structural determinants, neighborhood and geographic exposures, health-system and access mediators, and individual socioeconomic consequences) and examine two outcomes, stage at diagnosis and guideline-concordant treatment, labeling estimates by design and outcome definition. Findings In registry and national database analyses, uninsured women had 2.6-fold higher odds of stage IIIB to IV disease than privately insured women, and late-stage diagnosis fell after Medicaid expansion in quasi-experimental comparisons. Neighborhood deprivation was associated with later stage and, in mediation analyses, statistically accounted for about 45% of the Black-White difference in all-cause mortality; historical redlining was associated with higher mortality, roughly half mediated by present-day neighborhood conditions. Rural residence carried a small excess of later stage and a larger deficit in radiation receipt linked to travel distance. Compared with private insurance, Medicaid or no insurance was associated with less breast conservation and reconstruction, more omission of radiation, lower receipt of guideline-concordant chemotherapy, earlier discontinuation of endocrine therapy, and lower uptake of immunotherapy. Most evidence is observational, and area-level measures assigned to individuals risk contextual misclassification. Implications Patient navigation improves screening uptake and diagnostic timeliness in trials but has no demonstrated survival benefit; Medicaid expansion is associated with earlier stage, timelier treatment and lower mortality in difference-in-differences analyses. Simulation modeling suggests equalizing treatment access would narrow, not close, the mortality gap. Closing it requires attention to coverage design, neighborhood investment, and oncology workforce distribution.",
+  "oa_url": "https://doi.org/10.3389/fonc.2026.1968434",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.3389/fonc.2026.1968434"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-11",
+  "summary_id": null,
+  "relevance": 15
+ },
+ {
+  "id": "W7225661831",
+  "doi": "10.3389/fpls.2026.1981795",
+  "title": "Fine-grained sugarcane varietal classification using high-resolution PRSS-1 satellite imagery: a field-validated dataset and a spatial context-aware deep learning framework",
+  "date": "2026-11-09",
+  "year": "2026",
+  "journal": "Frontiers in Plant Science",
+  "issn": "1664462X",
+  "publisher": "Frontiers Media",
+  "authors": [
+   "Shehryar Attaullah Khan",
+   "Musharif Ahmed",
+   "Naeem Fiaz",
+   "Maaz Alam",
+   "Atif Naseer",
+   "Sultan Daud Khan",
+   "Hina Afridi",
+   "Mohib Ullah"
+  ],
+  "abstract": "Introduction Precise mapping of sugarcane varieties is crucial for precision agriculture, yield evaluation, protection of breeders’ rights, efficient supply chain management and policy formulation. Previous studies highlighted that remote sensing techniques suffered issues such as low spatial resolution and inadequate field-validated ground truth data. Literature review reported usage of statistical analysis methods and machine learning approaches in classification of sugarcane varieties, while constraining the use of deep learning techniques, primarily due to low quality and insufficient dataset size. Furthermore, the literature highlights the scarcity of high spatial resolution datasets that could be attributed to employment of open-source hyper-spectral and low spatial resolution remote sensing data. To the best of our knowledge, neither any industrial solution exists nor any research study is conducted on sugarcane varietal classification in Pakistan. Methods In this study, we made an endeavor to prepare a high-resolution dataset of Pakistani sugarcane varieties (CPF-253 & SL-284) based on field-validated ground truth dataset using Pakistan Remote Sensing Satellite-1 (PRSS-1) single date imagery. We also included non crop classes like urban, water and road as well. Pan-sharpening is employed to enhance the spatial resolution of multispectral bands and retaining the original spectral characteristics, by aligning the 3 m bands to the 1 m panchromatic grid and then injecting the panchromatic residual. The dataset was prepared based on field-validated ground truth collection duly verified by sugarcane scientist, a farmer and research team to make the approach efficient and reliable. The study performed a random pixel split strategy as well as polygon-based experiments; the polygon split is the primary protocol so that a field is not shared across train and test. We proposed a Spatial Context Aware Transformer that includes the spatial context from neighboring pixels, resulting in an enhanced feature space. Specifically, our proposed model is characterized by a unique pixel feature augmentation approach, thus significantly increasing the size of the spectral feature space and making it possible to account for local neighborhood spectral context. We experimented with benchmark machine learning approaches such as support vector machine and random forest on our dataset to evaluate their potential as well. Moreover, we also evaluated deep learning methods suggested by previous studies like CNN and transformer architectures. Results The experimental results demonstrate that our proposed spatial context-aware transformer performed better than other architectures on the polygon-based test set (accuracy 95.2%, macro F1 0.92), compared with SVM 90.5%, Random Forest 92.5%, 1-D CNN 93.0% and the Tabular Transformer 93.4% (gains of 4.7% and 1.8% in accuracy versus SVM and the Tabular-Transformer). On the same 3x3 pixels, a center-only Transformer scored 94.2%; the 3x3 Transformer 95.2%; and 3x3 MLP, CNN and RF scored 93.48%, 93.75% and 92.96%, showing that the neighborhood pixels spectral context along with attention mechanism account for the classification results. We also conducted a binary classification experiment employing CNN, Tabular Transformer, Centre-pixel only Transformer (1x1) and proposed Transformer (3x3). The results demonstrated that Center-pixel only Transformer achieved highest overall accuracy of 88.59%, followed by Tabular Transformer (87.63%), 1D-CNN (87.10%) and proposed Transformer (3x3) (86.99%). Discussion The feature significance analysis identified the Green Normalized Difference Vegetation Index and the red spectral band as the most discriminative features for sugarcane varieties classification. The study recommends that future research should incorporate time-series, multi-seasonal and multi-region imagery analysis including non-image information such as climate and production environment for highly precise sugarcane varieties classification in real-world conditions. precise sugarcane varieties classification in real-world conditions.",
+  "oa_url": "https://doi.org/10.3389/fpls.2026.1981795",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.3389/fpls.2026.1981795"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemasaran, rantai pasok & rantai nilai"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-11",
+  "summary_id": null,
+  "relevance": 11
+ },
+ {
+  "id": "W7225615148",
+  "doi": "10.1080/0067270x.2026.2754599",
+  "title": "Spatiotemporal distribution, demography and treatments of South African bored-stone burials and their link to rainwork",
+  "date": "2026-11-09",
+  "year": "2026",
+  "journal": "Azania Archaeological Research in Africa",
+  "issn": "0067270X",
+  "publisher": "Routledge",
+  "authors": [
+   "Marlize Lombard"
+  ],
+  "abstract": "In South Africa bored-stone burials occur since at least about 6000 years ago. They therefore originated during the Holocene Later Stone Age for which genetic research shows a relatively large, stable and connected hunter-gatherer population. This paper presents for the first time all the known South African bored-stone burials (N = 38), with as much accompanying data as it was possible to assemble in terms of dating, location, demography and grave treatments. The results demonstrate that bored-stone burials were not limited to the hunter-gatherers of the Later Stone Age but continued into pastoralist and farmer contexts and that they may have coincided with dry spells. They occurred in almost all South African biomes and their pre-2000 BP distribution largely overlaps with that of current Tuu-speaker descendants — a language group to which the /Xam belong/ed. In bona fide hunter-gatherer graves pre-dating 2000 BP, both adult women and men were buried with bored stones, but few such burials are known for children and adolescents. When considering the possible meaning of these burials a recurring theme seems to be a nexus between communication with the spiritworld and rainwork.",
+  "oa_url": "https://doi.org/10.1080/0067270x.2026.2754599",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1080/0067270x.2026.2754599"
+  ],
+  "oa_status": "hybrid",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-11",
+  "summary_id": null,
+  "relevance": 9
+ },
+ {
+  "id": "W7225652199",
+  "doi": "10.1186/s41072-026-00264-0",
+  "title": "Bayesian detection of supply-chain cost pressure in a shipping- and trade-exposed economy: evidence from Türkiye",
+  "date": "2026-11-09",
+  "year": "2026",
+  "journal": "Journal of Shipping and Trade",
+  "issn": "23644575",
+  "publisher": "Springer Nature",
+  "authors": [
+   "Mehdi Safaei"
+  ],
+  "abstract": "Abstract Shipping- and trade-exposed economies need measures that distinguish cost pressure from operational disruption. We construct a six-block Monthly Systemic Cost-pressure and Supply-chain index (MSCS) for Türkiye using 78 monthly observations and estimate Bayesian structural time-series counterfactuals from January 2020–February 2026. March 2026 observed MSCS is 115.608, against a counterfactual mean of 111.264; the deviation is 4.344 points (90% CrI 2.355 to 6.225; Pr > 0 = 1.0000). The March–June cumulative deviation is 17.953 index-point months (90% CrI 7.454 to 28.193; Pr > 0 = 0.9975). Energy and fertilizer–agriculture show the clearest March block signals. Transport-and-storage H-PPI increased in observed levels but remained below its fitted trend mean, and the March Logistics–Transport block credible interval included zero. Neither Mersin throughput nor nominal intermediate-goods imports showed an abnormal downside deviation under the specified trend models. These results indicate cost pressure, not directly established operational disruption. Because the post-event window contains only four monthly observations, the estimates do not establish medium- or long-run persistence. Origin-specific standardisation, rolling forecasts, 26 placebos and specification checks evaluate predictive reliability; the placebo rank is 1/27. The estimates remain conditional on model assumptions and a revised data snapshot rather than a real-time vintage replay. The contribution is a transparent pressure-monitoring architecture connecting shipping, logistics and trade indicators to posterior uncertainty and an illustrative institutional-review protocol.",
+  "oa_url": "https://doi.org/10.1186/s41072-026-00264-0",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1186/s41072-026-00264-0"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemasaran, rantai pasok & rantai nilai"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-11",
+  "summary_id": null,
+  "relevance": 0
+ },
+ {
+  "id": "W7225657773",
+  "doi": "10.3389/ffgc.2026.2003326",
+  "title": "Harvest shifts carbon–water dynamics and environmental controls in a managed loblolly pine plantation in the southeast United States",
+  "date": "2026-11-09",
+  "year": "2026",
+  "journal": "Frontiers in Forests and Global Change",
+  "issn": "2624893X",
+  "publisher": "Frontiers Media",
+  "authors": [
+   "Boyuan Jiang",
+   "Maricar M. Aguilos",
+   "Ge Sun",
+   "Jingzhuo Zhang",
+   "周格知",
+   "Miko Lorenzo Belgado",
+   "Johnny Boggs",
+   "Michael J. Gavazzi",
+   "Benju Baniya",
+   "Asko Noormets A",
+   "John S. King"
+  ],
+  "abstract": "How carbon–water coupling reorganizes across stand development and harvest in managed plantations remains poorly quantified. We used 20 years (2005–2024) of eddy covariance measurements at a loblolly pine ( Pinus taeda L.) plantation (US-NC2, North Carolina, United States) to quantify carbon and water flux dynamics across three stand development stages spanning pre- and post-harvest periods. The harvest in 2019 triggered an abrupt sink-to-source transition (annual NEE in 2020: +991 g C m −2 yr −1 ), driven by asymmetric declines in GPP (88%) and RE (33%). Concurrently, evapotranspiration declined while residual drainage increased, consistent with a shift of water toward drainage. Flux–driver relationships reorganized following harvest, with radiation and leaf area index losing explanatory power for GPP and the leading predictor of net ecosystem exchange shifting from radiation to air temperature. Despite this disruption, NEE declined by 89% within 5 years, approaching but not yet reaching carbon neutrality by 2024. These findings demonstrate that carbon and water fluxes co-evolve via asymmetric harvest responses and reorganization of environmental driver hierarchies, informing carbon accounting and water-resource management in managed pine plantations.",
+  "oa_url": "https://doi.org/10.3389/ffgc.2026.2003326",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.3389/ffgc.2026.2003326"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Tenaga kerja & produktivitas perkebunan"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-11",
+  "summary_id": null,
+  "relevance": 0
+ },
+ {
   "id": "W7225562802",
   "doi": "10.1108/mscra-05-2026-0074",
   "title": "Supply chain networks in horticulture: an assessment of farmers' perceptions and market linkages",
