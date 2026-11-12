@@ -1,5 +1,672 @@
 [
  {
+  "id": "W7225722842",
+  "doi": "10.3389/fsufs.2026.1996607",
+  "title": "How does building climate-resilient cities affect food production: evidence from pilot policies in China",
+  "date": "2026-11-10",
+  "year": "2026",
+  "journal": "Frontiers in Sustainable Food Systems",
+  "issn": "2571581X",
+  "publisher": "Frontiers Media",
+  "authors": [
+   "Renjia Liu",
+   "Taiyi He"
+  ],
+  "abstract": "Ensuring food security is a crucial foundation for macroeconomic stability and social welfare. Against the backdrop of intensifying climate change, frequent extreme weather events, and rising uncertainty in agricultural production, identifying systematic and forward-looking adaptation pathways has become increasingly important. This paper examines whether the Climate-Resilient Cities Policy (CRCP) is associated with changes in the spillover effects of food production at the city level in China. Using city-level panel data from China for 2005–2024, the study treats the rollout of the pilot policy as a quasi-natural experiment and employs a multi-period difference-in-differences (DID) framework to estimate the policy’s impact on per capita food production. The results indicate that CRCP is positively associated with increases in per capita grain production in pilot areas, and this finding remains robust after parallel trends tests, placebo tests, PSM-DID estimates, substitution of dependent variables, and control for contemporaneous policies. Mechanism tests suggest that the policy may operate by enhancing agricultural technological innovation, expanding new digital infrastructure, and improving traditional infrastructure conditions. Since these channel analyses are primarily based on city-level indicators rather than direct household-level evidence of intermediation, the findings should be interpreted as potential mechanisms rather than a complete decomposition of causal pathways. Heterogeneity analysis indicates that the policy effects are stronger in prefecture-level cities along the Hu Huanyong Line and in resource-based cities. This paper provides new evidence on the cross-sectoral benefits of urban climate adaptation policies and offers policy implications for integrating climate governance, urban resilience, and food security.",
+  "oa_url": "https://doi.org/10.3389/fsufs.2026.1996607",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.3389/fsufs.2026.1996607"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Ketahanan pangan rumah tangga"
+  ],
+  "priority_journal": true,
+  "language": "en",
+  "found_at": "2026-11-12",
+  "summary_id": {
+   "tujuan": "Menguji apakah kebijakan Kota Tangguh Iklim (Climate-Resilient Cities Policy/CRCP) di Tiongkok berkaitan dengan perubahan produksi pangan per kapita di tingkat kota. Penelitian juga menelusuri mekanisme yang mungkin melalui inovasi teknologi pertanian, infrastruktur digital baru, dan infrastruktur tradisional.",
+   "metode": "Desain kuasi-eksperimen dengan multi-period difference-in-differences (DID) memanfaatkan pelaksanaan bertahap program percontohan. Data panel tingkat kota Tiongkok periode 2005–2024, dengan ukuran sampel tidak disebutkan dalam abstrak. Robustness check mencakup uji tren paralel, uji plasebo, PSM-DID, penggantian variabel dependen, dan kontrol kebijakan bersamaan.",
+   "temuan": "CRCP berasosiasi positif dengan peningkatan produksi serealia per kapita di wilayah percontohan, dan hasilnya bertahan pada berbagai uji robustness. Mekanisme yang diduga meliputi inovasi teknologi pertanian, infrastruktur digital, dan perbaikan infrastruktur tradisional, namun ini didasarkan pada indikator tingkat kota. Efek lebih kuat di kota prefektur sepanjang Garis Hu Huanyong dan kota berbasis sumber daya; besaran koefisien tidak tercantum dalam abstrak.",
+   "keterbatasan": "Penulis mengakui bahwa analisis mekanisme hanya memakai indikator tingkat kota, bukan bukti intermediasi langsung di tingkat rumah tangga, sehingga temuan hanya dapat ditafsirkan sebagai mekanisme potensial. Ukuran sampel dan besaran efek tidak disebutkan dalam abstrak. Tampak dari desain bahwa identifikasi bergantung pada asumsi tren paralel dan tidak adanya kebijakan bersamaan yang tidak teramati.",
+   "relevansi": "Relevan secara tidak langsung untuk agenda ketahanan pangan dan adaptasi iklim di pedesaan Kalimantan Tengah, khususnya sebagai contoh desain DID untuk mengevaluasi program daerah. Namun, fokus pada kebijakan tingkat kota dan produksi serealia per kapita di Tiongkok tidak menyentuh pemasaran, akses pasar petani kecil, kelembagaan petani, rantai nilai, atau kelapa sawit.",
+   "skor": 2,
+   "model": "claude-haiku-5-5",
+   "sumber": "abstrak"
+  },
+  "relevance": 38
+ },
+ {
+  "id": "W7225693086",
+  "doi": "10.1080/00167223.2026.2755052",
+  "title": "Constructing quality from below: convention theory and regulatory alignment in the Colombian cocoa value chain",
+  "date": "2026-11-10",
+  "year": "2026",
+  "journal": "Geografisk Tidsskrift-Danish Journal of Geography",
+  "issn": "00167223",
+  "publisher": "Taylor & Francis",
+  "authors": [
+   "Ma. Eliza J. Villarino",
+   "Marianne Nylandsted Larsen",
+   "Augusto Carlos Castro-Nunez"
+  ],
+  "abstract": "The EU regulations on deforestation and cadmium limits are reshaping governance in cocoa-producing countries. This study examines how Colombia’s cocoa sector constructs and institutionalizes quality conventions and how these shape prospects for EU market integration. Drawing on semi-structured interviews with 22 stakeholders – including domestic chocolate firms, certifiers, government agencies, development cooperation actors, and producer support organizations – we identify multiple conventions: agroforestry as a domestic and civic convention; NTC 1252 quality standards, traceability, and cadmium testing as industrial conventions; pricing as a market convention; certification as a hybrid industrial-civic convention; and fine flavour recognition as a blend of industrial, domestic, and fame/opinion convention. These quality conventions have emerged through coordinated efforts among private actors, public institutions, and development agencies. We assessed these conventions using a three-dimensional framework: normative alignment with EU regulations, practical adoption by value chain actors, and structural inclusion of smallholders and producing regions. Findings reveal strong normative alignment but uneven practical adoption, as well as exclusion risks, particularly for producers in high-cadmium areas and those who sell through intermediaries, where traceability requirements limit compliance, and for smallholders unable to sustain certification without external support.",
+  "oa_url": "https://doi.org/10.1080/00167223.2026.2755052",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1080/00167223.2026.2755052"
+  ],
+  "oa_status": "hybrid",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemasaran, rantai pasok & rantai nilai"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-12",
+  "summary_id": null,
+  "relevance": 34
+ },
+ {
+  "id": "W4410529394",
+  "doi": "10.1371/journal.pone.0362125",
+  "title": "Age-specific Epstein-Barr virus seroprevalence in Costa Rica",
+  "date": "2026-11-10",
+  "year": "2026",
+  "journal": "PLoS ONE",
+  "issn": "19326203",
+  "publisher": "Public Library of Science",
+  "authors": [
+   "Sabrina Acosta Egea",
+   "Elexandra Barboza",
+   "Eva Villalobos Chacón",
+   "Romain Fantin",
+   "Carolina Porras",
+   "Viviana Loría",
+   "Juan Carlos Vanegas",
+   "Connie M. Weston",
+   "Sarah S. Jackson",
+   "Arturo Abdelnour",
+   "Amada Aparicio",
+   "Alejandro Calderón"
+  ],
+  "abstract": "Epstein-Barr Virus (EBV) is a common herpesvirus linked to cancers and autoimmune diseases. The age, socioeconomic status and geographic distribution of EBV infection are varied. This study evaluated age-specific EBV antibody prevalence in Costa Rica among 2,990 participants in a population-based cohort that enrolled in 2020/1. Seropositivity prevalence was age-dependent, with rates over 80% in adolescents, and higher than 90% in adults 20 + . Geometric mean levels (GML) of antibodies among seropositives also rose with age, peaking in older adults. The age at seroconversion was slightly younger in boys than in girls and for individuals in rural/mixed areas, but seropositivity of 90% or more was found in both sexes and all regions of residence in adults. Among seropositives, there was a tendency for women to have higher GML compared with men. Our findings provide information regarding the age-specific distribution of EBV in Costa Rica, which is useful for planning future health measures to reduce the burden of EBV-associated conditions.",
+  "oa_url": "https://doi.org/10.1371/journal.pone.0362125",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1371/journal.pone.0362125",
+   "https://doi.org/10.2139/ssrn.5251367"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [
+   "Epstein-Barr virus",
+   "seroprevalence",
+   "EBV antibodies",
+   "Costa Rica",
+   "population-based cohort",
+   "herpesvirus infection"
+  ],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": true,
+  "language": "en",
+  "found_at": "2026-11-12",
+  "summary_id": null,
+  "relevance": 32
+ },
+ {
+  "id": "W7225705723",
+  "doi": "10.1007/s43621-026-04991-z",
+  "title": "Global knowledge structure of women entrepreneurship in rural areas through a bibliometric analysis",
+  "date": "2026-11-10",
+  "year": "2026",
+  "journal": "Discover Sustainability",
+  "issn": "26629984",
+  "publisher": "Springer Nature",
+  "authors": [
+   "Thi Thuy Sinh Tran",
+   "Barbara Kiełbasa",
+   "Nikoletta Németh"
+  ],
+  "abstract": "Abstract Rural women entrepreneurship has gained growing attention from both scholars and policymakers, leading to a growing body of research in recent years. This study reviews the evolution and intellectual structure of research on rural women entrepreneurship and identifies key research themes and emerging directions in the field. A bibliometric analysis was conducted on 427 Scopus-indexed publications published up to April 2026. The R Bibliometrix package and VOSviewer were used to examine publication trends, citation patterns, influential contributors, keyword co-occurrence networks, and thematic maps. The results of these studies’ analyses and synthesis showed that: (i) Research on rural women entrepreneurship has expanded rapidly since 2014; (ii) McElwee Gerard (the UK) is the most productive author, while the University of Nigeria (Nigeria) and Dhofar University (Oman) are leading institutions. Sustainability (Switzerland) is the most prominent journal. (iii) India leads rural women entrepreneurship research, while China emerges as a central node in international collaboration networks, highlighting strong cross-country research connections; (iv) Five main research themes emerged, including socio-gender context, capacity and empowerment, rural entrepreneurship, sustainable innovation, and human and social capital; (v) Building on these themes, the study develops a conceptual framework grounded in the Resource-Based View (RBV), linking internal resources and capabilities to sustainable rural women entrepreneurship. In contrast, the thematic evolution map highlights potential directions for future research. The findings also offer practical guidance for policymakers and development organizations to strengthen women’s entrepreneurial capabilities and support sustainable rural development.",
+  "oa_url": "https://doi.org/10.1007/s43621-026-04991-z",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1007/s43621-026-04991-z"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-12",
+  "summary_id": null,
+  "relevance": 30
+ },
+ {
+  "id": "W7225756160",
+  "doi": "10.26719/2026.32.10.676",
+  "title": "Sociodemographic determinants of decayed, missing and filled teeth index among students in Islamic Republic of Iran",
+  "date": "2026-11-10",
+  "year": "2026",
+  "journal": "Eastern Mediterranean Health Journal",
+  "issn": "10203397",
+  "publisher": "World Health Organization",
+  "authors": [
+   "Fardis Fazli",
+   "Fateme Doostmohammad",
+   "Fazli Hasan",
+   "Mohammad Espahbodi",
+   "Mehran Asadi-Aliabadi"
+  ],
+  "abstract": "Background: Dental caries represent a significant public health concern across all age groups. Knowledge of the decayed, missing and filled teeth index can be instrumental for designing targeted prevention interventions. Aim: To investigate the decayed, missing and filled teeth index among students in Mazandaran Province, Islamic Republic of Iran, and its association with the sociodemographic factors. Methods: Between February and May 2024, we interviewed 1360 12-year-old students in public schools in Mazandaran Province, northern Islamic Republic of Iran. We analysed the data using STATA version 14, used Kolmogorov-Smirnov test and QQ plot to assess normality, ArcGIS 10.8.2 to conduct optimised hotspot analysis, and R for other spatial analyses. P < 0.05 was considered statistically significant. Results: The mean total decayed, missing and filled teeth score was 1.69 ± 2.04, with a caries-free rate of 45.2%. Girls had a significantly higher mean decayed, missing and filled teeth (1.92 ± 0.08) than boys (1.48 ± 0.07) (P < 0.001). Students with unemployed fathers (1.85 ± 1.57 vs. 1.65 ± 2.17; P < 0.001) and those living in rural areas (1.98 ± 2.22 vs. 1.56 ± 1.93; P < 0.001) had higher decayed, missing and filled teeth scores. Students whose parents were illiterate had the lowest prevalence of caries-free teeth, while those whose parents had at least secondary education had the highest prevalence. Conclusion: Despite progress in the prevention of tooth decay, dental caries is still a major problem among 12-year-old students in Mazandaran Province. Gender, parents’ education and occupation, and place of residence are important determinants of dental caries among the students. There is a need to intensify actions to improve oral health among the study population.",
+  "oa_url": "https://doi.org/10.26719/2026.32.10.676",
+  "pdf_url": "https://doi.org/10.26719/2026.32.10.676",
+  "pdf_urls": [
+   "https://doi.org/10.26719/2026.32.10.676"
+  ],
+  "oa_status": "diamond",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-12",
+  "summary_id": null,
+  "relevance": 21
+ },
+ {
+  "id": "W7225758690",
+  "doi": "10.3389/fnut.2026.1944523",
+  "title": "Dietary diversity, place of residence and malnutrition among school-going adolescent girls in Western Maharashtra, India: a structural equation modelling analysis",
+  "date": "2026-11-10",
+  "year": "2026",
+  "journal": "Frontiers in Nutrition",
+  "issn": "2296861X",
+  "publisher": "Frontiers Media",
+  "authors": [
+   "Vaidya Sumeet",
+   "Sujata Kapil Murarkar",
+   "Rupeshkumar Deshmukh",
+   "Saibal Adhya"
+  ],
+  "abstract": "Background Adolescent girls in India bear a disproportionate share of the country’s nutritional burden, with undernutrition and overnutrition increasingly coexisting within the same population. Dietary diversity is a modifiable proxy indicator for diet quality. Methods A community-based cross-sectional analytical study was conducted among 703 school-going adolescent girls (350 urban, 353 rural) in Western Maharashtra, India. Dietary diversity was assessed by 24-h recall. Associations were tested with Pearson’s chi-square and binary logistic regression. For the outcomes (i.e., undernutrition, overnutrition, and malnutrition), an exploratory path-analytic structural equation model was fitted using maximum likelihood estimation, with place of residence and Minimum Dietary Diversity (MDD) specified a priori as hypothesized serial intermediate variables between sociodemographic characteristics and nutritional status. Model fit was evaluated using CFI ≥ 0.90 and RMSEA ≤0.08, with TLI reported alongside. Cluster-robust generalized estimating equations (GEE) were used as a sensitivity analysis for within-school clustering. Results Malnutrition affected 70.13% of participants overall (undernutrition 60.31%, overnutrition 9.82%). MDD was inadequate in 90.18% (rural 95.18% vs. urban 85.14%, p < 0.001). After multivariable adjustment, rural residence (AOR = 4.55) and father’s elementary occupation (AOR = 2.36) were independently associated with higher odds of inadequate MDD, whereas outdoor physical activity of ≥2 h/day was associated with lower odds (AOR = 0.49). In the path models, dietary diversity showed a significant indirect association with undernutrition (standardized indirect association via MDD = 0.014, 95% CI 0.001–0.029) and with overall malnutrition (indirect association = 0.014, 95% CI 0.001–0.035), while place of residence was significantly associated with dietary diversity and lifestyle behaviors in all three models. Fit was acceptable on CFI (0.93–0.94) and RMSEA (0.058), but TLI (0.85–0.86) was below 0.90; in the GEE sensitivity analysis, which is limited by the small number of schools, the direction of the key associations was unchanged. Conclusion Dietary diversity and place of residence showed statistically significant direct and indirect associations with undernutrition and overall malnutrition among adolescent girls. These exploratory, cross-sectional findings describe hypothesized pathways and do not establish mediation or causation; confirmation requires longitudinal data and a design with more schools.",
+  "oa_url": "https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2026.1944523/pdf",
+  "pdf_url": "https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2026.1944523/pdf",
+  "pdf_urls": [
+   "https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2026.1944523/pdf",
+   "https://doi.org/10.3389/fnut.2026.1944523"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Ketahanan pangan rumah tangga"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-12",
+  "summary_id": null,
+  "relevance": 21
+ },
+ {
+  "id": "W7225722825",
+  "doi": "10.3390/modelling7060251",
+  "title": "Interval Type-2 Fuzzy Sets Framework with a Digital Twin Prototype for Simulation-Supported Supplier Selection Under Industry 5.0",
+  "date": "2026-11-10",
+  "year": "2026",
+  "journal": "Modelling—International Open Access Journal of Modelling in Engineering Science",
+  "issn": "26733951",
+  "publisher": "Multidisciplinary Digital Publishing Institute",
+  "authors": [
+   "Adis Puška",
+   "Dragan Marinković",
+   "Miroslav Nedeljković",
+   "Aleksandar Gajic",
+   "Nikola Banduka"
+  ],
+  "abstract": "Supplier selection is a critical strategic decision in supply chain management, with a direct impact on operational performance, competitiveness, and long-term sustainability. The contemporary business environment, characterised by globalisation, climate change, and increasingly stringent regulatory requirements, necessitates an expanded supplier evaluation framework that encompasses the dimensions of resilience and sustainability. Industry 5.0 and digital twins (DT) are advanced concepts that enable improvements in the supplier selection process through the integration of advanced technologies and human knowledge. Using a five-member expert panel from different departments, both criterion importance and the qualitative supplier ratings were assessed individually by each expert; quantitative criteria were derived from a preliminary DT prototype running documented scenario simulations, in the case of an agricultural company operating in south-eastern Bosnia and Herzegovina. Interval type-2 fuzzy sets (IT2FS) were applied, with asymmetric fuzzy numbers used in the membership function. The results obtained using IT2FS Simple Weight Calculation (SiWeC) showed that total costs, recovery capability following disruptive events, and product and service quality were the most important criteria. Qualitative supplier ratings were aggregated by unweighted arithmetic mean, while criterion importance was determined through IT2FS SiWeC. The six selected suppliers were ranked using IT2FS Multi-Attributive Border Approximation Area Comparison (MABAC), which demonstrated that supplier SUPP1 achieved the best results according to the expert assessments and the DT-based scenario simulations. These findings were additionally confirmed through comparative and sensitivity analyses. This study contributes practical guidance regarding the criteria and suppliers that agricultural enterprises should select in order to improve the procurement process and reduce supply chain risks. This research presents a framework for supplier selection based on aggregated DT output data. The DT prototype used in this study is a preliminary, uncalibrated simulation system whose outputs are treated as simulation-based estimates rather than validated real-time measurements. This limitation is stated explicitly, and the calibration of the DT against actual supplier performance is identified as a direction for future research. This framework can be extended to real-time dynamic updating, which is a direction for future research.",
+  "oa_url": "https://doi.org/10.3390/modelling7060251",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.3390/modelling7060251"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemasaran, rantai pasok & rantai nilai"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-12",
+  "summary_id": null,
+  "relevance": 19
+ },
+ {
+  "id": "W7225752775",
+  "doi": "10.3311/ppch.44836",
+  "title": "GC–MS-Based Untargeted Metabolic Profiling of Oil Palm Stems Associated with Ganoderma boninense Infection",
+  "date": "2026-11-10",
+  "year": "2026",
+  "journal": "Periodica Polytechnica Chemical Engineering",
+  "issn": "03245853",
+  "publisher": "Budapest University of Technology and Economics",
+  "authors": [
+   "Susi Indriani",
+   "Adi Pancoro",
+   "Isdaryanti Isdaryanti",
+   "Andi Besse Poleuleng",
+   "Sitti Nur Ilmiah",
+   "Fitri Handayani"
+  ],
+  "abstract": "Basal stem rot, mainly caused by Ganoderma boninense, is a major disease affecting oil palm (Elaeis guineensis) and can lead to reduced productivity and plant mortality. This study characterized metabolic changes associated with different levels of G. boninense infection in oil palm stem tissue using untargeted gas chromatography–mass spectrometry metabolomics. Stem samples representing healthy, low, moderate, and high infection categories were analyzed, and the resulting metabolic features were processed using multivariate and univariate statistical approaches. A total of 14 features were retained after data processing and filtering. Principal component analysis and partial least squares discriminant analysis showed differences in the overall metabolic profiles among infection categories, while variable importance in projection analysis identified features contributing to group discrimination. However, permutation testing did not provide significant evidence for a classification model beyond chance (ANOVA p-value = 0.121), indicating that 121 of 1,000 permuted models achieved an accuracy at least as high as that of the observed model. None of the detected features remained significant after false discovery rate correction. Several fatty acid-related features, including methyl decanoate, methyl myristate, methyl oleate, methyl stearate, and methyl ricinoleate, were prioritized based on their multivariate contribution, abundance patterns, and library-based annotation. These compounds are therefore considered candidate metabolites associated with disease severity rather than validated biomarkers. The findings provide a preliminary view of metabolic variation in oil palm stems associated with G. boninense infection and identify candidate features for further validation using larger and independent sample sets.",
+  "oa_url": "https://doi.org/10.3311/ppch.44836",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.3311/ppch.44836"
+  ],
+  "oa_status": "diamond",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Kelapa sawit"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-12",
+  "summary_id": null,
+  "relevance": 19
+ },
+ {
+  "id": "W7225694784",
+  "doi": "10.9734/jsrr/2026/v32i114722",
+  "title": "Women-led Natural Farming for Vegetable Production in Terai Zone of West Bengal, India",
+  "date": "2026-11-10",
+  "year": "2026",
+  "journal": "Journal of Scientific Research and Reports",
+  "issn": "23200227",
+  "publisher": "Sciencedomain International",
+  "authors": [
+   "Sandip Hembram",
+   "Samima Sultana",
+   "Sankar Saha",
+   "Prabhat Kumar Pal",
+   "Aditi Saha Roy",
+   "Avijit Haldar"
+  ],
+  "abstract": "Aims: The study aimed to compare the performance of natural farming (NF) and conventional farming (CF) across six vegetable crops by evaluating crop yield, economic performance, including cultivation costs, gross and net returns and the benefit–cost (B:C) ratio, and soil health. It also aimed to document the key NF practices adopted by the farm woman and examine their potential contribution to sustainable vegetable production and farmer-to-farmer knowledge dissemination. Presentation of Case: The case study was conducted with a farm woman from Batasurkuthi village, Cooch Behar district, West Bengal, India, who adopted NF in 2021 with technical guidance and institutional support from Krishi Vigyan Kendra (KVK), Cooch Behar, West Bengal. Following the adoption of NF, she established a village-level NF input production centre to prepare farm-made bio-inputs such as Jeevamrita, Ghanajeevamrita, Beejamrita and Neemastra using locally available agricultural and natural resources. These were used for nutrient management, seed treatment, protection against seed- and soil-borne diseases, and crop protection. Her farming system followed an integrated and diversified approach, incorporating the cultivation of multiple vegetable crops, intercropping, the application of organic manure and soil mulching to promote soil health and reduce dependence on external chemical inputs. The comparative performance of NF and CF was assessed across six vegetable crops. The assessment focused on key parameters such as crop yield, cultivation costs, net returns, the benefit–cost (B:C) ratio and changes in selected soil health indicators. Discussion: NF resulted in an 8.10–18.60% reduction in cultivation costs and a 21.10–46.00% increase in net returns compared with CF across the six vegetable crops. NF showed lower yields across all six crops, underscoring the importance of evaluating its economic advantages alongside differences in productivity. The mean crop-specific B:C ratio was 1.66 under NF, compared with 1.42 under CF. Soil organic carbon under NF increased slightly from 0.39% to 0.40%, while available nitrogen increased from 218 to 224 kg ha-1. The woman farmer emerged as a local promoter of NF by motivating and influencing more than 20 neighbouring women farmers to adopt NF practices. Conclusion: This case study highlights the potential of women-led NF, locally prepared organic and natural inputs, and crop diversification to enhance farm-level economic returns while encouraging knowledge sharing, increasing community participation and promoting sustainable agricultural development.",
+  "oa_url": "https://doi.org/10.9734/jsrr/2026/v32i114722",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.9734/jsrr/2026/v32i114722"
+  ],
+  "oa_status": "diamond",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-12",
+  "summary_id": null,
+  "relevance": 18
+ },
+ {
+  "id": "W7225705793",
+  "doi": "10.1007/s44155-026-00401-x",
+  "title": "Determinants of knowledge attitudes and perceptions regarding vaccination in a rural community of Pune India",
+  "date": "2026-11-10",
+  "year": "2026",
+  "journal": "Discover Social Science and Health",
+  "issn": "27310469",
+  "publisher": "Springer Nature",
+  "authors": [
+   "Iram Ara I. Kazi",
+   "Namita A. Raytekar",
+   "Sammita Jagdish Jadhav"
+  ],
+  "abstract": "Vaccination is a key preventive measure against infectious diseases, yet hesitancy persists due to religious, scientific, and political concerns. Understanding knowledge, attitudes, and perceptions (KAP) toward vaccination and their demographic determinants is essential for developing effective interventions. A community-based cross-sectional study was conducted in a rural population using a pretested structured questionnaire. Data were collected from 423 participants through household visits, and analyses were performed in SPSS version 24 using Chi-square tests, ANOVA, and multiple linear regression, with statistical significance set at p < 0.05. A total of 423 participants were included in the study. Overall, 79.4% demonstrated good knowledge, 60.3% exhibited a positive attitude, and 76.6% showed good perception toward vaccination. Awareness was highest for polio (87.5%) and BCG (69.3%) vaccines, while healthcare workers (63.1%) and family or friends (92.7%) were the most common sources of vaccination-related information. Knowledge levels were significantly associated with age ( p < 0.001), gender ( p = 0.021), marital status ( p < 0.001), parenting status ( p < 0.001), and education level ( p < 0.001). Perception scores differ by age ( p < 0.001), gender ( p = 0.019), marital status ( p = 0.025), parenting status ( p < 0.001), and education level ( p < 0.001). The study demonstrate that vaccination-related knowledge, attitudes, and perceptions vary significantly across demographic subgroups in rural populations. Age, gender, marital status, parenting status, and educational attainment emerged as key determinants of knowledge and perception toward vaccination. The aim of this study was to underscore the importance of targeted, demographic-specific educational strategies to enhance vaccine awareness and acceptance in rural communities.",
+  "oa_url": "https://doi.org/10.1007/s44155-026-00401-x",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1007/s44155-026-00401-x"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-12",
+  "summary_id": null,
+  "relevance": 17
+ },
+ {
+  "id": "W7225715658",
+  "doi": "10.3390/genealogy10050207",
+  "title": "Certifying Idliso: The Gap Between Customary Recognition and State Silence Through Victimology",
+  "date": "2026-11-10",
+  "year": "2026",
+  "journal": "Genealogy",
+  "issn": "23135778",
+  "publisher": "Multidisciplinary Digital Publishing Institute",
+  "authors": [
+   "Khanyisile Berlinda Majola",
+   "Sazelo Michael Mkhize"
+  ],
+  "abstract": "In South Africa, idliso is understood in isiZulu as poisoning or bewitchment administered in secret. In everyday KwaZulu-Natal usage, it is also a love medicine said to turn the man who is fed it violent. It is diagnosed by traditional health practitioners yet has no name in state law. The Witchcraft Suppression Act 3 of 1957 criminalises the accusation of witchcraft but not the act. Courts reframe substance cases as assault or murder. The Traditional Health Practitioners Act 22 of 2007 registers healers while remaining silent on harmful practices within traditional health practice and on redress for the victims of such practices. This study asks what happens to accountability and victimhood when idliso is invoked to explain a man’s violence against his intimate partner. it analyses semi-structured interviews with twenty young adults aged 21 to 35 in KwaThoyana and uMnini, two rural communities on the KwaZulu-Natal South Coast. The interviews formed part of a larger study of intimate partner violence, in which idliso arose unprompted. The analysis is exploratory. Idliso was not part of the interview guide; six of the twenty participants raised it unprompted, and their accounts were analysed thematically against four research questions, drawing also on victimological work on the ideal victim and secondary victimisation. Given the small number of accounts, the findings are offered as a basis for further research rather than as conclusive. The findings show that the idliso account is held as communal knowledge before violence occurs. It is attributed to izinyanga (traditional healers who work mainly with herbal medicine). The account forecloses the man’s responsibility while making the woman either the accused or a victim who is afraid to speak. The two young men who described their own use of idliso did not narrate any harm, sanction or shame arising from it. The study recommends that the recognition of idliso claims and healer accountability be addressed within a constitutional framework that recognises both customary law and gender equality, beginning with research on izinyanga themselves.",
+  "oa_url": "https://doi.org/10.3390/genealogy10050207",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.3390/genealogy10050207"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-12",
+  "summary_id": null,
+  "relevance": 17
+ },
+ {
+  "id": "W7225702287",
+  "doi": "10.1371/journal.pntd.0014851",
+  "title": "evaluation of the performance of rapid diagnostic tests in point-of-care conditions for serological diagnosis of chagas disease in pregnant women in Colombia",
+  "date": "2026-11-10",
+  "year": "2026",
+  "journal": "PLoS neglected tropical diseases",
+  "issn": "19352727",
+  "publisher": "Public Library of Science",
+  "authors": [
+   "Andrea Marchiol",
+   "Andres Caicedo",
+   "Maryi Segura",
+   "Rafael Antonio Herazo",
+   "Liliana Cortes Cortes",
+   "María‐Jesús Pinazo"
+  ],
+  "abstract": "Between 2022 and 2024, the National Institute of Health of Colombia and DNDi conducted a performance evaluation study on rapid diagnostic tests under point-of-care conditions for the serological detection of T. cruzi infection in Colombia. The main objective was to assess the performance of four rapid diagnostic tests (RDTs) under point-of-care conditions compared to Colombia’s official serological diagnostic algorithm based on enzyme-linked immunosorbent assay (ELISA). To achieve this, the performance of each RDT and combined algorithms (parallel and serial configurations) was determined. This was a prospective, observational, and analytical diagnostic study involving 771 pregnant women residing in Colombia. Whole blood samples were collected for rapid tests and serum for reference tests under standardized protocols. All participants were enrolled within the framework of the implementation of the Comprehensive Health Care Route and the Maternal-Perinatal Route of the Ministry of Health, and clinical and laboratory follow-up was guaranteed for all newborns and their mothers. Key findings revealed that the evaluated tests (STAT PAK, ADBIO, BIOLINE, and WL Check Chagas) achieved point estimates of sensitivity ranging from 88.6% to 97.5% and specificity from 98.1% to 100%. STAT PAK showed the best individual performance, and combined algorithms demonstrated promising results. Modeling of the simultaneous (parallel) use of rapid diagnostic tests yielded point estimates of sensitivity between 92.4% and 98.7% and specificity between 97.5% and 99.6%. In turn, serial models, in which a rapid test is initially applied and, if the result is positive, a second test is performed, achieved point estimates of sensitivity between 86.1% and 96.2% and specificity between 99.7% and 100%. Based on the results of this study, RDTs may be considered a valuable tool for screening T. cruzi infection in pregnant women. Selected combinations of RDTs, modeled mathematically from individual RDT results rather than prospectively implemented as diagnostic workflows, showed promising diagnostic performance. The use of RDT s for screening, combined with locally validated simplified confirmation strategies, could significantly improve access to timely diagnosis in rural and remote areas. Furthermore, it could substantially contribute to the widespread implementation of initiatives aimed at universal screening of pregnant women for Chagas disease in Colombia, thereby improving the control of mother-to-child transmission .",
+  "oa_url": "https://doi.org/10.1371/journal.pntd.0014851",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1371/journal.pntd.0014851"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-12",
+  "summary_id": null,
+  "relevance": 15
+ },
+ {
+  "id": "W7225737999",
+  "doi": "10.1002/pri.70375",
+  "title": "Prevalence and Factors Associated With Falls in Individuals Aged 50 Years and Older Living in Urban and Rural Areas in Brazil: A Cross‐Sectional Analysis",
+  "date": "2026-11-10",
+  "year": "2026",
+  "journal": "Physiotherapy Research International",
+  "issn": "13582267",
+  "publisher": "Wiley",
+  "authors": [
+   "Stéfany Giacomello Piccinin",
+   "Merly Fernanda Illera Castellanos",
+   "Victória Possebon Sgaria",
+   "Bárbara Niegia Garcia de Goulart",
+   "Felipe Barreto Schuch",
+   "Débora Tornquist",
+   "Carine Cristina Callegaro"
+  ],
+  "abstract": "BACKGROUND AND PURPOSE: The factors associated with falls may differ from urban to rural areas. However, there is a paucity of studies investigating this topic. To investigate the prevalence and factors associated with falls in individuals aged 50 years and older living in urban and rural areas. METHODS: This cross-sectional study analyzed 9402 participants aged 50 and older from the ELSI-Brasil study baseline in 2015-2016. Of these, 84.7% lived in urban areas. Self-reported falls in the last 12 months were assessed. The association of falls with age, sex, sleep quality, weakness, weight loss > 3 kg, slow gait, exhaustion, postural balance, osteoporosis, and depression was examined. Weighted prevalence estimates were calculated, and associations with falls were assessed using hierarchical Poisson regression models accounting for the complex sampling design and stratified by area of residence. RESULTS: The overall prevalence of falls was 22.4% and was higher among urban than rural residents (22.8% vs. 20.1%). Women had a higher prevalence of falls in both urban (PR: 1.64; 95% CI: 1.48-1.82) and rural areas (PR: 1.26; 95% CI: 1.06-1.49). Compared with individuals aged 50-59 years, the prevalence of falls was higher among those aged 70-79 years (urban PR: 1.25; 95% CI: 1.10-1.43; rural PR: 1.54; 95% CI: 1.12-2.12) and aged ≥ 80 years (urban PR: 1.39; 95% CI: 1.17-1.66; rural PR: 1.65; 95% CI: 1.20-2.27). Slow gait (urban PR: 1.41; 95% CI: 1.22-1.63; rural PR: 1.67; 95% CI: 1.12-2.49) and exhaustion (urban PR: 1.46; 95% CI: 1.29-1.65; rural PR: 1.93; 95% CI: 1.51-2.47) were associated with falls in both areas. Among urban residents, poor sleep quality (PR: 1.32; 95% CI: 1.20-1.44), weight loss more than 3 kg (PR: 1.23; 95% CI: 1.07-1.42), postural balance impairment (PR: 1.28; 95% CI: 1.05-1.56), and depression (PR: 1.45; 95% CI: 1.28-1.64) were also associated with a higher prevalence of falls. However, significant interactions with area of residence were observed only for sex and depression. DISCUSSION: Over 20% of non-institutionalized Brazilians aged 50 years and older had one or more falls in the past 12 months. Female sex, older age, slow gait speed, and exhaustion were associated with falls in individuals aged 50 years or older in urban and rural areas. Poor sleep quality, weight loss > 3 kg, and depression were associated with falls only in individuals aged 50 years and older in urban areas. The association between female sex and falls was stronger among urban than rural residents, whereas the association between depression and falls differed significantly by area of residence and was observed only among urban residents. TRIAL REGISTRATION: The ELSI-Brazil was approved by the Ethics Committee of the Oswaldo Cruz Foundation-Minas Gerais and the process is registered on Plataforma Brasil (CAAE: 34649814.3.0000.5091).",
+  "oa_url": "https://doi.org/10.1002/pri.70375",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1002/pri.70375"
+  ],
+  "oa_status": "hybrid",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-12",
+  "summary_id": null,
+  "relevance": 15
+ },
+ {
+  "id": "W7225751201",
+  "doi": "10.1177/13623613261500520",
+  "title": "Autism Diagnoses Before and After Pregnancy: A Retrospective Population-Based Cohort Study in Ontario, Canada",
+  "date": "2026-11-10",
+  "year": "2026",
+  "journal": "Autism",
+  "issn": "13623613",
+  "publisher": "SAGE Publishing",
+  "authors": [
+   "Hilary K. Brown",
+   "Yona Lunsky",
+   "Anne Berndl",
+   "Aditi Patrikar",
+   "Yani Hamdani",
+   "Meng‐Chuan Lai",
+   "Natasha Ruth Saunders",
+   "Ami Tint",
+   "Jonathan A. Weiss",
+   "Simone Natalie Vigod",
+   "Monika Mitra"
+  ],
+  "abstract": "Few studies have examined the reproductive health of autistic girls and women. We undertook a descriptive retrospective population-based cohort study in Ontario, Canada, 2004 to 2023. Among first pregnancies, we (a) estimated the proportion occurring in autistic individuals, (b) examined the distribution of autism diagnoses before, during and after pregnancy and (c) described the preconception characteristics of childbearing autistic individuals based on timing of diagnosis. Autism was identified using a validated algorithm before, during and after pregnancy, the latter until 2024. Preconception socio-demographic and clinical characteristics were compared in each autism diagnosis timing group with nonautistic individuals using descriptive statistics. There were 1,148,470 first pregnancies, of which 1,086 (0.09%) were to autistic individuals. Among autistic individuals, 64.3% had their first diagnosis recorded before conception, 3.3% during pregnancy and 32.4% after delivery. Compared with nonautistic individuals, autistic individuals, regardless of the timing of diagnosis, were younger and more likely to live in low-income neighbourhoods, be long-term Canadian residents and experience co-occurring conditions, violence and high health care use preconception, with the highest rates of these factors among those with pre-pregnancy autism diagnoses. Findings show the importance of addressing preconception health needs of autistic individuals, including those awaiting a diagnosis, and autism training for health care providers.Lay AbstractMost autism research is focused on boys and men. We know less about autistic girls and women, including how many experience pregnancy and what their pregnancy-related needs are. We looked at how many first pregnancies occurred among autistic people, and how many people are diagnosed as autistic before, during and after pregnancy. We also looked at the demographic, social and health characteristics of autistic people before pregnancy, based on when they got their autism diagnosis. To do this, we studied all first pregnancies that happened in Ontario, Canada between 2004 and 2023. We identified autism diagnoses in health care records before, during and after individuals' pregnancies, up until 2024. We then described autistic and nonautistic people according to their age, neighbourhood-level income, rurality, immigration status, co-occurring conditions (like diabetes and depression), violence and health care access before their pregnancy. We found 1,148,470 first pregnancies in Ontario from 2004 to 2023; of these pregnancies, 1,086 (0.09%) were to autistic people. Among autistic people, 698 (64.3%) got their autism diagnosis before pregnancy, 36 (3.3%) during pregnancy and 352 (32.4%) after delivery. Compared with nonautistic people, autistic people were younger, more likely to live in low-income neighbourhoods and more likely to have lived in Canada long-term. They also had more co-occurring conditions; were more likely to experience violence; and used more health care services, including hospital services, before pregnancy. People who were diagnosed as autistic before pregnancy had even more co-occurring conditions, violence and health care use than people who were diagnosed as autistic after pregnancy. Our study shows that it is important to support the pre-pregnancy health of autistic people, including those who are waiting for a diagnosis. Our study also shows that health care providers need training to understand the needs of autistic girls and women.",
+  "oa_url": "https://doi.org/10.1177/13623613261500520",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1177/13623613261500520"
+  ],
+  "oa_status": "hybrid",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-12",
+  "summary_id": null,
+  "relevance": 15
+ },
+ {
+  "id": "W7225719879",
+  "doi": "10.3390/en19225385",
+  "title": "Life-Cycle Sustainability Assessment of Waste Cooking Oil-Derived Biodiesel: Integrating Environmental, Energy, Economic, and Social Perspectives",
+  "date": "2026-11-10",
+  "year": "2026",
+  "journal": "Energies",
+  "issn": "19961073",
+  "publisher": "Multidisciplinary Digital Publishing Institute",
+  "authors": [
+   "Kangjia Chen",
+   "Shaoyun Wang",
+   "Yanyang Mei",
+   "Junhao Hu",
+   "Wei Chen",
+   "Chun Chang",
+   "Shusheng Pang",
+   "Pan Li"
+  ],
+  "abstract": "Waste cooking oil (WCO) represents a promising non-food feedstock for biodiesel production, which enables waste valorization while avoiding competition with edible resources. However, existing studies predominantly focus on conversion technologies or individual environmental indicators, and comprehensive sustainability evaluations remain scarce. This study proposes a conceptual LCSA framework and operationalizes it as an assessment matrix for WCO-derived biodiesel, covering the entire value chain from waste oil generation to downstream management. Environmental performance, energy efficiency, techno-economic feasibility, and social sustainability are systematically reviewed, with particular emphasis on how system boundaries, feedstock characteristics, process configurations, and regional conditions affect sustainability outcomes. The research indicates that WCO-derived biodiesel offers environmental advantages over fossil diesel by circumventing agricultural burdens and utilizing waste resources. Nevertheless, the magnitude of greenhouse gas emission reductions varies substantially with transportation requirements, methanol consumption, electricity sources, and allocation approaches. Economic performance hinges largely on feedstock collection efficiency and production scale, while social sustainability remains underexplored due to the lack of standardized indicators. Future work should harmonize life-cycle inventories, enhance uncertainty quantification, integrate techno-economic assessments, and advance large-scale demonstrations to support sustainable deployment within circular economy frameworks.",
+  "oa_url": "https://doi.org/10.3390/en19225385",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.3390/en19225385"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemasaran, rantai pasok & rantai nilai"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-12",
+  "summary_id": null,
+  "relevance": 14
+ },
+ {
+  "id": "W7225749257",
+  "doi": "10.1186/s40066-026-00650-8",
+  "title": "Repurposing agricultural support to improve fruit and vegetable availability and affordability in Sri Lanka: a historical policy analysis",
+  "date": "2026-11-10",
+  "year": "2026",
+  "journal": "Agriculture & Food Security",
+  "issn": "20487010",
+  "publisher": "BioMed Central",
+  "authors": [
+   "Erica Reeve",
+   "Samali C. Perera",
+   "Jody Harris",
+   "Jeevika Weerahewa",
+   "Anne Marie Thow"
+  ],
+  "abstract": "Agricultural support has historically favoured a narrow range of staple and export commodities, with comparatively limited investment in the food-system functions that shape the availability and affordability of nutritious foods. Repurposing agricultural support is increasingly recommended as a means of addressing this misalignment, but there is limited empirical evidence on how countries can operationalise repurposing within existing agricultural policy systems. We used Sri Lanka as a case study to examine where agricultural investment could be redirected to strengthen fruit and vegetable availability and affordability, and how historical policy priorities shape opportunities for doing so. We conducted a qualitative historical policy analysis drawing on 37 semi-structured interviews with food-system and nutrition policy actors and analysis of contemporary and historical policy documents. Hall’s framework of policy paradigms and policy change was used to examine how agricultural policy goals, instruments and investment priorities evolved over time and their implications for repurposing. Policy actors widely recognised inadequate fruit and vegetable consumption and identified affordability, unstable supply, market coordination and farmer viability as important constraints. Government had introduced initiatives supporting production, value-chain coordination and consumption, but major agricultural investment remained oriented towards staple security and export competitiveness. Historical analysis showed how these investment patterns reflected longstanding agricultural policy paradigms. Opportunities for repurposing included greater investment in producer coordination, research and development, post-harvest infrastructure and rural–urban market linkages. Repurposing agricultural support requires more than fiscal reallocation: established policy purposes shape what governments invest in and therefore what can feasibly be redirected. In Sri Lanka, progressively redirecting investment towards under-supported functions of domestic fruit and vegetable systems provides a potential starting point, while incremental changes to existing policy instruments may create opportunities for broader change in what agricultural policy is expected to deliver.",
+  "oa_url": "https://link.springer.com/content/pdf/10.1186/s40066-026-00650-8.pdf",
+  "pdf_url": "https://link.springer.com/content/pdf/10.1186/s40066-026-00650-8.pdf",
+  "pdf_urls": [
+   "https://link.springer.com/content/pdf/10.1186/s40066-026-00650-8.pdf",
+   "https://doi.org/10.1186/s40066-026-00650-8"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemasaran, rantai pasok & rantai nilai"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-12",
+  "summary_id": null,
+  "relevance": 12
+ },
+ {
+  "id": "W7225701322",
+  "doi": "10.54254/2754-1169/2026.38666",
+  "title": "Factors Influencing Corn Futures Prices and Derivative Trading Strategies: A Literature Review",
+  "date": "2026-11-10",
+  "year": "2026",
+  "journal": "Advances in Economics Management and Political Sciences",
+  "issn": "27541169",
+  "publisher": "",
+  "authors": [
+   "Zhenyang Yuan"
+  ],
+  "abstract": "Corn is an important agricultural commodity used primarily for animal feed and industrial processing. Corn futures prices are influenced by a range of interconnected factors, including weather conditions, supply and demand fundamentals, exchange rate movements, geopolitical events, and trade policies. Although previous studies have examined these factors separately, relatively few provide an integrated review linking market fundamentals, multiple sources of risk, and related derivative trading strategies. This paper reviews the existing literature on the major factors affecting corn futures prices and discusses commonly used trading and risk management approaches. It examines global corn supply and demand, including the role of substitute grains such as wheat and sorghum. It also discusses climate and extreme weather risks, exchange rate risks, and geopolitical and policy risks, and reviews derivative strategies including weather-related option strategies, inventory-based trading, exchange-rate hedging, and cross-commodity arbitrage. The literature suggests that corn futures price movements are shaped by the interaction of fundamental, macroeconomic, weather, and policy factors rather than by a single dominant variable. The review also identifies limitations in the existing literature, particularly the reliance on historical data and the limited attention paid to trader behavior and recent market developments.",
+  "oa_url": "https://doi.org/10.54254/2754-1169/2026.38666",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.54254/2754-1169/2026.38666"
+  ],
+  "oa_status": "hybrid",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemasaran, rantai pasok & rantai nilai"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-12",
+  "summary_id": null,
+  "relevance": 9
+ },
+ {
+  "id": "W7225738114",
+  "doi": "10.3389/frai.2026.1815838",
+  "title": "A hybrid framework with quantum-inspired feature selection and hyperparameter optimization for rice price forecasting",
+  "date": "2026-11-10",
+  "year": "2026",
+  "journal": "Frontiers in Artificial Intelligence",
+  "issn": "26248212",
+  "publisher": "Frontiers Media",
+  "authors": [
+   "Lourdeena J. S.",
+   "Graceline Jasmine S",
+   "Febin Daya J. L."
+  ],
+  "abstract": "Introduction Rice price volatility in India is driven by temporal dependence, climatic variability and supply-side uncertainties, creating continuous challenges for farmers, traders and policymakers. This study proposes a hybrid forecasting framework for rice price prediction that combines quantum-inspired feature selection and hyperparameter optimization with time-series decomposition. Methods A unified dataset was constructed by integrating daily rice market prices (2001-2023) with climatic variables, agricultural supply metrics and spatial information from 23 Indian states and 602 districts. Seasonal-Trend decomposition using Loess (STL) split the price series into trend, seasonal and residual components to capture the structure of price variations. An eXtreme Gradient Boosting (XGBoost) model forecast the trend, and a Long Short-Term Memory (LSTM) network modeled the seasonal-residual components. A Quantum Genetic Algorithm (QGA) performed feature selection, and Quantum Particle Swarm Optimization (QPSO) tuned hyperparameters (Hybrid QGA-QPSO). Forecast accuracy was assessed with the Diebold-Mariano (DM) test, residual diagnostics and SHapley Additive exPlanations (SHAP). Results QGA reduced the original 47 variables to 11 optimal predictors, and QPSO ensured stable hyperparameter convergence. The Hybrid QGA-QPSO model achieved RMSEs of 164.57, 242.59 and 294.07 Rs./qtl, with R 2 of 0.9662, 0.9250 and 0.8866 at 1-week, 4-week and 12-week horizons, respectively. It recorded the lowest RMSE at all three horizons among QGA-configured models, with a relative R 2 decline of 8.24% across horizons. Light Gradient Boosting Machine (LightGBM) recorded the lowest 1-week RMSE (236.27 Rs./qtl) among full-feature models. The DM test confirmed a statistically significant improvement of the hybrid model over the baseline (DM = 5.0108, p < 0.001). Ljung-Box and Autoregressive Conditional Heteroscedasticity-Lagrange Multiplier (ARCH-LM) tests showed that forecast errors were free of autocorrelation and heteroscedasticity. SHAP analysis identified price lags as the strongest predictors, with climate influencing prices indirectly through crop supply. Discussion No single model dominates across all horizons and metrics. The proposed framework provided competitive and interpretable multi-horizon forecasts and can support market monitoring, procurement planning and post-harvest decision-making for paddy farmers in Indian rice markets.",
+  "oa_url": "https://doi.org/10.3389/frai.2026.1815838",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.3389/frai.2026.1815838"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemasaran, rantai pasok & rantai nilai"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-12",
+  "summary_id": null,
+  "relevance": 9
+ },
+ {
+  "id": "W7225719767",
+  "doi": "10.1016/j.ejrh.2026.104197",
+  "title": "The water use paradox in China: Phenomenon, driving factors, and policy implications",
+  "date": "2026-11-10",
+  "year": "2026",
+  "journal": "Journal of Hydrology Regional Studies",
+  "issn": "22145818",
+  "publisher": "Elsevier BV",
+  "authors": [
+   "Wenqing Li",
+   "Guohua He",
+   "Hanlin Zhu",
+   "Yong Zhao",
+   "He Fan"
+  ],
+  "abstract": "Study region China. Study focus Although China’s water use (WU) has declined since 2013, national water demand diverges when accounting for virtual water (VW) embodied in international trade. This study defines real water consumption (RWC) as WU plus VW in imports minus VW in exports, quantifying China’s RWC from 1990 to 2021. We construct time-varying water-use coefficients rather than fixed coefficients and integrate them into a multiregional input–output model spanning 189 economies. We examine the divergence between RWC and WU, decompose the drivers of RWC, and assess how trade reshapes China’s water stress. New hydrological insights for the region China’s RWC increased continuously, exceeding WU by 44.30 billion m 3 in 2021; thus, WU has decoupled from economic growth solely on the production side. Around 2014, China became a net VW importer, drawing increasingly on agricultural imports from developing economies. By 2021, agriculture constituted 55.53% of total VW imports, and net imports supplied 6.96% of national water demand, mitigating water stress. The increase in RWC was driven primarily by consumption scale, which contributed 252.72% to the total change, whereas demographic growth played a secondary role and efficiency gains failed to offset consumption expansion. Consequently, China’s water security cannot be evaluated solely from withdrawals; it is increasingly tied to external agricultural suppliers, necessitating demand-side governance, supply-chain trade resilience, and efficiency enhancements.",
+  "oa_url": "https://doi.org/10.1016/j.ejrh.2026.104197",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1016/j.ejrh.2026.104197"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemasaran, rantai pasok & rantai nilai"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-12",
+  "summary_id": null,
+  "relevance": 0
+ },
+ {
   "id": "W7225631392",
   "doi": "10.1007/s42535-026-01928-9",
   "title": "Indigenous edible vegetables processing practices and their role in achieving four SDGs",
@@ -28,6 +695,258 @@
   "found_at": "2026-11-11",
   "summary_id": null,
   "relevance": 7
+ },
+ {
+  "id": "W7225726752",
+  "doi": "10.54899/iij.v20i2.2108",
+  "title": "Trust, collector dependence, and branding readiness among smallholder cardamom farmers in South Nias, Indonesia",
+  "date": "2026-11-09",
+  "year": "2026",
+  "journal": "Interpersona An International Journal on Personal Relationships",
+  "issn": "19816472",
+  "publisher": "PsychOpen",
+  "authors": [
+   "Zenni Riana",
+   "Nur Augus Fahmi",
+   "Irwan Agusnu Putra",
+   "Muhammad Endang Asmara",
+   "Donald Frensius Pasaribu",
+   "Evi Susilawati",
+   "Syarifuddin",
+   "Milwan Abdilah",
+   "Tasya Aliya Sabila",
+   "Elvan Dyan Lestari Zai"
+  ],
+  "abstract": "This study describes how ready smallholder cardamom farmers in Gomo, South Nias, Indonesia, are to move from selling through a personal intermediary to selling under a recognisable brand, and what they report about their dependence on collectors. The theoretical framework treats a brand as a device that carries trust between a seller and a buyer who have no personal tie, so that producers without a brand depend on the intermediary who can vouch for the product. The method is a descriptive survey of two sources: a baseline survey of 275 farmers on five aspects of product image, scored on a five-point scale, and a needs analysis recorded in a project daily log (n = 50). All five aspects were low (means 1.80 to 2.40; overall mean 2.07), with marketplace use and branding lowest. Respondents listed unstable prices, dependence on collectors, high transport costs, and missing outside market information as the main constraints, and asked for a buyer-seller rating feature. The two samples differ and are not linked statistically. Trust and dependence were examined through reported constraints, not dedicated scales, so the findings are consistent with, but do not test, the view that farmers hold no brand able to carry trust beyond the collector. For practice, support should combine brand identity, packaging, certification knowledge, and digital selling, and respect the farmer-collector tie. The originality lies in a baseline for a hard-to-reach farming population and a relational reading of branding readiness, with two propositions as a conceptual frame for later testing.",
+  "oa_url": "https://ojs.interpersonajournal.com/index.php/ojs/article/download/2108/1437",
+  "pdf_url": "https://ojs.interpersonajournal.com/index.php/ojs/article/download/2108/1437",
+  "pdf_urls": [
+   "https://ojs.interpersonajournal.com/index.php/ojs/article/download/2108/1437",
+   "https://doi.org/10.54899/iij.v20i2.2108"
+  ],
+  "oa_status": "diamond",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Akses & informasi pasar petani"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-12",
+  "summary_id": {
+   "tujuan": "Menggambarkan kesiapan petani kardamom kecil di Gomo, Nias Selatan, untuk beralih dari penjualan melalui pengepul ke penjualan dengan merek, serta kendala yang mereka laporkan terkait ketergantungan pada pengepul.",
+   "metode": "Survei deskriptif kuantitatif dengan dua sumber: baseline (pretest) 275 petani di 11 desa, sampel purposif usia 25–55 tahun yang mampu menggunakan perangkat digital, dikumpulkan 2026 dengan skala Likert 1–5 untuk lima aspek citra produk; dan rekap needs analysis 50 responden dari log harian program (Mei 2025). Analisis berupa statistik deskriptif (rata-rata, selisih antaraspek) tanpa uji hubungan.",
+   "temuan": "Kelima aspek citra produk rendah (rata-rata 1,80–2,40; rata-rata keseluruhan 2,07), dengan skor terendah pada pemanfaatan marketplace (1,80) dan branding (1,95). Responden menyebut harga tidak stabil, ketergantungan pada pengepul, biaya transportasi tinggi, dan minimnya informasi pasar luar, lalu meminta fitur rating penjual-pembeli. Hubungan antara kedua sampel tidak diuji, sehingga temuan tentang ketergantungan hanya bersifat konsisten, bukan asosiatif terukur.",
+   "keterbatasan": "Sampel purposif cenderung lebih melek digital sehingga kesiapan digital kemungkinan terlalu tinggi; tidak ada kelompok pembanding; dua sampel berbeda dan tidak terhubung secara statistik. Kepercayaan dan ketergantungan tidak diukur dengan skala khusus, reliabilitas hanya dilaporkan dari laporan kemajuan (alpha 0,84 dan 0,79) tanpa validitas item.",
+   "relevansi": "Sangat dekat dengan agenda akses pasar petani kecil, peran perantara dalam rantai nilai, kelembagaan petani, dan adopsi digital di wilayah 3T; proposisi konseptualnya dapat diuji ulang pada komoditas perkebunan Kalimantan Tengah, misalnya karet, kakao, atau sawit swadaya, dengan mengukur kepercayaan dan ketergantungan pada pengepul secara langsung. Kontribusi empirisnya terbatas karena data bersifat deskriptif dan tanpa kelompok pembanding.",
+   "skor": 4,
+   "model": "claude-haiku-5-5",
+   "sumber": "teks penuh"
+  },
+  "relevance": 66
+ },
+ {
+  "id": "W7225711863",
+  "doi": "10.3389/fpls.2026.1952613",
+  "title": "Adoption rates of genetically improved cultivars of staple crops in sub-Saharan Africa",
+  "date": "2026-11-09",
+  "year": "2026",
+  "journal": "Frontiers in Plant Science",
+  "issn": "1664462X",
+  "publisher": "Frontiers Media",
+  "authors": [
+   "Dennis Eriksson",
+   "Girum Azmach",
+   "Maryke Tine Labuschagne",
+   "Nzola Mahungu",
+   "Rodomiro Octavio Ortiz",
+   "Mohammed Elsafy"
+  ],
+  "abstract": "Introduction Plant breeding contributes to crop productivity, diversity and improved farm economy by providing farmers and other producers with genetically enhanced cultivars that perform better under various conditions. However, cultivar release has little impact unless farmers adopt these cultivars, which depends on several contextual factors. Methods We reviewed the adoption rates of bred cultivars of nine major staple crops, banana/plantain, bean, cassava, cowpea, maize, pearl millet, rice, sorghum and sweetpotato, in sub-Saharan Africa, together with factors promoting or limiting their adoption. These factors were grouped into four categories: demographic (farm and household), infrastructure and market, information and support, and crop-related. Results Adoption rates varied substantially across crops, countries and regions. Maize showed comparatively high adoption of genetically improved cultivars across most countries surveyed, whereas pearl millet and sweetpotato generally showed lower adoption of released cultivars. Adoption was associated with different combinations of demographic, infrastructural, market, informational and crop-related factors. Discussion The findings can inform policy and funding decisions aimed at supporting cultivar adoption and associated gains in food security and farm economy. However, the evidence varied substantially in methodological quality and geographic coverage, and most adoption estimates relied on farmer self-report rather than objective verification. Comparisons across crops and countries therefore require caution because of the heterogeneity of the underlying studies.",
+  "oa_url": "https://doi.org/10.3389/fpls.2026.1952613",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.3389/fpls.2026.1952613"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Akses & informasi pasar petani",
+   "Ketahanan pangan rumah tangga",
+   "Komoditas: pisang, nanas, padi rawa"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-12",
+  "summary_id": {
+   "tujuan": "Meninjau tingkat adopsi kultivar hasil pemuliaan tanaman pada sembilan tanaman pangan utama di Afrika sub-Sahara serta faktor pendorong dan penghambatnya. Faktor tersebut dikelompokkan menjadi demografi, infrastruktur dan pasar, informasi dan dukungan, serta karakteristik tanaman.",
+   "metode": "Tinjauan literatur terhadap adopsi kultivar unggul pada pisang/pisang tanduk, kacang buncis, singkong, kacang tunggak, jagung, jawawut mutiara, padi, sorgum, dan ubi jalar. Periode, jumlah studi, dan ukuran sampel tidak disebutkan dalam abstrak, dan teknik analisis kuantitatif tidak dijelaskan.",
+   "temuan": "Tingkat adopsi bervariasi substansial antartanaman, negara, dan wilayah, dengan jagung relatif tinggi dan jawawut mutiara serta ubi jalar umumnya rendah. Adopsi berasosiasi dengan kombinasi faktor demografi, infrastruktur, pasar, informasi, dan karakteristik tanaman. Temuan ini bersifat asosiatif, bukan kausal.",
+   "keterbatasan": "Kualitas metodologis dan cakupan geografis studi sumber tidak merata, serta heterogenitas studi membatasi perbandingan antartanaman dan negara. Sebagian besar estimasi adopsi bergantung pada laporan mandiri petani, bukan verifikasi objektif.",
+   "relevansi": "Kerangka faktor demografi, pasar, dan informasi berguna untuk menelaah adopsi varietas unggul padi atau singkong di lahan rawa dan gambut Kalimantan Tengah. Namun konteks Afrika sub-Sahara berbeda dari Indonesia, sehingga temuannya perlu diuji ulang secara empiris sebelum diterapkan.",
+   "skor": 2,
+   "model": "claude-haiku-5-5",
+   "sumber": "abstrak"
+  },
+  "relevance": 44
+ },
+ {
+  "id": "W7225698945",
+  "doi": "10.1002/ird.70255",
+  "title": "Do Information and Communication Technologies Promote Climate‐Smart Irrigation in Sub‐Saharan Africa?",
+  "date": "2026-11-09",
+  "year": "2026",
+  "journal": "Irrigation and Drainage",
+  "issn": "15310353",
+  "publisher": "Wiley",
+  "authors": [
+   "Chimdessa Uma Negera",
+   "Haibin Chen",
+   "Amenu Leta Duguma",
+   "Bacha Gebissa",
+   "Tadesse Tolera",
+   "Dabesa Wegari Obosha"
+  ],
+  "abstract": "ABSTRACT Irrigation is vital for climate resilience and food security in Sub‐Saharan Africa (SSA), yet its expansion remains constrained by climatic and structural barriers. Although information and communication technologies (ICTs) offer opportunities for climate‐smart irrigation, evidence across diverse SSA remains limited. Using panel data from 20 SSA countries (2000–2023), this study employs fixed‐effects (FE) and dynamic system–GMM (Generalized Method of Moments) estimators to examine the ICT–irrigation relationship, accounting for persistence and potential endogeneity. The findings reveal that ICT effects vary by technology and income level. Internet access consistently promotes irrigation development, particularly in low‐ and upper‐middle‐income economies, potentially by reducing information gaps and improving water management. Conversely, mobile phone penetration does not automatically generate irrigation gains and is negatively associated with irrigation development in lower‐middle‐income economies. Complementary conditions are also crucial: Electricity access and agricultural capital support irrigation development, whereas higher rainfall is associated with lower irrigation intensity, reflecting reduced reliance on irrigation. These findings reveal a development gradient in digital benefits, demonstrating that connectivity alone cannot drive irrigation expansion. Policies should therefore prioritize rural internet access alongside electrification, irrigation infrastructure and agricultural finance, supported by context‐specific digital agriculture strategies to advance climate resilience and sustainable agriculture across SSA.",
+  "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ird.70255",
+  "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ird.70255",
+  "pdf_urls": [
+   "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ird.70255",
+   "https://doi.org/10.1002/ird.70255"
+  ],
+  "oa_status": "bronze",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Ketahanan pangan rumah tangga"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-12",
+  "summary_id": null,
+  "relevance": 30
+ },
+ {
+  "id": "W7225633989",
+  "doi": "10.1080/26895269.2026.2736100",
+  "title": "“The only choice I’ve made is to tell you who I am”: how trans-masculine and non-binary young people and caregivers in rural Scotland make sense of their experiences",
+  "date": "2026-11-09",
+  "year": "2026",
+  "journal": "International Journal of Transgender Health",
+  "issn": "26895269",
+  "publisher": "Taylor & Francis",
+  "authors": [
+   "Michaela Chesters",
+   "Aliénor H. Lemieux-Cumberlege",
+   "Caroline Elizabeth Brett"
+  ],
+  "abstract": "Introduction Trans young people experience disproportionate levels of mental health issues, potentially due to minority stressors, including discrimination and reduced access to support networks and healthcare. Disparities may be especially pronounced in rural areas, and caregiver responses particularly salient for young people. This study qualitatively investigated the experiences of trans young people and caregivers living in rural Scotland and how they make sense of them.Method A multi-perspective Interpretative Phenomenological Analysis (IPA) design was used, interviewing one non-binary and three trans-masculine 17-18-year-olds, and three caregivers of trans-masculine young people, all living in rural Scotland.Results Group Experiential Themes (GETs) were developed using IPA: for young people “self-discovery as a means through which conflicts between one’s identity and cisnormative societal rules are resolved”, for caregivers “engaging in a reciprocal process of growth, learning from their young person’s commitment to becoming their authentic self” and for the combined sample “identity and relationship security as sources of strength in a cisnormative world”. Drawing strength from identity and supportive others was more important than geographical location.Discussion Trans young people engage in a process of becoming themselves, developing maturity and complex understandings of themselves, others, and gender, as they navigate the conflicts between their identity and cisnormative standards. Relationships with caregivers are renegotiated, with caregivers learning from and advocating for their young person. A secure identity and supportive relationships form sources of strength. Trans young people’s needs must be understood within the context of both their gender and their evolving capacities.",
+  "oa_url": "https://www.tandfonline.com/doi/pdf/10.1080/26895269.2026.2736100?needAccess=true",
+  "pdf_url": "https://www.tandfonline.com/doi/pdf/10.1080/26895269.2026.2736100?needAccess=true",
+  "pdf_urls": [
+   "https://www.tandfonline.com/doi/pdf/10.1080/26895269.2026.2736100?needAccess=true",
+   "https://doi.org/10.1080/26895269.2026.2736100"
+  ],
+  "oa_status": "hybrid",
+  "cited_by": 0,
+  "keywords": [
+   "caregivers",
+   "rural youth",
+   "gender identity",
+   "lived experience",
+   "rural Scotland"
+  ],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-12",
+  "summary_id": null,
+  "relevance": 21
+ },
+ {
+  "id": "W7225640048",
+  "doi": "10.1007/s44217-026-02378-w",
+  "title": "Gender differences in epistemic access in rural secondary mathematics classrooms",
+  "date": "2026-11-09",
+  "year": "2026",
+  "journal": "Discover Education",
+  "issn": "27315525",
+  "publisher": "Springer Science+Business Media",
+  "authors": [
+   "Olimpia Isaura Gómez Pérez",
+   "Jesús Enrique Pinto Sosa"
+  ],
+  "abstract": "This study examines how epistemic access is organized in rural secondary mathematics classrooms and whether its observable manifestations are differentially distributed by gender. A qualitative–interpretive case study was conducted in six mathematics classrooms from three public rural secondary schools in Yucatán, Mexico, involving over one hundred students and six teachers. Data consisted of video-recorded lessons, structured anecdotal records, and a theory-informed observational coding framework comprising three analytic areas: Discursive Regulation, Epistemic Positioning, and Organization of Participation. Three five-minute segments from each lesson were analyzed using descriptive, comparative, and integrative procedures. Discursive Regulation accounted for the largest proportion of coded manifestations, while all three analytic areas recurred across classrooms and lesson segments. At the aggregate level, female and male students showed broadly similar proportional distributions across the three analytic areas. However, clearer gender differences emerged in direct teacher–student interaction time and in specific observational categories. Female students showed greater proportional presence in Omission, Disauthorization, and Restricted Collaboration, whereas male students showed greater proportional presence in Invitation, Recognition, and Leadership Allocation. Integrating gender differentiation with recurrence across classrooms and lesson segments revealed recurrent configurations of epistemic opportunity that were not visible at the level of the broad analytic areas alone. The study provides evidence of gender-differentiated epistemic access in rural secondary mathematics classrooms. Not applicable.",
+  "oa_url": "https://link.springer.com/content/pdf/10.1007/s44217-026-02378-w.pdf",
+  "pdf_url": "https://link.springer.com/content/pdf/10.1007/s44217-026-02378-w.pdf",
+  "pdf_urls": [
+   "https://link.springer.com/content/pdf/10.1007/s44217-026-02378-w.pdf",
+   "https://doi.org/10.1007/s44217-026-02378-w"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [
+   "gender differences",
+   "epistemic access",
+   "mathematics education",
+   "rural schools",
+   "high school mathematics",
+   "classroom discourse",
+   "student participation"
+  ],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-12",
+  "summary_id": null,
+  "relevance": 21
+ },
+ {
+  "id": "W7225721310",
+  "doi": "10.1111/cen.70228",
+  "title": "Study of Visceral Adiposity Index and Free Androgen Index in Indian Women With PCOS: A Cross‐Sectional Study",
+  "date": "2026-11-09",
+  "year": "2026",
+  "journal": "Clinical Endocrinology",
+  "issn": "03000664",
+  "publisher": "Wiley",
+  "authors": [
+   "Pieu Adhikary",
+   "Subhasish Pramanik",
+   "Shouvik Choudhury",
+   "Taruna Katyal Arora",
+   "Subhankar Chowdhury",
+   "Pranab Kumar Sahana",
+   "Mohd Ashraf Ganie",
+   "Vanita Suri",
+   "Prasanta Kumar Bhattacharya",
+   "Sarita Agrawal",
+   "Neena Malhotra",
+   "Rakesh Kumar Sahay"
+  ],
+  "abstract": "OBJECTIVE: PCOS is a complex endocrine disorder associated with metabolic and hormonal dysregulation. The visceral adiposity index (VAI) and free androgen index (FAI) have emerged as predictive markers for PCOS. This study aims to evaluate the role of VAI and FAI from the aspect of metabolic and hormonal imbalance in PCOS women from urban and rural areas of India. STUDY DESIGN AND SUBJECTS: Women within the reproductive age of 18-40 years from both rural and urban areas of India were recruited in the study between November 2018 and July 2022 for this cross-sectional study. 12,100 women were approached to participate in the study, of whom 8993 subjects were enroled. After clinical examination and all investigations according to the protocol, 795 were PCOS cases, while 2475 were non-PCOS cases as per Rotterdam criteria. The PCOS group was segregated according to obesity. MEASUREMENTS: Hormonal profile and ovarian morphology were evaluated along with anthropometric parameters. VAI, FAI, and Lipid Accumulation Product (LAP) were calculated based on biochemical parameters. RESULTS: VAI and FAI were significantly elevated in PCOS compared to non-PCOS. VAI, FAI, and LAP were significantly increased in obese PCOS. VAI, independent of BMI, was significantly associated with the Ferriman Gallaway (FG) score, FBG, fasting insulin, and LAP, whereas FAI was associated with BMI and LAP. CONCLUSION: The study underscores that VAI may serve as the surrogate marker of PCOS, independent of obesity.",
+  "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/cen.70228",
+  "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/cen.70228",
+  "pdf_urls": [
+   "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/cen.70228",
+   "https://doi.org/10.1111/cen.70228"
+  ],
+  "oa_status": "bronze",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-12",
+  "summary_id": null,
+  "relevance": 19
  },
  {
   "id": "W7225659467",
