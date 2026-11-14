@@ -1,5 +1,713 @@
 [
  {
+  "id": "W4413024711",
+  "doi": "10.1016/j.jcom.2026.100309",
+  "title": "A qualitative assessment of perceived resilience in agricultural marketing cooperatives",
+  "date": "2026-11-13",
+  "year": "2026",
+  "journal": "Journal of Co-operative Organization and Management",
+  "issn": "2213297X",
+  "publisher": "Elsevier BV",
+  "authors": [
+   "Marius Michels",
+   "Julius Velder",
+   "Lorenz Schmidt"
+  ],
+  "abstract": "Abstract Agricultural marketing cooperatives are vital to agricultural systems, yet their resilience remains understudied. This research applies and extends the resilience assessment framework for farm systems to these cooperatives, examining robustness, adaptability, transformability, and anticipation. Using a qualitative approach, we conducted in-depth interviews with 18 German cooperative decision-makers from December 2023 to February 2024. Our study employs thematic analysis and deductive category formation to investigate the framework's applicability, derive insights into resilience capacities and strategies, and examine how cooperative values foster resilience. Results show the adapted framework effectively captures unique cooperative aspects. These organizations perceive themselves as robust and diversified, anticipating maintained resilience due to their adaptability in business fields and functions. While overall resilience is perceived as high, individual capacities vary, with robustness scoring highest and anticipatory capacity lowest. Cooperative values contribute to resilience, especially during crises, but face modern challenges. This first systematic qualitative resilience assessment of agricultural marketing cooperatives contributes to more stable and sustainable food systems.",
+  "oa_url": "https://doi.org/10.1016/j.jcom.2026.100309",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1016/j.jcom.2026.100309",
+   "https://www.researchsquare.com/article/rs-7303741/latest.pdf",
+   "https://doi.org/10.21203/rs.3.rs-7303741/v1"
+  ],
+  "oa_status": "hybrid",
+  "cited_by": 0,
+  "keywords": [
+   "agricultural marketing cooperatives",
+   "resilience assessment",
+   "robustness",
+   "adaptability",
+   "transformability",
+   "anticipation",
+   "cooperative values",
+   "crisis management"
+  ],
+  "topics": [
+   "Kelembagaan petani & tindakan kolektif"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-14",
+  "summary_id": null,
+  "relevance": 14
+ },
+ {
+  "id": "W7225909315",
+  "doi": "10.3390/su182211543",
+  "title": "The Impact of Digital Inclusive Finance on the Resilience of Agricultural Industry Chains: Evidence from Digital Rural Construction",
+  "date": "2026-11-12",
+  "year": "2026",
+  "journal": "Sustainability",
+  "issn": "20711050",
+  "publisher": "Multidisciplinary Digital Publishing Institute",
+  "authors": [
+   "Xingfei Jia",
+   "Hang Lv",
+   "Zhang Tongxin",
+   "Wenlong Zhang"
+  ],
+  "abstract": "Accelerating the development of an agricultural powerhouse is a key priority in the new era, and ensuring national food security is the cornerstone of this modernization endeavor. Strengthening the resilience of the agricultural industrial chain through digital inclusive finance represents a crucial pathway toward agricultural modernization. Based on panel data from 30 Chinese provinces spanning 2011–2024, this study systematically examines the impact of digital inclusive finance on agricultural industrial chain resilience using a double fixed-effects model. The findings reveal: (1) digital inclusive finance significantly enhances the resilience of the agricultural industrial chain; (2) mediation analysis indicates that alleviating financing constraints and promoting agricultural technological innovation are two major transmission channels through which digital inclusive finance strengthens resilience; (3) digital rural development positively moderates this relationship—higher levels of digital rural construction amplify the empowering effects of digital inclusive finance; (4) heterogeneity analysis shows that digital inclusive finance has a more pronounced positive effect in eastern regions and major grain-producing areas. The enhancement of agricultural industrial chain resilience through digital inclusive finance results from the synergistic effects of financing, technology, and institutional environments. These insights provide valuable policy guidance for building a strong agricultural nation.",
+  "oa_url": "https://doi.org/10.3390/su182211543",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.3390/su182211543"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender",
+   "Ketahanan pangan rumah tangga"
+  ],
+  "priority_journal": true,
+  "language": "en",
+  "found_at": "2026-11-14",
+  "summary_id": {
+   "tujuan": "Menguji dampak keuangan inklusif digital terhadap ketahanan rantai industri pertanian, serta peran mediasi kendala pembiayaan dan inovasi teknologi pertanian, dan moderasi pembangunan pedesaan digital.",
+   "metode": "Studi kuantitatif berbasis data panel 30 provinsi di Tiongkok periode 2011–2024 dengan model double fixed-effects, dilengkapi analisis mediasi, moderasi, dan heterogenitas regional. Ukuran sampel tidak disebutkan secara eksplisit dalam abstrak.",
+   "temuan": "Keuangan inklusif digital secara signifikan meningkatkan ketahanan rantai industri pertanian. Pelonggaran kendala pembiayaan dan peningkatan inovasi teknologi pertanian menjadi dua jalur mediasi utama. Pembangunan pedesaan digital memperkuat efek tersebut, dengan dampak lebih besar di wilayah timur dan sentra produksi pangan; hasil ini bersifat asosiatif berdasarkan desain panel, bukan kausal murni.",
+   "keterbatasan": "Tidak disebutkan secara eksplisit dalam abstrak. Dari desain, data agregat tingkat provinsi berisiko endogenitas dan bias variabel terabaikan, serta sulit menangkap heterogenitas rumah tangga petani kecil.",
+   "relevansi": "Kerangka keuangan digital, akses pembiayaan, dan pembangunan pedesaan digital relevan dengan kajian akses pasar dan kelembagaan petani kecil di Kalimantan Tengah. Temuan dapat diuji ulang di tingkat kabupaten atau desa, termasuk pada rantai nilai sawit, meski konteks kelembagaan Tiongkok berbeda.",
+   "skor": 4,
+   "model": "claude-haiku-5-5",
+   "sumber": "abstrak"
+  },
+  "relevance": 60
+ },
+ {
+  "id": "W7225881654",
+  "doi": "10.3389/fsufs.2026.1933553",
+  "title": "Effects of digital literacy on rural labor allocation and income inequality",
+  "date": "2026-11-12",
+  "year": "2026",
+  "journal": "Frontiers in Sustainable Food Systems",
+  "issn": "2571581X",
+  "publisher": "Frontiers Media",
+  "authors": [
+   "Xiumei Wang",
+   "Shangpu Li",
+   "Yingdong Tian"
+  ],
+  "abstract": "Introduction Rural prosperity depends in part on whether rural households can access more productive employment and income opportunities. The transfer of rural labor to non-agricultural sectors represents an important pathway for improving rural household income. In the digital era, digital literacy has become an increasingly important dimension of human capital that may shape rural labor allocation and the distribution of economic gains. Methods Using data from the China Family Panel Studies (CFPS), this study examines the relationship between digital literacy and rural household labor allocation and further investigates its associations with household income and income inequality. Results The results show that higher digital literacy is associated with greater labor allocation to non-agricultural activities and less labor allocated to agricultural self-employment. Broader access to information and general human-capital accumulation emerge as two important empirical transmission channels. Heterogeneity analysis further indicates that these labor-allocation patterns vary across households with different baseline human-capital levels and across household-head age and gender groups. Digital literacy is also associated with higher rural household income but greater income inequality, with the distributional association particularly evident in wage income. Labor reallocation represents an additional empirical pathway linking digital literacy to household income outcomes. Discussion These findings highlight the dual role of digital literacy in rural prosperity: it may expand employment and income opportunities, but the resulting gains are not necessarily shared equally across rural households.",
+  "oa_url": "https://doi.org/10.3389/fsufs.2026.1933553",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.3389/fsufs.2026.1933553"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": true,
+  "language": "en",
+  "found_at": "2026-11-14",
+  "summary_id": null,
+  "relevance": 38
+ },
+ {
+  "id": "W7135056749",
+  "doi": "10.1079/cabireviews.2026.0054",
+  "title": "Sustainable upcycling across the agricultural value chain: A scoping review of by-product generation and valorisation pathways",
+  "date": "2026-11-12",
+  "year": "2026",
+  "journal": "CABI Reviews",
+  "issn": "17498848",
+  "publisher": "",
+  "authors": [
+   "Rohith Bhagawath",
+   "Bhagyajyothi CK",
+   "Praveen Kumar",
+   "Muralidhar Kulakarni",
+   "Harini Santhanam",
+   "Parthesh R. Shanbhag",
+   "Elizabeth Yorke",
+   "S. Elstin Anbu Raj"
+  ],
+  "abstract": "Abstract Introduction : Agriculture generates substantial volumes of by-products during crop production and post-harvest processing. Many of these by-products remain underutilised despite their potential to be converted into value-added products such as foods, biochemicals, materials, soil amendments, bioactive compounds, and energy. The evidence on agricultural by-products, their stages of origin, and the technological routes by which they are generated has been compiled in this scoping review. Objective : To map and synthesise global evidence on how agricultural by-products are generated across value chain stages and upcycled through diverse valorisation pathways. Methodology : A systematic literature review was conducted in four electronic bibliographic databases: PubMed, ProQuest, Scopus, Web of Science. A predetermined extraction framework was used to chart the data, which were then narratively synthesised using stage-wise and pathway-wise categorisation. From eligible studies, data were extracted, summarised, and collated to develop probable frameworks. Results: Most residues originated from the post-harvest and processing phases, which together accounted for 88% of the reported by-products. The literature was dominated by studies on rice, maize, wheat, coffee, sugarcane, banana, and a variety of horticultural and plantation crops. Food and ingredient development, animal feed, biochemicals and bioactives, materials and bioproducts, soil amendments, and bioenergy were identified as the main valorisation pathways. Cascading multi-pathway strategies were frequently reported. Conclusion : A variety of underutilised biomass streams with significant potential for circular applications are represented by agricultural by-products. More opportunities were identified at the post-harvest and processing stages, alongside a growing technological emphasis on high-value biochemical and food-based routes. The scope of future work should focus on developing integrated biorefinery approaches, increasing research on underrepresented crops, and improving reporting consistency.",
+  "oa_url": "https://osf.io/njzsc",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://osf.io/njzsc",
+   "https://doi.org/10.17605/osf.io/njzsc"
+  ],
+  "oa_status": "green",
+  "cited_by": 0,
+  "keywords": [
+   "agricultural by-products",
+   "agricultural residues",
+   "upcycling",
+   "valorization",
+   "agricultural value chains",
+   "post-harvest losses",
+   "bioenergy",
+   "soil amendment"
+  ],
+  "topics": [
+   "Pemasaran, rantai pasok & rantai nilai",
+   "Tenaga kerja & produktivitas perkebunan"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-14",
+  "summary_id": null,
+  "relevance": 36
+ },
+ {
+  "id": "W7225849285",
+  "doi": "10.3390/app162211200",
+  "title": "From Technology Acceptance to Actual Use: Determinants of Agricultural Drone Adoption for Digital Agriculture and Crop Monitoring in Thailand’s Eastern Economic Corridor",
+  "date": "2026-11-12",
+  "year": "2026",
+  "journal": "Applied Sciences",
+  "issn": "20763417",
+  "publisher": "Multidisciplinary Digital Publishing Institute",
+  "authors": [
+   "Tapsatit Gooncokkord",
+   "Waraphon Klinsreesuk",
+   "Dultadej Sanvises",
+   "Worachot Sribua",
+   "Duangrat Tandamrong",
+   "Jakkawat Laphet"
+  ],
+  "abstract": "Agricultural drones are increasingly important for digital agriculture and crop monitoring; however, behavioral intention to use the technology does not necessarily translate into actual use. This study developed and empirically tested an integrated model combining the Technology Acceptance Model (TAM) and the Unified Theory of Acceptance and Use of Technology (UTAUT) to examine agricultural drone adoption in Thailand’s Eastern Economic Corridor (EEC) and the surrounding agricultural area of Prachin Buri. A quantitative cross-sectional survey was conducted with 400 farmers and agricultural practitioners across four provinces using quota sampling. The data were analyzed using partial least squares structural equation modeling (PLS-SEM) with 5000 bootstrap resamples. Seven of the nine hypothesized relationships were supported. Perceived usefulness positively influenced attitude and behavioral intention, while perceived ease of use positively influenced attitude but did not have a significant direct effect on behavioral intention. Attitude positively influenced both behavioral intention and actual use, and behavioral intention positively influenced actual use. Facilitating conditions significantly influenced actual use but did not significantly influence behavioral intention. The model explained 65.0% of the variance in attitude, 63.0% in behavioral intention, and 74.9% in actual use. Positive Q2_predict values and statistically significant cross-validated predictive ability test (CVPAT) results further supported the model’s predictive relevance and predictive performance relative to the indicator-average benchmark. These findings highlight that the factors associated with behavioral intention and actual agricultural drone use are not necessarily identical, emphasizing the importance of distinguishing psychological acceptance from practical implementation conditions. The findings suggest that agricultural drone promotion should demonstrate practical benefits while also addressing technical support, infrastructure, operational knowledge, and access to necessary resources. The findings should be interpreted in light of the study’s regional scope, non-probability quota-sampling approach, self-reported measure of actual use, and cross-sectional design.",
+  "oa_url": "https://doi.org/10.3390/app162211200",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.3390/app162211200"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Adopsi teknologi & pertanian digital"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-14",
+  "summary_id": null,
+  "relevance": 34
+ },
+ {
+  "id": "W7225891788",
+  "doi": "10.3389/fsufs.2026.1978646",
+  "title": "A farmer-centric analysis of an agri-food transition in the face of potential disruption from cultured meat",
+  "date": "2026-11-12",
+  "year": "2026",
+  "journal": "Frontiers in Sustainable Food Systems",
+  "issn": "2571581X",
+  "publisher": "Frontiers Media",
+  "authors": [
+   "Lisa C. Morgans",
+   "John J. Dooley",
+   "Illtud Dunsford",
+   "Michael K. Goodman",
+   "Katherine Lewis",
+   "Louise Manning",
+   "David Christian Rose",
+   "William Sibly",
+   "Alexandra E. Sexton",
+   "Tom MacMillan"
+  ],
+  "abstract": "The emergence of cultured meat has been presented as a potentially transformative innovation capable of reducing the environmental impacts of food production and reshaping global protein systems. However, little empirical research has examined how farmers—key actors within agri-food transitions—might respond to this potential disruption. This study explores how UK farmers approach an agri-food transition in the face of disruption from cultured meat and considers the implications for a just agri-food transition. Using a qualitative case-study approach, representatives from nine diverse farms across the four devolved nations of the United Kingdom participated in semi-structured interviews about their farm businesses and how they might respond if cultured meat were on the market. Reflexive thematic analysis identified three overarching themes: (1) connectedness, (2) farmers’ positionality within the food system, and (3) the practical knock-on effects of disruption. Although farmers in the study perceived cultured meat as a distant but potentially significant threat, they were optimistically resilient, a perspective borne of the connected nature of the farming community. However, their concerns about knock-on effects extended beyond livestock production to include impacts on rural employment, landscape stewardship, regenerative agriculture and the viability of interconnected agricultural sectors. Participants described being disempowered within existing supply chains, but some expressed a willingness to engage in potential opportunities through supplying inputs, energy, waste-derived products or materials. We argue that achieving a just transition requires meaningfully including farmers in the sustainable development and governance of cultured meat. Therefore, addressing farmers’ positionality in the food system is vital if the cultured meat sector is to establish a sustainable relationship with primary production, despite some advocates aiming to replace animal agriculture, and with it many farmers and their livelihoods. The study contributes novel empirical evidence to debates on cultured meat and agri-food transitions.",
+  "oa_url": "https://doi.org/10.3389/fsufs.2026.1978646",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.3389/fsufs.2026.1978646"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemasaran, rantai pasok & rantai nilai"
+  ],
+  "priority_journal": true,
+  "language": "en",
+  "found_at": "2026-11-14",
+  "summary_id": null,
+  "relevance": 33
+ },
+ {
+  "id": "W7161969899",
+  "doi": "10.1038/s41598-026-80115-x",
+  "title": "Maternal perceptions and practices regarding traditional milk tooth extraction among children under five years in Khartoum State, Sudan: a multicenter cross-sectional study",
+  "date": "2026-11-12",
+  "year": "2026",
+  "journal": "Scientific Reports",
+  "issn": "20452322",
+  "publisher": "Nature Portfolio",
+  "authors": [
+   "Da’ad Abdalla",
+   "Hamzaelhussein Mohieldin Hamza",
+   "Danya Ibrahim",
+   "Zahra Abdelaziz Imam Mohamed",
+   "Nagat Taha Altahir",
+   "Rana Bakri Elageid",
+   "Dalya SirElkhatim Ali Suliman",
+   "Zainab Mohammed"
+  ],
+  "abstract": "Abstract Traditional healing practices are common in Sudan and Sub-Saharan Africa. Milk tooth extraction (MTE) refers to the manual removal of primary tooth buds, typically performed on children under five years of age. This practice is believed to have a therapeutic effect for symptoms such as diarrhea, vomiting, and cough. This study aimed to determine the prevalence of MTE and to describe mothers’ perceptions of this practice. This cross-sectional study was conducted in seven teaching hospitals across Khartoum State. Mothers of children presenting to pediatric units were interviewed using a semi-structured questionnaire. The variables assessed included mothers’ perceptions of MTE, whether their child had undergone MTE, and a description of the procedure. A total of 385 mothers of children under five years participated in the study. The mean age of the participants was 34.96 years (SD ± 7.504), and the mean age of the children was 2.14 years (SD ± 1.350). Among the children, 174 (45.2%) were females and 211 (54.8%) were males. Approximately 154 mothers (40%) endorsed the practice of MTE. Reported reasons for performing MTE included family tradition (69.4%), diarrhea (56.1%), vomiting (46.5%), and fever (37.7%). The prevalence of MTE was 18.4% (70 out of 385 children). Factors significantly associated with this practice included maternal age, maternal education level, and rural origin. No major complications related to MTE were reported Most mothers did not report complications following MTE; however, fever, bleeding and other adverse events were reported. Milk tooth extraction (MTE) remains a common traditional practice acknowledged by Sudanese mothers. Awareness-raising initiatives regarding the risks of MTE should be implemented through health education campaigns in primary healthcare centers and hospitals, particularly targeting women of childbearing age and healthcare practitioners.",
+  "oa_url": "https://doi.org/10.1038/s41598-026-80115-x",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1038/s41598-026-80115-x",
+   "https://www.researchsquare.com/article/rs-9232013/latest.pdf",
+   "https://doi.org/10.21203/rs.3.rs-9232013/v1"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [
+   "primary tooth extraction",
+   "traditional healing",
+   "maternal perceptions",
+   "children under five",
+   "prevalence",
+   "Sudan",
+   "Khartoum",
+   "diarrhea"
+  ],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": true,
+  "language": "en",
+  "found_at": "2026-11-14",
+  "summary_id": null,
+  "relevance": 32
+ },
+ {
+  "id": "W7225883940",
+  "doi": "10.3390/land15112167",
+  "title": "Governance Beyond Government: New Rural Elites and Households’ Responses to Rural Homestead Withdrawal in China",
+  "date": "2026-11-12",
+  "year": "2026",
+  "journal": "Land",
+  "issn": "2073445X",
+  "publisher": "Multidisciplinary Digital Publishing Institute",
+  "authors": [
+   "Cong Yu",
+   "Jia Song",
+   "Xiaotong Mao",
+   "Zhen Wang",
+   "Linke Hou"
+  ],
+  "abstract": "Withdrawal from rural homesteads (WRH) is of great significance for promoting sustainable utilization of rural land resources and inclusive rural development in transitional China. However, existing studies have largely overlooked endogenous factors embedded in rural communities, limiting a comprehensive understanding of WRH. To bridge this gap, this paper attempts to elucidate the role of new rural elites (NREs), individuals possessing relatively advantageous political, economic, or knowledge-based resources within rural communities, in households’ WRH responses. Drawing on the China Land Economic Survey, covering 1927 rural households across 52 villages in Jiangsu Province, we examine the association between NRE density and households’ WRH responses, assess the statistical pathways involving non-agricultural employment and social stability, and further explore whether collective capacity conditions this association. The findings indicate that higher NRE density is associated with more positive household responses to WRH, with positive associations observed for political, economic, and intellectual elites. The association also shows different patterns across livelihood strategies, geographic conditions, and governance contexts. Meanwhile, the KHB decomposition shows that the indirect components associated with non-agricultural employment and social stability account for 15.40% and 18.11% of the total association, respectively. Furthermore, collective capacity appears to have a positive moderating role in the association between NRE density and households’ WRH responses. This study further provides policy implications for the sustainable utilization of rural land resources and serves as a theoretical reference for similar local initiatives in developing countries.",
+  "oa_url": "https://doi.org/10.3390/land15112167",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.3390/land15112167"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pembangunan pedesaan & kebijakan pertanian"
+  ],
+  "priority_journal": true,
+  "language": "en",
+  "found_at": "2026-11-14",
+  "summary_id": null,
+  "relevance": 28
+ },
+ {
+  "id": "W7225883242",
+  "doi": "10.3389/fpubh.2026.1897563",
+  "title": "From four to eight contacts: a multilevel, inequality and spatial decomposition of antenatal care utilisation in Ghana",
+  "date": "2026-11-12",
+  "year": "2026",
+  "journal": "Frontiers in Public Health",
+  "issn": "22962565",
+  "publisher": "Frontiers Media",
+  "authors": [
+   "Samuel Antwi",
+   "Yula Salifu",
+   "Joseph Lasong",
+   "Torjim Salifu",
+   "David Kweku Mykels Tunnu",
+   "Morrison Asiamah",
+   "Richard Okyere Boadu",
+   "Godwin Adzakpah"
+  ],
+  "abstract": "Background Ghana updated its national antenatal care (ANC) protocol from the four-visit standard to the World Health Organization’s 2016 recommendation of eight or more contacts. Whether this transition has been achieved equitably is unknown. We examined the prevalence, determinants, socioeconomic inequality, urban–rural gap, and spatial distribution of ANC utilisation under both standards using the 2022 Ghana Demographic and Health Survey. Methods We analysed 39,305 women aged 15–49 years with a live birth in the 5 years preceding the survey. Two binary outcomes were constructed: ≥4 ANC visits and ≥8 ANC contacts. We applied sequential multilevel logistic regression, Erreygers normalised concentration indices, Non-linear Oaxaca-Blinder decomposition of the urban–rural gap, and spatial autocorrelation analyses (Moran’s I , LISA, Getis-Ord Gi*). Results Coverage was 92.3% for ≥4 visits but only 54.8% for ≥8 contacts. Wealth-related inequality more than doubled under the eight-contact standard (Erreygers CI: 0.006 vs. 0.013). In the fully adjusted model, older age (AOR = 1.93 per age category), higher wealth (richest vs. poorest AOR = 1.76), employment, media exposure, and internet use were associated with higher odds of ≥8 contacts. Higher parity (AOR = 0.62 for 8+ vs. 0–1 children), unintended pregnancy, traditional religion, and residence in the Northern region were associated with lower odds. The Non-linear Oaxaca-Blinder decomposition attributed 75% of the urban–rural gap in ≥8 contacts to compositional differences in wealth, education, and media access. Moran’s I for ≥8 contacts were 0.636 ( p = 0.0004), with a persistent Low-Low cluster across the northern belt and a High-High cluster in Greater Accra-Eastern. Conclusion Ghana has achieved the former four-visit standard but fewer than six in ten women reach the WHO-recommended eight contacts. The eight-contact standard is structurally more inequality-sensitive. Disparities are patterned by socioeconomic disadvantage, unintended fertility, and geographic marginalisation, with the northern belt constituting a self-reinforcing zone of low coverage. Closing this gap requires spatially targeted health-system investment, NHIS reform to reward completion rather than entry, and digital demand-generation strategies.",
+  "oa_url": "https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2026.1897563/pdf",
+  "pdf_url": "https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2026.1897563/pdf",
+  "pdf_urls": [
+   "https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2026.1897563/pdf",
+   "https://doi.org/10.3389/fpubh.2026.1897563"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-14",
+  "summary_id": null,
+  "relevance": 26
+ },
+ {
+  "id": "W7225884046",
+  "doi": "10.3389/fpsyg.2026.1951678",
+  "title": "Job performance, job satisfaction, and workload as correlates of occupational self-efficacy in educators from rural areas of Peru",
+  "date": "2026-11-12",
+  "year": "2026",
+  "journal": "Frontiers in Psychology",
+  "issn": "16641078",
+  "publisher": "Frontiers Media",
+  "authors": [
+   "Ayde Gaimes Mayta",
+   "Jhordan Jhonny Mayta Llanos",
+   "Julio Cjuno"
+  ],
+  "abstract": "Objective To examine the associations of job performance, job satisfaction, and workload with occupational self-efficacy among educators in rural areas of Peru. Materials and methods A cross-sectional, explanatory-correlational study with latent variables was conducted using a non-probability sample of 457 educators from rural areas of Puno, Peru, with a mean age of 44 years; the majority were women (57.3%). The Occupational Self-Efficacy Scale–Short Form (OSS-SF), Individual Work Performance Scale, Warr, Cook, and Wall Job Satisfaction Scale, and Workload Scale (ECT) were administered. All variables were assessed simultaneously, at a single time point, through self-report questionnaires. Structural equation modeling (SEM) with the weighted least squares mean and variance adjusted (WLSMV) estimator was used to estimate the associations among the study variables. Results Job performance was the only variable showing a significant, positive, and moderate direct association with occupational self-efficacy ( β = 0.68); together, the three variables explained 43% of its variance ( R 2 = 0.43). Workload was negatively correlated with job performance ( r = −0.31) and job satisfaction ( r = −0.26), whereas job performance was positively correlated with job satisfaction ( r = 0.55). In contrast, workload ( β = −0.03) and job satisfaction ( β = −0.05) did not show significant direct associations with occupational self-efficacy. Conclusion Self-perceived job performance was the only variable uniquely associated with occupational self-efficacy and was positively associated with job satisfaction among educators in rural areas. In contrast, workload was negatively associated with both job performance and job satisfaction, without a significant direct association with occupational self-efficacy. Given the cross-sectional design, these associations should not be interpreted as causal; nonetheless, supporting teachers’ job performance and improving working conditions may be promising targets to promote wellbeing and educational quality, which should be examined in longitudinal and intervention studies.",
+  "oa_url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1951678/pdf",
+  "pdf_url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1951678/pdf",
+  "pdf_urls": [
+   "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1951678/pdf",
+   "https://doi.org/10.3389/fpsyg.2026.1951678"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-14",
+  "summary_id": null,
+  "relevance": 26
+ },
+ {
+  "id": "W7225889723",
+  "doi": "10.1186/s12917-026-06106-2",
+  "title": "Disease costs across improved and traditional poultry production systems in Tigray, Ethiopia: evidence from an endogenous switching regression model",
+  "date": "2026-11-12",
+  "year": "2026",
+  "journal": "BMC Veterinary Research",
+  "issn": "17466148",
+  "publisher": "BioMed Central",
+  "authors": [
+   "Berhe Mekonnen Mengistu",
+   "Melaku Berhe Redda",
+   "Berhanu Gebremedhin",
+   "Yohannes Tekle Asfaw",
+   "Birhanu Hadush Abera"
+  ],
+  "abstract": "Abstract Background Chicken production is vital to food security, income generation, and rural livelihood development in Ethiopia. However, chicken diseases remain a major constraint to productivity and profitability across both improved and traditional production systems. Despite their economic importance, empirical evidence on disease-related costs and their determinants remains limited. This study estimated the economic costs of chicken diseases and identified their determinants using an Endogenous Switching Regression (ESR) model applied to cross-sectional data from 1,005 chicken-producing households in Tigray, Ethiopia. Results Descriptive results revealed that disease outbreaks and chicken mortality were among the most important constraints to poultry production, alongside feed shortages, high feed costs, limited veterinary services, and inadequate access to veterinary drugs. The mean annual disease-related cost was significantly higher among households adopting improved production systems than those operating traditional systems (USD 637.70 vs. USD 219.71; p < 0.01). This difference may reflect greater investment in preventive health management and biosecurity rather than greater disease-induced losses alone. Egg loss was also significantly greater in improved systems (USD 80.12 vs. USD 19.31; p < 0.01). Furthermore, improved systems incurred higher expenditures on feed, vaccination, biosecurity measures, prophylactic treatments, deworming, acaricide application, and herbal remedies, with most differences statistically significant ( p < 0.05). The ESR results revealed system-specific heterogeneity in disease-related costs. In improved systems, larger household size ( p < 0.05), larger flock size ( p < 0.05), rearing a single age group of chickens ( p < 0.01), access to improved feed ( p < 0.01), poultry farming experience ( p < 0.10), and access to vaccination services ( p < 0.10) were associated with lower disease-related costs. Conversely, household head age ( p < 0.05), marital status ( p < 0.01), and income from off-farm activities, livestock, and poultry production ( p < 0.05) were associated with higher disease-related expenditures. Treatment-effect estimates further confirmed differences between production systems ( p < 0.01). The ATT, ATU, and ATE indicated additional annual disease-related costs of $888.96, $943.04, and $918.23 per household, respectively, following adoption of improved production systems. Conclusion Strengthening integrated disease management, veterinary and vaccination services, and poultry husbandry practices is essential for reducing disease-related losses and sustaining productivity gains.",
+  "oa_url": "https://doi.org/10.1186/s12917-026-06106-2",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1186/s12917-026-06106-2"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Ketahanan pangan rumah tangga"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-14",
+  "summary_id": null,
+  "relevance": 26
+ },
+ {
+  "id": "W7225876818",
+  "doi": "10.3390/world7110194",
+  "title": "Agricultural Development, Smallholder Support and Natural Land Cover in Chile",
+  "date": "2026-11-12",
+  "year": "2026",
+  "journal": "World",
+  "issn": "26734060",
+  "publisher": "Multidisciplinary Digital Publishing Institute",
+  "authors": [
+   "Daniel E. May"
+  ],
+  "abstract": "Agriculture plays an important role in maintaining rural livelihoods and landscapes, but agricultural development can also increase pressure on natural land cover. This article investigates this relationship in Chile by considering three dimensions of agricultural development: commercial agricultural area, agricultural output per unit of land, and public support to small-scale producers. Annual data for the period 2000–2022 are analysed using fully modified cointegrating polynomial regression and an error-correction model. The results show that commercial agricultural area is negatively associated with natural land cover, while agricultural output per unit of land presents a positive association. Public support for small-scale producers presents a U-shaped association with natural land cover: increases in support are associated with lower natural land cover below the estimated turning point and with higher natural land cover above it. The error-correction coefficient is negative (λ = −0.534) and statistically significant at the 5% level under conventional standard errors (p = 0.0127), although significance is retained only at the 10% level under HC3 robust standard errors (p = 0.0506). This suggests conditional evidence of adjustment towards the estimated long-run relationship, subject to the inconclusive cointegration tests. Complementary tests provide inconclusive evidence of cointegration, implying that the estimated long-run relationships should be interpreted as conditional associations rather than causal effects. These results show that dimensions of agricultural development can be associated with natural land cover differently, suggesting that productive, social and environmental objectives need to be considered jointly in designing and evaluating agricultural and rural development policies.",
+  "oa_url": "https://doi.org/10.3390/world7110194",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.3390/world7110194"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pembangunan pedesaan & kebijakan pertanian"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-14",
+  "summary_id": null,
+  "relevance": 24
+ },
+ {
+  "id": "W7225906249",
+  "doi": "10.5334/aogh.5502",
+  "title": "Birth-Related Injuries Among Women: A Persistent Dilemma in Rural Uganda",
+  "date": "2026-11-12",
+  "year": "2026",
+  "journal": "Annals of Global Health",
+  "issn": "22149996",
+  "publisher": "Elsevier BV",
+  "authors": [
+   "Innocent Ayesiga",
+   "Darlson B. Kwikiriza",
+   "Primrose Magala",
+   "Enock Mukiibi",
+   "Lydia Demetriou",
+   "Denise Ead"
+  ],
+  "abstract": "There is a neglected burden of birth‑related injuries among women in rural Uganda. Maternal morbidity deserves equal priority to maternal mortality. Preventable conditions including obstetric fistula, pelvic trauma, chronic pain, and psychological trauma persist because of health‑system weaknesses and structural inequities. Strengthening emergency obstetric care, respectful maternity care, rehabilitation services, maternal morbidity surveillance, and broader social investments in education, poverty reduction, and women’s empowerment is essential to achieving safer and dignified motherhood.",
+  "oa_url": "https://doi.org/10.5334/aogh.5502",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.5334/aogh.5502"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-14",
+  "summary_id": null,
+  "relevance": 23
+ },
+ {
+  "id": "W7225854021",
+  "doi": "10.3389/fclim.2026.1952708",
+  "title": "Women’s perceived socioeconomic gains and the illusion of equity in climate-smart agriculture in northern Benin",
+  "date": "2026-11-12",
+  "year": "2026",
+  "journal": "Frontiers in Climate",
+  "issn": "26249553",
+  "publisher": "Frontiers Media",
+  "authors": [
+   "Kossivi Fabrice Dossa",
+   "Jean‐François Bissonnette",
+   "Yann Emmanuel Miassi"
+  ],
+  "abstract": "Although previous studies have highlighted advantages of adopting climate-smart agriculture (CSA) practices, their actual capacity to generate long-term and inclusive effects remains unclear. Beneficiaries report positive effects on their living conditions, yet many continue to face limited access to productive resources. This study assesses the socioeconomic impacts of CSA practices as perceived by beneficiaries, characterizes the profiles of the actors reporting the main impacts, and identifies the factors influencing these perceptions. A mixed-methods approach combining a quantitative survey ( N = 200) and qualitative interviews with 18 of these respondents was applied to 200 producers benefiting from CSA initiatives in northern Benin, primarily in the communes of N’Dali and Tchaourou. A convergent parallel mixed-methods design was applied: the two strands were collected concurrently and merged at the interpretation stage through a joint display. Quantitative data were analyzed using cross-tabulations with chi-square tests, Spearman rank correlations and binary logistic regressions reporting odds ratios with 95% confidence intervals; the interviews were analyzed thematically. Positive impacts on income are reported by 70.5% of beneficiaries, while, among those reporting improved income, most consider their access to land (58.9%) and water (67.4%) unchanged. The findings reveal three paradoxes that characterize a situation of partial emancipation. First, women, who report gains in proportions similar to those of men, perceive economic gains associated with CSA practices without necessarily achieving structural autonomy or land tenure security: reported autonomy coexists with access to land and water that beneficiaries describe as unchanged. Second, the study highlights a form of economic mobility without security of productive resources (land, water, seeds, and credit). Third, social recognition is not accompanied by a proportional strengthening of real economic power. Perceived impacts are most strongly associated with technical training, age and access to seeds and financing, rather than with land or water security. Because the design is cross-sectional and based on self-reported perceptions, the findings identify associations and perceived experiences rather than causal effects of the interventions. These observations call into question the effectiveness of current gender-sensitive approaches in CSA-focused projects.",
+  "oa_url": "https://www.frontiersin.org/journals/climate/articles/10.3389/fclim.2026.1952708/pdf",
+  "pdf_url": "https://www.frontiersin.org/journals/climate/articles/10.3389/fclim.2026.1952708/pdf",
+  "pdf_urls": [
+   "https://www.frontiersin.org/journals/climate/articles/10.3389/fclim.2026.1952708/pdf",
+   "https://doi.org/10.3389/fclim.2026.1952708"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-14",
+  "summary_id": null,
+  "relevance": 22
+ },
+ {
+  "id": "W7225860467",
+  "doi": "10.14719/pst.13455",
+  "title": "Scientific perspectives on sustainable preservation of cereals in traditional silos",
+  "date": "2026-11-12",
+  "year": "2026",
+  "journal": "Plant Science Today",
+  "issn": "23481900",
+  "publisher": "",
+  "authors": [
+   "R Kumari",
+   "Mukesh Kumar Nag",
+   "K Usha",
+   "Mohammad Imran",
+   "S Prity"
+  ],
+  "abstract": "India’s villages depend heavily on agriculture, with most rural households relying on the cultivation of essential grains such as rice, wheat and maize for their livelihood and food security. Although government initiatives and the Food Corporation of India have helped increase crop production to meet the needs of the growing population, the country still struggles with major post-harvest storage challenges. Traditional mud silos, or Kothis, are widely used because they are inexpensive, easy to construct and based on locally available materials, but they often fail to protect grains effectively over long periods. Issues such as moisture buildup, fungal growth, insect infestation and gradual structural deterioration lead to considerable grain losses, especially for small and marginal farmers who depend on stored produce to sustain their families and income. This review highlights the need to address these shortcomings and promote improved, sustainable storage solutions that leverage indigenous technical knowledge (ITK). By adopting eco-friendly fabrication practices, refining indigenous storage methods and using natural, locally sourced materials, farmers can achieve better preservation outcomes without relying on costly synthetic silos or chemical treatments that may pose environmental and health risks. Encouraging such sustainable, community-based approaches can help ensure safe, long-term grain storage, strengthen rural livelihoods, support national food security and maintain ecological balance in nature.",
+  "oa_url": "https://doi.org/10.14719/pst.13455",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.14719/pst.13455"
+  ],
+  "oa_status": "diamond",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Ketahanan pangan rumah tangga"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-14",
+  "summary_id": null,
+  "relevance": 19
+ },
+ {
+  "id": "W7225894556",
+  "doi": "10.3390/curroncol33110703",
+  "title": "Adaptation and Pilot Testing of a Mindfulness-Based Insomnia and Symptom Management Intervention for Women with Breast Cancer in Rural Areas",
+  "date": "2026-11-12",
+  "year": "2026",
+  "journal": "Current Oncology",
+  "issn": "11980052",
+  "publisher": "Multidisciplinary Digital Publishing Institute",
+  "authors": [
+   "Hannah M. Fisher",
+   "Natalie A. Chou",
+   "Emily Patterson",
+   "Laura J. Fish",
+   "Margaret Falkovic",
+   "Christina Makarushka",
+   "Heather E. Parnell",
+   "Linda Sutton",
+   "Lynda J. Owen",
+   "Kara Kenan",
+   "Samuel I. Berchuck",
+   "Tamara J. Somers"
+  ],
+  "abstract": "Insomnia is prevalent during breast cancer and exacerbates other common symptoms such as fatigue, distress, and pain, which in turn worsen sleep. This symptom burden is disproportionate for women receiving treatment in rural areas. Nite2Day is a mindfulness-based, behavioral insomnia and symptom management intervention previously applied in hematologic cancer. We adapted and pilot-tested Nite2Day in patients with breast cancer in rural areas. Patient (N = 8) and clinician (N = 6) interviews informed adaptation. A single-arm pilot (N = 15) evaluated feasibility (accrual, attrition, adherence), acceptability, and changes to patient-reported outcomes (insomnia symptoms, fatigue, distress, pain, pre-sleep arousal, mindfulness, symptom management self-efficacy) from baseline to post-intervention. Participants were enthusiastic about mindfulness and behavioral skills to address symptoms. Qualitative feedback guided protocol changes (e.g., mindfulness definitions, telephone and evening sessions). Nite2Day was feasible. The accrual target was met in 6 months, and all participants completed the intervention and post-treatment assessments. Acceptability of Nite2Day was strong (M = 30.53/32). Pre-post change for all patient-reported outcomes was in the expected direction. These feasibility and acceptability data provide support for next-step pilot testing using a randomized design. This research could extend access to an evidence-based behavioral intervention targeting concurrent insomnia, fatigue, distress, and pain symptoms reported by patients in rural cancer care settings.",
+  "oa_url": "https://doi.org/10.3390/curroncol33110703",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.3390/curroncol33110703"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-14",
+  "summary_id": null,
+  "relevance": 15
+ },
+ {
+  "id": "W7225894713",
+  "doi": "10.1186/s12889-026-29814-8",
+  "title": "Intimate partner violence and common mental disorders experienced by women in Vietnam in mid-pregnancy",
+  "date": "2026-11-12",
+  "year": "2026",
+  "journal": "BMC Public Health",
+  "issn": "14712458",
+  "publisher": "BioMed Central",
+  "authors": [
+   "Haimanot Adane",
+   "Thach Tran",
+   "Alex Collie",
+   "Jane Fisher"
+  ],
+  "abstract": "Abstract Introduction Intimate partner violence (IPV) is a major public health concern and an important contributor to common mental disorders during pregnancy. However, evidence on the association between intimate partner violence and common mental disorders among pregnant women remains limited in resource-constrained settings. The aim was to examine the association between IPV and common mental disorders (CMDs) among women in mid-pregnancy in Vietnam. Methods A secondary analysis of baseline data from the population-based, cluster-randomised Learning Clubs trial was conducted among pregnant women at 12–20 weeks’ gestation. Intimate partner violence was measured using the WHO Multi-country Study on Women’s Health and Domestic Violence questionnaire, and common mental disorders were assessed during mid-pregnancy with the Vietnamese-validated Depression Anxiety Stress Scale (DASS-21). Results A total of 1238 pregnant women were included in the analysis, with 11.1% scoring above the clinical cut-off indicating clinically significant symptoms of CMDs. Multivariable logistic regression showed that women who had experienced either lifetime or past-12- months IPV, including physical and psychological IPV, were associated with increased odds of CMDs (AOR ranges: 1.96–3.04) among women in mid-pregnancy in Vietnam. Conclusions Intimate partner violence was significantly associated with increased odds of CMDs among pregnant women in rural Vietnam. These findings support integrating routine IPV enquiry and mental health assessment into antenatal care and ensuring appropriate referral and support for pregnant women experiencing violence. Policies and maternity services should strengthen integrated approaches to address IPV and maternal mental health.",
+  "oa_url": "https://doi.org/10.1186/s12889-026-29814-8",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1186/s12889-026-29814-8"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-14",
+  "summary_id": null,
+  "relevance": 15
+ },
+ {
+  "id": "W7225920685",
+  "doi": "10.1371/journal.pgph.0006955",
+  "title": "Differential age-related patterns of Human Papillomavirus infection among women in Western Province, Zambia",
+  "date": "2026-11-12",
+  "year": "2026",
+  "journal": "PLOS Global Public Health",
+  "issn": "27673375",
+  "publisher": "Public Library of Science",
+  "authors": [
+   "Masiliso A. Liamba",
+   "David Chisompola",
+   "Charity Mukutuma",
+   "Benson M Hamooya",
+   "Grace Cecilia Kahenya",
+   "Sepiso Kenias Masenga"
+  ],
+  "abstract": "Human papillomavirus (HPV) infection remains a major global public health concern and is the leading cause of cervical cancer, particularly in low- and middle-income countries. Zambia has one of the highest cervical cancer burdens worldwide, yet evidence on age-specific determinants of HPV infection remains limited. This study assessed the prevalence and determinants of HPV infection among women aged ≤40 years and ≥41 years in Western Province, Zambia. A cross-sectional study was conducted between October 2025 and January 2026 among women attending cervical cancer screening clinics in Western Province. A total of 1,132 participants were recruited using consecutive sampling. Sociodemographic, behavioural, and reproductive data were collected using structured questionnaires. Exfoliated cervical samples were collected and tested for high-risk HPV genotypes using the Hologic Panther platform with transcription-mediated amplification (TMA). Mixed-effects logistic regression was used to identify factors associated with HPV infection while accounting for clustering at the health facility level. Overall, HPV prevalence was 33.6%. HPV prevalence was comparable between women aged ≤40 years and those aged ≥41 years (33.6% vs. 33.4%). Among women aged ≤40 years, multiple lifetime sexual partners, high parity, lack of HPV vaccination, contraceptive use, low income, single marital status, and rural facility location were independently associated with HPV infection (P < 0.05). Among women aged ≥41 years, high parity, low HPV knowledge, unemployment, low income, and geographic location were independently associated with HPV infection (P < 0.05). Spatial variation was also observed, with significantly higher infection rates in Mwandi district. HPV infection remains highly prevalent across, in both younger and older women. Although the determinants differ by age group, the substantial HIV burden and ongoing HIV transmission may contribute to the persistence of HPV infection. These findings support age-specific prevention strategies that integrate HPV vaccination, cervical cancer screening, health education and treatment services to reduce the burden of HPV infection.",
+  "oa_url": "https://doi.org/10.1371/journal.pgph.0006955",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1371/journal.pgph.0006955"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-14",
+  "summary_id": null,
+  "relevance": 15
+ },
+ {
+  "id": "W7225921277",
+  "doi": "10.1186/s12884-026-10237-7",
+  "title": "Determinants of congenital anomalies among neonates: a multicenter case–control study in Southwest Shewa Zone, Ethiopia",
+  "date": "2026-11-12",
+  "year": "2026",
+  "journal": "BMC Pregnancy and Childbirth",
+  "issn": "14712393",
+  "publisher": "BioMed Central",
+  "authors": [
+   "Dereje Merga",
+   "Birhanu Yadecha Dibaba",
+   "Moges Tesfaye",
+   "Tamiru Tesfaye",
+   "Desalegn Tamiru",
+   "Hailu Merga",
+   "Melese Adunga Tola",
+   "Elias Andesha",
+   "Alemnesh Mosisa",
+   "Abera Bayera",
+   "Addisu Shunu Beyene"
+  ],
+  "abstract": "Congenital anomalies affect nearly 8 million newborns worldwide each year and contribute to long-term disability in approximately 3.2 million children. Although the prevalence of congenital malformations is relatively high in Ethiopia, evidence on their underlying determinants is limited, particularly in Southwest Shewa Zone. This study aimed to assess determinants of congenital anomalies among neonates in Southwest Shewa Zone, Ethiopia. A multicenter, unmatched case–control study was conducted among 245 participants (82 cases and 163 controls) selected through consecutive sampling. Data were collected from mothers using an interviewer-administered questionnaire and review of medical records. Data were entered into EpiData 3.1, and analyzed in SPSS 26. Variables with p-values of ≤ 0.25 in bivariable analysis were entered into the multivariable logistic regression model. Statistical significance was declared at p < 0.05 and adjusted odds ratios (AOR) with 95% confidence intervals ( CI) were reported. Results are presented in texts, tables, and graphs. Lack of folic acid supplementation before and/or during early period of index pregnancy (AOR: 4.99; 95% CI: 2.35–10.95), history of abortion (AOR: 3.56; 95% CI: 1.75–7.39), rural residence (AOR: 3.06; 95% CI: 1.21–8.05), and twin pregnancy (AOR: 3.61; 95% CI: 1.06–12.79) were significantly associated with congenital anomalies. Strengthening preconception and antenatal care services, particularly promoting folic acid supplementation before conception, may help reduce the burden of congenital anomalies. Improved identification, monitoring, and follow-up of women at increased risk, particularly those with adverse reproductive histories and multiple pregnancies, are essential for improving congenital anomalies.",
+  "oa_url": "https://doi.org/10.1186/s12884-026-10237-7",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1186/s12884-026-10237-7"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-14",
+  "summary_id": null,
+  "relevance": 15
+ },
+ {
   "id": "W7225816376",
   "doi": "10.5539/jas.v18n12p37",
   "title": "Determinants of Market Channel Selection and Intensity of Participation Among Smallholder Chicken Farmers in Machakos County, Kenya",
@@ -86,6 +794,272 @@
   "found_at": "2026-11-13",
   "summary_id": null,
   "relevance": 24
+ },
+ {
+  "id": "W7225834601",
+  "doi": "10.1080/09614524.2026.2757230",
+  "title": "Food insecurity among smallholder beef cattle households in East Java, Indonesia: insights from Bojonegoro District",
+  "date": "2026-11-11",
+  "year": "2026",
+  "journal": "Development in Practice",
+  "issn": "09614524",
+  "publisher": "Taylor & Francis",
+  "authors": [
+   "Eko Nugroho",
+   "Rizki Prafitri",
+   "Puji Akhiroh",
+   "Rani Winardi Wulan Sari",
+   "Gusty Aji Dewa Sisma",
+   "Suban Foiklang"
+  ],
+  "abstract": "Food insecurity remains a persistent problem among rural households, including those that own livestock assets. This study examined food insecurity among smallholder beef cattle farmers in Bojonegoro District, Indonesia. A cross-sectional survey was conducted using structured household interviews and the Food Insecurity Experience Scale (FIES). Data were analysed using descriptive statistics and ordinal logistic regression. The results showed that 54.08 per cent of 98 households faced moderate-to-severe food insecurity despite owning cattle. Age was positively associated with food insecurity, whereas farming experience and monthly income were negatively associated; household size and cattle herd size were not statistically significant. These findings indicate that livestock ownership alone does not guarantee household food security. The study concludes that livestock-based development programs should be complemented by measures that strengthen household income stability, adaptive capacity, and resilience.",
+  "oa_url": "https://www.tandfonline.com/doi/pdf/10.1080/09614524.2026.2757230?needAccess=true",
+  "pdf_url": "https://www.tandfonline.com/doi/pdf/10.1080/09614524.2026.2757230?needAccess=true",
+  "pdf_urls": [
+   "https://www.tandfonline.com/doi/pdf/10.1080/09614524.2026.2757230?needAccess=true",
+   "https://doi.org/10.1080/09614524.2026.2757230"
+  ],
+  "oa_status": "hybrid",
+  "cited_by": 0,
+  "keywords": [
+   "food insecurity",
+   "smallholder households",
+   "beef cattle",
+   "animal husbandry",
+   "East Java"
+  ],
+  "topics": [
+   "Ketahanan pangan rumah tangga"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-14",
+  "summary_id": {
+   "tujuan": "Menganalisis tingkat dan faktor-faktor yang berhubungan dengan kerawanan pangan rumah tangga peternak sapi potong skala kecil di Kabupaten Bojonegoro, Jawa Timur.",
+   "metode": "Survei cross-sectional dengan wawancara terstruktur rumah tangga menggunakan Food Insecurity Experience Scale (FIES) terhadap 98 rumah tangga, dianalisis dengan statistik deskriptif dan regresi logistik ordinal. Periode pengumpulan data tidak disebutkan.",
+   "temuan": "Sebanyak 54,08% dari 98 rumah tangga mengalami kerawanan pangan sedang hingga berat meskipun memiliki sapi. Usia berasosiasi positif, sedangkan pengalaman bertani dan pendapatan bulanan berasosiasi negatif dengan kerawanan pangan; ukuran rumah tangga dan jumlah sapi tidak signifikan. Temuan ini bersifat asosiasi, bukan kausalitas.",
+   "keterbatasan": "Tidak disebutkan dalam abstrak. Dari desain: data cross-sectional tidak dapat menunjukkan arah kausalitas, sampel relatif kecil (98 rumah tangga) dari satu kabupaten sehingga generalisasi terbatas, dan data FIES bergantung pada laporan diri responden.",
+   "relevansi": "Memberi bukti bahwa kepemilikan aset ternak tidak otomatis menjamin ketahanan pangan, sehingga relevan dengan agenda ketahanan pangan dan pembangunan pedesaan di Kalimantan Tengah. Pendekatan FIES dan model ordinal dapat diadopsi untuk membandingkan rumah tangga petani sawit atau hortikultura swadaya, serta peran pendapatan dan kapasitas adaptif dapat diuji ulang di konteks Kalimantan.",
+   "skor": 4,
+   "model": "claude-haiku-5-5",
+   "sumber": "abstrak"
+  },
+  "relevance": 63
+ },
+ {
+  "id": "W7225815285",
+  "doi": "10.1080/03066150.2026.2745995",
+  "title": "Territorial pluralism, property rights and access: customary adat recognition in the Toraja region of Indonesia",
+  "date": "2026-11-11",
+  "year": "2026",
+  "journal": "The Journal of Peasant Studies",
+  "issn": "03066150",
+  "publisher": "Taylor & Francis",
+  "authors": [
+   "Jeff Neilson",
+   "Mitra Wulandari",
+   "Simon Butt",
+   "Angga Dwiartama",
+   "Judith Ratu Tandi Arrang"
+  ],
+  "abstract": "This article examines the challenges of legally recognising customary (adat) rights in an Indonesian region. Through this analysis, we observe multi-layered processes of territorialisation, including: the residual adat-based (genealogical-territorial) authority of pre-colonial political systems; the incorporation of the region into larger colonial and post-colonial state structures; and the more recent attempt by Indigenous advocacy groups (non-governmental organisations, NGOs) to establish adat territories through countermapping and legal reforms. We refer to this emergent multi-layered condition as territorial pluralism. Adat systems have been re-shaped by the state and NGO practices; and adat has informed state territoriality. These territorialisations do not operate independently from each other but are mutually constitutive and further intersect with co-evolving rules and institutions that determine access to land by households and individuals. For customary rights advocacy organisations, our study suggests a pragmatic way forward: engaging with both adat-based territorial claims over broader landscapes, while also engaging with state-administered collective land titling initiatives. Both necessarily involve bargaining with the state. Importantly, the consequences of state-based recognition of both adat territories and property rights for community land access remain intimately related to contingent, place-specific, processes of agrarian change.",
+  "oa_url": "https://www.tandfonline.com/doi/pdf/10.1080/03066150.2026.2745995?needAccess=true",
+  "pdf_url": "https://www.tandfonline.com/doi/pdf/10.1080/03066150.2026.2745995?needAccess=true",
+  "pdf_urls": [
+   "https://www.tandfonline.com/doi/pdf/10.1080/03066150.2026.2745995?needAccess=true",
+   "https://doi.org/10.1080/03066150.2026.2745995"
+  ],
+  "oa_status": "hybrid",
+  "cited_by": 0,
+  "keywords": [
+   "territorial pluralism",
+   "customary property rights",
+   "customary land tenure",
+   "adat",
+   "recognition of customary law",
+   "land access",
+   "Toraja",
+   "indigenous land rights"
+  ],
+  "topics": [
+   "Pembangunan pedesaan & kebijakan pertanian"
+  ],
+  "priority_journal": true,
+  "language": "en",
+  "found_at": "2026-11-14",
+  "summary_id": {
+   "tujuan": "Menganalisis tantangan pengakuan hukum hak adat di wilayah Toraja, Indonesia, dengan menelaah proses teritorialisasi berlapis: otoritas adat pra-kolonial, integrasi ke struktur negara kolonial dan pascakolonial, serta upaya NGO melalui countermapping dan reformasi hukum.",
+   "metode": "Tampaknya studi kualitatif berbasis analisis teritorial dan agraria di Toraja, tetapi abstrak tidak menyatakan desain secara eksplisit. Sumber data, jumlah informan, periode, dan teknik analisis tidak disebutkan.",
+   "temuan": "Penulis mengidentifikasi 'pluralisme teritorial', yaitu kondisi ketika klaim teritorial adat, negara, dan NGO saling membentuk dan beririsan. Pengakuan hak adat dan hak properti kolektif memengaruhi akses tanah rumah tangga, tetapi dampaknya bergantung pada konteks agraria setempat. Penulis menyarankan advokasi yang menggabungkan klaim adat berbasis lanskap dengan sertifikasi tanah kolektif negara, yang keduanya melibatkan negosiasi dengan negara.",
+   "keterbatasan": "Tidak disebutkan.",
+   "relevansi": "Kerangka pluralisme teritorial relevan untuk memahami konflik hak ulayat dan ekspansi perkebunan sawit di Kalimantan Tengah, meski abstrak tidak membahas sawit secara langsung. Temuan tentang dampak pengakuan hak kolektif terhadap akses tanah petani kecil dapat diuji ulang pada masyarakat Dayak serta skema hutan adat atau tanah kolektif di Kalteng.",
+   "skor": 3,
+   "model": "claude-haiku-5-5",
+   "sumber": "abstrak"
+  },
+  "relevance": 52
+ },
+ {
+  "id": "W7225790330",
+  "doi": "10.1111/1467-8268.70087",
+  "title": "Smartphone Access, Internet Use, and Digital Financial Inclusion in Sub‐Saharan Africa",
+  "date": "2026-11-11",
+  "year": "2026",
+  "journal": "African Development Review",
+  "issn": "10176772",
+  "publisher": "Wiley",
+  "authors": [
+   "Razak Ayariga",
+   "David Ahenkan Owusu"
+  ],
+  "abstract": "ABSTRACT This study examines the association between digital connectivity and digital financial inclusion in Sub‐Saharan Africa using Global Findex 2025 microdata for 33 countries. It extends the descriptive Global Findex evidence by distinguishing smartphone access from internet use and by separating digital payment use, mobile money accounts, and digitally used financial‐institution accounts. Propensity Score Matching (PSM), post‐match logit models, inverse probability of treatment weighting (IPTW), doubly robust estimation, and Rosenbaum bounds are used to address observable selection and assess sensitivity. In the matched samples, smartphone access is associated with 19.1%, 18.2%, and 14.0% higher probabilities of digital payment use, mobile money account ownership, and digitally used financial‐institution account ownership, respectively; the corresponding internet use probabilities are 17.5%, 16.0%, and 12.5%. Smartphone access remains independently significant within the internet‐matched sample. Persistent disadvantages among women, less‐educated adults, and rural residents indicate that connectivity alone does not eliminate structural barriers to digital financial inclusion.",
+  "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/1467-8268.70087",
+  "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/1467-8268.70087",
+  "pdf_urls": [
+   "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/1467-8268.70087",
+   "https://doi.org/10.1111/1467-8268.70087"
+  ],
+  "oa_status": "bronze",
+  "cited_by": 0,
+  "keywords": [
+   "digital financial inclusion",
+   "smartphone access",
+   "internet use",
+   "digital connectivity",
+   "mobile money",
+   "gender gap",
+   "urban-rural differences",
+   "sub-Saharan Africa"
+  ],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-14",
+  "summary_id": null,
+  "relevance": 32
+ },
+ {
+  "id": "W7225796273",
+  "doi": "10.7759/cureus.119487",
+  "title": "Hidden in the Hills: Cardiovascular Risk in Transgender Populations in Rural Appalachia",
+  "date": "2026-11-11",
+  "year": "2026",
+  "journal": "Cureus",
+  "issn": "21688184",
+  "publisher": "Cureus, Inc.",
+  "authors": [
+   "Ebubechukwu O. Ezeh",
+   "Maddie Perdoncin",
+   "Chukwuemeka E. Ogbu",
+   "O.S. Ndukwe",
+   "Olayiwola Bolaji",
+   "Linda Keke",
+   "Elizabeth Saunders",
+   "Jason Mader",
+   "Patricia Rodriguez"
+  ],
+  "abstract": "Background: Transgender adults have a higher burden of several cardiovascular risk factors in national surveys.Electronic health record data from rural Central Appalachia, a region with high background cardiometabolic risk, are lacking.Objective: This study aims to compare the prevalence of cardiovascular risk factors between transgender and cisgender adults receiving care at the same rural Appalachian clinic and to describe patterns by gender identity and by gender-affirming hormone therapy (GAHT).Materials and methods: We conducted a retrospective cross-sectional study of electronic health record data from an academic outpatient clinic in southern West Virginia.We compared 74 transgender adults with documented gender identity and 69 randomly selected cisgender adults from the same clinic.Outcomes were current tobacco use, current alcohol use, obesity, hypertension, diabetes, prediabetes or diabetes, lowdensity lipoprotein cholesterol (LDL-C) ≥100 mg/dL, statin use, and aspirin use.Firth penalized logistic regression was used to estimate adjusted odds ratios (aORs) for age and sex assigned at birth.Sensitivity analyses varied the covariates, age range, and outcome definitions and used multiple imputation for missing data.Results: Mean age was 30.4 years among transgender adults and 29.9 years among cisgender adults.Current tobacco use was more common among transgender adults (33.8% vs 11.6%, aOR 3.64 (95% CI 1.55-9.28)),and this finding was consistent across all sensitivity analyses.Prediabetes or diabetes was also more common (17.6% vs 4.3%, aOR 3.94 (95% CI 1.20-16.43)),although the estimate was imprecise and did not remain significant after correction for multiple comparisons.Obesity (54.1% vs 53.6%), hypertension, and elevated LDL-C did not differ between the groups.Among transgender adults, obesity was more common in transgender men than in transgender women (68.1% vs 29.6%).In analyses restricted to transgender adults, GAHT was not associated with tobacco, alcohol, or statin use.Conclusions: In this rural Appalachian clinic, the prevalence of current tobacco use among transgender adults was nearly three times that among cisgender adults, and prediabetes or diabetes was more common, against a high shared prevalence of obesity.These hypothesis-generating findings support guideline-based tobacco cessation treatment and glycemic screening in gender-affirming and primary care.",
+  "oa_url": "https://www.cureus.com/articles/492027-hidden-in-the-hills-cardiovascular-risk-in-transgender-populations-in-rural-appalachia.pdf",
+  "pdf_url": "https://www.cureus.com/articles/492027-hidden-in-the-hills-cardiovascular-risk-in-transgender-populations-in-rural-appalachia.pdf",
+  "pdf_urls": [
+   "https://www.cureus.com/articles/492027-hidden-in-the-hills-cardiovascular-risk-in-transgender-populations-in-rural-appalachia.pdf",
+   "https://doi.org/10.7759/cureus.119487"
+  ],
+  "oa_status": "diamond",
+  "cited_by": 0,
+  "keywords": [
+   "cardiovascular risk",
+   "transgender people",
+   "rural Appalachia",
+   "health disparities",
+   "cardiovascular disease",
+   "rural health"
+  ],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-14",
+  "summary_id": null,
+  "relevance": 26
+ },
+ {
+  "id": "W7225803807",
+  "doi": "10.1080/08039410.2026.2752204",
+  "title": "Post-Pandemic Crisis and Convergence: Child Disability and Food Insecurity in Rural Niger",
+  "date": "2026-11-11",
+  "year": "2026",
+  "journal": "Forum for Development Studies",
+  "issn": "08039410",
+  "publisher": "Taylor & Francis",
+  "authors": [
+   "Ingunn Bjørkhaug",
+   "Hedda Flatø",
+   "Anne Kielland",
+   "Jing Liu",
+   "Daouda Yacouba"
+  ],
+  "abstract": "This study examines food-insecurity patterns under conditions of crisis, using unique 2019–2022 panel data from rural Niger. The period was marked by overlapping shocks related to the COVID-19 pandemic, irregular rainfall, and insecurity. We compared children with disabilities and their households with matched peers to study changes in food security. Results indicate that disabled children and their caregivers were more food insecure than their peers before the crisis period. By 2022, food insecurity was more widespread. The gap between disabled children and their peers had narrowed, and disability status was no longer significantly associated with food insecurity in adjusted models. School attendance, fostering, and access to a tontine were associated with lower food insecurity after the crisis. These findings suggest that when multiple crises overlap, pre-existing disability-related inequalities in food insecurity may narrow rather than widen, even as overall food insecurity increases.",
+  "oa_url": "https://www.tandfonline.com/doi/pdf/10.1080/08039410.2026.2752204?needAccess=true",
+  "pdf_url": "https://www.tandfonline.com/doi/pdf/10.1080/08039410.2026.2752204?needAccess=true",
+  "pdf_urls": [
+   "https://www.tandfonline.com/doi/pdf/10.1080/08039410.2026.2752204?needAccess=true",
+   "https://doi.org/10.1080/08039410.2026.2752204"
+  ],
+  "oa_status": "hybrid",
+  "cited_by": 0,
+  "keywords": [
+   "child disability",
+   "food insecurity",
+   "post-pandemic crisis",
+   "COVID-19 pandemic",
+   "rural Niger",
+   "disability and poverty"
+  ],
+  "topics": [
+   "Ketahanan pangan rumah tangga"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-14",
+  "summary_id": null,
+  "relevance": 23
+ },
+ {
+  "id": "W7225866263",
+  "doi": "10.7759/cureus.119520",
+  "title": "Green Banana Starch and Natural Gum Co-Processed Excipients for Direct Compression: Formulation Science, Tablet Quality, and Potential Implications for Medicine Access",
+  "date": "2026-11-11",
+  "year": "2026",
+  "journal": "Cureus",
+  "issn": "21688184",
+  "publisher": "Cureus, Inc.",
+  "authors": [
+   "Nuru Kasereka Vutseme",
+   "Mohammed Achor",
+   "Ungokore H Yahaya"
+  ],
+  "abstract": "Excipient functionality influences tablet quality, dose consistency, drug release, and the potential affordability of medicines. Green banana starch (GBS) has favorable hydration and swelling properties, whereas natural gums can provide binding and contribute to the mechanical strength of the tablet. However, each material has limitations when used alone for direct compression. Co-processing may combine complementary functional properties without substantially changing the chemical identities of the individual excipients. This review critically examines the evidence for GBS and natural gum-based co-processed excipients, focusing on formulation performance and the limits of current evidence. We conducted a structured literature search of Scopus, PubMed, Web of Science, and ScienceDirect for studies published from January 2014 through May 2024. Seminal publications published earlier were also considered for background. Studies addressing the physicochemical properties, compaction behavior, functional performance, or pharmaceutical applications of GBS, natural gums, and co-processed excipients were screened against predefined eligibility criteria. Methodological quality was assessed using an adapted Critical Appraisal Skills Programme (CAPS) framework. GBS is reported to have substantial swelling capacity, favorable disintegration behavior, and moderate binding properties. Its irregular particle morphology and poor flowability, however, may limit its suitability for direct compression. Natural gums, particularly acacia gum, can improve binding and tablet strength, but hydration and gel formation may delay disintegration and drug release at some concentrations. Evidence from related starch-gum systems suggests that co-processing may improve flow, compressibility, and tablet performance. Direct experimental evidence specifically evaluating GBS-natural gum co-processed excipients remains limited. Poor powder flow can contribute to inconsistent die filling and tablet weight variation, potentially compromising dose consistency. Inadequate tablet mechanical integrity can increase friability and material loss during handling and transport. Delayed disintegration or dissolution may affect drug-release performance, particularly in immediate-release formulations. Locally sourced excipients could also support supply-chain resilience, but these potential benefits require evidence from dissolution, content uniformity, stability, reproducibility, and comparative studies before patient-level or economic claims can be substantiated. GBS and natural gums are promising candidates for the development of sustainable, multifunctional excipients for direct compression. Their complementary properties provide a scientific rationale for further investigation, but current evidence is insufficient to establish the performance or clinical value of GBS-natural gum co-processed systems. Future studies should apply Quality by Design principles, characterize material and compaction properties, compare performance with established commercial excipients, and assess dissolution, stability, batch reproducibility, and regulatory requirements.",
+  "oa_url": "https://www.cureus.com/articles/548224-green-banana-starch-and-natural-gum-co-processed-excipients-for-direct-compression-formulation-science-tablet-quality-and-potential-implications-for-medicine-access.pdf",
+  "pdf_url": "https://www.cureus.com/articles/548224-green-banana-starch-and-natural-gum-co-processed-excipients-for-direct-compression-formulation-science-tablet-quality-and-potential-implications-for-medicine-access.pdf",
+  "pdf_urls": [
+   "https://www.cureus.com/articles/548224-green-banana-starch-and-natural-gum-co-processed-excipients-for-direct-compression-formulation-science-tablet-quality-and-potential-implications-for-medicine-access.pdf",
+   "https://doi.org/10.7759/cureus.119520"
+  ],
+  "oa_status": "diamond",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Komoditas: pisang, nanas, padi rawa"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-14",
+  "summary_id": null,
+  "relevance": 21
  },
  {
   "id": "W7130439706",
@@ -532,7 +1506,8 @@
    "food security"
   ],
   "topics": [
-   "Pemberdayaan petani & gender"
+   "Pemberdayaan petani & gender",
+   "Ketahanan pangan rumah tangga"
   ],
   "priority_journal": false,
   "language": "en",
