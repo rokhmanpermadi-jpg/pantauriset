@@ -1,5 +1,455 @@
 [
  {
+  "id": "W7233580742",
+  "doi": "10.1007/s10460-026-11005-1",
+  "title": "Mapping agency: feminist geography and resistance of women’s collective action in arid Morocco",
+  "date": "2026-11-15",
+  "year": "2026",
+  "journal": "Agriculture and Human Values",
+  "issn": "0889048X",
+  "publisher": "Springer Nature (Netherlands)",
+  "authors": [
+   "Khadija Kaffa"
+  ],
+  "abstract": "Abstract Women’s agricultural cooperatives are widely promoted as instruments of empowerment and are typically evaluated by whether they change women’s individual outcomes: income, assets, or participation in decisions. This paper argues that such measures miss what is analytically decisive: how the power women generate through collective organization comes to be recognized as legitimate, or not, across the different institutional fields a cooperative brings them into. Drawing on fieldwork with women in cooperatives in the arid province of Tata, southeastern Morocco, and taking the single claim rather than the woman as the unit of analysis, it traces how power is converted, unevenly, into legitimated agency as claims move across the household, community, market, and state. The central finding is an asymmetry: the power a woman generates travels across these fields, but the legitimacy that would make her claims rightful does not; it must be won anew in each field, on that field’s own terms. This non-portability produces the unevenness the analysis maps, a woman’s claims contained in some fields and reconfigured in others. The paper advances four arguments: it extends Kandiyoti’s patriarchal bargain from cross-contextual to multi-scalar variation; it specifies legitimacy as field-specific and non-portable, distinct from portable power; it shows how formally neutral economic mechanisms produce gendered effects, connecting the argument to feminist and development economics; and it treats the cooperative as an ambivalent terrain that makes multi-field agency observable. Rather than asking whether cooperatives empower women, it shows how, and how unevenly, the agency they generate is legitimated.",
+  "oa_url": "https://doi.org/10.1007/s10460-026-11005-1",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1007/s10460-026-11005-1"
+  ],
+  "oa_status": "hybrid",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Kelembagaan petani & tindakan kolektif",
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": true,
+  "language": "en",
+  "found_at": "2026-11-17",
+  "summary_id": null,
+  "relevance": 55
+ },
+ {
+  "id": "W7233560791",
+  "doi": "10.1038/s41598-026-79083-z",
+  "title": "Genotype by environment interaction and yield stability of common bean genotypes in western Ethiopia using AMMI analysis",
+  "date": "2026-11-15",
+  "year": "2026",
+  "journal": "Scientific Reports",
+  "issn": "20452322",
+  "publisher": "Nature Portfolio",
+  "authors": [
+   "Temesgen Bacha",
+   "Usman Mohammed Ali",
+   "Segni Belissa",
+   "Terefu Regassa Tolani",
+   "Jaleta Mendera",
+   "Mukul Machhindra Barwant",
+   "Odangowei Inetiminebi Ogidi"
+  ],
+  "abstract": "Abstract Common bean ( Phaseolus vulgaris L.) is a vital source of dietary protein and income for smallholder farmers in Ethiopia, yet productivity is severely limited by strong genotype × environment interaction (G×E). This study aimed to quantify G×E on grain yield and identify high-yielding, stable genotypes for western Oromia. Eleven common bean genotypes (white and red seeded types) were evaluated at four contrasting locations (Haru, Bure, Dabo Hana, and Tole) during the 2024 main cropping season using a randomized complete block design with three replications. Data on grain yield (kg/ha⁻¹) were subjected to combined analysis of variance (ANOVA) and additive main effects and multiplicative interaction (AMMI) analysis using GenStat 18th edition and the R package ‘metan’. AMMI stability value (ASV) and Yield Stability Index (YSI) were computed to rank genotypes. The overall mean yield was 3115.88 kg/ha⁻¹. Genotype, environment, and G×E were highly significant ( p < 0.01), accounting for 14.34%, 28.14%, and 24.00% of the total sum of squares, respectively. The first interaction principal component (IPCA1) captured 64.25% of the G×E sum of squares. Based on ASV, the most stable genotypes were Dinkinesh (ASV = 16.30), Nasir (16.86), and SCR 15 (17.89). However, Nasir combined the highest mean yield (3807.25 kg/ha⁻¹) with excellent stability, while Awash 2 (3206.25 kg/ha⁻¹) showed above-average yield and moderate stability (ASV = 24.37). The AMMI1 biplot confirmed Nasir and Awash 2 as high-yielding, stable genotypes, whereas Tole and Dabo Hana were identified as highly interactive, high-yielding environments. Due to its yield superiority and stability, Nasir is provisionally recommended for the target agro-ecologies, with Awash 2 as a reliable alternative. The single-year data underscore the necessity of multi-season validation before large-scale deployment. These findings provide a basis for enhancing common bean productivity and food security in western Ethiopia.",
+  "oa_url": "https://www.nature.com/articles/s41598-026-79083-z_reference.pdf",
+  "pdf_url": "https://www.nature.com/articles/s41598-026-79083-z_reference.pdf",
+  "pdf_urls": [
+   "https://www.nature.com/articles/s41598-026-79083-z_reference.pdf",
+   "https://doi.org/10.1038/s41598-026-79083-z"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Ketahanan pangan rumah tangga"
+  ],
+  "priority_journal": true,
+  "language": "en",
+  "found_at": "2026-11-17",
+  "summary_id": null,
+  "relevance": 43
+ },
+ {
+  "id": "W7233596229",
+  "doi": "10.1038/s41598-026-81050-7",
+  "title": "From media to meals: intergenerational transmission of food-based media literacy and its association with food security in Iran",
+  "date": "2026-11-15",
+  "year": "2026",
+  "journal": "Scientific Reports",
+  "issn": "20452322",
+  "publisher": "Nature Portfolio",
+  "authors": [
+   "Mohammad Reza Pakravan-Charvadeh",
+   "Cornelia Butler Flora"
+  ],
+  "abstract": "Food insecurity remains a major global challenge, particularly in low- and middle-income countries. In this context, food-based media literacy has emerged as an important skill that enables individuals and families to critically evaluate food-related media messages and make healthier dietary decisions. This study examined the intergenerational dynamics of food-based media literacy and its associations with food choices, dietary habits, and household food insecurity among Iranian families. Using a cross-sectional parent–young adult dyadic model, data was collected from 250 dyads ( n = 500) and analyzed using Dyadic PLS-SEM. The findings showed that food-based media literacy operates as a shared family resource rather than an individual competency. Both parents and young adults significantly influenced each other’s food choices and dietary habits, highlighting the importance of intergenerational dialogue. Critical thinking, self-efficacy, and food heritage preservation emerged as significant predictors of healthier dietary behaviors. Food choices and dietary habits also mediated the relationship between media literacy constructs and household food insecurity. Higher levels of food-based media literacy were associated with lower food insecurity, particularly through healthier dietary practices. Young adults’ constructs showed stronger overall associations than those of parents, emphasizing the importance of youth empowerment in strengthening household food security. The findings suggest that family-centered interventions promoting critical thinking, self-efficacy, and cultural food heritage may contribute to reducing food insecurity and improving dietary resilience.",
+  "oa_url": "https://doi.org/10.1038/s41598-026-81050-7",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1038/s41598-026-81050-7"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Ketahanan pangan rumah tangga"
+  ],
+  "priority_journal": true,
+  "language": "en",
+  "found_at": "2026-11-17",
+  "summary_id": null,
+  "relevance": 43
+ },
+ {
+  "id": "W7233561270",
+  "doi": "10.3389/fsufs.2026.2008966",
+  "title": "Determinants of farmers’ intention to adopt good agricultural practices under climate change: evidence from the Chebika community, governorate of Kairouan, Tunisia",
+  "date": "2026-11-15",
+  "year": "2026",
+  "journal": "Frontiers in Sustainable Food Systems",
+  "issn": "2571581X",
+  "publisher": "Frontiers Media",
+  "authors": [
+   "Chaima Zouaoui",
+   "Hassen Abdelhafidh",
+   "Houda Mazhoud",
+   "Fraj Chemak"
+  ],
+  "abstract": "Against the backdrop of the growing impacts of climate change on agricultural systems, this study investigates the factors influencing farmers’ intention to adopt Good Agricultural Practices (GAP) in the Kairouan Governorate of central Tunisia. The study aims to generate evidence to inform more effective agricultural extension approaches and support policies that can foster the adoption of climate-resilient and sustainable farming practices. A field survey was carried out among 53 farmers in the delegation of Chebika, combining a descriptive characterization of farms and farmers with two complementary approaches grounded in the Theory of Planned Behavior (TPB): an ordered probit model and Partial Least Squares Structural Equation Modeling (PLS-SEM). The ordered probit results indicate that the three core TPB dimensions are significantly associated with farmers’ intention to adopt GAP, alongside selected socioeconomic and institutional characteristics. These findings highlight the relevance of both behavioral factors and farmers’ socioeconomic context in explaining GAP adoption intentions. The PLS-SEM analysis confirms the direct and significant effect of the three TPB constructs on adoption intention and shows that subjective norms exert the strongest influence, followed by perceived behavioral control and attitude. The exploratory findings show that attitudes, subjective norms and perceived behavioral control are all linked to farmers’ intention to adopt practices. These relationships are positive meaning levels of each factor tend to go with stronger intentions. Still the sample size is small so we should be careful when drawing conclusions. These findings underline the central role of the social environment and of perceived capacity in shaping GAP adoption decisions, and point to the need for participatory, socially-anchored extension strategies, together with larger-scale surveys to confirm the socio-economic determinants identified here.",
+  "oa_url": "https://doi.org/10.3389/fsufs.2026.2008966",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.3389/fsufs.2026.2008966"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Adopsi teknologi & pertanian digital"
+  ],
+  "priority_journal": true,
+  "language": "en",
+  "found_at": "2026-11-17",
+  "summary_id": null,
+  "relevance": 41
+ },
+ {
+  "id": "W7233583912",
+  "doi": "10.25125/ijoear-nov-2026-7",
+  "title": "Socio-Economic Determinants of Loan Access and Credit Constraints among Smallholder Orange-Fleshed Sweet Potato Farmers in North-Central Nigeria",
+  "date": "2026-11-15",
+  "year": "2026",
+  "journal": "International Journal of Environmental and Agriculture Research",
+  "issn": "24541850",
+  "publisher": "",
+  "authors": [
+   "Ibrahim Bila Auta",
+   "Samson Olayemi Sennuga",
+   "Julius Ajah",
+   "Mudashir Adeola Olaitan"
+  ],
+  "abstract": "Access to agricultural credit remains a critical constraint on smallholder productivity in sub-Saharan Africa, yet evidence specific to orange-fleshed sweet potato (OFSP) farmers in North-Central Nigeria is limited. This study therefore examined loan-access determinants, credit sources, factors affecting the amount of loan accessed, and challenges faced by smallholder OFSP farmers. A multi-stage sampling technique was used to select 1,200 farmers from Benue, Nasarawa, Kwara and the Federal Capital Territory (FCT), Abuja, and 1,190 valid questionnaires were analysed using descriptive statistics, multiple linear regression and a paired-sample t-test. Only 12.69% of farmers accessed loans, with access highest in Nasarawa (20.6%) and lowest in Benue (6.7%). Female farmers (58.0%) accessed loans more than males (42.0%), and cooperative societies (37.7%) and microfinance banks (26.5%) dominated credit sources. Farmers requested NGN 56.79 million but received NGN 41.28 million, which represents a 27.3% unmet credit gap, although this difference was not statistically significant (p = 0.075). Farm size (beta = 0.238, p < 0.001), interest rate (beta = 0.680, p < 0.001), loan duration (beta = 0.150, p = 0.005) and household-head status (beta = 0.120, p = 0.008) significantly influenced loan amount (R-squared = 0.762). The dominant challenges were high interest rates (60.3%), short repayment duration (37.7%) and lengthy processing (31.8%). Affordable, flexible credit delivered through cooperatives and microfinance institutions, together with financial literacy and extension support, is therefore essential to improving credit access and OFSP productivity.",
+  "oa_url": "https://ijoear.com/assets/articles_menuscripts/file/IJOEAR-NOV-2026-7.pdf",
+  "pdf_url": "https://ijoear.com/assets/articles_menuscripts/file/IJOEAR-NOV-2026-7.pdf",
+  "pdf_urls": [
+   "https://ijoear.com/assets/articles_menuscripts/file/IJOEAR-NOV-2026-7.pdf",
+   "https://doi.org/10.25125/ijoear-nov-2026-7"
+  ],
+  "oa_status": "diamond",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Kelembagaan petani & tindakan kolektif",
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-17",
+  "summary_id": null,
+  "relevance": 40
+ },
+ {
+  "id": "W7233542296",
+  "doi": "10.3329/bjb.v55i30.94410",
+  "title": "Farmer entrepreneurship drives new rice variety adoption in west guangdong",
+  "date": "2026-11-15",
+  "year": "2026",
+  "journal": "Bangladesh Journal of Botany",
+  "issn": "02535416",
+  "publisher": "",
+  "authors": [
+   "Shanshan Hu",
+   "Zhen Chen"
+  ],
+  "abstract": "The adoption of new rice varieties in western Guangdong remains low, and the role of farmers’ entrepreneurial behavior in this process has received little attention. This study investigated the impact of entrepreneurial behavior on the adoption of new rice varieties using survey data from 602 rice‑planting households in Zhanjiang, Maoming, and Yangjiang. An XGBoost model was employed to predict adoption behavior, and SHAP analysis was used to interpret feature importance and interaction effects. The results showed that the adoption rate of new varieties among entrepreneurial farmers (70.0%) was significantly higher than that among non‑entrepreneurial farmers (42.6%), and the new variety area share was also much larger (48.9% vs. 29.8%). Entrepreneurial competence score (Entre Score) and entrepreneurial farmer identifier (Entrepreneur) were the top two features in the SHAP global importance ranking, surpassing traditional variables such as farm size and income. A nonlinear threshold effect was identified: adoption probability increased slowly when Entre Score was below 2.5 but rose rapidly after exceeding 3.0. Cooperative membership and mobile payment frequency exhibited a strong synergistic effect, with adoption probability exceeding 0.78 when both were present. Sub‑sample SHAP analysis revealed heterogeneous mechanisms: entrepreneurial farmers relied more on information channels, non‑farm income, and gender roles, while non‑entrepreneurial farmers were constrained by farm size, age, and entrepreneurial competence. Propensity score matching confirmed a significant causal effect of entrepreneurship, with an average treatment effect on the treated of 44.6 percentage points. Although XGBoost did not outperform traditional models in prediction accuracy, its combination with SHAP effectively revealed nonlinear relationships and interactions that logistic regression cannot capture. Bangladesh J. Bot. 55(3): 787-795, 2026 (September) Special",
+  "oa_url": "https://doi.org/10.3329/bjb.v55i30.94410",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.3329/bjb.v55i30.94410"
+  ],
+  "oa_status": "diamond",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Kelembagaan petani & tindakan kolektif",
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-17",
+  "summary_id": null,
+  "relevance": 38
+ },
+ {
+  "id": "W7233579234",
+  "doi": "10.3329/bjb.v55i30.94406",
+  "title": "Generational differences in the sustainability of maize production under extended land contracts in northeast China",
+  "date": "2026-11-15",
+  "year": "2026",
+  "journal": "Bangladesh Journal of Botany",
+  "issn": "02535416",
+  "publisher": "",
+  "authors": [
+   "Zhaogang Fu",
+   "桑红莉",
+   "Daying Zhao",
+   "庞莲荣"
+  ],
+  "abstract": "The major maize-producing region of Northeast China faces dual pressures from an aging rural population and the implementation of an extended land contract policy, potentially leading to significant divergence in production sustainability across farmer generations. To investigate this, a study was conducted from 2024 to 2025 in typical agricultural areas of Heilongjiang and Liaoning provinces. 72 maize-growing households were categorized into three groups based on the household head's age: Young Adults (YA), Middle-aged Adults (MA), and Old Adults (OA). Using the Sustainable Intensification Assessment Framework (SIAF), the sustainability of their production systems was systematically evaluated across five dimensions: productivity, economy, environment, human, and social. The results indicated that the YA group significantly outperformed others in maize grain yield, net income, and labor productivity. They also exhibited lower soil bulk density (BD), higher soil water content, and significantly better partial factor productivity of fertilizer (PFP). While the OA group maintained higher soil organic matter (SOM), they scored the lowest in technology adoption index and willingness of youth to engage in farming, showed poor system coordination, and had the lowest comprehensive sustainability score (CS). This study found that the YA group has developed a more resilient and coordinated sustainable intensification model by integrating scale management, mechanization, precision fertilization (e.g., soil testing-based formula fertilization), and conservation tillage. The study suggests that implementing the extended land contract policy should account for generational differences. It recommends promoting a youth-oriented agronomic system centered on the synergy of \"scale-technology-market\" and fostering the integration of traditional soil fertility management experience with modern precision agriculture to enhance the systemic sustainability of regional maize production. Bangladesh J. Bot. 55(3): 749-758, 2026 (September) Special",
+  "oa_url": "https://doi.org/10.3329/bjb.v55i30.94406",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.3329/bjb.v55i30.94406"
+  ],
+  "oa_status": "diamond",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Adopsi teknologi & pertanian digital"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-17",
+  "summary_id": null,
+  "relevance": 29
+ },
+ {
+  "id": "W7233570115",
+  "doi": "10.1002/med4.70093",
+  "title": "Antimicrobial Use and Governance in Tanzanian Veterinary Practice: Patterns, Drivers, and One Health Implications",
+  "date": "2026-11-15",
+  "year": "2026",
+  "journal": "Medicine Advances",
+  "issn": "28344405",
+  "publisher": "Wiley",
+  "authors": [
+   "Lazaro Kapella",
+   "Elibariki Mwakapeje",
+   "Edwin E. Ngowi",
+   "Suzana Samson Nyanda"
+  ],
+  "abstract": "ABSTRACT Background Antimicrobial resistance threatens livestock productivity and public health, especially in low‐ and middle‐income countries with limited veterinary oversight. In Tanzania, evidence regarding the factors associated with antimicrobial misuse in smallholder systems is scarce. Therefore, we studied antimicrobial use and governance in veterinary practice in the Kigoma and Mwanza regions of Tanzania. Methods We performed a cross‐sectional study of quantitative and qualitative data. Structured surveys of smallholder farmers ( n = 138) were used to collect descriptive statistics, and the data were analysed using a binary regression model. Qualitative data from 15 focus group discussions and 11 interviews with animal health practitioners and other stakeholders were also analysed thematically. Results We found that the region, access to agrovet supply services and educational level significantly influenced the likelihood of farmers treating animals without consulting a qualified animal health service provider. Specifically, self‐treatment was 2.6 times more likely in Nyamagana ( p = 0.016), 4 times more likely for farmers who received services through agrovets ( p = 0.036), and 12 times more likely for farmers who had completed tertiary education ( p = 0.011). Additionally, 57% of the farmers identified tetracyclines as one of the most commonly used antimicrobial agents. The qualitative findings suggest that non‐therapeutic antimicrobial use is often not guided by label information, even though some of the products on the market are explicitly indicated for non‐therapeutic purposes (e.g., prophylaxis, anti‐stress use or productivity enhancement). Conclusion The study findings imply that strengthening the governance of the antimicrobial supply chain and improving animal health service delivery, particularly at agrovet establishments, are required to promote prudent antimicrobial use.",
+  "oa_url": "https://doi.org/10.1002/med4.70093",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1002/med4.70093"
+  ],
+  "oa_status": "diamond",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemasaran, rantai pasok & rantai nilai"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-17",
+  "summary_id": null,
+  "relevance": 26
+ },
+ {
+  "id": "W7233544943",
+  "doi": "10.1007/s12672-026-06281-6",
+  "title": "Comparing propensity score matching and inverse probability treatment weighting to evaluate risk factors for cervical squamous cell carcinoma",
+  "date": "2026-11-15",
+  "year": "2026",
+  "journal": "Discover Oncology",
+  "issn": "27306011",
+  "publisher": "Springer Nature",
+  "authors": [
+   "Chaorong Bian",
+   "Xiufeng Yin",
+   "Lan Jiang",
+   "Kejin Chen"
+  ],
+  "abstract": "To clarify the independent associations of abnormal vaginal discharge, family tumor history, menarche age, and first childbirth age with cervical cancer by comparing propensity score matching (PSM) and inverse probability treatment weighting (IPTW) for confounder control. In this retrospective case-control study, 125 cervical cancer patients and 375 healthy controls, all non-smoking women aged 35–64 years enrolled in the National Cervical and Breast Cancer Screening Program for Urban and Rural Women, were included. Propensity score matching (1:3 nearest-neighbor matching without replacement, caliper = 0.1) and inverse probability treatment weighting with stabilized weights were both employed for confounder control. Conditional logistic regression was used for the matched sample, and weighted logistic regression for the IPTW sample, with comparisons made to multivariate regression on the original unmatched data. After matching, 45 cases and 70 controls (115 participants in total) were retained. In the PSM analysis, abnormal vaginal discharge was excluded due to lack of variation in the matched sample, and none of the remaining variables showed significant associations. However, in the IPTW analysis which retained all 500 participants, abnormal vaginal discharge (aOR = 14.23, 95% CI 2.65–76.30), family history of tumors (aOR = 2.37, 95% CI 1.02–5.53), age at menarche (aOR = 0.83, 95% CI 0.71–0.96), and age at first childbirth (aOR = 0.90, 95% CI 0.82–0.98) remained significantly associated with cervical cancer after controlling for confounders. While PSM resulted in loss of statistical significance due to reduced sample size and elimination of exposure variation, IPTW analysis demonstrated that family history and reproductive factors maintained significant independent associations with cervical cancer after confounder control; the association for abnormal vaginal discharge should be interpreted cautiously, as it may partly reflect symptoms of existing disease. These findings require confirmation in prospective studies with detailed HPV data.",
+  "oa_url": "https://doi.org/10.1007/s12672-026-06281-6",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1007/s12672-026-06281-6"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-17",
+  "summary_id": null,
+  "relevance": 15
+ },
+ {
+  "id": "W7233565630",
+  "doi": "10.3329/bjb.v55i30.94515",
+  "title": "Current status of the fruit industry in beijing based on agricultural big data",
+  "date": "2026-11-15",
+  "year": "2026",
+  "journal": "Bangladesh Journal of Botany",
+  "issn": "02535416",
+  "publisher": "",
+  "authors": [
+   "高照全 GAO Zhaoquan"
+  ],
+  "abstract": "This study used 2020 agricultural big data to systematically characterise spatial patterns, production performance, marketing channels, and key bottlenecks for the city’s fresh and dried‑fruit industries. In 2020, Beijing’s total area under fruit-tree cultivation reached 125,657 ha. Fresh-fruit orchards were predominantly located in Pinggu, Daxing and Changping Districts, while dried-fruit production was concentrated in Miyun and Huairou Districts. Peaches and chestnuts were the dominant commercial fresh and dried-fruit crops. The city produced 513,800 t of fruit valued at 523.12 million US dollars. Local fruit production could satisfy only a small share of Beijing’s municipal fruit consumption demand. Major limiting factors included low orchard modernisation, suppressed fruit prices, insufficient grower incomes, and imbalanced industrial development across administrative districts. This big-data-driven spatial analysis provides practical references for optimising fruit-tree resource allocation and advancing sustainable fruit-production systems for megacity contexts. Bangladesh J. Bot. 55(3): 659-669, 2026 (September) Special",
+  "oa_url": "https://doi.org/10.3329/bjb.v55i30.94515",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.3329/bjb.v55i30.94515"
+  ],
+  "oa_status": "diamond",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemasaran, rantai pasok & rantai nilai"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-17",
+  "summary_id": null,
+  "relevance": 9
+ },
+ {
+  "id": "W7226740969",
+  "doi": "10.1108/ijebr-07-2026-1297",
+  "title": "Contextual institutional constraints and gender entrepreneurship in rural contexts",
+  "date": "2026-11-14",
+  "year": "2026",
+  "journal": "International Journal of Entrepreneurial Behaviour & Research",
+  "issn": "13552554",
+  "publisher": "Emerald Publishing Limited",
+  "authors": [
+   "Shqipe Gashi Nulleshi"
+  ],
+  "abstract": "Purpose This study explores the dual influence of contextual institutional constraints and gender entrepreneurship in rural contexts. Gender is applied as a critical lens to theorise entrepreneurship and its constraints (Ghouse and McElwee, 2026) in the gendered context (Welter, 2020) of rural family businesses. Design/methodology/approach From a dataset capturing the life stories of 30 entrepreneurs engaged in 22 rural family businesses, this work applies a gender lens and focuses on the life stories of 4 couples (men and women) owning and managing family businesses in rural Sweden. Following Larty and Hamilton (2011), the analysis structures the narratives of entrepreneurs in rural family businesses (cf. Alkhaled and Berglund, 2018) with the emerging themes of emancipation, empowerment and family business as an emancipatory space emerging as significant recurring themes in the stories of all four couples. Findings The findings reveal that rural family businesses provide women with a secure space that empowers and emancipates them to pursue entrepreneurial activities. Fathers play an important role in how daughters challenge traditional rural social norms, while contextual informal institutional constraints (i.e. traditional norms) hinder entrepreneurship in rural contexts. Here, the community acts as a vital stakeholder. Research limitations/implications This study challenges the assumptions of the heroic entrepreneur and the taken-for-granted agency of men. As such, in rural contexts, men act as co-agents to women entrepreneurs in pursuing entrepreneurship and emancipation. By including the voices of both women and men, this study responds to calls by scholars in the gender entrepreneurship literature (Smith, 2022; Hytti et al., 2024). Though empirical context is limited to Småland in this study, the dimensions of gender and rural might be taken into consideration for the generalisability of the findings. For example, Småland exists as part of a largely gender progressive country, and cultural norms present both within and outside of rural communities may be mirrored in other regions, extending beyond Sweden to other Nordic countries which share similar entrepreneurial contextual constraints (Munch Haagensen, 2013). Future research could seek to incorporate the perspective of couples owning and managing businesses in urban areas as a comparison to rural entrepreneurs in order to better highlight contextual institutional constraints, which would also benefit the generalisability of the research findings. Practical implications Overcoming contemporary challenges in mitigating and reducing gender inequality in Sweden and globally demands more than placing entrepreneurship at the heart of regional policy development. To develop and implement effective policies, local governments must be attentive to the specific differences in each (rural) setting's economic, social and institutional conditions. Developing policies that address the specific needs and capabilities of entrepreneurs in rural settings would increase their resilience to the challenges coming from both local and international contexts. This requires an evidence-based approach and closer collaboration between policymakers and various stakeholders from academia, industry and (rural) entrepreneurs, particularly now in the digital era. Social implications The findings support extant studies on contextualising and gendering contexts as socially constructed and enacted processes (cf. Welter, 2020). That is, entrepreneurs (both women and men) actively challenge contextual institutional constraints (cf. Refai and McElwee, 2023), influencing their socio-spatial and institutional contexts via emancipation and entrepreneurship. In this article, gender is considered not as a binary proxy but as a relational phenomenon between men and women. Thus, using gender as a critical lens and including the voices of both women and men enriches the literature on gender entrepreneurship and its influence on contextual institutional constraints in rural areas (Smith, 2022; Hytti et al., 2024). Originality/value The article contributes to the agency theory and constrained entrepreneurship literature, in particular, contextual institutional constraints (Refai and McElwee, 2023; Ghouse and McElwee, 2026), using the gender lens. In addition, this study addresses the call for gender emancipation (Alkhaled and Berglund, 2018) and calls to include simultaneously both women's and men's voices in the gender entrepreneurship literature (Smith, 2022; Hytti et al., 2024).",
+  "oa_url": "https://www.emerald.com/ijebr/article-pdf/32/11/625/11980265/ijebr-07-2026-1297en.pdf",
+  "pdf_url": "https://www.emerald.com/ijebr/article-pdf/32/11/625/11980265/ijebr-07-2026-1297en.pdf",
+  "pdf_urls": [
+   "https://www.emerald.com/ijebr/article-pdf/32/11/625/11980265/ijebr-07-2026-1297en.pdf",
+   "https://doi.org/10.1108/ijebr-07-2026-1297"
+  ],
+  "oa_status": "hybrid",
+  "cited_by": 0,
+  "keywords": [
+   "institutional constraints",
+   "gender and entrepreneurship",
+   "women entrepreneurs",
+   "informal institutions",
+   "emancipation",
+   "empowerment",
+   "co-agency",
+   "gender inequality"
+  ],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-17",
+  "summary_id": null,
+  "relevance": 38
+ },
+ {
+  "id": "W7232156334",
+  "doi": "10.1186/s12978-026-02491-x",
+  "title": "Patterns of menstrual irregularities and metrorrhagia awareness among reproductive-aged women in rural Bangladesh: a community-based cross-sectional study",
+  "date": "2026-11-14",
+  "year": "2026",
+  "journal": "Reproductive Health",
+  "issn": "17424755",
+  "publisher": "BioMed Central",
+  "authors": [
+   "Mst. Sadia Khatun",
+   "Md. Monir Hossain Shimul",
+   "Ferdous Ara Joty",
+   "Oiendrila Baroi",
+   "Salamat Khandker",
+   "Nadira Mehriban"
+  ],
+  "abstract": "Menstrual irregularities are common reproductive health concerns that can adversely affect women’s physical, psychological, and social well-being. Evidence regarding menstrual health patterns and awareness of metrorrhagia among reproductive-aged women in rural Bangladesh remains limited. This study aimed to assess menstrual characteristics, estimate the prevalence of menstrual irregularities, evaluate awareness related to metrorrhagia, and examine sociodemographic, behavioral, and health-related factors statistically related to menstrual irregularity among rural women. A community-based cross-sectional study was conducted among 520 reproductive-aged women from four selected rural communities in Magura District, Bangladesh, between January and May 2025. Participants were recruited through convenience sampling and interviewed using a pretested structured questionnaire. Descriptive statistics summarized the data, and Pearson’s chi-square or Fisher’s exact tests were used to compare explanatory variables between women with regular and irregular menstrual cycles. Irregular menstrual patterns were reported by 13.7% (71/520) of participants. Menstrual bleeding duration was outside the usual 3–5 days range in 27.7% of respondents (short, < 3 days, 11.9%; long, > 5 days, 15.8%), perceived menstrual flow was heavy or light in 14.2%, and intermenstrual bleeding was reported by 13.1%. Statistically significant unadjusted bivariate differences between women with regular and irregular cycles were observed for all characteristics examined (all p < 0.001): age at menarche, perceived stress, sleep duration, history of gynecological problems, history of anemia, headache during menstruation, comorbid conditions, body mass index, and primary source of menstrual-health information. For example, intermenstrual bleeding was reported by 93.0% of women with irregular versus 0.4% of women with regular cycles. Awareness of metrorrhagia was high (99.2%); however, only 18.8% correctly identified its most common symptom, indicating important gaps in symptom recognition despite high overall awareness. Menstrual irregularities and gaps in comprehensive knowledge regarding metrorrhagia remain important reproductive health concerns among rural women in Bangladesh. Several biological, lifestyle, and health-related characteristics differed significantly according to menstrual irregularity status; however, causal relationships cannot be inferred because of the cross-sectional design. Strengthening community-based menstrual health education and improving access to reliable reproductive health information and services may contribute to earlier recognition and management of menstrual disorders in rural settings. Not applicable.",
+  "oa_url": "https://doi.org/10.1186/s12978-026-02491-x",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1186/s12978-026-02491-x"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [
+   "menstrual irregularity",
+   "metrorrhagia",
+   "awareness",
+   "women of reproductive age",
+   "rural women",
+   "menstrual health"
+  ],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-17",
+  "summary_id": null,
+  "relevance": 15
+ },
+ {
+  "id": "W7228826181",
+  "doi": "10.1111/aman.70141",
+  "title": "Ledger Sovereignty: Debt, Accounting, and the Structure of Money in Colonial Mexican Haciendas",
+  "date": "2026-11-14",
+  "year": "2026",
+  "journal": "American Anthropologist",
+  "issn": "00027294",
+  "publisher": "Wiley",
+  "authors": [
+   "Dean Blumenfeld"
+  ],
+  "abstract": "ABSTRACT This article introduces the concept of “ledger sovereignty” to examine how colonial Mexican haciendas functioned as nonstate monetary institutions in contexts of chronic coin scarcity. Ledger sovereignty describes the capacity of nonstate institutions to (1) define a unit of account, (2) issue and redeem credit, (3) track obligations, and (4) enforce repayment through accounting rather than by taxation or currency issuance. Rather than treating monetary authority as exclusively state‐based, this study demonstrates how haciendas exercised de facto monetary power by monopolizing the means of specification and redemption within their own internal economies. Hacienda ledgers were not merely passive records documenting monetary transactions but actually constituted money itself, transforming subsistence and labor into a durable, debt‐based economy that bound workers to the estate. Examining the organization of credit and labor within the hacienda reveals bookkeeping itself as a technology of governance, collapsing economic calculation and social control into a single administrative framework. By highlighting the role of accounting in the creation of money, this article expands anthropological approaches to money, power, and debt beyond the state, offering a comparative framework for analyzing nonstate monetary regimes.",
+  "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/aman.70141",
+  "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/aman.70141",
+  "pdf_urls": [
+   "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/aman.70141",
+   "https://doi.org/10.1111/aman.70141"
+  ],
+  "oa_status": "hybrid",
+  "cited_by": 0,
+  "keywords": [
+   "debt",
+   "accounting",
+   "bookkeeping",
+   "credit",
+   "unit of account",
+   "labor",
+   "anthropology of money",
+   "New Spain"
+  ],
+  "topics": [
+   "Tenaga kerja & produktivitas perkebunan"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-17",
+  "summary_id": null,
+  "relevance": 6
+ },
+ {
   "id": "W7227031446",
   "doi": "10.1080/23311932.2026.2760067",
   "title": "Agricultural trade supply chain performance between China and ASEAN countries and its association with logistics, customs and safeguard conditions",

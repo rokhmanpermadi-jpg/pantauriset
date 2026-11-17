@@ -1,21 +1,17 @@
-[2026-11-16 02:57:34] Memindai artikel terbit sejak 2026-11-13 untuk 10 topik...
-[2026-11-16 02:57:35]   Akses & informasi pasar petani: 1 hasil, 1 baru
-[2026-11-16 02:57:37]   Pemasaran, rantai pasok & rantai nilai: 6 hasil, 3 baru
-[2026-11-16 02:57:37]   Kelembagaan petani & tindakan kolektif: 2 hasil, 0 baru
-[2026-11-16 02:57:38]   Pemberdayaan petani & gender: 24 hasil, 11 baru
-[2026-11-16 02:57:39]   Ketahanan pangan rumah tangga: 12 hasil, 2 baru
-[2026-11-16 02:57:40]   Kelapa sawit: 3 hasil, 2 baru
-[2026-11-16 02:57:41]   Adopsi teknologi & pertanian digital: 2 hasil, 0 baru
-[2026-11-16 02:57:42]   Pembangunan pedesaan & kebijakan pertanian: 1 hasil, 0 baru
-[2026-11-16 02:57:43]   Komoditas: pisang, nanas, padi rawa: 2 hasil, 1 baru
-[2026-11-16 02:57:44]   Tenaga kerja & produktivitas perkebunan: 1 hasil, 1 baru
-[2026-11-16 02:57:44] Membuat ringkasan AI untuk maks. 3 artikel...
-[2026-11-16 02:57:44]   Teks penuh gagal (https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/bse.71...): HTTP Error 403: Forbidden
-[2026-11-16 02:57:44]   Teks penuh gagal (https://doi.org/10.1002/bse.71717...): HTTP Error 403: Forbidden
-[2026-11-16 02:57:44]   Anthropic HTTP 401: {"type":"error","error":{"type":"authentication_error","message":"invalid x-api-key"},"request_id":"req_011Ch5rePHmHz2KietMwyYvT"}
-[2026-11-16 02:57:45]   Teks penuh gagal (https://doi.org/10.1080/23311932.2026.2760067...): HTTP Error 403: Forbidden
-[2026-11-16 02:57:45]   Anthropic HTTP 401: {"type":"error","error":{"type":"authentication_error","message":"invalid x-api-key"},"request_id":"req_011Ch5reSVkEQM5LvWFUR19Y"}
-[2026-11-16 02:57:46]   Teks penuh gagal (https://doi.org/10.9734/jsrr/2026/v32i114738...): HTTP Error 403: Forbidden
-[2026-11-16 02:57:46]   Anthropic HTTP 401: {"type":"error","error":{"type":"authentication_error","message":"invalid x-api-key"},"request_id":"req_011Ch5reVwrKZNkMBADbXwx6"}
-[2026-11-16 02:57:46] Total artikel baru: 20
-[2026-11-16 02:57:47] Notifikasi 1/1: terkirim
+[2026-11-17 05:11:32] Memindai artikel terbit sejak 2026-11-14 untuk 10 topik...
+[2026-11-17 05:11:33]   Akses & informasi pasar petani: 1 hasil, 0 baru
+[2026-11-17 05:11:34]   Pemasaran, rantai pasok & rantai nilai: 4 hasil, 2 baru
+[2026-11-17 05:11:35]   Kelembagaan petani & tindakan kolektif: 3 hasil, 3 baru
+[2026-11-17 05:11:35]   Pemberdayaan petani & gender: 15 hasil, 3 baru
+[2026-11-17 05:11:36]   Ketahanan pangan rumah tangga: 5 hasil, 2 baru
+[2026-11-17 05:11:36]   Kelapa sawit: 0 hasil, 0 baru
+[2026-11-17 05:11:37]   Adopsi teknologi & pertanian digital: 2 hasil, 2 baru
+[2026-11-17 05:11:37]   Pembangunan pedesaan & kebijakan pertanian: 0 hasil, 0 baru
+[2026-11-17 05:11:38]   Komoditas: pisang, nanas, padi rawa: 1 hasil, 0 baru
+[2026-11-17 05:11:39]   Tenaga kerja & produktivitas perkebunan: 1 hasil, 1 baru
+[2026-11-17 05:11:39] Membuat ringkasan AI untuk maks. 3 artikel...
+[2026-11-17 05:11:41]   Anthropic HTTP 401: {"type":"error","error":{"type":"authentication_error","message":"invalid x-api-key"},"request_id":"req_011Ch7vfic7CHfJe9fmoRyPo"}
+[2026-11-17 05:11:44]   Anthropic HTTP 401: {"type":"error","error":{"type":"authentication_error","message":"invalid x-api-key"},"request_id":"req_011Ch7vfyWnwGxE8z2JsyjMQ"}
+[2026-11-17 05:11:47]   Anthropic HTTP 401: {"type":"error","error":{"type":"authentication_error","message":"invalid x-api-key"},"request_id":"req_011Ch7vgAowgcLHxDqw1YknG"}
+[2026-11-17 05:11:48] Total artikel baru: 13
+[2026-11-17 05:11:48] Notifikasi 1/1: terkirim
