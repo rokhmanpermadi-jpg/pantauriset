@@ -1,5 +1,622 @@
 [
  {
+  "id": "W7235762685",
+  "doi": "10.3389/fsufs.2026.2010086",
+  "title": "New agricultural cooperative economy and agricultural economic resilience in China: the role of factor productivity",
+  "date": "2026-11-17",
+  "year": "2026",
+  "journal": "Frontiers in Sustainable Food Systems",
+  "issn": "2571581X",
+  "publisher": "Frontiers Media",
+  "authors": [
+   "Chengdong Shi",
+   "Abudureheman Abudikeranmu"
+  ],
+  "abstract": "In the process of advancing common prosperity and the modernization of agriculture and rural areas, enhancing agricultural economic resilience (AER) has become a key issue for ensuring high-quality agricultural development and strengthening risk resistance. As a significant innovative form of the basic rural operating system, the New Agricultural Cooperative Economy (NACE) provides a new institutional pathway for improving the quality of agricultural development and enhancing risk resistance by optimizing resource allocation, strengthening organizational coordination, and promoting the integration of production factors. However, existing research has primarily focused on the income-generating effects and governance functions of NACE, with a lack of systematic study on the underlying mechanisms through which it influences AER particularly the mediating role played by Efficiency in the Allocation of Agricultural Production Factors (EAAPF) in this process. Based on this, this paper utilizes panel data from 30 Chinese provinces covering the period 2011–2023 to construct an evaluation index system for NACE. By integrating the progress of collective property rights system reforms, the study empirically examines the impact of NACE on AER and its underlying mechanisms. The study finds that NACE further strengthens AER by enhancing EAAPF; EAAPF plays a partial mediating role in this relationship and serves as a key transmission channel for the transition from factor-input-driven growth to efficiency-driven growth; Heterogeneity and threshold effect analyses reveal that the promotional effect of NACE on AER varies significantly across different regions and under varying factor endowment conditions; simultaneously, the impact of NACE exhibits a threshold effect related to the level of rural financial development, with its marginal effect showing an increasing trend as the level of rural financial development rises. This study provides a new theoretical explanation for understanding how NACE empowers high-quality agricultural development and offers empirical evidence for enhancing AER through institutional innovation.",
+  "oa_url": "https://doi.org/10.3389/fsufs.2026.2010086",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.3389/fsufs.2026.2010086"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Kelembagaan petani & tindakan kolektif",
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": true,
+  "language": "en",
+  "found_at": "2026-11-19",
+  "summary_id": null,
+  "relevance": 43
+ },
+ {
+  "id": "W7235712095",
+  "doi": "10.3389/fsufs.2026.1886552",
+  "title": "Early agroecological transition in smallholder vegetable systems in Nepal: a matched observational study of productivity and gross revenue",
+  "date": "2026-11-17",
+  "year": "2026",
+  "journal": "Frontiers in Sustainable Food Systems",
+  "issn": "2571581X",
+  "publisher": "Frontiers Media",
+  "authors": [
+   "Changpyo Lee",
+   "Shiva Shankar Sharma",
+   "Donghee Han",
+   "Dong Sub Kim"
+  ],
+  "abstract": "Smallholder agriculture in Nepal faces growing challenges from soil degradation, dependence on external inputs, and climate variability. This study evaluated the productivity and gross-revenue performance of a locally adapted agroecological package relative to conventional farming in smallholder vegetable systems during the early stage of agroecological transition. Program data were collected between September 2022 and January 2024, with matched plot monitoring conducted from May 2023 to January 2024 in three contrasting settings: Lalitpur, a market-integrated mid-hill vegetable-producing area; Humla, a remote high-Himalayan area with a short growing season and limited access to external inputs; and Doti, a mid-western hill area with steep terrain and marked climatic variability. The quantitative analysis used 242 complete within-farmer pairs (484 plot-level observations), in which the same farmer managed an agroecological and a conventional plot of the same crop during the same production period. Linear mixed-effects models included farming system as a fixed effect and matched pair as a random intercept and were fitted by restricted maximum likelihood (REML); inference for the within-pair contrast used Student’s t distribution with finite-sample degrees of freedom. A baseline survey ( n = 1,659 farmers) and key informant interviews (KIIs; n = 27) provided contextual evidence. The agroecological package was associated with comparable or higher productivity than conventional farming, although the magnitude varied by crop and site. Productivity was significantly higher for cauliflower in Lalitpur (+3.92 t/ha) and Humla (+3.86 t/ha), tomato (+3.77 t/ha) and potato (+1.95 t/ha) in Humla, and cucurbits in Doti (+0.57 t/ha); no crop–site combination showed a significant productivity disadvantage. Gross revenue was significantly higher in six of the seven crop–site combinations, with Humla tomato as the exception. KII respondents consistently reported lower purchased-input requirements and reduced irrigation needs, whereas perceptions of productivity and market demand differed by location (Fisher–Freeman–Halton exact tests: p < 0.001 and p = 0.016, respectively). These findings represent short-term observational associations rather than causal or long-term effects. Early-transition performance was generally favorable but heterogeneous, indicating that local production, market, cooperative, and institutional contexts may influence outcomes.",
+  "oa_url": "https://doi.org/10.3389/fsufs.2026.1886552",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.3389/fsufs.2026.1886552"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Kelembagaan petani & tindakan kolektif"
+  ],
+  "priority_journal": true,
+  "language": "en",
+  "found_at": "2026-11-19",
+  "summary_id": null,
+  "relevance": 41
+ },
+ {
+  "id": "W7235273262",
+  "doi": "10.1007/s43621-026-05237-8",
+  "title": "Contribution of maize production to household income and poverty measures among smallholder farmers in Pabna Sadar Upazila, Bangladesh",
+  "date": "2026-11-17",
+  "year": "2026",
+  "journal": "Discover Sustainability",
+  "issn": "26629984",
+  "publisher": "Springer Nature",
+  "authors": [
+   "Redwan Ahmed",
+   "Rajoana Haider Tithi",
+   "Md. Nayeem Hasan Pramanik",
+   "Md. Shohel Rana",
+   "Jerin Fariha"
+  ],
+  "abstract": "Agricultural growth can strengthen rural livelihoods, but the household-level contribution of individual crops remains less clearly documented. This study examines the contribution of maize income to household income and measured poverty among 300 smallholder maize-farming households in Pabna Sadar Upazila, Bangladesh. The analysis combines income decomposition, Foster-Greer-Thorbecke poverty indices, paired-samples t-tests, paired household bootstrap resampling, and descriptive analysis of five-point Likert responses. Mean annual net maize income was US$327.54, accounting for 20.6% of household income including maize. Mean annual household income was US$1,259.07 when net maize income was excluded and US$1,586.61 when it was included, a difference of 26.0% relative to the income-excluding scenario. At US$282.31 per person per year, the poverty headcount was 62.00% for income excluding net maize earnings and 46.67% for income including them. The corresponding poverty gap indices were 0.2353 and 0.1331; poverty severity was 0.1112 and 0.0503. Each paired FGT difference had a bootstrap-based Wald p-value below 0.001. Food security, household income and children’s education expenses received the most favorable perception ratings. The findings document the contribution of recorded maize earnings to household resources in the sample, without identifying a causal welfare effect or comparing returns from alternative crops. They also indicate areas for assessing credit, extension, training and agricultural services within the social and economic dimensions of smallholder livelihoods.",
+  "oa_url": "https://doi.org/10.1007/s43621-026-05237-8",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1007/s43621-026-05237-8"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Ketahanan pangan rumah tangga",
+   "Pembangunan pedesaan & kebijakan pertanian"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-19",
+  "summary_id": null,
+  "relevance": 40
+ },
+ {
+  "id": "W7235744575",
+  "doi": "10.1007/s12571-026-01731-z",
+  "title": "Drivers of household food insecurity in Brazilian Amazonian riverine communities",
+  "date": "2026-11-17",
+  "year": "2026",
+  "journal": "Food Security",
+  "issn": "18764517",
+  "publisher": "Springer Science+Business Media",
+  "authors": [
+   "Paula Mulazzani Candiago",
+   "Gordon Alexander Zello",
+   "Timothy D. Jardine",
+   "Hugo C. M. Costa",
+   "Almira Silva do Nascimento",
+   "Antonia Debora Ferreira de Souza",
+   "William Ernest Magnusson",
+   "Daniel Bastos Pimenta",
+   "João Vitor Campos‐Silva"
+  ],
+  "abstract": "Abstract The Amazon Basin faces mounting socio-environmental pressures that threaten both ecological integrity and food security. In this study, we examine socio-environmental, economic and cultural factors that may drive household food insecurity among ribeirinho (riverine) communities in the middle Juruá region of the Brazilian Amazon. We conducted 563 surveys with 348 women across 33 communities near the end of low-water (2023) and high-water (2024) seasons, assessing food insecurity using the Household Food Insecurity Access Scale, and analysing socio-demographic and income-related predictors. Our findings reveal that food insecurity is widespread and seasonally variable: 80% of households reported moderate or severe food insecurity during the low-water season, decreasing slightly to 74% in the high-water season. Significant predictors of food insecurity were low-water season, and absence of a cantina (small community store). This study highlights the mismatch between abundance and food access in Amazonian territories and underscores the importance of culturally appropriate, locally embedded strategies to promote food security. Our results demonstrate the importance of community-based initiatives and targeted public policies to promote dietary resilience and support food sovereignty in the face of environmental and community vulnerability.",
+  "oa_url": "https://link.springer.com/content/pdf/10.1007/s12571-026-01731-z.pdf",
+  "pdf_url": "https://link.springer.com/content/pdf/10.1007/s12571-026-01731-z.pdf",
+  "pdf_urls": [
+   "https://link.springer.com/content/pdf/10.1007/s12571-026-01731-z.pdf",
+   "https://doi.org/10.1007/s12571-026-01731-z"
+  ],
+  "oa_status": "hybrid",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Ketahanan pangan rumah tangga"
+  ],
+  "priority_journal": true,
+  "language": "en",
+  "found_at": "2026-11-19",
+  "summary_id": null,
+  "relevance": 38
+ },
+ {
+  "id": "W7235336883",
+  "doi": "10.3390/agriculture16222530",
+  "title": "Constraints and Drivers of Pest and Disease Control Outsourcing Among Chinese Small Farmers from the Perspectives of Transaction Costs and Farmer Trust",
+  "date": "2026-11-17",
+  "year": "2026",
+  "journal": "Agriculture",
+  "issn": "20770472",
+  "publisher": "Multidisciplinary Digital Publishing Institute",
+  "authors": [
+   "Jie Li",
+   "Chu Xialing",
+   "Yubin Wang",
+   "Pengfei Cheng"
+  ],
+  "abstract": "Small farmers’ extensive and inefficient use of pesticides increases the risk of non-point source pollution and ecological degradation, becoming a key bottleneck for the green transformation of agriculture. Agricultural socialized services offer a feasible path for addressing this issue. However, the promotion of outsourcing pest and disease control is slow, and farmers’ response is insufficient, leading to a noticeable gap between policy expectations and actual outcomes. Therefore, it is necessary to clarify the underlying factors. Based on the perspectives of transaction costs and farmer trust, this study used survey data from 552 households and a Logit-ISM model to identify the key factors influencing farmers’ adoption of outsourced pest and disease control services and their hierarchical association structure. The results showed that (1) land fragmentation, technical training, number of operations, perceived yield reduction risk, and difficulty in accessing information were significantly negatively associated with farmers’ adoption of outsourced pest and disease control services, while participation in cooperatives, pest and disease outbreak frequency, social trust, and local service availability were significantly positively associated with outsourced pest and disease control services adoption. (2) Outsourced pest and disease control services followed a three-level association structure of “deep-rooted causes–intermediate transmission–surface-level direct factors,” with farmer trust as the deep root factor and transaction costs as intermediate and surface factors. (3) The hierarchical structure of influencing factors showed three association paths and two direct factors. The association paths indicated that farmer trust was an important foundation for reducing transaction costs and stimulating outsourcing demand. The two direct factors were the inhibitory effect of land fragmentation and the promoting effect of pest and disease outbreak frequency, which together formed the decision boundary under “endowment constraints” and “risk responses.”",
+  "oa_url": "https://doi.org/10.3390/agriculture16222530",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.3390/agriculture16222530"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Kelembagaan petani & tindakan kolektif"
+  ],
+  "priority_journal": true,
+  "language": "en",
+  "found_at": "2026-11-19",
+  "summary_id": null,
+  "relevance": 37
+ },
+ {
+  "id": "W7235355526",
+  "doi": "10.3390/land15112201",
+  "title": "Farmers’ Risk Management Strategies for Climate Change Adaptation in the Nile Delta, Egypt",
+  "date": "2026-11-17",
+  "year": "2026",
+  "journal": "Land",
+  "issn": "2073445X",
+  "publisher": "Multidisciplinary Digital Publishing Institute",
+  "authors": [
+   "Hazem S. Kassem",
+   "Asif Reza Anik",
+   "Ahmed Elghannam"
+  ],
+  "abstract": "Climate change poses profound risks to agriculture, particularly in vulnerable regions such as Egypt’s Nile Delta. This study examines farmers’ adoption of five adaptation strategies—modern irrigation technologies, mixed cropping, intercropping, plasticulture, and planting windbreaks—and explores the socio-economic, institutional, and perceptual factors shaping these decisions. Data were collected from 324 farmers in Kafr El-Sheikh governorate within the Nile Delta and analyzed using a multivariate probit (MVP) model to identify determinants and correlations between the unobserved components of adoption decisions, along with a Poisson regression to assess adoption intensity. Results show that 40.43% of farmers did not adopt any strategy, with windbreaks (10.8%) and intercropping (15.4%) recording the lowest uptake. Perceptions of financial and production risks, higher education, and cooperative membership increased adoption, whereas older farmers and those relying on weather forecasts were less likely to adopt. The econometric analysis indicates positive error term correlations among modern irrigation, mixed cropping, and windbreaks, and a negative correlation between plasticulture and mixed cropping, suggesting potential complementarity and substitutions relationships, respectively. The extent of adopting multiple strategies is positively associated with education and perceptions of production and financial risks, whereas age has a negative effect. These findings align with regional evidence that education, risk perception, and strong institutions encourage climate-smart practices, although market barriers and weak extension services remain major constraints. Policy implications highlight the need to expand credit and insurance access, strengthen cooperatives, and improve extension services to promote integrated adaptation packages.",
+  "oa_url": "https://doi.org/10.3390/land15112201",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.3390/land15112201"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Kelembagaan petani & tindakan kolektif"
+  ],
+  "priority_journal": true,
+  "language": "en",
+  "found_at": "2026-11-19",
+  "summary_id": null,
+  "relevance": 37
+ },
+ {
+  "id": "W7235712313",
+  "doi": "10.1016/j.heliyon.2026.e45766",
+  "title": "Influence of environmental awareness on farmers’ intention toward organic agricultural production: exploring mediating and moderating mechanisms",
+  "date": "2026-11-17",
+  "year": "2026",
+  "journal": "Heliyon",
+  "issn": "24058440",
+  "publisher": "Elsevier BV",
+  "authors": [
+   "Su Ha Van",
+   "Quynh Le Nhu",
+   "Phong Ba Le"
+  ],
+  "abstract": "Given the importance of organic farming in ensuring food safety, protecting the environment, and promoting sustainable rural development, the purpose of this study is to investigate the influence of farmers' attitudes toward organic production, perceived behavioral control, subjective norms, and environmental awareness on their intention to engage in organic agricultural production under the moderating role of educational level. Building on the Theory of Planned Behavior, the proposed research model is extended and developed by incorporating environmental awareness and is tested using PLS-SEM. Survey data were collected from 498 farmers across six Vietnamese localities. The empirical findings reveal that attitude toward organic production and perceived behavioral control are the two strongest determinants of farmers' conversion intention, followed by subjective norms and environmental awareness. In addition, educational level is found significantly strengthening the effect of attitude, while weakening the influence of social norms on intention among farmers with higher educational attainment. This study extends the TPB and addresses an important theoretical gap regarding suitable antecedents and mechanisms for promoting farmers' intention to adopt organic agriculture in developing-country contexts.",
+  "oa_url": "https://doi.org/10.1016/j.heliyon.2026.e45766",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1016/j.heliyon.2026.e45766"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pembangunan pedesaan & kebijakan pertanian"
+  ],
+  "priority_journal": true,
+  "language": "en",
+  "found_at": "2026-11-19",
+  "summary_id": null,
+  "relevance": 35
+ },
+ {
+  "id": "W7235647276",
+  "doi": "10.9734/ejnfs/2026/v18i112202",
+  "title": "Association between Women’s Collective Agricultural Entrepreneurship and Household Food and Nutrition Security in Kanem, Chad",
+  "date": "2026-11-17",
+  "year": "2026",
+  "journal": "European Journal of Nutrition & Food Safety",
+  "issn": "23475641",
+  "publisher": "Sciencedomain International",
+  "authors": [
+   "Mahamat Mallah Choukou"
+  ],
+  "abstract": "This study examines the association between women’s collective agricultural entrepreneurship and household food and nutrition security in Kanem Province, Chad. The study was based on a cross-sectional quantitative survey conducted between 2022 and 2024 among 432 households (216 members of collective organizations and 216 non-members), matched using propensity scores based on baseline socioeconomic characteristics. The sample size was determined using Cochran's formula (n0 ≈ 384). Allowing for an expected 12% non-response rate, the required target was 384/0.88 ≈ 437; 432 households were actually interviewed. The results indicate that membership in a collective organization is associated with better food security indicators. Member households had a higher HDDS (7.2 ± 1.4 vs. 5.1 ± 1.6; P < 0.001) and a higher FCS (45.3 ± 8.2 vs. 35.6 ± 9.1; P < 0.001). They also reported a longer period of food self-sufficiency (7.8 ± 2.1 months vs. 5.2 ± 2.3 months) and allocated a smaller share of their budget to food (58.3% ± 12.1 vs. 72.6% ± 14.3), corresponding to a reduction of 14.3 percentage points (approximately -20% in relative terms). The prevalence of underweight among women was lower among members (14.8% vs. 26.4%; P = .003), as was the prevalence of anaemia (45.2% vs. 62.8%; P < 0.001). Among children under 5 years, acute malnutrition (12.3% vs. 21.8%; P = 0.008) and stunting (28.7% vs. 39.4%; P = 0.015) were also less frequent among members. Multiple linear regression analyses indicated that access to credit and non-agricultural income were associated with food security indicators, without allowing causal mediation to be established. The study concludes that women’s collective agricultural entrepreneurship is associated with better food and nutrition security in Kanem, while highlighting the limitations of a cross-sectional design. Recommendations include integrating this approach into national policies, developing adapted microcredit programmes, and strengthening the managerial capacities of existing groups.",
+  "oa_url": "https://doi.org/10.9734/ejnfs/2026/v18i112202",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.9734/ejnfs/2026/v18i112202"
+  ],
+  "oa_status": "diamond",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender",
+   "Ketahanan pangan rumah tangga"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-19",
+  "summary_id": null,
+  "relevance": 32
+ },
+ {
+  "id": "W7235724588",
+  "doi": "10.1016/j.heliyon.2026.e45744",
+  "title": "Non-use of modern contraception among women with a demand for contraception following recent facility-based births in sub-Saharan Africa: a secondary analysis of DHS data",
+  "date": "2026-11-17",
+  "year": "2026",
+  "journal": "Heliyon",
+  "issn": "24058440",
+  "publisher": "Elsevier BV",
+  "authors": [
+   "Ritbano Ahmed Abdo",
+   "Mohammed Sultan Karebo"
+  ],
+  "abstract": "Introduction Unintended pregnancies and short birth intervals increase the risk of adverse maternal and neonatal outcomes. This study assessed the prevalence of and factors associated with the non-use of modern contraception among women with a demand for contraception following recent facility-based births in sub-Saharan Africa (SSA) using Demographic and Health Survey (DHS) data. Methods A population-based cross-sectional study was conducted using secondary DHS datasets from 35 SSA countries collected between 2012 and 2025. The unweighted analytical sample consisted of 34,952 women. Survey weights were applied to estimate the pooled prevalence and fit regression models. A mixed-effects multilevel binary logistic regression model was used to account for clustering and estimate adjusted odds ratios (aORs). Statistical significance was determined using a 95% confidence interval (CI) and a p-value of <0.05. Data were analyzed using Stata/MP version 17. Results The overall weighted prevalence of non-use of modern contraception was 55.0%, ranging from 13.7% in Zimbabwe to 87.4% in Sierra Leone. Higher odds of non-use of modern contraception were significantly associated with older maternal age (≥35 years), having no formal education, no media exposure, being unemployed, belonging to the poorest wealth quintile, experiencing child mortality, being within the first five months postpartum, receiving no antenatal care, lacking a postpartum check-up before discharge, and being sexually abstinent. Women residing in Central and Western Africa and those living in rural areas had higher odds of non-use of modern contraception. Conversely, delivery by caesarean section, multiparity, and postpartum amenorrhea were associated with lower odds of non-use of modern contraception. Conversely, delivery by caesarean section, multiparity, and postpartum amenorrhea were associated with lower odds of non-use of modern contraception. Conclusion More than half of the women who had recently delivered in health facilities were not using modern contraceptive methods at the time of the survey. Substantial variation in the non-use of modern contraception was observed across SSA countries. Several sociodemographic, reproductive, and healthcare-related factors were associated with non-use. Strengthening access to and uptake of postpartum family planning services, particularly among women facing identified barriers to contraceptive use, may help reduce unmet contraceptive needs following facility-based delivery.",
+  "oa_url": "https://doi.org/10.1016/j.heliyon.2026.e45744",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1016/j.heliyon.2026.e45744"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": true,
+  "language": "en",
+  "found_at": "2026-11-19",
+  "summary_id": null,
+  "relevance": 32
+ },
+ {
+  "id": "W7235090115",
+  "doi": "10.3389/fpubh.2026.1883525",
+  "title": "Digital empowerment or digital burden? Heterogeneous associations between digital technology use and health outcomes",
+  "date": "2026-11-17",
+  "year": "2026",
+  "journal": "Frontiers in Public Health",
+  "issn": "22962565",
+  "publisher": "Frontiers Media",
+  "authors": [
+   "Kairan Zhang",
+   "郝远瑞",
+   "Wen Wang"
+  ],
+  "abstract": "Background Digital technologies have become increasingly embedded in daily life, yet their health implications remain complex. Existing studies have paid limited attention to how different patterns of digital technology use are associated with health outcomes. Methods Using data from the China Family Panel Studies from 2014 to 2022, this study examined the associations of multiple dimensions of digital technology use with self-rated health and the frequency of feeling depressed. Heterogeneity analyses assessed variations across demographic and social contexts, while moderation analyses examined whether these associations differed by cognitive capacity, economic resources, and social embeddedness. Results (1) Internet access was positively associated with SRH and with a higher frequency of feeling depressed, whereas longer usage duration was negatively associated with SRH. (2) The coefficients of internet access via mobile phones and computers in terms of SRH and depression were not significantly different. The positive association between using both devices and SRH was significantly stronger than that of using only mobile phones. Greater online activity diversity was negatively associated with SRH but was not significantly associated with the frequency of feeling depressed. (3) Associations with self-rated health and the frequency of feeling depressed varied by age, rural–urban residence, and region. (4) Cognitive capacity, economic resources, and social embeddedness moderated selected associations between digital technology use and the two measured outcomes. Conclusion Digital technology use exhibits both empowering and burden effects in its associations with self-rated health and the frequency of feeling depressed. Efforts to promote balanced and inclusive digital engagement should account for differences in usage patterns and individual circumstances.",
+  "oa_url": "https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2026.1883525/pdf",
+  "pdf_url": "https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2026.1883525/pdf",
+  "pdf_urls": [
+   "https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2026.1883525/pdf",
+   "https://doi.org/10.3389/fpubh.2026.1883525"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-19",
+  "summary_id": null,
+  "relevance": 28
+ },
+ {
+  "id": "W7235183639",
+  "doi": "10.1186/s40795-026-01551-6",
+  "title": "Nutritional status, dietary habits, and associated factors among breastfeeding women in Togo",
+  "date": "2026-11-17",
+  "year": "2026",
+  "journal": "BMC Nutrition",
+  "issn": "20550928",
+  "publisher": "BioMed Central",
+  "authors": [
+   "Damipie Bomboma",
+   "Tiatou Souho",
+   "Marcelle Essoyodou Kabassina",
+   "Essowereou Abel Abli",
+   "Elom Kouassivi Aglago",
+   "Mamatchi Mélila",
+   "Sabiba Kou’santa Amouzou"
+  ],
+  "abstract": "Breastfeeding is a nutritionally demanding period during which women must meet their own nutritional requirements while supporting their child’s growth and development. In low- and middle-income countries, breastfeeding women may face multiple nutritional challenges related to inadequate dietary intake and food insecurity. This study aimed to assess dietary habits, nutritional status, and associated factors among breastfeeding women in Togo. A cross-sectional study was conducted among breastfeeding women with children aged 6–23 months attending healthcare centers in two administrative regions of Togo. Sociodemographic characteristics, dietary habits, physical activity, household food security, and maternal nutrition knowledge were assessed using a structured questionnaire. Dietary diversity was evaluated using 24-hour and 72-hour dietary recalls methods. Maternal nutritional status was assessed through anthropometric measurements and hemoglobin concentration which was measured using HemoCue’s point-of-care testing instrument. A total of 569 breastfeeding women participated in the study, with a mean age of 26.6 ± 6.4 years. Households’ food insecurity affected 81.2% of participants. Dietary patterns were predominantly based on starchy and legumes consumed twice daily by 81.7% of participants. Animal-source foods were often consumed by 44.2% of participants whereas dairy products were rarely consumed by 61.9%. Adequate dietary diversity was observed among 35.5% and 61.2% of women based on the 24-hour and 72-hour dietary recalls respectively. Overweight/obesity affected 20.9% of participants, while anemia was observed in 41.9%. Households’ food insecurity was associated with lower dietary diversity. Women with sedentary occupations were found to present higher rates of overweight/obesity and those with higher maternal nutrition knowledge presented more favorable hemoglobin levels. Breastfeeding women in Togo experience multiple nutritional challenges, including household food insecurity, inadequate dietary diversity, anemia, and overweight/obesity. Integrated interventions addressing food security, women’s empowerment, dietary diversity, and maternal nutrition knowledge, including guidance on the optimal use of available foods, are needed to improve maternal nutritional status during breastfeeding.",
+  "oa_url": "https://doi.org/10.1186/s40795-026-01551-6",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1186/s40795-026-01551-6"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Ketahanan pangan rumah tangga"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-19",
+  "summary_id": null,
+  "relevance": 28
+ },
+ {
+  "id": "W7235235604",
+  "doi": "10.3390/nu18223815",
+  "title": "Longitudinal Associations Between Violence Against Women and Child Growth Trajectories up to 2 Years of Age: A Sex-Stratified Analysis of MINIMat Longitudinal Cohort Data from Rural Bangladesh",
+  "date": "2026-11-17",
+  "year": "2026",
+  "journal": "Nutrients",
+  "issn": "20726643",
+  "publisher": "Multidisciplinary Digital Publishing Institute",
+  "authors": [
+   "Jannatul Ferdous Antu",
+   "Heidi Stöckl",
+   "Sarah Rachel Meyer",
+   "Olena Ivanova",
+   "Ruchira Tabassum Naved"
+  ],
+  "abstract": "Background: Violence against women is associated with poor child growth, but there is limited evidence on longitudinal association between the two. The literature is also scant on exploring such association across growth trajectories and separately by child sex. This study attempts to address these gaps in the literature. Methods: Data came from the Maternal and Infant Nutrition Interventions in Matlab (MINIMat) study from rural Bangladesh. This analysis included 3337 mother–child dyads (1702 sons and 1635 daughters) with information on mother’s lifetime domestic violence experience (DV) up to the 30th week of the index pregnancy and repeated child anthropometric measurements up to two years. Child growth trajectories were identified using Latent Class Growth Modeling (LCGM). Multinomial logistic regression examined longitudinal associations between different types of DV and different trajectories in combined and sex-disaggregated samples. Results: Four distinct growth trajectories were identified in the combined and sex-disaggregated samples for height-for-age and weight-for-age: severe, moderate, mild and no stunting/underweight. Weight-for-height included four trajectories: moderate, mild, nearly no, and no-wasting. Emotional DV against mothers increased the odds of the sons being in the severely (mOR:1.67; 95% CI: 1.03–2.72), and moderately stunted (mOR: 1.47; 95% CI: 1.01–2.14) trajectories; and severely underweight (mOR: 1.78; 95% CI: 1.04–3.04) and moderately underweight (mOR: 1.69; 95% CI: 1.08–2.64) trajectories. Mother’s experience of controlling behavior increased the odds of the daughters being in the severely stunted trajectory (mOR: 1.66; 95% CI: 1.08–2.56), while physical DV increased their odds of being in severely underweight trajectory (mOR: 1.88; 95% CI: 1.01–3.52). Conclusions: Interventions aimed at improving child nutrition should include strategies to address emotional and physical DV and controlling behaviors.",
+  "oa_url": "https://doi.org/10.3390/nu18223815",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.3390/nu18223815"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-19",
+  "summary_id": null,
+  "relevance": 25
+ },
+ {
+  "id": "W7234765104",
+  "doi": "10.3389/fpsyg.2026.1967049",
+  "title": "How does physical exercise relate to residents’ perceived social fairness? An empirical study based on CGSS 2023 data",
+  "date": "2026-11-17",
+  "year": "2026",
+  "journal": "Frontiers in Psychology",
+  "issn": "16641078",
+  "publisher": "Frontiers Media",
+  "authors": [
+   "Yayun Ji",
+   "Bingyang Zhai"
+  ],
+  "abstract": "Introduction Physical exercise may be associated not only with physical and psychological well-being but also with residents’ evaluations of the broader social environment. However, evidence regarding the relationship between physical exercise and perceived social fairness and its potential explanatory pathways remains limited. This study examined the association between physical exercise and perceived social fairness among Chinese residents and explored the potential roles of social interaction, social support, and social trust. Methods This study analyzed data from 5,269 respondents in the CGSS 2023 household-interview sample. OLS regression was used to estimate the association between PE and PSF, while ordered response models and matching-based analyses were conducted as sensitivity checks. Bootstrap product-of-coefficients estimates were further used to examine three proposed explanatory pathways. Results Higher PE frequency was positively associated with PSF across the primary and sensitivity models. Stratified analyses revealed differences in the estimated associations across gender, age, educational attainment, and urban–rural groups, which were further examined using formal interaction tests. The bootstrap results were statistically consistent with indirect associations through social interaction, perceived neighbor support, and generalized social trust. Conclusion This study found that PE was positively associated with PSF among Chinese residents. Social interaction, perceived neighbor support, and social trust statistically accounted for part of this association. These findings extend understanding of the social relevance of PE and suggest that the relational and rule-based characteristics of exercise settings warrant closer examination in future longitudinal and intervention research on PSF.",
+  "oa_url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1967049/pdf",
+  "pdf_url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1967049/pdf",
+  "pdf_urls": [
+   "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1967049/pdf",
+   "https://doi.org/10.3389/fpsyg.2026.1967049"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-19",
+  "summary_id": null,
+  "relevance": 21
+ },
+ {
+  "id": "W7235142366",
+  "doi": "10.3758/s13414-026-03370-0",
+  "title": "Using binocular rivalry to assess cultural differences in spatial-frequency processing of faces",
+  "date": "2026-11-17",
+  "year": "2026",
+  "journal": "Attention Perception & Psychophysics",
+  "issn": "19433921",
+  "publisher": "Springer Science+Business Media",
+  "authors": [
+   "Y.‐Y. ZHU",
+   "Tong Lin",
+   "Angela Hall Gutchess",
+   "Robert Sekuler"
+  ],
+  "abstract": "Abstract Cultural experience shapes attention, memory, and some aspects of visual processing, but it remains unclear whether it influences perceptual selection when incompatible images compete for awareness. We preregistered a binocular rivalry study to test whether Eastern and Western observers differ in the relative weighting of low- versus high-spatial-frequency information during initial perceptual competition. Forty-nine Western participants (U.S.-born, ≤ 2 years abroad) and 43 Eastern participants (recent East Asian arrivals, ≤ 5 years in the U.S.) viewed dichoptic pairs of spatially filtered faces (Albert Einstein, Marilyn Monroe). Image size was varied across five levels to shift retinal spatial frequency content, allowing estimation of each observer’s “balance point”—the size at which low-pass and high-pass filtered faces were equally dominant. In a second component of the study, a filtered image of one face was pitted against an unfiltered image of the other face to assess the competitive strength of isolated spatial-frequency bands against broadband-image rivals. Increasing retinal image size enhanced the dominance of high-pass information. However, mean balance points did not differ between cultural groups, and no reliable association emerged with measures of participants’ levels of acculturation or cultural values. The results suggest that the initial outcome of perceptual competition in binocular rivalry is largely independent of cultural background and that the mechanisms governing this competition operate similarly across observers from different cultural backgrounds. Open practices statement The study was preregistered online ( https://osf.io/pgyqv ). Final analyses deviated from the plan in that we used the quickpsy Package in R (instead of fitting a 2nd-degree polynomial using MATLAB’s curve fitting toolbox) to generate a cumulative normal curve which better characterized the relationship between image sizes and task performance. This also allowed us to use t tests rather than ANOVAs. In addition, sample sizes exceeded the original plan to allow for exclusions and for exploratory individual difference analyses. After reviewing the stereopsis test measure—but without comparing data from the two groups—the team decided that getting six of the nine circles correct (instead of the preregistered criterion requiring nine out of nine circles) would be sufficient to demonstrate stereopsis. We did not use response times as an exclusion criterion for individual trials, and our additional exploratory analyses focused on the self-report measures of culture rather than those included in the preregistration. We deemed these exploratory analyses to be more of interest, given the focus of the paper, than those originally planned or the sample characteristics did not support further follow-up analyses (e.g., uneven distributions of urban/rural background and gender). Data and code are available at https://osf.io/st473 and https://doi.org/10.17605/OSF.IO/ST473 .",
+  "oa_url": "https://doi.org/10.3758/s13414-026-03370-0",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.3758/s13414-026-03370-0"
+  ],
+  "oa_status": "hybrid",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-19",
+  "summary_id": null,
+  "relevance": 17
+ },
+ {
+  "id": "W7129246980",
+  "doi": "10.1007/s12639-026-02018-y",
+  "title": "Serological evidence of strongyloidiasis in COVID-19 hospitalized patients in northern Iran during the pandemic: prevalence and risk factors",
+  "date": "2026-11-17",
+  "year": "2026",
+  "journal": "Journal of Parasitic Diseases",
+  "issn": "09717196",
+  "publisher": "Springer Nature",
+  "authors": [
+   "Sara Nemati",
+   "Keyhan Ashrafi",
+   "Tofigh Yaghubi Kalurazi",
+   "Eshrat Beigom Kia",
+   "Zohreh Fakhrieh-Kashan",
+   "Zahra Atrkar Roushan",
+   "Mohammad Haghighi",
+   "Sara Nemati",
+   "Arash Pourgholaminejad",
+   "Meysam Sharifdini"
+  ],
+  "abstract": "Abstract Strongyloidiasis, a parasitic infection caused by the intestinal nematode Strongyloides stercoralis , remains a significant public health concern in tropical and subtropical regions. This helminthic infection poses particular risks for immunocompromised individuals, potentially progressing to life-threatening hyperinfection syndrome and disseminated disease. In Iran, endemic foci of S. stercoralis have been well-documented in both northern and southern coastal provinces. The current COVID-19 pandemic has introduced new clinical challenges, as immunosuppressive therapies commonly employed in COVID-19 management may predispose patients to severe parasitic complications. This descriptive cross-sectional study aimed to determine both the seroprevalence of S. stercoralis infection and associated risk factors among COVID-19 patients of Guilan province in northern Iran during 2022. A total of 208 serum samples were collected from patients with COVID-19 referred to Razi Hospital in Rasht City, Guilan province. Demographic data, such as sex, age, job, residential area, and educational level, were recorded through interviews. The presence of the anti- S. stercoralis IgG antibody was detected by S. stercoralis IgG ELISA kit. The seropositive rate of strongyloidiasis was 19.7% of all the studied subjects. The seropositivity rate for strongyloidiasis was 19.7% among the studied subjects. A significant difference ( P = 0.039) was observed between genders, with 25.2% of males and 13.9% of females testing seropositive. The prevalence was significantly higher ( P = 0.014) among farmers and workers compared to other occupational groups. Additionally, illiterate individuals had a significantly higher infection rate ( P = 0.007) than those with formal education. This study highlights a high prevalence of strongyloidiasis among COVID-19 patients in northern Iran. Therefore, screening for Strongyloides infection using serologic methods, particularly in endemic regions should be considered before initiating immunosuppressive therapy in COVID-19 patients. Future epidemiological research should systematically evaluate individual risk factors to facilitate targeted intervention strategies.",
+  "oa_url": "https://www.researchsquare.com/article/rs-8184413/latest.pdf",
+  "pdf_url": "https://www.researchsquare.com/article/rs-8184413/latest.pdf",
+  "pdf_urls": [
+   "https://www.researchsquare.com/article/rs-8184413/latest.pdf",
+   "https://doi.org/10.21203/rs.3.rs-8184413/v1"
+  ],
+  "oa_status": "green",
+  "cited_by": 0,
+  "keywords": [
+   "strongyloidiasis",
+   "Strongyloides stercoralis",
+   "COVID-19 pandemic",
+   "seroprevalence",
+   "IgG",
+   "risk factors",
+   "occupational exposure",
+   "educational attainment"
+  ],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-19",
+  "summary_id": null,
+  "relevance": 15
+ },
+ {
+  "id": "W7234758683",
+  "doi": "10.2478/aoas-2027-0029",
+  "title": "Mitigating climate change impacts in ruminants: Nutritional interventions to alleviate heat stress and enteric greenhouse gas emissions",
+  "date": "2026-11-17",
+  "year": "2026",
+  "journal": "Annals of Animal Science",
+  "issn": "16423402",
+  "publisher": "De Gruyter",
+  "authors": [
+   "Alok Khemraj Wankar",
+   "Nitin Eknath Gade",
+   "Tawheed Ahmad Shafi",
+   "Prakash Madhukar Kekan",
+   "M.M. Vaidya",
+   "Sandeep Amrut Dhenge"
+  ],
+  "abstract": "Abstract Anthropogenic emissions, such as CO 2 , CH 4 , and N 2 O, are linked to the Earth’s rising temperatures and have significantly altered the global climate; their impacts are evident in extreme climatic events. Rising human population, industrialisation, energy exploration, and transportation have sharply increased greenhouse gas (GHG) emissions. Forestry, agriculture, and livestock contribute only a marginal share, yet ruminants are routinely singled out as major GHG emitters and blamed for global warming and climate variability. As the climate changes, livestock face increasing heat stress, which lowers gross production and typically raises GHG emissions per unit of output. Many national and international agencies track climate change and monitor GHG inventories, but more sophisticated and precise sector-level estimation methods are needed. Our analysis shows that the agri-livestock sector is not the leading contributor to anthropogenic emissions; instead, the largest share comes from energy exploration, construction, transport, and manufacturing. The agri-livestock sector can still meaningfully reduce its carbon load through nutritional interventions that mitigate both heat stress and GHG emissions in ruminants. Better management of dung, waste, and manure is another key area for improvement. A clear understanding of the total carbon credits generated and used across the value chain, from raw materials to final animal product, is also essential for sound sectoral policy. From this perspective, this review examines the impact of climate-related heat stress on ruminants, current continent-specific GHG inventories, and effective nutritional interventions to mitigate heat stress and GHG emissions in ruminants.",
+  "oa_url": "https://doi.org/10.2478/aoas-2027-0029",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.2478/aoas-2027-0029"
+  ],
+  "oa_status": "diamond",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemasaran, rantai pasok & rantai nilai"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-19",
+  "summary_id": null,
+  "relevance": 14
+ },
+ {
+  "id": "W7234899878",
+  "doi": "10.1007/s44187-026-01322-z",
+  "title": "The impact of remittances on food security of agro-pastoralists in Lare District, Nuer Zone, Gambella Region, South-West Ethiopia",
+  "date": "2026-11-17",
+  "year": "2026",
+  "journal": "Discover Food",
+  "issn": "27314286",
+  "publisher": "Springer Nature",
+  "authors": [
+   "Chayot Gatdet",
+   "Chuol Bor",
+   "Kher Deng",
+   "John Chuol",
+   "Wiyual Chuol"
+  ],
+  "abstract": "Remittances are an important source of financial support for the pastoralist households of developing nations, particularly those that are hit by economic and environmental strain. The present research evaluates the impact of remittances on food security among agro-pastoralists in Lare District. With a mixed-methods design, the study collected data using key informant interviews and a questionnaire survey from 384 respondents. Frequency, percentage, mean, standard deviation, chi-square, t-test, and an endogenous switching regression model were used to analyze the data. The results found that about 53.39% of respondents have not received remittance, while 46.6% of the respondents have received remittance in the study area. Moreover, livestock holding size, cultivated land size, water distance, sex, marital status, and livestock disease influence the food security of remit users, while educational level influences the food security of non-remit users. Likewise, remittances reduced the food security of remit users by 0.4267 units compared to their counterparts. Therefore, this research necessitates policies that construct productive investment in remittances and promote sustainable food security policies for agro-pastoralists in the study area.",
+  "oa_url": "https://doi.org/10.1007/s44187-026-01322-z",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1007/s44187-026-01322-z"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Ketahanan pangan rumah tangga"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-19",
+  "summary_id": null,
+  "relevance": 14
+ },
+ {
+  "id": "W7235469640",
+  "doi": "10.5552/crojfe.2027.4707",
+  "title": "Productivity, cost and energy efficiency in recultivation of short rotation poplar plantations",
+  "date": "2026-11-17",
+  "year": "2026",
+  "journal": "Croatian journal of forest engineering",
+  "issn": "18455719",
+  "publisher": "University of Zagreb",
+  "authors": [
+   "Raffaele Spinelli",
+   "Muedanyi Ramantswana",
+   "Natascia Magagnotti",
+   "Benno Eberhard"
+  ],
+  "abstract": "Recultivation is an essential task in the management of Short Rotation Forestry (SRF) poplar, which is grown on arable land and is generally integrated within a crop rotation system. This task involves destroying the poplar stumps and tilling the soil down to a depth suitable for establishing a new farm crop. Recultivation can be performed using versatile heavy forestry mulchers that simultaneously mulch the soil and remove stumps. The objective of this study was to develop long-term benchmark performance metrics for industrial mulchers used in the recultivation of SRF poplar. The study involved the collection of long-term data on a forestry mulcher working on 486 ha of harvested SRF poplar stands. Data were collected across 18 sites in Germany and Slovakia by maintaining detailed, site-specific logs for two years. Data recorded included position, time use, and fuel consumption, number of mulcher teeth replaced, soil type, and resprouting class. The data were analyzed using bootstrapping, allowing robust calculation of means, confidence intervals and regression models despite the low number of sites and non-normal data. The results show that mean fuel, time and teeth consumption were 181 L ha-1, 3.26 h ha-1, 0.75 teeth ha-1, respectively. The number of passes and soil type significantly affected fuel consumption, time consumption, and tooth wear. In contrast, resprouting and field size did not significantly affect the same dependent variables. The study's findings provide key benchmark figures for planning and estimating the cost of SRF poplar recultivation.",
+  "oa_url": "https://doi.org/10.5552/crojfe.2027.4707",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.5552/crojfe.2027.4707"
+  ],
+  "oa_status": "diamond",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Tenaga kerja & produktivitas perkebunan"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-19",
+  "summary_id": null,
+  "relevance": 0
+ },
+ {
   "id": "W7233938003",
   "doi": "10.1186/s12884-026-10088-2",
   "title": "The hidden burden of insomnia in late pregnancy: prevalence and risk factors among Egyptian women",
@@ -33,6 +650,105 @@
   "found_at": "2026-11-18",
   "summary_id": null,
   "relevance": 15
+ },
+ {
+  "id": "W7234953363",
+  "doi": "10.1002/pan3.70482",
+  "title": "Contextualizing the role of mobula rays in household ‘food security’ and what it means for conservation in East Flores, Indonesia",
+  "date": "2026-11-16",
+  "year": "2026",
+  "journal": "People and Nature",
+  "issn": "25758314",
+  "publisher": "Wiley",
+  "authors": [
+   "Rafid A. Shidqi",
+   "Yodhikson M. Bang",
+   "Edy Topan",
+   "Hollie Booth"
+  ],
+  "abstract": "Abstract Elasmobranch conservation increasingly invokes concerns about ‘food security’, yet the term is often applied without a clear theoretical framework or empirical underpinning. This study addresses this gap by first exploring relevant theories of food security, then applying appropriate theory and methods to empirically examine the role of mobula rays ( Mobula spp.) in the food security of fisheries‐dependent households in East Flores, Indonesia, and exploring the implications for mobula conservation. Drawing on Sen's entitlement framework and experience‐based food security tools, we combine surveys ( N = 57), unstructured interviews ( N = 7), participant observation and a community meeting ( N = 34) across three coastal villages: Labelen, Lamawai and Watanhura. Our results showed that while 53% of respondents ( N = 30) considered mobula rays an important food source, 90% ( N = 51) indicated a preference for other protein sources if available, suggesting that mobula rays do not constitute a primary dietary staple. The inconsistent availability of mobula ray meat further limits any direct contribution to household diets. Nevertheless, applying Sen's entitlement theory reveals two indirect roles: mobula ray fisheries generate ‘trade‐based entitlements’ through net income (IDR 190,000–600,000; USD 11–35) per ray, which households use to purchase other food items; and an overlapping ‘labor‐and‐trade’ entitlement pathway, whereby households obtain food through barter, in which mobula ray meat is exchanged for root crops, fruits and other desired foods. Beyond these entitlement pathways, respondents attributed episodes of food insecurity to income volatility, exposure to natural disasters, health‐related challenges and socio‐cultural obligations that compound financial vulnerability. Our findings also suggest that conservation may be possible; however, interventions need to combine principles of perceived and procedural fairness to actively and meaningfully account for communities' aspirations and livelihood realities, thereby opening possibilities for meaningful conservation outcomes. Read the free Plain Language Summary for this article on the Journal blog.",
+  "oa_url": "https://doi.org/10.1002/pan3.70482",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1002/pan3.70482"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Ketahanan pangan rumah tangga"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-19",
+  "summary_id": null,
+  "relevance": 40
+ },
+ {
+  "id": "W7235477209",
+  "doi": "10.5187/jast.2600231",
+  "title": "Just transition in the livestock sector under the frameworks of the Paris agreement and environmental, social, and governance: a review",
+  "date": "2026-11-16",
+  "year": "2026",
+  "journal": "Journal of Animal Science and Technology",
+  "issn": "15989429",
+  "publisher": "Korean Society of Animal Sciences and Technology",
+  "authors": [
+   "Eska Nugrahaeningtyas",
+   "Mohammad Ataallahi",
+   "Kyu-Hyun Park"
+  ],
+  "abstract": "Countries are committed to reduce their greenhouse gas (GHG) emissions under the Paris agreement (PA); yet, the livestock sector (LS) continues to encounter challenges in fully achieving PA goals. Key challenges include inconsistent governance, limited GHG emissions reporting, limited access to climate mitigation technology, and social and economic transition barriers. Current approaches often discuss mitigation, adaptation, and transparency in isolation rather than through integrated strategies. Therefore, this review examined how the LS can achieve a just transition (JT) toward climate sustainability by aligning these elements with the PA and environmental, social, and governance (ESG) frameworks. Existing literature, industry standards, and policy documents were synthesized to investigate how PA and ESG frameworks support JT in the LS, focusing on alignment of transparency systems, mitigation, and adaptation strategies to achieve nationally determined contributions (NDCs). This review followed a narrative approach. Key policy and technical documents were identified from major institutional sources, including the United Nations framework convention on climate change (UNFCCC), food and agriculture organization (FAO), and intergovernmental panel on climate change (IPCC) with citation chaining to identify related peer-reviewed literature. The review covers material published between 2015 and 2026. It also traces the institutional evolution of LS within the UNFCCC, from the Koronivia joint work on agriculture at the conference of parties (COP) 23 through the Sharm el-Sheikh joint work (SJWA) at COP 27 and the COP 28 UAE declaration, showing gradual but limited progress. ESG principles are increasingly aligned with national climate objectives and may offer indirect support for PA goals. Within LS, however, their integration remains limited, with persistent challenges including fragmented supply chains, animal welfare gaps, weak traceability, and smallholder vulnerability. Improved transparency systems place additional pressure on national reporting capacity, which may affect trust in collective climate action. JT in agriculture further requires addressing behavioral and socio-cultural dimensions, including dietary shifts and their implications for rural livelihoods and food system equity. In conclusion, merging the ESG frameworks and PA objectives may facilitate more transparent, socially equitable, and climate resilient LS, while supporting the transition toward a long-term sustainable future.",
+  "oa_url": "https://doi.org/10.5187/jast.2600231",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.5187/jast.2600231"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemasaran, rantai pasok & rantai nilai",
+   "Pembangunan pedesaan & kebijakan pertanian"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-19",
+  "summary_id": null,
+  "relevance": 39
+ },
+ {
+  "id": "W7235436330",
+  "doi": "10.1002/pan3.70485",
+  "title": "Stakeholder perceptions of oyster services: A mixed‐methods approach to mapping services to improve management efficiency",
+  "date": "2026-11-16",
+  "year": "2026",
+  "journal": "People and Nature",
+  "issn": "25758314",
+  "publisher": "Wiley",
+  "authors": [
+   "Grace Grimes",
+   "L. Jen Shaffer",
+   "Joshua Drew"
+  ],
+  "abstract": "Abstract Coastal zones are multifaceted spaces environmentally and culturally. They are sites of recreation, refuge, spirituality, commercial fishing and habitat for numerous marine organisms, while also providing important regulating services. They are increasingly central to interest in oyster aquaculture as both a food of a more sustainable blue future and a mechanism for climate resilience. Yet limited space creates competition among users and raises difficult questions about ownership, boundaries and management. Part of this tension stems from wide‐ranging stakeholder valuations of oyster services, leading to a lack of consensus on optimal management strategies. To address these complex issues, methodologies that integrate stakeholder engagement with natural science methods are necessary. Here, we explore a mixed‐methods approach aimed at co‐generating knowledge, combining (1) fuzzy cognitive mapping (FCM), causal reasoning maps that model complex systems and (2) photovoice, a photo‐based method where participants identify and illuminate salient community issues. This bottom‐up management approach co‐generates knowledge with stakeholders, building a more holistic system understanding. Our work focused on Long Island, New York, where we interviewed multiple user groups, including yacht clubs, town governments, environmental organizations, property owner associations and farmers. Groups identified 37 different oyster services and 33 concerns. Among these, water quality and job creation were the most frequently cited services, and run‐off and climate change were the most frequently cited concerns. Policy implications: Including stakeholder valuations in decision‐making can strengthen management plans, support more sustainable outcomes and facilitate local buy‐in for management action. Our work explores one potential methodology for collaborative decision‐making. Read the free Plain Language Summary for this article on the Journal blog.",
+  "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/pan3.70485",
+  "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/pan3.70485",
+  "pdf_urls": [
+   "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/pan3.70485",
+   "https://doi.org/10.1002/pan3.70485"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Kelembagaan petani & tindakan kolektif"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-19",
+  "summary_id": null,
+  "relevance": 6
  },
  {
   "id": "W7234615793",
