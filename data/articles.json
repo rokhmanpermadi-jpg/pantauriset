@@ -1,5 +1,1508 @@
 [
  {
+  "id": "W7220685330",
+  "doi": "10.32604/ee.2026.087200",
+  "title": "Energy Portfolios and Food Security in Developing Countries: A Water–Energy–Food Nexus Analysis Using Panel Smooth Transition Regression",
+  "date": "2027-01-01",
+  "year": "2027",
+  "journal": "Energy Engineering",
+  "issn": "01998595",
+  "publisher": "Taylor & Francis",
+  "authors": [
+   "Kemalettin Ağızan",
+   "Mehmet Bölükbaş"
+  ],
+  "abstract": "Agricultural production, processing and distribution in developing countries are energy-intensive, so the composition of the electricity generation portfolio is a plausible determinant of both food prices and physical supply security. The existing evidence, however, represents energy through aggregated indicators, analyses price and supply security separately, and assumes linearity, leaving open which generation technologies matter and under what conditions. This study therefore estimates six technologies—nuclear, geothermal, hydropower, solar, wind and biomass—jointly against both food outcomes within one nonlinear panel framework. The dataset combines IEA, IRENA, FAOSTAT and World Bank indicators for 82 developing economies over 2000–2023. Estimation uses Panel Smooth Transition Regression (PSTR) with energy intensity as the transition variable, supported by dynamic panel system-GMM and common correlated effects (CCE) estimators and by a compositional-data robustness specification based on the centred log-ratio transformation. Linearity is rejected and a single energy-intensity threshold is estimated at 0.436, with a transition speed of 7.84. Above that threshold, biomass generation is positively associated with food prices (0.067) and negatively with supply security (−0.055), whereas the continuously dispatchable sources—nuclear (−0.081) and geothermal (−0.094)—are negatively associated with price pressure and positively with supply security. Solar and wind attain significance only in the high regime, and the hydropower relationship reverses sign between low- and high-water-stress subsamples. Because the panel is observational and generation shares may be jointly determined with food outcomes, the coefficients are interpreted throughout as regime-dependent conditional relationships rather than causal effects. For policy, the findings imply that the generation portfolio should be planned jointly with water resources, grid integration and rural electrification rather than steered by a single aggregated renewable-energy target: biomass incentives warrant feedstock-origin conditionality, hydropower requires seasonal allocation rules where water stress is high, and variable renewables deliver food-security value mainly when paired with storage and irrigation-linked distribution.",
+  "oa_url": "https://www.techscience.com/files/onlinefirst/2026/10.6/TSP_EE_87200/TSP_EE_87200.pdf",
+  "pdf_url": "https://www.techscience.com/files/onlinefirst/2026/10.6/TSP_EE_87200/TSP_EE_87200.pdf",
+  "pdf_urls": [
+   "https://www.techscience.com/files/onlinefirst/2026/10.6/TSP_EE_87200/TSP_EE_87200.pdf",
+   "https://doi.org/10.32604/ee.2026.087200"
+  ],
+  "oa_status": "diamond",
+  "cited_by": 0,
+  "keywords": [
+   "energy portfolio",
+   "food security",
+   "water-energy-food nexus",
+   "electricity mix",
+   "food prices",
+   "food supply security",
+   "biomass energy",
+   "hydropower"
+  ],
+  "topics": [
+   "Ketahanan pangan rumah tangga"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-21",
+  "summary_id": null,
+  "relevance": 29
+ },
+ {
+  "id": "W7214643497",
+  "doi": "10.25145/j.pasos.2027.25.010",
+  "title": "Vinos y Cuelchas: identidad territorial en el Valle del Itata, Ñuble, Chile.",
+  "date": "2027-01-01",
+  "year": "2027",
+  "journal": "PASOS Revista de Turismo y Patrimonio Cultural",
+  "issn": "16957121",
+  "publisher": "Instituto de Investigación Social y Turismo",
+  "authors": [
+   "Christian Loyola Gómez",
+   "Mónica Navarrete Muñoz",
+   "Siu-yen Serrano Zambra"
+  ],
+  "abstract": "Community-based cultural tourism constitutes a strategic alternative for sustainable territorial development in rural contexts marked by socioeconomic lag. This study evaluates the tourism potential of the cultural and productive heritage associated with traditional viticulture and cuelcha weaving in the communes of Portezuelo and Ránquil. The assessment is conducted through a mixed-methods approach combining resource inventories, fieldwork, interviews, and community co-creation workshops, applying the Tourism Potential Index (TPI). The findings reveal high potential in wine tourism resources and identity- based festivities, alongside gaps in services and infrastructure linked to cultural and historical assets. The relevance of participatory design is emphasised as a means to prevent the folklorisation of heritage and to strengthen community empowerment. Cultural tourism planned from a territorial perspective with active local participation emerges as an effective tool for heritage valorisation and local development.",
+  "oa_url": "https://doi.org/10.25145/j.pasos.2027.25.010",
+  "pdf_url": "https://doi.org/10.25145/j.pasos.2027.25.010",
+  "pdf_urls": [
+   "https://doi.org/10.25145/j.pasos.2027.25.010",
+   "http://riull.ull.es/xmlui/handle/915/48648"
+  ],
+  "oa_status": "diamond",
+  "cited_by": 0,
+  "keywords": [
+   "wine tourism",
+   "territorial identity",
+   "traditional viticulture",
+   "heritage valorization",
+   "sustainable rural development",
+   "participatory design",
+   "community empowerment"
+  ],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-21",
+  "summary_id": null,
+  "relevance": 21
+ },
+ {
+  "id": "W7135011709",
+  "doi": "10.1037/tra0002124",
+  "title": "Healing and resilience among Native American and rural women survivors of domestic violence: The Takini/Survivor project.",
+  "date": "2026-12-01",
+  "year": "2026",
+  "journal": "Psychological Trauma Theory Research Practice and Policy",
+  "issn": "1942969X",
+  "publisher": "American Psychological Association",
+  "authors": [
+   "Kristen Hunt",
+   "Bridget K. Diamond-Welch",
+   "Katie M. Edwards",
+   "Clara Pierskalla",
+   "Arial Swallow",
+   "Natira D. Mullet",
+   "Ramona Herrington",
+   "Sloane Cornelius"
+  ],
+  "abstract": "OBJECTIVE: The Takini/Survivor project examined factors promoting healing and resilience among women survivors of domestic violence in primarily South Dakota, with particular attention to American Indian/Native American (Native hereinafter) and rural experiences through the resilience portfolio model. METHOD: Using a phenomenological design, this study explored the narratives of 31 Native women using semistructured qualitative interviews. When appropriate, the study also delineated between narratives of Native rural (10) and nonrural women (21). RESULTS: Participants described \"poly-strengths\" sequences in which environmental strengths (such as housing and transportation) enabled them to draw on their other strengths across resilience portfolio model domains. Rural participants emphasized how geographic isolation, limited mobility, and safety concerns in small communities constrained access to additional resources such as interpersonal supportive relationships. Survivors contextualized abuse within intergenerational trauma, drew on cultural identity and spirituality as distinct meaning-making pathways, and cited children/grandchildren and helping others as central purposes. CONCLUSIONS: Healing occurs through reinforcing poly-strengths rather than isolated protective factors. Our findings contribute to resilience portfolio model by building on the importance of environmental strengths and how cultural identities create distinct resilience pathways. Implications include culturally responsive and supportive services, innovative service delivery in rural areas, and reforms to transportation policies. (PsycInfo Database Record (c) 2026 APA, all rights reserved).",
+  "oa_url": "https://doi.org/10.1037/tra0002124",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1037/tra0002124"
+  ],
+  "oa_status": "hybrid",
+  "cited_by": 1,
+  "keywords": [
+   "domestic violence",
+   "Native American women",
+   "rural women",
+   "resilience",
+   "healing",
+   "intergenerational trauma",
+   "cultural identity",
+   "spirituality"
+  ],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-21",
+  "summary_id": null,
+  "relevance": 15
+ },
+ {
+  "id": "W7222626135",
+  "doi": "10.22266/ijies2026.1130.31",
+  "title": "Proximal Remote Sensing of Oil Palm Basal Stem Rot Using Deep Learning Vision Algorithms and Ground-based Images",
+  "date": "2026-11-30",
+  "year": "2026",
+  "journal": "International journal of intelligent engineering and systems",
+  "issn": "1882708X",
+  "publisher": "Intelligent Networks and Systems Society",
+  "authors": [
+   "Wan Siu Hong",
+   "Jonathan Yong Chung Ee",
+   "Jin Yuan Chan",
+   "Mohamad Izzuddin Anuar",
+   "Mahmud Iwan Solihin"
+  ],
+  "abstract": "Basal Stem Rot (BSR), caused by Ganoderma boninense, threatens oil palm productivity in Southeast Asia.This study develops and benchmarks a low-cost remote sensing framework for BSR severity diagnosis from smartphone-captured RGB trunk images, evaluating two pathways for future field deployment.The first pairs YOLO detection with a Random Forest classifier: YOLO26n gave the best accuracy-to-cost trade-off among three nanovariants for localizing BSR symptoms (mushroom, rot, white-button), and the end-to-end YOLO26n+RF pipeline achieved 0.83 accuracy and macro-F1 of 0.79 across Healthy, Mild, Moderate, and Severe classes.Rot was consistently the hardest symptom to localize, owing to its diffuse, boundary-ambiguous appearance.The second pathway trained four image classifiers (EfficientNet-B0, MobileNetV2, Swin-Tiny, and ConvNeXt-V2-Tiny) directly on severity labels, with ConvNeXt-V2-Tiny performing best (0.83 accuracy, 0.83 macro-F1).Both pathways performed well at severity extremes but struggled with Moderate, reflecting visual overlap between stages.SHAP analysis identified rot-area ratio and fruiting-body count as top predictors.These offline results show accurate BSR diagnosis is potentially achievable from smartphone imagery, laying groundwork for future on-device deployment.",
+  "oa_url": "https://doi.org/10.22266/ijies2026.1130.31",
+  "pdf_url": "https://doi.org/10.22266/ijies2026.1130.31",
+  "pdf_urls": [
+   "https://doi.org/10.22266/ijies2026.1130.31"
+  ],
+  "oa_status": "hybrid",
+  "cited_by": 0,
+  "keywords": [
+   "oil palm",
+   "basal stem rot",
+   "Ganoderma boninense",
+   "smartphone imagery",
+   "random forest classification",
+   "ConvNeXt V2",
+   "EfficientNetB0",
+   "MobileNetV2"
+  ],
+  "topics": [
+   "Kelapa sawit"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-21",
+  "summary_id": null,
+  "relevance": 33
+ },
+ {
+  "id": "W7236722660",
+  "doi": "10.3389/fsufs.2026.2017838",
+  "title": "A study on pricing decisions in dual-channel fresh agricultural product supply chains considering risk aversion and blockchain technology",
+  "date": "2026-11-20",
+  "year": "2026",
+  "journal": "Frontiers in Sustainable Food Systems",
+  "issn": "2571581X",
+  "publisher": "Frontiers Media",
+  "authors": [
+   "Fuchang Li",
+   "Yahan Zhang",
+   "Yadong Du",
+   "Wenli Ding",
+   "Xiaohui Hu"
+  ],
+  "abstract": "Pricing decisions in the fresh agricultural produce supply chain face multiple challenges, including product perishability, information asymmetry, and market demand uncertainty. The dual-channel sales model and blockchain technology offer new opportunities to enhance consumer trust and operational efficiency. This paper constructs a Stackelberg game model for a dual-channel fresh agricultural product supply chain comprising producers and retailers, in which producers determine wholesale prices, online direct-sales prices, and the level of preservation efforts, while retailers determine offline retail prices. A mean-variance utility function is used to characterize the degree of risk aversion among participants. Under two scenarios—with and without blockchain—the study derives equilibrium decisions for four risk-aversion combinations: both producers and retailers are risk-neutral; only producers are risk-averse; only retailers are risk-averse; and both are risk-averse. Theoretical derivations are validated through numerical simulations. The study found that risk aversion among fresh agricultural product producers has a significant suppressing effect on wholesale prices, online prices, and the level of freshness preservation efforts, and this effect holds true in both scenarios—with and without blockchain technology. The impact of retailers' risk aversion is moderated by the level of consumers' freshness preferences: when preferences are high, their risk aversion leads to increases in all decision variables; conversely, when preferences are low, it causes offline prices to decrease; The combined effects of risk aversion follow a consistent pattern: decision levels are lowest when only fresh agricultural product producers exhibit risk aversion, intermediate when both parties are risk-averse, and highest when only retailers are risk-averse; the introduction of blockchain technology can increase supply chain members' profits and channel demand, but the level of preservation effort consistently decreases as unit blockchain costs rise, while whether pricing decisions follow this cost increase depends on a specific threshold; There is a critical threshold for the variable cost per unit of blockchain; only when the cost is below this threshold can blockchain adopters achieve a Pareto improvement.",
+  "oa_url": "https://doi.org/10.3389/fsufs.2026.2017838",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.3389/fsufs.2026.2017838"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemasaran, rantai pasok & rantai nilai"
+  ],
+  "priority_journal": true,
+  "language": "en",
+  "found_at": "2026-11-21",
+  "summary_id": null,
+  "relevance": 34
+ },
+ {
+  "id": "W7236714181",
+  "doi": "10.1007/s11205-026-03971-0",
+  "title": "Empowering Women, Empowering Energy: The Role of Intra-household Bargaining Power in Alleviating Multidimensional Energy Poverty in Rural China",
+  "date": "2026-11-20",
+  "year": "2026",
+  "journal": "Social Indicators Research",
+  "issn": "03038300",
+  "publisher": "Springer Science+Business Media",
+  "authors": [
+   "Junpeng Li",
+   "Wanglin Ma",
+   "Dil Bahadur Rahut"
+  ],
+  "abstract": "Improving women’s intra-household bargaining power (IHBP) and reducing energy poverty in rural areas contribute to achieving the United Nations’ Sustainable Development Goals, such as achieving gender equality, empowering all women and girls (Goal 5), and ensuring access to affordable, reliable, sustainable, and modern energy for all (Goal 7). This study explores the impact of rural women’s IHBP on multidimensional energy poverty (MEP), using data from the 2014-2020 China Family Panel Studies and a conditional mixed-process model. We construct a composite index to measure rural women’s IHBP, accounting for dimensions of asset ownership, labor allocation/labor market participation, household financial management, household expenditure allocation, and household decision-making power. Our results suggest that women’s IHBP is negatively and significantly associated with household MEP. A one-unit increase in rural women’s IHBP is associated with an 8.0-percentage-point reduction in the probability of household MEP. The negative association between women’s IHBP and MEP remains stable across male- and female-headed households, although the estimates for the two subgroups do not differ significantly. Meanwhile, all variables used to construct women’s IHBP are negatively and significantly associated with MEP. The mediation analysis suggests that women’s IHBP is associated with lower MEP incidence through increased household income and reduced use of non-clean energy. Our findings remind policymakers that they should pay more attention to empowering rural women in their efforts to reduce energy poverty.",
+  "oa_url": "https://doi.org/10.1007/s11205-026-03971-0",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1007/s11205-026-03971-0"
+  ],
+  "oa_status": "hybrid",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-21",
+  "summary_id": null,
+  "relevance": 23
+ },
+ {
+  "id": "W7236633539",
+  "doi": "10.1038/s41598-026-80494-1",
+  "title": "Impacts of climate-smart maize production on smallholder household nutrition security in Arumeru District, Tanzania",
+  "date": "2026-11-19",
+  "year": "2026",
+  "journal": "Scientific Reports",
+  "issn": "20452322",
+  "publisher": "Nature Portfolio",
+  "authors": [
+   "Manaye Asefa Ferede",
+   "Aemro Tazeze Terefe",
+   "Mwema Felix Mwema",
+   "Mashamba Lucas Philipo"
+  ],
+  "abstract": "Adoption of climate-smart agricultural (CSA) practices has been widely recognized as a promising and effective approach to minimize the adverse impacts of climate change. However, their adoption among smallholder farmers remains low in developing countries, including Tanzania. This study examined the impact of climate-smart maize production on the nutritional security of smallholder households and the determinants in the Arumeru District, Tanzania. The study employed a two-stage multinomial endogenous switching regression model. The results revealed that farmers’ adoption of CSA practice combinations was significantly influenced by the education of the household head, land size, frequency of extension contact, cooperative membership, access to credit, and CSA training. The study also found that adoption of the comprehensive package comprising improved seed, integrated soil fertility management, and small-scale irrigation (I 1 E 1 S 1 ) was associated with the largest gains, with average treatment effects on the treated of 3.975 for the Household Dietary Diversity Score (HDDS) and 16.782 for the Household Food Consumption Score (FCS); adopters’ mean HDDS and FCS were 6.638 and 45.397, respectively. In conclusion, the findings indicate that the largest estimated nutrition security gains among smallholder farmers are associated with adopting a comprehensive package encompassing all three practice categories, although the cross-sectional design warrants caution in causal interpretation. Thus, the study highlighted that district government, farming entities and local authorities should establish phased CSA support initiatives, encourage the leasing of irrigation equipment, and that rural development banks and credit institutions should provide funds to farmers at affordable rates.",
+  "oa_url": "https://doi.org/10.1038/s41598-026-80494-1",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1038/s41598-026-80494-1"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Kelembagaan petani & tindakan kolektif",
+   "Ketahanan pangan rumah tangga",
+   "Pembangunan pedesaan & kebijakan pertanian"
+  ],
+  "priority_journal": true,
+  "language": "en",
+  "found_at": "2026-11-21",
+  "summary_id": null,
+  "relevance": 57
+ },
+ {
+  "id": "W7236763406",
+  "doi": "10.3389/frsus.2026.2019720",
+  "title": "From agricultural residues to tradeable bio-assets in Africa: a policy and practice framework for circular agro-industrial value chains",
+  "date": "2026-11-19",
+  "year": "2026",
+  "journal": "Frontiers in Sustainability",
+  "issn": "26734524",
+  "publisher": "Frontiers Media",
+  "authors": [
+   "Lacour  Mody Ayompe"
+  ],
+  "abstract": "Agricultural residues in Sub-Saharan Africa are often described as an underused resource, but their conversion into marketable products is constrained by feedstock variability, competing uses, logistics, product standards, environmental risks, and uncertain demand. Utilizing a critical narrative policy synthesis, this paper develops a policy and practice framework for assessing when selected agricultural residues can become credible circular bio-assets for local use and, where conditions permit, regional trade. The framework connects four decision layers: (1) technically and economically recoverable feedstock, ownership, and explicit smallholder and land-use safeguards; (2) technology and product selection; (3) environmental, technical, and economic evidence; and (4) quality assurance, finance, MSME AfCFTA compliance costs, and trade infrastructure. It examines cassava processing effluents, cocoa pod husks, palm oil mill effluents and other palm residues, sugarcane bagasse, and livestock manure across biochemical, thermochemical, bioconversion, and physicochemical pathways. Material Flow Analysis, Life Cycle Assessment, and Techno-Economic Analysis are treated as complementary evidence rather than as stand-alone proof of viability. The paper also examines the conditions under which AfCFTA trade facilitation, quality-assurance infrastructure, payment systems, and development finance can support commercialization. A critical comparison with existing African circular-bioeconomy reviews shows that prior work has largely focused on the potential and challenges of circular bioeconomy, the status of circular practices in selected food systems, or specific technology portfolios. This paper extends that literature by linking resource security, technology choice, evidence thresholds, product quality, market validation, and cross-border transaction requirements within one staged decision architecture governed by conditional decision gates. The framework is intentionally conditional: it does not assume that residues are costless, that regional trade is preferable to local use, or that technological maturity implies bankability. The proposed roadmap is therefore designed to guide policy screening, demonstration funding, and investment due diligence while identifying priorities for empirical validation.",
+  "oa_url": "https://www.frontiersin.org/journals/sustainability/articles/10.3389/frsus.2026.2019720/pdf",
+  "pdf_url": "https://www.frontiersin.org/journals/sustainability/articles/10.3389/frsus.2026.2019720/pdf",
+  "pdf_urls": [
+   "https://www.frontiersin.org/journals/sustainability/articles/10.3389/frsus.2026.2019720/pdf",
+   "https://doi.org/10.3389/frsus.2026.2019720"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemasaran, rantai pasok & rantai nilai",
+   "Kelapa sawit"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-21",
+  "summary_id": null,
+  "relevance": 46
+ },
+ {
+  "id": "W7236676940",
+  "doi": "10.3389/fsufs.2026.2020632",
+  "title": "Toward smart management of stored grains: integrating AI, IoT, and climate-resilient pest management for global food security",
+  "date": "2026-11-19",
+  "year": "2026",
+  "journal": "Frontiers in Sustainable Food Systems",
+  "issn": "2571581X",
+  "publisher": "Frontiers Media",
+  "authors": [
+   "Hafiz Muhammad Bilal Yousuf",
+   "Muhammad Yasin",
+   "Kurt A. Rosentrater",
+   "Muhammad Usman Yousuf"
+  ],
+  "abstract": "Maintaining the quality and quantity of cereal grains is fundamental to global food security. However, persistent post-harvest losses caused by insects and vertebrate pests, storage molds, and environmental variability continue to threaten grain availability and safety. Conventional storage systems, which require routine inspection and chemical intervention, are challenged by climate change, emerging pests, and growing demand for safe and sustainable food. This review critically evaluates recent advances in artificial intelligence (AI) and Internet of Things (IoT)-based sensors, machine learning (ML), multimodal sensing, decision-support systems, climate-controlled storage, and reduced-risk pest management strategies, with an emphasis on their integration into predictive management systems. The effectiveness of sustainable management strategies, including hermetic storage, biopesticides, diatomaceous earths (DEs), and semiochemical-based approaches, is evaluated with an emphasis on efficacy, scalability, and practical feasibility, focusing on risk-based rather than blanket interventions. Based on these advances, the review proposes a six-stage conceptual framework encompassing the sensing of storage conditions, data analysis, risk prediction, decision-making, targeted intervention, and outcome verification. The central theoretical contribution is the development of a conceptual framework that integrates digital monitoring, climate risk assessment, and sustainable pest management. The framework provides practical guidance for storage managers to identify new risks, choose suitable actions, and assess management outcomes. Major constraints include limited datasets, sensor accuracy, model transferability, interoperability, and cost-effectiveness in smallholder systems. Future priorities include advancing edge and explainable AI, digital twins, and other technologies such as multimodal sensing and low-cost smart storage solutions for resource-constrained regions. Integrating digital technologies, climate adaptation, and sustainable pest management could enable adaptive, predictive stored grain management, reducing post-harvest losses, improving grain quality and safety, and strengthening global food security.",
+  "oa_url": "https://doi.org/10.3389/fsufs.2026.2020632",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.3389/fsufs.2026.2020632"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Ketahanan pangan rumah tangga"
+  ],
+  "priority_journal": true,
+  "language": "en",
+  "found_at": "2026-11-21",
+  "summary_id": null,
+  "relevance": 45
+ },
+ {
+  "id": "W7236556636",
+  "doi": "10.1057/s41287-026-00771-7",
+  "title": "Impact of Agricultural Support Program on Food Security Among Vulnerable Households in Rural Kyrgyzstan",
+  "date": "2026-11-19",
+  "year": "2026",
+  "journal": "European Journal of Development Research",
+  "issn": "09578811",
+  "publisher": "Palgrave Macmillan",
+  "authors": [
+   "Meerim Esenkulova",
+   "Niraj Prakash Joshi",
+   "Ikram Ullah",
+   "Sonoko Watanabe"
+  ],
+  "abstract": "Food security remains a major policy concern in Kyrgyzstan, particularly for vulnerable rural households affected by poverty, limited livelihood opportunities, and food price shocks. Although several agricultural support programs have been implemented to improve household food security, empirical evidence on their effectiveness remains limited. This study examines the effects of an agricultural support program implemented in rural Kyrgyzstan on three food security outcomes: household dietary diversity score, food calorie consumption per adult equivalent, and food security status. Using household survey data from 613 vulnerable households, the study applies complementary empirical approaches, including OLS regression, propensity score matching, entropy balancing, and sensitivity analysis. The results provide supportive evidence that agricultural support improved food security outcomes. Households receiving support had higher dietary diversity, greater calorie consumption, and a higher probability of being food secure than comparable non-recipient households. Exploratory subgroup estimates vary across household-head gender and income level, with comparatively large calorie-consumption associations among lower-income households. The findings highlight the potential of targeted agricultural support programs to improve food security among vulnerable rural households in Kyrgyzstan, while also emphasizing the need for careful targeting, follow-up support, and richer data for future impact evaluations.",
+  "oa_url": "https://doi.org/10.1057/s41287-026-00771-7",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1057/s41287-026-00771-7"
+  ],
+  "oa_status": "hybrid",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender",
+   "Ketahanan pangan rumah tangga"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-21",
+  "summary_id": null,
+  "relevance": 43
+ },
+ {
+  "id": "W7236644287",
+  "doi": "10.3389/fhumd.2026.1964328",
+  "title": "Human capability in the digital era: technological self-efficacy as a mediator in the relationships between digital literacy, digital financial inclusion, and socio-economic transformation among rural women",
+  "date": "2026-11-19",
+  "year": "2026",
+  "journal": "Frontiers in Human Dynamics",
+  "issn": "26732726",
+  "publisher": "Frontiers Media",
+  "authors": [
+   "R. Indradevi",
+   "A. S. Sathish",
+   "R. Geetha",
+   "S. Dheepalakshmi"
+  ],
+  "abstract": "Digital technologies have become important instruments for promoting inclusive development; however, access to digital resources alone does not necessarily translate into meaningful socio-economic transformation, particularly among women in rural communities. Drawing on the Capability Approach and Social Cognitive Theory, this study examines the associations between digital literacy and digital financial inclusion and the socio-economic transformation of rural women, with technological self-efficacy as a mediating factor. A quantitative cross-sectional survey was conducted among 420 rural women in Tamil Nadu, India, and the proposed relationships were analysed using Partial Least Squares Structural Equation Modelling (PLS-SEM). The findings reveal a positive association between digital literacy and socio-economic transformation, while the direct association between digital financial inclusion and socio-economic transformation is not statistically significant. Both digital literacy and digital financial inclusion are positively associated with technological self-efficacy, with digital financial inclusion showing the stronger association. A supplementary regression-based analysis using standardised composite scores identified positive indirect statistical associations between digital literacy and socio-economic transformation, and between digital financial inclusion and socio-economic transformation, through technological self-efficacy. In that supplementary analysis, the direct association was statistically significant for digital literacy but not for digital financial inclusion. The corresponding indirect effects in the primary PLS-SEM model were calculated from the reported path coefficients; however, their bootstrap confidence intervals could not be independently verified because the original SmartPLS output was unavailable. The mediation patterns should therefore be interpreted cautiously as statistical associations rather than evidence of causal mechanisms. By integrating the Capability Approach with Social Cognitive Theory, the study proposes a human-centred explanation of digital inclusion in which technological self-efficacy serves as a behavioural capability associated with the relationship between digital opportunities and socio-economic transformation. The study contributes to the literature on digital inclusion, women's empowerment, and human development while offering practical insights for policymakers seeking to design capability-oriented digital inclusion programmes that promote sustainable and inclusive socio-economic transformation among rural women. The findings should be interpreted in light of the study's sampling limitations. The sample comprised 420 rural women from four districts of Tamil Nadu, purposively selected for their exposure to digital financial activities. Therefore, the findings are not necessarily generalisable to all rural women in Tamil Nadu, particularly those with little or no engagement with digital financial services.",
+  "oa_url": "https://www.frontiersin.org/journals/human-dynamics/articles/10.3389/fhumd.2026.1964328/pdf",
+  "pdf_url": "https://www.frontiersin.org/journals/human-dynamics/articles/10.3389/fhumd.2026.1964328/pdf",
+  "pdf_urls": [
+   "https://www.frontiersin.org/journals/human-dynamics/articles/10.3389/fhumd.2026.1964328/pdf",
+   "https://doi.org/10.3389/fhumd.2026.1964328"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-21",
+  "summary_id": null,
+  "relevance": 43
+ },
+ {
+  "id": "W7236838317",
+  "doi": "10.1186/s40100-026-00536-0",
+  "title": "The structural resilience capacity of agricultural supply chains in China–ASEAN: the role of digital infrastructure and spatial spillovers",
+  "date": "2026-11-19",
+  "year": "2026",
+  "journal": "Agricultural and Food Economics",
+  "issn": "21937532",
+  "publisher": "Springer Nature",
+  "authors": [
+   "Jing Wang",
+   "陈建成",
+   "Xiangzheng Deng",
+   "Jingyu Wang"
+  ],
+  "abstract": "Agricultural supply chains in integrated developing regions face growing climate volatility, market uncertainty, and coordination challenges. In the China–ASEAN context, digital transformation has reshaped cross-border production and coordination networks. This study examines the structural resilience capacity of agricultural supply chains, hereafter referred to as structural ASCR. Structural ASCR captures long-term system capacity rather than high-frequency recovery following a specific disruption. Using a balanced country-level panel covering China and ASEAN countries from 2000 to 2023, this study employs a two-way fixed-effects Spatial Durbin Model. The model estimates the association between digital infrastructure and structural ASCR, including direct and cross-regional spillover associations. Digital infrastructure is positively associated with structural ASCR in the full sample, and the estimated indirect effect is also positive. Higher digital governance is associated with a more favorable DigInfra–ASCR relationship through local and spatial channels. Digital-trade development conditions the local and spatial channels differently, with positive moderation concentrated in spatial transmission. By combining spatial interdependence with these contextual moderators, the study provides macro-level evidence relevant to interoperable digital infrastructure, digital regulatory conditions, and regional coordination.",
+  "oa_url": "https://doi.org/10.1186/s40100-026-00536-0",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1186/s40100-026-00536-0"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemasaran, rantai pasok & rantai nilai"
+  ],
+  "priority_journal": true,
+  "language": "en",
+  "found_at": "2026-11-21",
+  "summary_id": null,
+  "relevance": 35
+ },
+ {
+  "id": "W4411570383",
+  "doi": "10.1371/journal.pone.0347190",
+  "title": "Perceived community acceptance on maternal and newborns care continuum and its correlates in Ethiopia",
+  "date": "2026-11-19",
+  "year": "2026",
+  "journal": "PLoS ONE",
+  "issn": "19326203",
+  "publisher": "Public Library of Science",
+  "authors": [
+   "Solomon Abrha Damtew",
+   "Metages Yohannes",
+   "Addisalem Zebene Armdie",
+   "Fistum Tariku Fantaye",
+   "Tamerat Denekew Temesegen",
+   "Kelemua Menegesha Sene",
+   "Bezawork Ayele Kassa"
+  ],
+  "abstract": "Background Maternal and newborns care continuum completion decision making process is influenced by seeking validation and the sole approval from significant others. Evidences have shown that community acceptance is one of the bottlenecks hindering the completion of the maternal and newborns care continuum and their retention in the care. It is also among the critical determinants for the success of the paradigm shift on the maternal, newborns and child health (MNCH) care continuum completion. However, this area is understudied, leading a dearth of evidence in Ethiopia. Hence, this study aimed at documenting the level of perceived community acceptance on maternal and newborns care continuum and identifying associated factors among pregnant women. The findings could provide actionable evidence for the Ethiopian Health Ministry and relevant developmental partners to improve maternal and newborns health outcomes. Methods This study has used the baseline cross sectional data form the Ethiopian Performance Monitoring for Action (EPMA) cohort one survey. The study screened, enrolled and collected data from pregnant and six week postpartum women. However, the analytic sample were 2,219 pregnant women. Frequencies were computed to describe the pregnant women. Multinomial logistics regression statistical modeling was fitted to identify correlates of perceived community acceptance on maternal and newborns care continuum. Results were presented in the form of percentages and odds ratio with 95% Confidence Intervals. Statistical significance was declared at p-value of 0.05. Results The overall proportion of perceived maternal and newborns care continuum community acceptance was 93.30% (95%CI: 91.61%, 94.41%). However, only 1/3 of women, i.e., 33.66% (31.42%, 35.96%) and 31.93 (29.60%, 34.36%) respectively perceived that most and few people in their community encourage women to obtain the three domains of maternal and newborns care continuum. Women age, secondary educational status, contraceptive ever use history, health facility as desired place of delivery and residing in Oromiya regional state were found to increase the likelihood of perceived community acceptance on maternal and newborns care continuum. On the contrary, higher birth order, rural residence, higher wealth index and family member as desired birth attendant were factors lowering this likelihood. Conclusions This suboptimal level of perceived community acceptance on maternal and newborns care continuum by most people in the community signals that interventions and programs are required to nurture a positive influence of the community on women to complete the care continuum. Context specific and age sensitive programs and interventions which aimed in choice based contraceptive provision, empowering women to choose their childbirth attendant and place; and postpartum contraceptive use counseling are imperative to improve perceived community acceptance on maternal and newborns care continuum. These interventions need to target younger, less educated, economically disadvantage, rural women and those with polygamous marriage. Improving birth preparedness and complication readiness and installing the inter-pregnancy preconception care packages are imperative in this regard. Enhancing mechanisms for incorporating community input is the core implication. These include strengthening the implementation of community score cards; and testing and scaling up the community maternal and newborns health family meetings.",
+  "oa_url": "https://doi.org/10.1371/journal.pone.0347190",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1371/journal.pone.0347190",
+   "https://www.researchsquare.com/article/rs-6925501/latest.pdf",
+   "https://doi.org/10.21203/rs.3.rs-6925501/v1"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [
+   "pregnant women",
+   "maternal and child health services",
+   "contraceptive use",
+   "birth order",
+   "rural residence",
+   "wealth index",
+   "Ethiopia",
+   "health care utilization"
+  ],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": true,
+  "language": "en",
+  "found_at": "2026-11-21",
+  "summary_id": null,
+  "relevance": 32
+ },
+ {
+  "id": "W7236570070",
+  "doi": "10.1371/journal.pone.0363154",
+  "title": "Inequities and determinants of cesarean section delivery in Malawi: A multilevel analysis of 2024 demographic and health survey",
+  "date": "2026-11-19",
+  "year": "2026",
+  "journal": "PLoS ONE",
+  "issn": "19326203",
+  "publisher": "Public Library of Science",
+  "authors": [
+   "Habtu Kifle Negash"
+  ],
+  "abstract": "Background Cesarean section (CS) is a life-saving surgical procedure for childbirth complications, but its use varies widely. Globally, CS rates have risen from 7% in 1990 to 21% in recent years, with disparities between high- and low-income countries. Sub-Saharan Africa, including Malawi, has some of the lowest CS coverage, despite high institutional delivery rates. Its use is influenced by individual and community factors, reflecting inequities in obstetric care. This study assessed the prevalence and determinants of CS among reproductive-age women in Malawi. Methods A cross-sectional study was conducted using secondary data from the 2024 Malawi Demographic and Health Survey, including a weighted sample of 6,798 women aged 15–49 years. Descriptive statistics summarized participant characteristics and CS prevalence. Multilevel logistic regression was employed to identify individual- and community-level determinants, accounting for clustering effects. Adjusted odds ratios (AOR) with 95% confidence intervals (CI) were reported, with statistical significance set at p < 0.05. Results The overall prevalence of cesarean section was 11.32% (n = 769.72; 95% CI: 10.59–12.10%), with regional variation: Northern 13.03%, Central 12.67%, and Southern 9.70%. Factors positively associated with CS included maternal age 25–34 (AOR = 1.35; 95% CI: 1.06–1.71) and 35–49 years (AOR = 1.82; 95% CI: 1.27–2.63), higher education (secondary or above: AOR = 1.91; 95% CI: 1.22–2.99), richest household wealth (AOR = 1.57; 95% CI: 1.13–2.18), first birth at age ≥ 20 years (AOR = 1.26; 95% CI: 1.05–1.52), male child (AOR = 1.31; 95% CI: 1.12–1.54), high/unknown birth weight, and multiple pregnancies (AOR = 4.56; 95% CI: 2.87–7.26). Multiparity and rural residence were associated with lower odds of CS. Conclusions Cesarean section utilization in Malawi is unevenly distributed across regions. Both individual- and community-level factors influence CS delivery. Targeted interventions addressing maternal education, socioeconomic disparities, and rural healthcare access are recommended to improve equitable access to cesarean services.",
+  "oa_url": "https://doi.org/10.1371/journal.pone.0363154",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1371/journal.pone.0363154"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": true,
+  "language": "en",
+  "found_at": "2026-11-21",
+  "summary_id": null,
+  "relevance": 32
+ },
+ {
+  "id": "W7166439677",
+  "doi": "10.1186/s12903-026-10511-2",
+  "title": "Indigenous Australians’ experiences and perceptions of diet, nutrition, and oral health: a qualitative study",
+  "date": "2026-11-19",
+  "year": "2026",
+  "journal": "BMC Oral Health",
+  "issn": "14726831",
+  "publisher": "BioMed Central",
+  "authors": [
+   "Sonia Nath",
+   "Johanna Groundwater",
+   "Ria Aiyar",
+   "Nicolas Reid",
+   "Gina Lucille Guzzo",
+   "Kostas Kapellas",
+   "Jamieson Lm"
+  ],
+  "abstract": "To explore the experiences, perceptions, and attitudes of Indigenous Australian adults regarding diet, nutrition, and oral health, with a focus on the social, cultural, historical, and structural factors that shape food choices and oral health behaviours. A qualitative study was nested within the 12-month follow-up of a longitudinal quasi-experimental study of culturally safe dental care with Indigenous Australian adults. Participants completed an interviewer-administered questionnaire and a clinical dental examination using the International Caries Detection and Assessment System (ICDAS) and were invited to take part in a semi-structured, yarning-based interview. Interview questions explored participants’ experiences of diet and nutrition, perceptions of the relationship between diet and oral health, experiences of receiving dietary advice in dental settings, and views on public health food and nutrition initiatives. The interviews were audio-recorded, transcribed, and de-identified. Questionnaire and dental examination data were summarised descriptively; interview data were analysed using template thematic analysis. 280 participants completed the 12-month follow-up; two-thirds (67.5%) had caries (ICDAS ≥ 3), and 79.1% attended a dentist primarily for a problem rather than a check-up. Of these, 136 participated in an interview, with a caries (ICDAS ≥ 3) prevalence of 61%. Four themes were developed. Theme 1, individual attitudes and beliefs about diet and oral health, highlighted strong personal awareness of the links between sugar consumption and dental health, while demonstrating that individual choices are closely constrained by food affordability and access. Theme 2, societal and structural barriers to healthy eating, highlighted the lasting disruption of traditional, nutrient-dense food systems through colonisation, as well as the high cost and limited availability of fresh produce, particularly in rural and remote communities, as key drivers of dietary inequity. Theme 3, dietary advice in dental settings, highlighted a dual pattern: respectfully delivered, non-judgemental dietary guidance could empower meaningful behaviour change, while judgemental or shaming encounters led to disengagement from care and reinforced feelings of disempowerment. Theme 4, policy-driven public health promotion initiatives, showed that participants strongly endorsed community-led, place-based strategies, including store-based restrictions on sugar-sweetened products and co-designed food environment policies, as the most credible and culturally appropriate approaches to improving diet and oral health. Indigenous Australians’ dietary choices and oral health outcomes are shaped by a complex interplay of individual awareness, structural disadvantage, food insecurity, and the enduring consequences of colonisation on traditional food systems. Achieving oral health equity in this population requires community-led, culturally safe strategies that centre self-determination and food sovereignty. The study was retrospectively registered with the Australian New Zealand Clinical Trials Register ( https://anzctr.org.au ) with registration number: ACTRN12626000046303 (13-01-2026).",
+  "oa_url": "https://doi.org/10.1186/s12903-026-10511-2",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1186/s12903-026-10511-2",
+   "https://www.researchsquare.com/article/rs-9970252/latest.pdf",
+   "https://doi.org/10.21203/rs.3.rs-9970252/v1"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [
+   "Indigenous Australians",
+   "diet and oral health",
+   "nutrition",
+   "lived experience",
+   "food insecurity",
+   "food affordability",
+   "colonization",
+   "traditional food systems"
+  ],
+  "topics": [
+   "Pemberdayaan petani & gender",
+   "Ketahanan pangan rumah tangga"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-21",
+  "summary_id": null,
+  "relevance": 29
+ },
+ {
+  "id": "W7236733266",
+  "doi": "10.1016/j.ssaho.2026.104102",
+  "title": "Exploring the nexus between gender and technology development and adoption models in developing societies: A critical review of literature",
+  "date": "2026-11-19",
+  "year": "2026",
+  "journal": "Social Sciences & Humanities Open",
+  "issn": "25902911",
+  "publisher": "Elsevier BV",
+  "authors": [
+   "Afishata Mohammed Abujaja",
+   "Hudu Zakaria"
+  ],
+  "abstract": "This study adopted a Critical Integrative Review (CIR) methodology, that is guided by Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) 2020 framework and transparent search methods to examine the nexus between gender - technology development and adoption in developing societies. The study attempts to tackle the existing theoretical and empirical problems associated with the role played by gender dynamics in technological change within developing countries. In this regard, a clear and methodologically robust search was conducted through various academic databases, such as Scopus, Web of Science, JSTOR, ScienceDirect, Google Scholar, International System for Agricultural Science and Technology (AGRIS)/Access to Global Online Research in Agriculture (AGORA), and other institutional repositories. The search identified 612 records; after duplicate removal, screening and eligibility assessment, 159 studies were retained from the original search, and a supplementary targeted update added five studies, yielding 164 studies for synthesis. In particular, only peer-reviewed studies focused on gender dynamics, socio-cultural structures, and technology development/adoption were used; technical studies and papers dedicated to high-income countries were excluded. The thematic synthesis included structured coding and cross-theoretical analysis. As shown in the literature, technology development and adoption cannot be understood merely as a technical process but a relational, socio-technical event determined by gender norms, institutional structures, and design. Specifically, two intersecting dimensions (the socio-cultural environment and the technology adoption system) can be identified, where both of them can vary from constraining to enabling, thus producing four different adoption outcome spaces: reinforcement of existing social inequalities, potential social transformation, paradoxical dynamics, and empowerment. These results have led to the creation of a theoretically grounded framework, which highlights the importance of the interaction between gender dynamics and technologies during the adoption process as well as the inherently negotiable nature of technological change. To conclude, the current literature review provides new perspectives on how gender relations and institutional technological structures co-create technology adoption outcomes. In this regard, the need to go beyond traditional diffusion models and adopt gender-sensitive innovation strategies become evident.",
+  "oa_url": "https://doi.org/10.1016/j.ssaho.2026.104102",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1016/j.ssaho.2026.104102"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-21",
+  "summary_id": null,
+  "relevance": 26
+ },
+ {
+  "id": "W7236585365",
+  "doi": "10.1007/s44187-026-01355-4",
+  "title": "Determinants of smallholder farmers’ perceptions towards cluster-based irrigated wheat farming in the East Hararghe zone, Oromia region, Ethiopia",
+  "date": "2026-11-19",
+  "year": "2026",
+  "journal": "Discover Food",
+  "issn": "27314286",
+  "publisher": "Springer Nature",
+  "authors": [
+   "Nuredin Abdi Hassen",
+   "Jema Haji Mohammed",
+   "Jemal Yousuf Hassen",
+   "Tibebu Bezabih Arefeayne",
+   "Tesfaye Lemma Tefera"
+  ],
+  "abstract": "Wheat self-sufficiency is a national priority program in Ethiopia, yet the potential of cluster-based irrigated farming remains underutilized due to reliance on rain-fed agriculture and a lack of consideration for the prospect of irrigation resource facilities. Also, there is a significant knowledge gap in the identification of the factors that influence the smallholder farmers’ perceptions, which has remained undocumented. To address this gap, this study examined determinants of smallholder farmers’ perceptions of cluster-based irrigated wheat farming in the selected districts of the study areas. A multistage sampling procedure was employed to identify potential study areas and respondent households. Cross-sectional survey data were collected using a mixed-method design from 384 sample households through household survey interviews along with key informant interviews and focus group discussions. Whereas descriptive statistics, inferential statistics, and an ordered logistic regression model employed data analysis, while the thematic analysis was conducted to validate, contextualize, and provide deeper explanations of the findings. The finding showed that about 52.1% of farmers held high-level perceptions, while 35.4% were low-level, and 12.5% fell into moderate perceptions of cluster-based irrigated wheat farming. Whereas the ordinal logit regression model result revealed that education, farmland size, wheat farming experience, media access, acceptance of row planting, improved wheat varieties, and highland agro-ecology variables had a significantly positive influence on farmers’ perceptions. Conversely, frequency of extension contacts, lack of social participation, credit access, mechanization services, and land ownership certificates significantly and negatively affected farmers perception. Therefore, to enhance the status of farmers’ perceptions toward farming technology, the agricultural policy developer like the ministry of agriculture, agricultural research institute, together with development practitioners, have to implement multiple interventions that focus on the provision of adult education, media access, new technology practices, inputs, and improving land certification systems to expand the acceptance of cluster-based irrigated wheat farming. Subsequently, the study provides evidence-based results for policymakers that are needed to boost the wheat productivity to achieve domestic supply for consumption and export expansion while creating economic benefits for the smallholder farmers in Ethiopian.",
+  "oa_url": "https://doi.org/10.1007/s44187-026-01355-4",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1007/s44187-026-01355-4"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pembangunan pedesaan & kebijakan pertanian"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-21",
+  "summary_id": null,
+  "relevance": 25
+ },
+ {
+  "id": "W7236629890",
+  "doi": "10.17645/si.13082",
+  "title": "The Well‐Being of Older Adults: Age Diversity and Inclusion in Vicente Guerrero, Baja California",
+  "date": "2026-11-19",
+  "year": "2026",
+  "journal": "Social Inclusion",
+  "issn": "21832803",
+  "publisher": "Cogitatio",
+  "authors": [
+   "Patricia Liñán Hernández"
+  ],
+  "abstract": "This article aims to highlight age diversity as an essential component in building inclusive societies, focusing its analysis on different categories that shape the experience of older adults. Using a qualitative methodology from a phenomenological perspective, research was conducted in the rural community of Vicente Guerrero, Baja California, Mexico, to explore older adults’ perceptions of their well‐being and the barriers they face, particularly regarding access to services and their inclusion in digital environments. The study is grounded in Sen’s (1992, 2000) human capabilities approach, which allows for an analysis of how social, economic, cultural, and spiritual conditions influence their quality of life and well‐being. Key findings include persistent digital exclusion and a lack of adequate services. The study’s limitations include its focus on a single community, which limits the generalizability of its results. The article’s main contribution to the field of gender studies lies in its exploration of the intersection of aging, diversity, and inequality.",
+  "oa_url": "https://doi.org/10.17645/si.13082",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.17645/si.13082"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-21",
+  "summary_id": null,
+  "relevance": 24
+ },
+ {
+  "id": "W7236742867",
+  "doi": "10.1186/s12889-026-30425-6",
+  "title": "Prevalence and factors associated with women’s health decision making autonomy in Zambia: a multilevel analysis",
+  "date": "2026-11-19",
+  "year": "2026",
+  "journal": "BMC Public Health",
+  "issn": "14712458",
+  "publisher": "BioMed Central",
+  "authors": [
+   "Faith Hachiboola",
+   "Musonda Lemba",
+   "Robert Zulu",
+   "Milika Sikaluzwe",
+   "Sibongile Namayawa",
+   "Emmanuel Musonda",
+   "Peter P. Mumba",
+   "Million Phiri"
+  ],
+  "abstract": "Women’s autonomy in health decision-making is one of the most important determinants of maternal and reproductive health outcomes. Autonomy empowers women to seek timely care, adopt modern contraceptive methods, and improve overall family health. In sub-Saharan Africa, limited autonomy has been linked to lower utilisation of maternal health services and poorer reproductive outcomes. Although women’s autonomy has been widely studied in sub-Saharan Africa, evidence on its determinants in Zambia using the most recent 2024 Zambia Demographic and Health Survey remains limited. This study therefore assessed the prevalence and determinants of limited health decision-making autonomy among married women in Zambia. We analysed data from the 2024 Zambia Demographic and Health Survey (ZDHS) using Stata version 17. The outcome variable was limited health decision-making autonomy, defined from DHS responses on who usually decides on a woman’s health care, dichotomized into autonomy (woman alone or jointly with partner) versus limited autonomy (partner alone, someone else, or other). This study focused on married women aged 15–49 years. Weighted descriptive analysis and multilevel binary logistic regression were used to account for survey design and clustering. The Prevalence of limited health decision-making autonomy was 16.3% 95% CI (14.8–17.8) among married women. Women with higher education [aOR = 0.27, 95% CI: 0.13–0.55], parity of three to four [aOR = 0.62, 95% CI: 0.41–0.96], participation in household purchases [aOR = 0.08, 95% CI: 0.06–0.09], internet access [aOR = 0.56, 95% CI: 0.41–0.76], and communities with moderate exposure to family planning messages [aOR = 0.71, 95% CI: 0.55–0.93] were less likely to report limited decision-making autonomy. In contrast, women who belonged to other denomination [aOR = 3.04, 95% CI:1.44, 6.41), women in rural areas [aOR = 1.72, 95% CI: 1.12–2.65] and those in communities with moderate wealth [aOR = 1.42, 95% CI: 1.06–1.91] had higher odds of limited decision-making autonomy. Women’s health decision-making autonomy in Zambia is shaped by the interplay of both individual and community-level determinants. Empowering women through education, encouraging household and economic participation, and improving digital access, alongside community-level strategies addressing rural service delivery, and cultural engagement, are essential to strengthening health autonomy and improving reproductive health outcomes.",
+  "oa_url": "https://doi.org/10.1186/s12889-026-30425-6",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1186/s12889-026-30425-6"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-21",
+  "summary_id": null,
+  "relevance": 23
+ },
+ {
+  "id": "W7236860445",
+  "doi": "10.1093/wber/lhag037",
+  "title": "When Work Displaces the Cradle: Foreign Direct Investment, Labor Demand, and Fertility in Chinadata",
+  "date": "2026-11-19",
+  "year": "2026",
+  "journal": "The World Bank Economic Review",
+  "issn": "02586770",
+  "publisher": "Oxford University Press",
+  "authors": [
+   "Bilge Erten",
+   "Jessica Leight",
+   "Huihua Xie",
+   "Lianming Zhu"
+  ],
+  "abstract": "China’s integration into the global market is widely viewed as central to its economic development, yet evidence on its demographic effects remains limited. We leverage a novel dataset tracking industry-specific foreign direct investment (FDI) regulation in China from 1997–2011 to examine whether FDI liberalization shifts marriage and fertility. Using a shift-share policy shock at the county level linked to census data, we find that counties more exposed to liberalization experience substantial relative declines in marriage and birth rates, set against already low fertility, and a disproportionate decline in male versus female births. These effects are concentrated in rural areas and driven by symmetric transitions of men and women out of agriculture into manufacturing and services. We find no evidence that differential labor-market gains for women or rising education explain the fertility decline. The results show that broad, gender-neutral globalization shocks can alter demographic patterns even in low-fertility contexts.",
+  "oa_url": "https://doi.org/10.1093/wber/lhag037",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1093/wber/lhag037"
+  ],
+  "oa_status": "hybrid",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-21",
+  "summary_id": null,
+  "relevance": 23
+ },
+ {
+  "id": "W7236643554",
+  "doi": "10.3389/frsc.2026.1874325",
+  "title": "Community gardens and urban social sustainability: participation and motivations in a medium-sized city",
+  "date": "2026-11-19",
+  "year": "2026",
+  "journal": "Frontiers in Sustainable Cities",
+  "issn": "26249634",
+  "publisher": "Frontiers Media",
+  "authors": [
+   "Patrícia Esteves",
+   "Paulo Almeida"
+  ],
+  "abstract": "Urban sustainability debates have increasingly emphasised the social dimensions of sustainable cities, including participation, well-being, and community cohesion. However, less visible forms of unsustainability, such as social isolation, the erosion of ecological literacy, and the growing disconnection between citizens and food systems, remain underexplored, particularly in medium-sized cities. This study examines community gardens as socio-ecological infrastructures that help address these challenges by fostering participation, informal learning, and social interaction. It provides empirical evidence from a medium-sized Portuguese city, a context that remains underrepresented in international research on community gardening and urban social sustainability. The study adopts a mixed-methods case study approach. Quantitative data were derived from 129 anonymised registration forms collected between 2018 and 2025, capturing socio-demographic characteristics, self-reported agricultural knowledge, and access to gardening-related resources. Qualitative data were obtained from an open-ended question on motivations for participation and analysed using inductive thematic analysis. Descriptive statistics and Pearson’s chi-square tests were used to examine differences in motivational themes across applicant profiles. Women accounted for 60.5% of applicants, and the largest age group was 36–44 years (34.1%). Most applicants resided in Coimbra (91.5%) and reported limited (45.0%) or no (27.1%) agricultural knowledge. Five motivational themes were identified: urban–nature reconnection and sustainability values, sustainable food production and autonomy, learning and skill development, well-being and quality of life, and community building. Motivations related to food production and well-being varied significantly across age groups, while learning-related motivations were significantly associated with self-reported agricultural knowledge. No significant associations were found between motivational themes and gender or place of residence. The findings indicate that motivations for seeking participation in community gardening are heterogeneous and vary according to specific applicant characteristics. By focusing on a medium-sized city, the study extends research beyond the predominantly metropolitan contexts represented in the literature and suggests that community gardens can function as accessible socio-ecological infrastructures associated with food autonomy, informal learning, well-being, social interaction, and everyday sustainability practices. Despite the limitations of a self-selected sample and single case study, the findings provide a basis for comparative research on community gardening and urban social sustainability.",
+  "oa_url": "https://doi.org/10.3389/frsc.2026.1874325",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.3389/frsc.2026.1874325"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-21",
+  "summary_id": null,
+  "relevance": 18
+ },
+ {
+  "id": "W7236807524",
+  "doi": "10.14237/ebl.17.1.2026.1939",
+  "title": "Perception Towards Bees in Rural Schools in the Sierra de Huautla, Morelos, Mexico",
+  "date": "2026-11-19",
+  "year": "2026",
+  "journal": "Ethnobiology Letters",
+  "issn": "21598126",
+  "publisher": "Society of Ethnobiology",
+  "authors": [
+   "Diana Platas-Neri",
+   "Brenda Barreto-Rodríguez",
+   "Andrea Garcia‐Vargas",
+   "Mariana Salcedo-Gómez",
+   "Concepción Martínez‐Peralta"
+  ],
+  "abstract": "This article examines the perceptions and attitudes of students from nine rural schools in a Protected Natural Area, analyzing variations in attitudes toward conservation and bees by age, gender, grade level, and social context. A questionnaire combining semantic differentials, four open-ended questions, and a sociodemographic survey was administered to 257 elementary, middle, and high school students. While all subgroups were willing to protect bees, over half viewed them as potentially dangerous. Most participants did not associate bee conservation with human well-being through pollination, instead emphasizing bee products as the primary value. The study revealed that students' knowledge was heavily focused on honeybees, with limited awareness of wild bees. No significant understanding of wild bees as pollinators emerged among non-experts. This lack of knowledge is particularly concerning given the current biodiversity crisis and the pollinators' critical role in maintaining ecosystems. We argue that promoting ethical and conservation-oriented attitudes toward pollinators requires educational strategies that integrate knowledge, emotional engagement, and cultural relevance, with a focus on diverse native bee species. This presents both a challenge and an opportunity for educators and institutions.",
+  "oa_url": "https://doi.org/10.14237/ebl.17.1.2026.1939",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.14237/ebl.17.1.2026.1939"
+  ],
+  "oa_status": "diamond",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-21",
+  "summary_id": null,
+  "relevance": 17
+ },
+ {
+  "id": "W7236856781",
+  "doi": "10.1080/19397038.2026.2751774",
+  "title": "Production of biodiesel from Spent Earth Palm Oil and machine learning-based characterisation of ternary blends",
+  "date": "2026-11-19",
+  "year": "2026",
+  "journal": "International Journal of Sustainable Engineering",
+  "issn": "19397038",
+  "publisher": "Taylor & Francis",
+  "authors": [
+   "Raghavendra Madhava Deshpande",
+   "Nagesh Siraganahalli Narasimhaiah",
+   "Ramachandra Chamarajanagar Gopal"
+  ],
+  "abstract": "Spent earth palm oil (SEPO), a high FFA (32.85%) palm refining waste, was converted to biodiesel in steps: a two acid esterification brought the acid value below 2 mg KOH/g, and base-catalysed transesterification yielded 95% conversion, an acid value of 0.4 mg KOH/g, ester content >99.5% and EN 14214 compliance for all parameters measured. Nine blends of biodiesel (BD, 10%–30% vol.), n-butanol (BU, 5%–15% vol.) and BS-VI diesel were prepared and characterised for kinematic viscosity (2.34–2.90 cSt), calorific value (40,683.12–44,901.66 kJ/kg), density (856.4–875.4 kg/m3), flash point (54–58 °C) and fire point (61–69 °C). Ranking the blends by their normalised Euclidean distance from the measured diesel across the five properties placed 10% BD + 15% BU and 30% BD + 15% BU closest; these are reported as candidates for engine-performance and emissions testing. A support vector regression model with leave-one-out cross-validation (LOOCV R2 = 0.73–0.90) screened intermediate compositions. Because hyperparameter selection was not nested within each fold, these metrics may remain optimistically biased and are not evidence of generalised predictive capability. The work demonstrates laboratory-scale SEPO valorisation into standards-compliant biodiesel and screening-level blend selection; engine performance, emissions and lifecycle evaluation remain future work.",
+  "oa_url": "https://doi.org/10.1080/19397038.2026.2751774",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1080/19397038.2026.2751774"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Kelapa sawit"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-21",
+  "summary_id": null,
+  "relevance": 17
+ },
+ {
+  "id": "W7236646994",
+  "doi": "10.1186/s12885-026-17381-5",
+  "title": "An examination of mental health screening rates for rural versus urban women Veterans with a new diagnosis of breast cancer",
+  "date": "2026-11-19",
+  "year": "2026",
+  "journal": "BMC Cancer",
+  "issn": "14712407",
+  "publisher": "BioMed Central",
+  "authors": [
+   "Nicole MG Fleege",
+   "Stephanie K. Bunt",
+   "Bradley R. Mecham",
+   "Andrea L. Holcombe",
+   "Jeffrey D. Quinlan",
+   "Matthew Bryant Howren"
+  ],
+  "abstract": "Objective Mental health disorders occur more frequently for women Veterans compared to the general population. Breast cancer (BC) is the most diagnosed cancer in this population. Since a number of women Veterans live in rural areas, this study evaluated rural disparities in mental health screening and follow-up after a new BC diagnosis. Methods Women Veterans with a new BC diagnosis were identified between 2017 and 2021. Data for mental health screenings were collected after first BC diagnosis. Rurality was defined in accordance with the official VHA Office of Rural Health classification method using the USDA Rural-Urban Commuting Area (RUCA) codes framework. Data were abstracted from VA and non-VA datasets. Categorical variables were analyzed using chi-square tests while means were compared using t-tests. Results A new BC diagnosis was identified for 14,225 women Veterans. More Veterans lived in an urban setting (59.6%) compared to rural setting (40.4%). For the entire study cohort, only 14.1% had a documented mental health screening within 3 months of a BC diagnosis. Urban Veterans were more likely to be screened compared to rural Veterans (17.4% vs. 9.2%, p < 0.01). When considering all women with a negative initial screen (75.8%), urban Veterans were more likely to have additional screening (17% vs. 10.2%, p = 0.01). Conclusions Following a new BC diagnosis, women Veteran had low rates of documented mental health screening within 3 months. Screening was significantly different between rural and urban populations. It is essential to improve mental health screening overall for women Veterans and bridge the disparity gap between screening in rural and urban populations. Abbreviated abstract The rate of mental health screening is low for women Veterans diagnosed with breast cancer. Veterans living in a rural location are significantly less likely to have a documented mental health screen than their urban counterparts. Disclaimer The views expressed in this article are those of the authors and do not necessarily represent the views of the Department of Veterans Affairs or the United States government. Presentations This research was selected for oral presentation at the ASCO Quality Care Symposium in San Francisco, CA on September 28th, 2024.",
+  "oa_url": "https://doi.org/10.1186/s12885-026-17381-5",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1186/s12885-026-17381-5"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-21",
+  "summary_id": null,
+  "relevance": 15
+ },
+ {
+  "id": "W7236722259",
+  "doi": "10.1111/add.70718",
+  "title": "Intravaginal tobacco use among women in The Gambia: A qualitative study on the motivators, dependence and health risks",
+  "date": "2026-11-19",
+  "year": "2026",
+  "journal": "Addiction",
+  "issn": "09652140",
+  "publisher": "Wiley",
+  "authors": [
+   "Bai Cham",
+   "Umberto D’Alessandro",
+   "Evelyn Tolamatl Ariceaga",
+   "Madeline Conlon",
+   "Hawanatu Jah",
+   "Fatoumata Kongira",
+   "Rohey Sey Corr",
+   "Lucy Popova"
+  ],
+  "abstract": "Background and aims Intravaginal insertion of smokeless tobacco ( taba ) is an emerging, little‐researched method of tobacco use practiced in several countries in sub‐Saharan Africa. This study aimed to characterise patterns of intravaginal taba use and the motivations, perceived benefits, adverse effects and dependence associated with this practice among women in The Gambia and examined whether this practice represents an unrecognised nicotine exposure pathway. Design Qualitative study using in‐depth semi‐structured interviews with current and former users of taba recruited through the Medical Research Council Unit The Gambia Pregnancy Care Integrating Translational Science Everywhere (PRECISE) and Mothers Health Foundation databases and supplemented by snowball sampling. Data were analysed thematically. Setting Urban and rural communities across four health regions of The Gambia. Participants Forty‐two women aged 18–49 years who were current ( n = 31) or former ( n = 11) users of taba , recruited through community networks and health research programmes. Measurements Interviews explored initiation, patterns of use, composition and preparation of taba , perceived benefits and harms, risk perceptions and indicators of dependence. We translated, transcribed and analysed the data using a deductive–inductive thematic approach. Results Women commonly initiated taba use for perceived therapeutic purposes, particularly treatment of vaginal infections, pain and reproductive health concerns. Social networks strongly influenced initiation, and early adverse physiological reactions, such as burning, vomiting and dizziness, were frequently normalised as evidence of effectiveness. Its continued use was reinforced by perceived sexual, health and emotional benefits, including vaginal tightening, enhanced pleasure and relief from loneliness or unmet sexual needs. Participants indicated that products often contain potentially toxic additives (caustic soda, ashes, battery acid). Many reported symptoms consistent with nicotine toxicity and described progression to habitual use, characterised by cravings, withdrawal symptoms and difficulty quitting despite recognised harms, including suspected cancer and reproductive complications. Secrecy and stigma surrounding use were common. Summary In The Gambia, intravaginal smokeless tobacco ( taba ) use appears to be initiated for perceived therapeutic and sexual health benefits, but users report experiences consistent with nicotine dependence and exposure to harmful additives in taba products, highlighting a previously unrecognised form of tobacco exposure among women.",
+  "oa_url": "https://doi.org/10.1111/add.70718",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1111/add.70718"
+  ],
+  "oa_status": "hybrid",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-21",
+  "summary_id": null,
+  "relevance": 15
+ },
+ {
+  "id": "W7236765239",
+  "doi": "10.1186/s12884-026-10019-1",
+  "title": "Psychotropic substance use, psychological stress and sex ratio at birth among pregnant women in rural Rwanda: a cross-sectional study",
+  "date": "2026-11-19",
+  "year": "2026",
+  "journal": "BMC Pregnancy and Childbirth",
+  "issn": "14712393",
+  "publisher": "BioMed Central",
+  "authors": [
+   "Hiroaki Arima",
+   "Akintije Simba Calliope",
+   "Hideki Fukuda",
+   "Marie Goretti Mukakarake",
+   "Takashi Yorifuji",
+   "Takayuki Wada",
+   "Léon Mutesa",
+   "山本太郎"
+  ],
+  "abstract": "Background The sex ratio at birth tends to be low from central to southern Africa, but the reasons for this have not been elucidated. Rwanda has a growing prevalence of psychotropic substance use among young people. Some studies have indicated that various burdens such as illness and psychological stress in pregnant women are associated with a decrease in the sex ratio at birth. The objective of this study was to clarify the consumption status of psychotropic substances in pregnant women and to examine the associations of psychotropic substance use and psychological stress during pregnancy with the sex ratio at birth in rural Rwanda. Methods A cross-sectional study was conducted among 151 women aged 20 years or older at Mibilizi District Hospital in Rwanda. Pregnant women were recruited between February 6 and February 26, 2019, and data were collected using a questionnaire survey on lifestyle habits and psychological stress factors, followed by post-delivery follow-up to ascertain the sex of the newborn through February 2020. We descriptively summarized the characteristics of pregnant women and examined the associations of psychotropic substance consumption and psychological stress factors with the sex ratio at birth using univariate analyses and multivariable logistic regression. Results The lifetime prevalence of psychotropic substance consumption among the pregnant women was 0.7% for tobacco, 45.0% for alcohol, and 39.3% for illicit drug use. Regarding psychological stress factors, 37.1% of the subjects had an unexpected pregnancy, 1.3% experienced domestic violence, 4.6% lacked support from their husbands, and 22.8% had symptoms of depression or feelings of sadness during pregnancy. In the backward stepwise multivariable logistic regression analysis, lifetime illicit drug use was associated with a lower male birth rate (OR = 0.4870, 95% CI: 0.2329–0.9923, p = 0.051), while depression or feelings of sadness during pregnancy was significantly associated with a lower male birth rate (OR = 0.2186, 95% CI: 0.0772–0.5480, p = 0.002). Alcohol consumption during pregnancy was not significantly associated with the sex of the newborn (OR = 1.8714, 95% CI: 0.8763–4.1110, p = 0.110). Conclusions This study identified associations between lifetime illicit drug use, psychological stress during pregnancy, and a lower sex ratio at birth among pregnant women in rural Rwanda. However, these findings should be interpreted cautiously because of the cross-sectional design, convenience sampling, lack of information on the timing of lifetime illicit drug use relative to conception, and the limited statistical power to detect small changes in the sex ratio at birth. The findings do not establish a causal relationship between psychotropic substance use or psychological stress and the sex ratio at birth. Further prospective studies with larger sample sizes and information on the timing and type of substance use and early pregnancy outcomes are needed to clarify these associations.",
+  "oa_url": "https://doi.org/10.1186/s12884-026-10019-1",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1186/s12884-026-10019-1"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-21",
+  "summary_id": null,
+  "relevance": 15
+ },
+ {
+  "id": "W7236850600",
+  "doi": "10.1186/s12889-026-30359-z",
+  "title": "Prevalence of overweight and obesity and their association with socio-economic and demographic factors among adults aged 18 to 64 years in Kosovo: a cross-sectional study",
+  "date": "2026-11-19",
+  "year": "2026",
+  "journal": "BMC Public Health",
+  "issn": "14712458",
+  "publisher": "BioMed Central",
+  "authors": [
+   "Besnik Morina",
+   "Florian Miftari",
+   "Gentiana Beqa Ahmeti"
+  ],
+  "abstract": "Background Kosovo is absent from the pooled international estimates of adult body mass index (BMI) available for its neighbours, and local evidence rests on small samples. We estimated the age-sex standardised prevalence of overweight and obesity in Kosovan adults from measured anthropometry, examined mutually adjusted socio-demographic associations and tested whether they differ by sex. Methods In a cross-sectional study (July–December 2025), 1,508 adults aged 18–64 years (788 men, 720 women) were recruited by purposive multi-site sampling with consecutive recruitment at urban and rural sites in five geographical poles across Kosovo. Weight and height were measured directly; BMI was categorised by WHO criteria. Prevalence was standardised to the Kosovo population aged 18–64 years (2024 Census) and, for external comparison, to the WHO World Standard Population. Multinomial and binary logistic regression adjusted simultaneously for sex, age, education, employment, residence, altitude, income, marital status and pole; sex interactions were tested by likelihood-ratio tests with Holm correction. Results The age-sex standardised prevalence of overweight or obesity (BMI ≥ 25 kg/m²) was 55.6% (95% CI 53.0–58.1%; 41.0% overweight, 14.6% obesity), or 54.6% (52.2–57.2%) standardised to the WHO World Standard Population. Adjusted odds of overweight or obesity were higher for primary versus higher education (aOR 6.44, 95% CI 4.03–10.30), age 45–54 versus 18–24 years (2.88, 1.84–4.53), married versus unmarried (2.03, 1.51–2.73), urban versus rural residence (1.79, 1.38–2.33), monthly household income above €1,000 versus €250 or less (2.47, 1.51–4.04), men versus women (1.40, 1.10–1.79) and the North versus Centre pole (2.27, 1.43–3.58). The education and income associations differed by sex (Holm-adjusted p = 0.006 and 0.001): the education contrast was larger in women (aOR 8.99 vs. 4.53 in men), whereas the income contrast was evident in men (aOR 3.85) and imprecise in women (1.20, 95% CI 0.55–2.62). Conclusions About 56% of adults in this non-probability sample were overweight or obese. Lower education, older age, urban residence, marriage and higher income were the strongest correlates, with sex-specific patterns for education and income. These cross-sectional associations identify priority groups for prevention and provide reference estimates pending probability-based surveys; they establish neither causal pathways nor a national prevalence figure.",
+  "oa_url": "https://doi.org/10.1186/s12889-026-30359-z",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1186/s12889-026-30359-z"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-21",
+  "summary_id": null,
+  "relevance": 15
+ },
+ {
+  "id": "W7236756997",
+  "doi": "10.3390/foods15224155",
+  "title": "From Waste to Wealth: A Circular Economy Roadmap for Whey Valorization in Developing Dairy Sectors—The Case of Ecuador",
+  "date": "2026-11-19",
+  "year": "2026",
+  "journal": "Foods",
+  "issn": "23048158",
+  "publisher": "Multidisciplinary Digital Publishing Institute",
+  "authors": [
+   "Valeria Olmedo Galarza",
+   "Jimmy Cuarán-Guerrero",
+   "Nicolás Sebastián Pinto-Mosquera"
+  ],
+  "abstract": "Cheese whey is among the most abundant by-products of the dairy industry, posing both an environmental challenge and an opportunity for resource recovery within circular economy frameworks. In Ecuador, its management is constrained by a highly fragmented dairy sector, largely composed of small-scale and artisanal producers facing geographical, logistical, and technological limitations. This review examines the current state of knowledge on cheese whey valorization and critically evaluates its potential applicability to developing dairy sectors, using Ecuador as a case study. A structured literature review was conducted to assess whey composition, processing technologies, valorization pathways, and the environmental, economic, and regulatory factors conditioning their local implementation. While international evidence indicates that whey can be converted into fermented functional beverages, protein ingredients, bioactive hydrolysates, animal feed, agricultural inputs, and emerging biopolymers such as polyhydroxyalkanoates (PHAs), local evidence reveals critical knowledge gaps—including the absence of standardized regional whey compositional profiles, unassessed domestic market demand and consumer acceptance, and unverified environmental and economic performance under local conditions. To address these constraints, a qualitative feasibility screening and a conceptual, staged circular economy roadmap are proposed, distinguishing short-term, low-complexity local upcycling from medium-term cooperative membrane pre-concentration hubs and long-term centralized biorefineries. Rather than presenting pre-validated commercial solutions, this conceptual framework defines the empirical pilot trials, regulatory compliance, and site-specific techno-economic and life-cycle assessments required to guide the sustainable transition of Ecuador’s dairy sector.",
+  "oa_url": "https://doi.org/10.3390/foods15224155",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.3390/foods15224155"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Kelembagaan petani & tindakan kolektif"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-21",
+  "summary_id": null,
+  "relevance": 14
+ },
+ {
+  "id": "W7236762202",
+  "doi": "10.3390/nu18223861",
+  "title": "Food Insecurity and Obstructive Sleep Apnea Risk Among Middle-Aged and Older Adults in South Korea: A Cross-Sectional Study Using the STOP-BANG Questionnaire",
+  "date": "2026-11-19",
+  "year": "2026",
+  "journal": "Nutrients",
+  "issn": "20726643",
+  "publisher": "Multidisciplinary Digital Publishing Institute",
+  "authors": [
+   "Seong‐Uk Baek",
+   "Jin-Ha Yoon"
+  ],
+  "abstract": "Background: Food insecurity is a major global public health concern. A direct association between food insecurity and OSA may be expected, as food insecurity is accompanied by sleep disturbances, socioeconomic stress, and inflammation, all of which are associated with OSA. However, its association with OSA remains unclear. This study aimed to examine the association between food insecurity and OSA risk among middle-aged and older adults. Methods: A nationwide sample of 9555 individuals aged ≥ 40 years was analyzed. Food insecurity was classified as food secure, marginally food secure, and food insecure using the 18-item Household Food Security Survey Module. A modified STOP-BANG questionnaire was used to identify individuals at high risk for OSA. Logistic regression models were fitted to estimate odds ratios (ORs) and 95% confidence intervals (CIs). Results: The weighted proportions of food-secure, marginally food-secure, and food-insecure individuals were 86.36%, 9.29%, and 4.35%, respectively. The weighted prevalence rates of high OSA risk by screening were 17.52% in the overall sample and 17.11%, 19.53%, and 21.44% among participants with food security, marginal food security, and food insecurity, respectively. In the overall sample, the ORs (95% CIs) for high OSA risk by screening were 1.24 (0.98–1.57) among participants with marginal food security and 1.36 1.35 (1.01–1.81) among those with food insecurity, compared with food-secure participants. Conclusions: Food insecurity was associated with a high risk of OSA by screening. However, future longitudinal studies using polysomnography are needed to validate our study findings.",
+  "oa_url": "https://doi.org/10.3390/nu18223861",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.3390/nu18223861"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Ketahanan pangan rumah tangga"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-21",
+  "summary_id": null,
+  "relevance": 14
+ },
+ {
+  "id": "W7236860204",
+  "doi": "10.3390/logistics10110275",
+  "title": "Evaluating Storage Facility Alternatives and Transportation Costs in an Agricultural Supply Chain: A Mixed-Integer Optimisation Approach",
+  "date": "2026-11-19",
+  "year": "2026",
+  "journal": "Logistics",
+  "issn": "23056290",
+  "publisher": "Multidisciplinary Digital Publishing Institute",
+  "authors": [
+   "Meltem Korkmaz",
+   "Ebru Demirci"
+  ],
+  "abstract": "Background: Seasonal agricultural supply chains often face storage constraints, and the location of additional storage is commonly chosen with formulas that ignore road networks and vehicle fleets. This study asks whether a candidate site derived from the Centre of Gravity of 49 tea factories remains preferable to the existing packaging centre once transport costs are considered. Methods: A mixed-integer programming model selected vehicle types and trip numbers for each factory using road distances and 2026 cost parameters. Single-centre and two-centre configurations were solved at 40%, 50% and 60% transport shares under deterministic full-capacity production over a 180-day season, and 13 sensitivity settings were examined. Results: The candidate site was cheaper than the packaging centre by 3.5% to 4.4%, but the difference came entirely from fuel, and it disappeared when about 6.5 km of access road was added. Using both centres gave the lowest cost, 5.6% to 7.9% below the better single centre; this saving is an upper bound. Conclusions: A geographically central candidate should be tested against existing facilities with an operational cost model before an investment decision, and transport savings alone do not establish economic feasibility.",
+  "oa_url": "https://doi.org/10.3390/logistics10110275",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.3390/logistics10110275"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemasaran, rantai pasok & rantai nilai"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-21",
+  "summary_id": null,
+  "relevance": 11
+ },
+ {
+  "id": "W7236603128",
+  "doi": "10.1007/s11119-026-10476-w",
+  "title": "Evaluation of RGB sensor system for nondestructive detection of salinity stress in arugula",
+  "date": "2026-11-19",
+  "year": "2026",
+  "journal": "Precision Agriculture",
+  "issn": "13852256",
+  "publisher": "Springer Science+Business Media",
+  "authors": [
+   "Ahmad Ali",
+   "Francisco Javier Diaz",
+   "Sandra Sendra",
+   "Jaime Lloret",
+   "Francesco Di Gioia"
+  ],
+  "abstract": "Purpose Salinity stress silently erodes crop yields long before symptoms appear, making early, non-invasive detection essential for precision agriculture. Methods We evaluated a low-cost RGB sensor platform, with possible integartion of wireless networking, for real-time phenotyping of hydroponically grown arugula ( Eruca sativa (Mill.) Thell.) under 0, 40, and 80 mM NaCl. Results The sensor captured reflectance across seven spectral channels, generating leaf color metrics in situ. Principal component analysis, canonical correlation and clustering analysis confirmed tight coupling between RGB channels and ion ratios. Physiological, CIELAB, and optical datasets were fused using DIABLO, (Data Integration Analysis for Biomarker discovery using Latent components), achieving exceptional performance (mean error rate = 0.083 for component 1; zero for component 2) with only three features per block. High-stability variables (Na⁺, Na⁺/K⁺, Na⁺/Mg2⁺, b*, Chroma, White, Green, Red) tracked a clear dose-dependent stress gradient, linking ionic imbalance to possible pigment degradation and reflectance shifts. Particularly, sensor-derived indices detected spectral shifts preceding visible chlorosis, enabling early diagnosis. Conclusion These findings demonstrate that compact RGB-based sensing, empowered by integrative analytics, can deliver rapid, non-destructive, and biologically grounded stress diagnostics. The approach is readily deployable in controlled or open-field systems, providing a scalable pathway for precision stress monitoring before yield losses occur. Graphical abstract Optional description: Optical sensor module, connected to Arduino mega 2560 along with a Wi-Fi module, is capturing reflectance of arugula leaves under salinity treatments. The sensor setup is shown measuring leaves grown at 0, 40, and 80 mM NaCl in a deep water culture system. Physiological, CIELAB, and sensor-derived data were integrated and analyzed using multivariate approaches and the DIABLO framework to validate the sensor’s potential for early, non-destructive detection of salinity stress.,",
+  "oa_url": "https://doi.org/10.1007/s11119-026-10476-w",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1007/s11119-026-10476-w"
+  ],
+  "oa_status": "hybrid",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-21",
+  "summary_id": null,
+  "relevance": 0
+ },
+ {
+  "id": "W7236653141",
+  "doi": "10.9734/jsrr/2026/v32i114757",
+  "title": "Effect of Biofertilizers on Growth and Leaf Yield in Ashwagandha (Withania somnifera (L.) Dunal)",
+  "date": "2026-11-19",
+  "year": "2026",
+  "journal": "Journal of Scientific Research and Reports",
+  "issn": "23200227",
+  "publisher": "Sciencedomain International",
+  "authors": [
+   "H. Gowrilakshmi",
+   "Deepa S. Nair",
+   "N. A. Anisa",
+   "G S Sreekala",
+   "N. Chitra",
+   "T. T. Thanuja"
+  ],
+  "abstract": "Ashwagandha (Withania somnifera) is an adaptogenic herb with potential applications in managing age-related symptoms, stress and neurodegenerative disorders. A pot-culture experiment was conducted at the Department of Plantation, Spices, Medicinal and Aromatic Crops, Vellayani, to evaluate the effects of biofertilisers on the growth of W. somnifera variety, Arka Ashwagandha. The experiment was laid out in a Completely Randomised Design with six treatments and four replications. The treatments comprised of FYM, Azospirillum lipoferum, phosphate-solubilising bacteria (PSB; Bacillus megaterium) and potassium-solubilising bacteria (KSB; Bacillus sporothermodurans), in different combinations with graded levels of the recommended dose of fertilisers (RDF; 25:25:20 kg ha⁻¹). The control received FYM + RDF without biofertiliser supplementation. Growth parameters were recorded at 30, 60, 90 and 120 days after transplanting (DAT), and leaf biomass was recorded at harvest (120 DAT). The treatment comprising FYM + A. lipoferum + PSB + KSB + full RDF (T4) was significantly superior to all other treatments for shoot length, number of leaves, leaf area, number of branches and shoot girth at every observation stage. At harvest, T4 recorded the highest shoot length (99.50 cm), number of branches (10.52) and shoot girth (5.32 cm). It also recorded the highest number of flowering branches (8.21) and fresh and dry leaf weights (26.90 and 7.88 g plant⁻¹, respectively). These results indicate that integrating biofertilisers with organic manure and the full recommended fertiliser dose enhanced vegetative growth and leaf yield in ashwagandha.",
+  "oa_url": "https://doi.org/10.9734/jsrr/2026/v32i114757",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.9734/jsrr/2026/v32i114757"
+  ],
+  "oa_status": "diamond",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Tenaga kerja & produktivitas perkebunan"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-21",
+  "summary_id": null,
+  "relevance": 0
+ },
+ {
+  "id": "W7236130665",
+  "doi": "10.1016/j.sftr.2026.102294",
+  "title": "Multistakeholder partnerships for sustainable food security in Eastern Ethiopia",
+  "date": "2026-11-18",
+  "year": "2026",
+  "journal": "Sustainable Futures",
+  "issn": "26661888",
+  "publisher": "Elsevier BV",
+  "authors": [
+   "Mideksa Fufa Jilito",
+   "Fekadu Beyene Kenee",
+   "Andreas Thiel",
+   "Chanyalew Seyoum Aweke"
+  ],
+  "abstract": "Multistakeholder partnerships (MSPs) among governments, nongovernmental organizations, the private enterprise sector, civil society organizations, and academic and agricultural research sectors are critical to ensure households’ food security status. Thus, this paper aims to map the network among stakeholders and identify the main factors that influence households' food security status. We applied the Open Data Kit tool to collect primary data digitally from 385 rural household heads and 84 stakeholders' employees. We used social network analysis to understand how stakeholders operate in a network to ensure food security, and employed a generalized ordered logit model to look at how households' food security status was associated with various factors. This study found that stakeholders from agriculture and cooperative offices, academic and agricultural research institutions, and civil society organizations were playing a central role in partnership networks to tackle food insecurity and nutrition problems. The paper supports the social network theory by demonstrating stakeholder engagement and relationships in food security activities. Moreover, the result of the generalized ordered logit model showed that gender, age, household size, livestock size, household income, credit utilization, perceived changes in weather, overuse of agrochemicals, and participation in soil conservation are statistically significant and influenced households’ food security status. Therefore, agriculture officers, researchers, and cooperatives operating in the east Hararghe zone should create and strengthen their partnerships and networks to improve rural households’ food security.",
+  "oa_url": "https://www.sciencedirect.com/science/article/pii/S2666188826006519/pdf",
+  "pdf_url": "https://www.sciencedirect.com/science/article/pii/S2666188826006519/pdf",
+  "pdf_urls": [
+   "https://www.sciencedirect.com/science/article/pii/S2666188826006519/pdf",
+   "https://doi.org/10.1016/j.sftr.2026.102294"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [
+   "multi-stakeholder partnerships",
+   "food security",
+   "sustainable development",
+   "Eastern Ethiopia",
+   "food systems",
+   "stakeholder collaboration"
+  ],
+  "topics": [
+   "Kelembagaan petani & tindakan kolektif",
+   "Pemberdayaan petani & gender",
+   "Ketahanan pangan rumah tangga"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-21",
+  "summary_id": null,
+  "relevance": 52
+ },
+ {
+  "id": "W7236090956",
+  "doi": "10.1002/ird.70256",
+  "title": "Do Land Fragmentation and Weather Shocks Amplify Farm‐Level Inefficiency? Evidence From Smallholder Agriculture in Pakistan",
+  "date": "2026-11-18",
+  "year": "2026",
+  "journal": "Irrigation and Drainage",
+  "issn": "15310361",
+  "publisher": "Wiley",
+  "authors": [
+   "Murtaza",
+   "Jing Wang",
+   "Waqas Ahmad",
+   "Aftab Ahmad Khan",
+   "Shahid Ali"
+  ],
+  "abstract": "Land fragmentation and weather shocks are consistently raising transaction costs and production risks for smallholders. However, empirical evidence on how these stresses translate into farmers' inefficiencies remains limited in climate‐vulnerable uplands. Using survey data from Khyber Pakhtunkhwa Province for the cropping year 2024, this study examined key vegetable, staple and cash crops using crop‐specific stochastic frontier production functions to determine factors of production and evaluate how land fragmentation, weather shocks and socio‐institutional factors influence household inefficiencies. The results reveal that farm inputs significantly raised yields across crops, although returns to scale were largely decreasing. Land fragmentation and weather shocks were positively and significantly associated with inefficiency across nine crops with estimated coefficients ranging between 0.11–0.35 and 0.015–0.12, respectively. Education, credit access and extension services reduced inefficiency in several crops, whereas household age and home‐to‐farm distance raised inefficiency. Estimated inefficiency scores were generally low to moderate, whereas a notable share of households operated below the production frontier, resulting in substantial output and revenue losses. The study highlights the importance of climate‐resilient extension services, improved rural finance and education and institutional measures such as plot clustering or cooperative farming that could help bridge the inefficiency gaps and improve productivity.",
+  "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ird.70256",
+  "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ird.70256",
+  "pdf_urls": [
+   "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ird.70256",
+   "https://doi.org/10.1002/ird.70256"
+  ],
+  "oa_status": "bronze",
+  "cited_by": 0,
+  "keywords": [
+   "land fragmentation",
+   "weather shocks",
+   "smallholder farming",
+   "stochastic frontier analysis",
+   "crop yield",
+   "returns to scale",
+   "climate change vulnerability",
+   "agricultural extension"
+  ],
+  "topics": [
+   "Kelembagaan petani & tindakan kolektif"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-21",
+  "summary_id": null,
+  "relevance": 35
+ },
+ {
+  "id": "W7236758791",
+  "doi": "10.1111/aje.70230",
+  "title": "Contributions of Small Mammals and Primates to Human‐Wildlife Conflict and Mitigation Measures Around Forest Fragments in Eastern Kenya",
+  "date": "2026-11-18",
+  "year": "2026",
+  "journal": "African Journal of Ecology",
+  "issn": "01416707",
+  "publisher": "Wiley",
+  "authors": [
+   "Carolyne W. Ireri",
+   "Justine Muhoro Nyaga",
+   "Hannah W. Karuri"
+  ],
+  "abstract": "Human‐wildlife conflict (HWC) is a rising threat to food security, particularly among households located near protected areas (PAs). This study documented patterns of HWC involving small mammals and primates in three forest patches in Embu County, Kenya. Data were collected using structured questionnaires administered to 300 smallholder farmers (100 per forest patch) and through Focus Group Discussions (FGDs) with farmers and Community Forest Association (CFA) members. Vervet monkeys were the leading crop raiders in Maranga and Kirimiri (18.7% and 16.8%), while yellow baboons were the primary species involved in livestock predation in Maranga and Njukiri (24.8% and 36%). Common preventive measures employed by farmers included shouting, beating drums, chasing wildlife away, and applying mud to maize cobs, among others. To mitigate HWC, the planting of indigenous trees and wild fruit species within forest patches should be encouraged. Furthermore, improving community‐based conflict mitigation and farmer training programmes might also help minimise losses from small mammals and primates.",
+  "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/aje.70230",
+  "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/aje.70230",
+  "pdf_urls": [
+   "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/aje.70230",
+   "https://doi.org/10.1111/aje.70230"
+  ],
+  "oa_status": "bronze",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Ketahanan pangan rumah tangga"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-21",
+  "summary_id": null,
+  "relevance": 32
+ },
+ {
+  "id": "W7235844595",
+  "doi": "10.1080/23311983.2026.2760681",
+  "title": "Gossip, morality, and iconology: what Tilik reveals about power dynamics in rural Java",
+  "date": "2026-11-18",
+  "year": "2026",
+  "journal": "Cogent Arts and Humanities",
+  "issn": "23311983",
+  "publisher": "Taylor & Francis",
+  "authors": [
+   "Deny Tri Ardianto",
+   "Purwoko Ajie",
+   "Nurhayatu Nufut Alimin",
+   "Jotika Purnama Yuda"
+  ],
+  "abstract": "This research aims to explore how Tilik (2018) visually articulates the dynamics of power, morality, and identity within rural Javanese society. While previous studies on Tilik have largely focused on its virality, public reception, and gender controversy, systematic visual analysis using an iconographic-iconological framework remains limited. Addressing this gap, the study examines gendered communication, social control, and digital influence to show how visual media reflect broader sociocultural transitions in the digital era. The findings also contribute to global discussions on visual culture, media literacy, and social equity in alignment with Sustainable Development Goals (SDGs), particularly gender equality and reduced inequalities. Using Erwin Panofsky’s iconographic and iconological approach, this study analyses the visual and symbolic structure of Tilik. Instead of detailing each analytical stage, the research synthesises the findings: the pre-iconographic layer reveals the film’s realist aesthetic; the iconographic layer highlights symbols of lower-class discursive spaces shaped by communal morality; and the iconological layer uncovers how the film reflects pandemic-era social tensions and the dominance of opinion-based digital discourse. These findings confirm that Tilik represents the transition of rural Javanese society from collectivism to digital individualism and demonstrate how film functions as a medium for articulating power dynamics and morality in the new media landscape.",
+  "oa_url": "https://www.tandfonline.com/doi/pdf/10.1080/23311983.2026.2760681?needAccess=true",
+  "pdf_url": "https://www.tandfonline.com/doi/pdf/10.1080/23311983.2026.2760681?needAccess=true",
+  "pdf_urls": [
+   "https://www.tandfonline.com/doi/pdf/10.1080/23311983.2026.2760681?needAccess=true",
+   "https://doi.org/10.1080/23311983.2026.2760681"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [
+   "gossip",
+   "morality",
+   "iconology",
+   "power relations",
+   "rural Java",
+   "Javanese religion",
+   "social control"
+  ],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-21",
+  "summary_id": null,
+  "relevance": 28
+ },
+ {
+  "id": "W7225711786",
+  "doi": "10.1039/d6ra04937k",
+  "title": "Carboxymethyl cellulose from oil palm trunk slabs: physicochemical properties and performance in acyclovir buccal films",
+  "date": "2026-11-18",
+  "year": "2026",
+  "journal": "RSC Advances",
+  "issn": "20462069",
+  "publisher": "Royal Society of Chemistry",
+  "authors": [
+   "Chutima Jantarat",
+   "Sirikanya Kaewpradit",
+   "Jiraporn Chingunpitak",
+   "Suthon Srivaro"
+  ],
+  "abstract": "permeation behavior to films containing commercial CMC, although their mucoadhesive residence times were shorter. These findings indicate that OPTS waste can serve as a potential source of CMC for buccal film formulations, while further optimization of polymer viscosity and mucoadhesive retention is needed for applications requiring prolonged buccal residence. The higher cellulose yield obtained from the bottom section also indicates its potential as a productive raw material for CMC production.",
+  "oa_url": "https://pubs.rsc.org/ra/article-pdf/doi/10.1039/d6ra04937k/15066141/d6ra04937k.pdf",
+  "pdf_url": "https://pubs.rsc.org/ra/article-pdf/doi/10.1039/d6ra04937k/15066141/d6ra04937k.pdf",
+  "pdf_urls": [
+   "https://pubs.rsc.org/ra/article-pdf/doi/10.1039/d6ra04937k/15066141/d6ra04937k.pdf",
+   "https://doi.org/10.1039/d6ra04937k",
+   "https://pmc.ncbi.nlm.nih.gov/articles/PMC13750149/"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [
+   "carboxymethyl cellulose",
+   "acyclovir",
+   "buccal films",
+   "mucoadhesion",
+   "drug permeation",
+   "agricultural waste valorization",
+   "cellulose yield",
+   "polymer viscosity"
+  ],
+  "topics": [
+   "Kelapa sawit"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-21",
+  "summary_id": null,
+  "relevance": 23
+ },
+ {
+  "id": "W7236377312",
+  "doi": "10.1080/16549716.2026.2758987",
+  "title": "Exploring the behavioural and social drivers of routine childhood immunisation in rural Vanuatu: qualitative community insights",
+  "date": "2026-11-18",
+  "year": "2026",
+  "journal": "Global Health Action",
+  "issn": "16549880",
+  "publisher": "Taylor & Francis",
+  "authors": [
+   "Jake Turvey",
+   "Ben Sanderson",
+   "Liku Jimmy",
+   "Jane William",
+   "Chelsea Taylor",
+   "Anita Voloshin",
+   "Caroline E. van Gemert",
+   "Stefanie J. Vaccher",
+   "Milena Dalton",
+   "Catherine L. King"
+  ],
+  "abstract": "BACKGROUND: Routine childhood immunisation coverage in Vanuatu remains suboptimal, with substantial regional disparities. While supply-side constraints are well recognised barriers to vaccine uptake in the Pacific, other contributing factors remain less understood. OBJECTIVE(S): This study sought to explore the behavioural and social drivers of routine childhood immunisation in rural Vanuatu, generating critical evidence to inform future immunisation programming. METHODS: We conducted an exploratory qualitative study using the World Health Organisation's Behavioural and Social Drivers (BeSD) framework. Semi-structured in-depth interviews were conducted with participants from two rural villages in Tafea Province, between May and June 2024. Participants included caregivers, community influencers, healthcare workers, and immunisation program managers. Data were analysed using framework analysis, guided by the BeSD domains. Fourteen participants completed interviews. RESULTS: Caregivers indicated strong support for routine immunisation and motivation to vaccinate; however, vaccination efforts were shaped by multiple social and behavioural factors. Community-specific beliefs, gender dynamics, and the influence of community and religious leaders affected decision-making and prioritisation, while social networks were a source of both support and misinformation. Trusted relationships with healthcare workers and the quality of communication further influenced caregiver experiences. These factors converged with practical access barriers to create complex constraints on immunisation uptake. CONCLUSIONS: Improving routine immunisation uptake in rural Vanuatu will require coordinated, multi-level efforts that simultaneously address health system constraints and the social and behavioural dynamics shaping vaccination. Priority strategies include strengthening outreach reliability, improving healthcare worker communication, and engaging community leaders, male caregivers, and social networks to support informed vaccination decisions.",
+  "oa_url": "https://www.tandfonline.com/doi/pdf/10.1080/16549716.2026.2758987?needAccess=true",
+  "pdf_url": "https://www.tandfonline.com/doi/pdf/10.1080/16549716.2026.2758987?needAccess=true",
+  "pdf_urls": [
+   "https://www.tandfonline.com/doi/pdf/10.1080/16549716.2026.2758987?needAccess=true",
+   "https://doi.org/10.1080/16549716.2026.2758987"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [
+   "routine childhood immunization",
+   "vaccine uptake",
+   "behavioral factors",
+   "social drivers",
+   "rural communities",
+   "community perspectives",
+   "Vanuatu"
+  ],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-21",
+  "summary_id": null,
+  "relevance": 21
+ },
+ {
+  "id": "W7236098275",
+  "doi": "10.1001/jamanetworkopen.2026.44029",
+  "title": "Studying Firearm Homicide Surges to Inform Prevention Efforts—Evolving Contexts, Enduring Associations",
+  "date": "2026-11-18",
+  "year": "2026",
+  "journal": "JAMA Network Open",
+  "issn": "25743805",
+  "publisher": "American Medical Association",
+  "authors": [
+   "Julia P. Schleimer",
+   "Esprene Liddell-Quintyn"
+  ],
+  "abstract": "Firearm homicide is a leading cause of death in the US and exacts profound health, social, and economic consequences, especially among racially and economically marginalized communities, who bear a disproportionate burden.Nationally, firearm homicide rates have declined since the 1970s.However, this long-term trend has been punctuated by periodic surges.Most recently, firearm homicide rates increased rapidly in 2020 to 2021, alongside the COVID-19 pandemic, reaching levels not seen since the early 1990s.While the surge of the 1990s has been extensively studied, we know less about the recent surge and strikingly little about whether these 2 surges shared etiologies or were driven by period-specific forces.The study by Morral and Smart 1 in this issue of JAMA Network Open used a rigorous descriptive design to help address these gaps.The authors used national mortality data from 1979 to 2023, stratified by race, sex, age, county urbanicity, and state, to characterize the demographic and geographic distribution of firearm homicide surges in 1985 to 1993 and 2014 to 2021 and to explore state-level correlates of surge severity in each period.While the authors defined the earlier surge as 1985 to 1993 and the recent surge as 2014 to 2021, 63% of the \"surge deaths\" (deaths above the presurge baseline) during the 1985-1993 surge occurred from 1991 to 1993, and 55% of the surge deaths during the 2014-2021 surge occurred from 2020 to 2021.Their main findings were that the 2014-2021 surge was larger and more demographically and geographically distributed than the 1985-1993 surge and that each surge exhibited period-specific correlates, but both surges were associated with measures of structural vulnerability.These findings deepen our understanding of the 2014-2021 surge and, while purely descriptive, can advance hypotheses about the causes of firearm homicide and, in turn, strategies to save lives.Morral and Smart 1 found that the 2014-2021 surge resulted in more deaths in rural areas and among females, individuals with races other than Black, and older individuals, compared with the 1985-1993 surge, which was more heavily concentrated among young Black males in urban areas.This finding suggests that the 2014-2021 surge was driven by factors affecting a broader range of populations.One such factor may be firearm availability, as the populations impacted by the 2014-2021 surge had high preexisting firearm ownership or increases in first-time firearm purchasing during the pandemic.National survey data indicate that most people who already owned a firearm prior to 2019 were male, White individuals, and individuals living in rural or suburban areas, whereas among the estimated 7.5 million adults who became new firearm owners from 2019 to mid-2021, 50% were female, 20% were Black, and 20% were Hispanic individuals.2 This information aligns with the finding by Morral and Smart 1 that the 2014-2021 surge correlated with state-level firearm availability.Additionally, all US residents were affected (to different degrees and in different ways) by pandemic-related stressors.Research suggests these factors increased women's intimate partner homicide risk, 3 highlighting the need to bring an intersectional lens, even to ubiquitous exposures.While each surge exhibited distinct patterns and proximal correlates, both surges disproportionately affected states with higher levels of unemployment, poverty, household instability, and premature mortality.These findings suggest 2 important insights.First, firearm homicide is best understood as the product of multiple, interacting forces, including proximal exposures and preexisting vulnerabilities.The concept of multicausality is core to + Related articleAuthor affiliations and article information are listed at the end of this article.Open Access.This is an open access article distributed",
+  "oa_url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2856779/schleimer_2026_ic_260327_1794341605.90586.pdf",
+  "pdf_url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2856779/schleimer_2026_ic_260327_1794341605.90586.pdf",
+  "pdf_urls": [
+   "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2856779/schleimer_2026_ic_260327_1794341605.90586.pdf",
+   "https://doi.org/10.1001/jamanetworkopen.2026.44029"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [
+   "firearm homicide",
+   "gun violence",
+   "temporal trends",
+   "risk factors"
+  ],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-21",
+  "summary_id": null,
+  "relevance": 19
+ },
+ {
+  "id": "W7236866695",
+  "doi": "10.1002/joa3.70458",
+  "title": "Rising Atrial Fibrillation Mortality Trends in Hypertensive Patients Aged 25 and Older: A CDC Wonder Database Analysis",
+  "date": "2026-11-18",
+  "year": "2026",
+  "journal": "Journal of Arrhythmia",
+  "issn": "18804276",
+  "publisher": "Elsevier BV",
+  "authors": [
+   "Muhammad Abdullah Naveed",
+   "Talha Ali",
+   "Ahila Ali",
+   "Syed Rayyan Ahmed",
+   "Bazil Azeem",
+   "Rabia Iqbal",
+   "Muhammad Shaheer Bin Faheem",
+   "Hamza Naveed",
+   "Yash Vardhan Trivedi",
+   "Himaja Dutt Chigurupati",
+   "Muhammad Zia Khan",
+   "Zain Ul Abideen Asad"
+  ],
+  "abstract": "Background Atrial fibrillation (AF) is a leading arrhythmia contributing to cardiovascular mortality, particularly among individuals with Hypertension (HTN), yet long‐term trends and disparities remain underexplored. We analyzed national patterns and sociodemographic differences in AF‐related mortality among US adults aged 25 years or older from 1999 to 2023. Methods We used CDC WONDER mortality data (1999–2023) to analyze AF‐related deaths among US adults aged ≥ 25 with HTN. Age‐adjusted mortality rates (AAMR) per 100 000 and average annual percent changes (AAPC) were calculated using Joinpoint regression to assess overall and subgroup‐specific trends. Results AF accounted for 1 108 265 deaths among adults with HTN, with AAMRs increasing from 3.8 in 1999 to 35.9 in 2023 (AAPC: 6.03%). The sharpest rise occurred from 2018 to 2021, with an APC of 14.57%, coinciding with the COVID‐19 pandemic. Men had higher AAMRs than women (20.5 vs. 17.1). Racial disparities were evident, with non‐Hispanic Whites having the highest AAMR (20.1), followed by non‐Hispanic Blacks (15.1), Hispanics (11.3), and non‐Hispanic Others (10.7). Regional variation showed that the West had the highest AAMR (20.8), while Vermont recorded the highest state rate (28.7), and Nevada had the lowest (11.4). Rural areas exhibited higher mortality rates than urban areas (17.8 vs. 16.1), with rural AAMRs increasing at a faster rate (AAPC: 10.61%). Conclusion The rising burden of AF‐related mortality in hypertensive patients, especially among men, non‐Hispanic Whites, and rural populations, signals a critical public health concern. Immediate, equity‐focused interventions are needed to mitigate disparities and reduce AF‐related mortality across the United States.",
+  "oa_url": "https://doi.org/10.1002/joa3.70458",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1002/joa3.70458"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-21",
+  "summary_id": null,
+  "relevance": 15
+ },
+ {
+  "id": "W7236696042",
+  "doi": "10.1111/nbu.70076",
+  "title": "Joined Up Landscapes: Embedding Nature‐Based Solutions in UK Food Systems for Climate Adaptation",
+  "date": "2026-11-18",
+  "year": "2026",
+  "journal": "Nutrition Bulletin",
+  "issn": "14673010",
+  "publisher": "Wiley",
+  "authors": [
+   "Christopher Yap",
+   "Katie Manning",
+   "Kelly Parsons",
+   "Christina Vogel",
+   "Andrew J. Bladon",
+   "Jessica Brock",
+   "Ferne Edwards",
+   "Florence Lappin",
+   "Oliver Perkins",
+   "Sophie Perry",
+   "Jin Rui",
+   "Ed Byers"
+  ],
+  "abstract": "Food and land systems in the United Kingdom face growing challenges from climate change, biodiversity loss, and ongoing uncertainty regarding transitions to Net Zero. Nature-based Solutions (NbS) offer a promising way to address these issues, providing co-benefits for climate adaptation, food production, and ecosystem restoration. However, the implementation of NbS remains fragmented, unstrategic, and underfunded. The interdisciplinary Joined Up Landscapes (JUL) research project, funded by UKRI and Defra, aims to strengthen the contribution of NbS to climate adaptation in the context of UK food systems. This article presents an outline of the JUL project. JUL is structured around five interconnected work packages alongside three case studies demonstrating a range of agricultural NbS, including wetlands, floodplain mosaics, and catchment-scale habitat restoration. Preliminary findings highlight the importance of local context, stakeholder engagement, and flexible funding. JUL aims to inform policy, empower practitioners, and support a more climate-resilient UK food system.",
+  "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/nbu.70076",
+  "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/nbu.70076",
+  "pdf_urls": [
+   "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/nbu.70076",
+   "https://doi.org/10.1111/nbu.70076"
+  ],
+  "oa_status": "hybrid",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-21",
+  "summary_id": null,
+  "relevance": 6
+ },
+ {
   "id": "W7235975768",
   "doi": "10.1080/23311932.2026.2760645",
   "title": "Does climate information improve technical efficiency among organic rice farmers?: insight from Indonesia",
