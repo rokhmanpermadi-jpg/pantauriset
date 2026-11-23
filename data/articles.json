@@ -170,6 +170,38 @@
   "relevance": 15
  },
  {
+  "id": "W7237346886",
+  "doi": "10.25258/ijpqa.17.11.5",
+  "title": "Timing of Anti-Snake Venom Administration and Clinical Outcomes in Snakebite Envenoming",
+  "date": "2026-11-30",
+  "year": "2026",
+  "journal": "International Journal of Pharmaceutical Quality Assurance",
+  "issn": "09759506",
+  "publisher": "Dr. Yashwant Research Labs Pvt. Ltd.",
+  "authors": [
+   "J. Kamaraj",
+   "N. Karthikeyan",
+   "N. Ragavan"
+  ],
+  "abstract": "Background: Snakebite envenoming remains an important preventable cause of morbidity and mortality in tropical and subtropical regions, with rural agricultural populations disproportionately affected. The effectiveness of treatment depends substantially on rapid recognition, transport, appropriate first aid, timely administration of anti-snake venom (ASV), and supportive care. This study examined the relationship between bite-to-needle time (BNT), clinical complications, ASV use, treatment delays, and outcomes. Methods: A retrospective-prospective observational design was used in this study done at a tertiary-care teaching hospital in 250 cases. Patients older than 12 years with confirmed snakebite who received ASV were included; pregnant and breastfeeding women were excluded. Demographic characteristics, first aid, suspected snake species, BNT, complications, ASV exposure, adverse events, reasons for delay, and clinical outcomes were analyzed. Categorical variables were summarized as frequency and percentage, and BNT-by-complication distribution was tested using chi-square analysis. Results: In this study males accounted for 133 (53.2%) patients and females for 117 (46.8%). First aid was not received by 107 (42.8%) patients, while 85 (34.0%) received care at a primary health centre and 58 (23.2%) had tourniquets applied. BNT was ≤4 hours in 157 (62.8%), 4–8 hours in 61 (24.4%), 8–12 hours in 12 (4.8%), 1224 hours in 18 (7.2%), and >24 hours in 2 (0.8%). Complications were present in 194 (77.6%) cases and absent in 56 (22.4%). The proportion with complications increased from 65.6% in the ≤4-hour group to 96.7% in the 4–8-hour group and 100% in each later interval. The association between BNT and complications was statistically significant (χ²=35.06, df=4, p<0.001). Conclusion: The analysis supports that increasing delay to ASV is associated with a greater burden of complications. Reducing pre-hospital and inter-facility delays, ensuring rapid access to appropriate antivenom, strengthening first-responder education, and maintaining supportive critical care capacity are key priorities.",
+  "oa_url": "https://doi.org/10.25258/ijpqa.17.11.5",
+  "pdf_url": "https://doi.org/10.25258/ijpqa.17.11.5",
+  "pdf_urls": [
+   "https://doi.org/10.25258/ijpqa.17.11.5"
+  ],
+  "oa_status": "bronze",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-23",
+  "summary_id": null,
+  "relevance": 19
+ },
+ {
   "id": "W7225332996",
   "doi": "10.22214/ijraset.2026.85590",
   "title": "Disability, Gender and Educational Inequality in India: An Intersectional Review of Access, Participation and Inclusive Education",
@@ -285,6 +317,465 @@
   "found_at": "2026-11-22",
   "summary_id": null,
   "relevance": 33
+ },
+ {
+  "id": "W7237346250",
+  "doi": "10.1007/s43621-026-05403-y",
+  "title": "A socio-technical comparison of precision farming as an appropriate technology for rural land development in Germany and Indonesia",
+  "date": "2026-11-21",
+  "year": "2026",
+  "journal": "Discover Sustainability",
+  "issn": "26629984",
+  "publisher": "Springer Nature",
+  "authors": [
+   "Walter Timo de Vries",
+   "Hendro Nurhadi",
+   "Yuyun Tajunnisa"
+  ],
+  "abstract": "Rural land development increasingly requires technological innovation that is not only technically advanced but also institutionally feasible, socially acceptable, and locally appropriate. While precision farming has been widely promoted as a pathway to improve agricultural productivity and sustainability, its relevance for rural land development remains unevenly understood, particularly across contrasting institutional contexts. This review article examines how precision farming can function as an appropriate technology for rural land development by comparing Germany and Indonesia. Drawing on Socio-Technical Systems Theory and the Multi-Level Perspective, the study uses a SPIDER-based literature and policy review to analyse how land governance, farm structure, digital infrastructure, institutional support, and farmer capacity shape technological adoption. The findings show that Germany’s long history of land consolidation, larger farm structures, EU-supported rural development policies, and mature digital infrastructure provide favourable conditions for integrated precision farming systems, including GPS-guided machinery, variable-rate technologies, farm-management software, satellite monitoring, and emerging robotics. In contrast, Indonesia’s fragmented landholdings, uneven land administration, limited digital infrastructure, and dominance of smallholder farming require more affordable, mobile-based, community-oriented, and cooperative models of precision farming. The study argues that precision farming should not be treated as a universally transferable technological package, but as a context-specific socio-technical configuration. Its contribution lies in reframing precision farming as an appropriate technology whose effectiveness depends on institutional readiness, land governance, infrastructure, and equitable access. The paper concludes that rural land development can benefit from digital agricultural innovation only when technological pathways are aligned with local land systems, farmer capabilities, and inclusive policy support.",
+  "oa_url": "https://doi.org/10.1007/s43621-026-05403-y",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1007/s43621-026-05403-y"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Kelembagaan petani & tindakan kolektif",
+   "Pembangunan pedesaan & kebijakan pertanian"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-23",
+  "summary_id": null,
+  "relevance": 59
+ },
+ {
+  "id": "W7237345138",
+  "doi": "10.1080/23311932.2026.2725381",
+  "title": "Investigating the effect of transaction costs on market outlet choices among honey farmers in Nigeria",
+  "date": "2026-11-21",
+  "year": "2026",
+  "journal": "Cogent Food & Agriculture",
+  "issn": "23311932",
+  "publisher": "Cogent OA",
+  "authors": [
+   "Blessing Oluwayemisi Oyedele",
+   "Rabirou Kassali",
+   "Adetomiwa Kolapo",
+   "Melusi Sibanda",
+   "Nolwazi Zanele Khumalo",
+   "Temitope Oluwaseun Ojo"
+  ],
+  "abstract": "Honey production in Nigeria holds significant potential for rural income generation, yet high transaction costs hinder farmers’ access to profitable market outlets. Understanding the factors influencing market outlet choices is crucial for enhancing marketing efficiency and sustainability. This study examines the effect of transaction costs on market outlet choices among honey farmers in Osun State, Nigeria, analyzing costs incurred, their impact on outlet selection, and the performance of different outlets. A multistage sampling technique selected 200 honey farmers from five Local Government Areas. Primary data, collected via questionnaires, included socio-economic characteristics, transaction costs, and market outlet choices. Descriptive statistics, multivariate probit models, and marketing margin analysis were employed to analyze the data. Farm gate was the most preferred outlet (65.5%), despite lower prices, due to lower transaction costs. Urban markets offered higher gross margins but incurred higher transport costs. The multivariate probit model revealed that education, road conditions, and transport costs positively influenced farm gate choice, while outlet distance and extension visits had negative effects. Urban markets had the highest producer gross marketing margin. Interventions to improve infrastructure, extension services, and credit access could reduce costs and enhance urban market participation, boosting profitability and rural livelihoods.",
+  "oa_url": "https://doi.org/10.1080/23311932.2026.2725381",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1080/23311932.2026.2725381"
+  ],
+  "oa_status": "diamond",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Akses & informasi pasar petani",
+   "Pemasaran, rantai pasok & rantai nilai"
+  ],
+  "priority_journal": true,
+  "language": "en",
+  "found_at": "2026-11-23",
+  "summary_id": null,
+  "relevance": 40
+ },
+ {
+  "id": "W7237333242",
+  "doi": "10.21275/sr261101135406",
+  "title": "A Low-Bandwidth Digital Marketplace Architecture for Disintermediation in Informal Agricultural Trade",
+  "date": "2026-11-21",
+  "year": "2026",
+  "journal": "International Journal of Science and Research (IJSR)",
+  "issn": "23197064",
+  "publisher": "",
+  "authors": [
+   "Kothapalli Mandakini",
+   "D Ganga Rani",
+   "P Janaki",
+   "S Sowjanya",
+   "J Renuka"
+  ],
+  "abstract": "Informal agricultural trade systems involving small-scale farmers and street vendors continue to face inefficiencies arising from intermediary dominance, limited transparency, and technological exclusion. While existing digital agriculture platforms offer partial solutions, they are primarily designed for formal markets with stable connectivity and standardized workflows. This paper proposes a low-bandwidth digital marketplace architecture that enables direct farmer?vendor transactions in informal agricultural ecosystems. The proposed system introduces disintermediation-oriented workflows, collaborative bulk purchasing, and lightweight interaction mechanisms optimized for constrained network environments. The primary contribution lies in translating informal trade requirements into a scalable web architecture that balances technical feasibility with socio-economic accessibility. Qualitative evaluation demonstrates improved transaction efficiency, enhanced price transparency, and higher adoption potential compared to intermediary-based models. A lightweight trust-scoring extension for detecting fraudulent accounts is also evaluated by simulation, where a compact logistic model reaches an F1-score of 0.72 and a ROC-AUC of 0.86 with only 11 parameters.",
+  "oa_url": "https://www.ijsr.net/archive/v15i11/SR261101135406.pdf",
+  "pdf_url": "https://www.ijsr.net/archive/v15i11/SR261101135406.pdf",
+  "pdf_urls": [
+   "https://www.ijsr.net/archive/v15i11/SR261101135406.pdf",
+   "https://doi.org/10.21275/sr261101135406"
+  ],
+  "oa_status": "diamond",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Adopsi teknologi & pertanian digital"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-23",
+  "summary_id": null,
+  "relevance": 29
+ },
+ {
+  "id": "W7237344302",
+  "doi": "10.1186/s12917-026-06135-x",
+  "title": "Knowledge, attitudes, and practices regarding foot-and-mouth disease (FMD) among smallholder farmers in selected districts of central Bangladesh",
+  "date": "2026-11-21",
+  "year": "2026",
+  "journal": "BMC Veterinary Research",
+  "issn": "17466148",
+  "publisher": "BioMed Central",
+  "authors": [
+   "Basant Saud",
+   "Md Jisan Ahmed",
+   "Md Imran Hossain",
+   "Tasmiah Tarin",
+   "Marjhum Akter",
+   "Kazi Estieque Alam",
+   "Prajwal Bhandari",
+   "Ritu Chalise",
+   "S. M. Zannatul Naem",
+   "Md Ismile Hossain Bhuiyan",
+   "Md Afiqul Islam Rahi",
+   "Naim-ul Alam"
+  ],
+  "abstract": "Foot-and-mouth disease (FMD) remains endemic in Bangladesh and imposes substantial economic losses. This study assessed knowledge, attitudes, and practices (KAPs) among smallholder farmers, as well as practices and perceptions among livestock traders and veterinary professionals, in relation to FMD in selected districts of central Bangladesh. A cross-sectional study was conducted using structured questionnaires among 456 smallholder farmers in Dhaka, Gazipur, Munshiganj, and Narayanganj districts, and 20 livestock traders and 20 veterinary professionals in Dhaka district from October 2023 to March 2024. Data analysis included descriptive statistics, logistic regression, and Spearman’s rank correlation. Overall, 74.34% of farmers had good knowledge, 79.61% had positive attitudes, and 62.50% had good practices regarding FMD. Although most farmers were familiar with FMD and its clinical signs, understanding of disease transmission dynamics and preventive measures was poor. Positive attitudes towards vaccination were common, but routine vaccination practices were scarce. Vaccination and other biosecurity measures were poorly adopted by the farmers. Multivariable logistic regression revealed that education, farming experience, and cattle feeding management system were independently associated with good knowledge; district, education, annual income, and cattle feeding management system with positive attitudes; and herd size with good practices of the farmers ( p < 0.05). Significant positive correlations ( p < 0.001) were observed between KAPs of the farmers, with attitudes showing a stronger association with practices ( ρ = 0.58). Practices of the livestock traders and veterinary professionals in the Dhaka district were not satisfactory. Lack of vaccination and unregulated livestock movement were reported as major field-level challenges in the prevention and control of FMD. These findings demonstrated that the smallholder farmers generally had good awareness of FMD and positive attitudes; however, gaps remained in understanding of the disease transmission dynamics and adoption of preventive measures. Therefore, strengthening risk communication, improving access to veterinary services, and addressing socioeconomic constraints are crucial to promote adoption of preventive practices by the farmers. Traders’ education, livestock movement regulation, and strengthening of veterinary services are also needed for prevention and control of FMD in Bangladesh.",
+  "oa_url": "https://doi.org/10.1186/s12917-026-06135-x",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1186/s12917-026-06135-x"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemasaran, rantai pasok & rantai nilai"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-23",
+  "summary_id": null,
+  "relevance": 26
+ },
+ {
+  "id": "W7237364197",
+  "doi": "10.9734/acri/2026/v26i112298",
+  "title": "A Comprehensive Assessment of Non-Timber Forest Products and Their Utilization Patterns in Bhatwari Block, Uttarkashi District, Uttarakhand, India",
+  "date": "2026-11-21",
+  "year": "2026",
+  "journal": "Archives of Current Research International",
+  "issn": "24547077",
+  "publisher": "Sciencedomain International",
+  "authors": [
+   "Saurabh Chandra",
+   "L. R. Lakshmikanta Panda"
+  ],
+  "abstract": "Non-timber forest products (NTFPs) support the subsistence activities and cultural practices of rural communities in the Garhwal Himalaya. This study documented NTFP diversity, traditional uses, seasonal collection, value addition and participation in collection activities in Bhatwari block, Uttarkashi district, Uttarakhand. Fieldwork was conducted in ten villages between January and May 2025 using structured interviews with ten key informants per village, plant specimen collection and direct field observation. The study recorded 81 NTFP entries representing 39 families, including one fungal resource. Reported uses included 27 ethnomedicinal species, 23 edible species, six vegetable species, two spice species, 11 fodder species and five species associated with religious practices. Herbs were the dominant life-form category, followed by trees and shrubs. Reported use values ranged from 0.2 to 0.9, with Allium humile and Angelica glauca having the highest values. Wild resources were also processed into products such as squash, pickles and herbal salt. Collection practices varied by season, with summer identified as a major collection period. Women, particularly those aged 40–60 years, were prominent participants in NTFP collection and traditional knowledge transmission. These findings provide a descriptive account of the diversity and uses of local NTFPs and indicate opportunities for further documentation, careful harvesting and locally appropriate value addition. The study highlights the relevance of gender-inclusive participation in future management and conservation initiatives.",
+  "oa_url": "https://doi.org/10.9734/acri/2026/v26i112298",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.9734/acri/2026/v26i112298"
+  ],
+  "oa_status": "diamond",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-23",
+  "summary_id": null,
+  "relevance": 23
+ },
+ {
+  "id": "W7237367496",
+  "doi": "10.1186/s12889-026-30490-x",
+  "title": "Levels of and temporal changes in inequalities in child stunting in the Democratic Republic of the Congo from 2007 to 2017: evidence from Demographic and Health Surveys and Multiple Indicator Cluster Surveys",
+  "date": "2026-11-21",
+  "year": "2026",
+  "journal": "BMC Public Health",
+  "issn": "14712458",
+  "publisher": "BioMed Central",
+  "authors": [
+   "Etienne Mwokozi Bwira",
+   "Sylvain Mukungo Munyanga",
+   "Dosithée Ngo-Bebe"
+  ],
+  "abstract": "The Democratic Republic of the Congo (DRC) has one of the highest prevalences of child stunting in Africa. However, there is limited evidence on the magnitude and change in stunting inequalities over time in the country. This study quantified the magnitude of inequalities in stunting among children under five years of age and examined their variations over time. We conducted a descriptive study using data from two waves of the DRC Demographic and Health Surveys (2007 and 2013) and two waves of the DRC Multiple Indicator Cluster Surveys (2010 and 2017). We disaggregated the data across five dimensions of inequality: economic status, maternal education, gender, place of residence, and region. For each dimension, we analysed inequalities using four measures: Difference (D), Population Attributable Risk (PAR), Ratio (R), and Population Attributable Fraction (PAF). We computed each point estimate of inequality with a 95% confidence interval (CI). All analyses were performed using the World Health Organization’s Health Equity Assessment Toolkit software. The national prevalence of stunting gradually declined from 45.8% in 2007 to 41.8% in 2017. We found significant disparities in stunting across all five dimensions of inequality in each study year. In 2017, for example, we recorded substantial economic (D = 34.4, 95% CI: 30.8, 38.0; PAF = −​56.6, 95% CI: −59.6, −53.6), maternal education-based (D = 16.6, 95% CI: 11.7, 21.5; PAF = −19.2, 95% CI: −20.9, −17.5), place of residence-based (D = 21.2, 95% CI: 17.7, 24.7; PAF = −30.9, 95% CI: −32.9, −29.0), gender-based (D = 7.4, 95% CI: 4.1, 10.6; PAF = −8.7, 95% CI: −10.3, −7.1), and regional (D = 39.0, 95% CI: 31.9, 46.0; PAF = −62.8, 95% CI: −66.3, −59.2) inequalities in stunting prevalence. Disparities related to maternal education and gender remained unchanged, while economic, urban–rural and regional inequalities increased between 2007 and 2017. Despite a modest decline during the ten-year study period, the prevalence of stunting in the DRC remained very high, concealing significant socioeconomic, demographic and geographic inequalities. Reducing these inequalities requires targeted nutrition support, social protection and livelihood programmes for vulnerable households, as well as investment in girls’ education and maternal and child health services. It is also essential to strengthen rural services by expanding health and nutrition facilities, together with implementing context-specific strategies in high-burden and conflict-affected regions. All interventions should be guided by equity-sensitive monitoring systems to ensure that progress in reducing stunting is inclusive and that no child is left behind.",
+  "oa_url": "https://doi.org/10.1186/s12889-026-30490-x",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1186/s12889-026-30490-x"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-23",
+  "summary_id": null,
+  "relevance": 17
+ },
+ {
+  "id": "W7237358589",
+  "doi": "10.1007/s10207-026-01357-4",
+  "title": "A survey of crypto-agility for industrial IoT and cyber-physical systems: post-quantum migration and digital twins",
+  "date": "2026-11-21",
+  "year": "2026",
+  "journal": "International Journal of Information Security",
+  "issn": "16155262",
+  "publisher": "Springer Science+Business Media",
+  "authors": [
+   "Safayat Bin Hakim",
+   "Minho Jo",
+   "Houbing Song"
+  ],
+  "abstract": "Post-quantum migration is not a one-time replacement of broken cryptography but the first of several cryptographic transitions that long-lived cyber-physical systems (CPS) and the Industrial Internet of Things (IIoT) must survive: standards will be re-parameterized, algorithms may fall, national portfolios diverge, and harvest-now-decrypt-later adversaries already threaten decade-lived industrial data. Surviving that sequence turns on crypto-agility : changing cryptographic primitives quickly, safely, and with minimal system re-engineering. Building on prior work on operational-technology agility, this survey integrates six operational dimensions with industrial constraints, migration mechanisms, and historical-verification requirements. We consolidate a working definition, adopt the existing Crypto-Agility Maturity Model (CAMM), and synthesize six operational dimensions. We confront these with the structural asymmetries of operational technology, from decade-scale device lifetimes to regulated patching. We map the mechanisms of agile migration—among them cryptographic bills of materials, hybrid substitutability, and downgrade-resistant governance—onto a three-tier reference architecture. Three findings follow. Transmission size can dominate migration costs on constrained links, the IT/OT lifetime gap turns one migration into many, and inventory and downgrade governance decide whether an estate can prove what it runs. Long-lived industrial twins combine these constraints with the need to preserve linked telemetry, model versions, and decision records across algorithm retirement. Historical verifiability is important but not unique to twins. Mechanisms are mapped by tier, dimension, and evidence strength; industrial field validation remains limited.",
+  "oa_url": "https://link.springer.com/content/pdf/10.1007/s10207-026-01357-4.pdf",
+  "pdf_url": "https://link.springer.com/content/pdf/10.1007/s10207-026-01357-4.pdf",
+  "pdf_urls": [
+   "https://link.springer.com/content/pdf/10.1007/s10207-026-01357-4.pdf",
+   "https://doi.org/10.1007/s10207-026-01357-4"
+  ],
+  "oa_status": "hybrid",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Tenaga kerja & produktivitas perkebunan"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-23",
+  "summary_id": null,
+  "relevance": 15
+ },
+ {
+  "id": "W7237353772",
+  "doi": "10.9734/jsrr/2026/v32i114763",
+  "title": "Farming Systems and Household Dietary Diversity among Farm Households in North Karnataka",
+  "date": "2026-11-21",
+  "year": "2026",
+  "journal": "Journal of Scientific Research and Reports",
+  "issn": "23200227",
+  "publisher": "Sciencedomain International",
+  "authors": [
+   "Sharmistha Swayamprava",
+   "S. S. Dolli",
+   "Uma N. Kulkarni",
+   "Basavaprabhu Jirli",
+   "Gali Basavaraj",
+   "Jagadeesh A. Hosmath"
+  ],
+  "abstract": "Aims: To compare household dietary diversity across six predominant farming systems and identify factors associated with household dietary diversity among land-owning farm households in North Karnataka. Study Design: Cross-sectional, ex-post facto household survey. Place and Duration of Study: Vijayapura, Dharwad, Belagavi and Uttara Kannada districts, representing the Northern Dry, Northern Transition and Hilly agro-climatic zones of North Karnataka; February–July 2026. Methodology: A multistage procedure selected 240 farm households, with 40 households from each of six predominant farming systems: grape, pigeonpea, sugarcane, pulses–cereal, arecanut and paddy. Structured interviews recorded household and farm characteristics, access to nutrition information and household dietary diversity which is measured using consumption data of 12 food groups during the preceding 24 hours. Descriptive statistics, one-way analysis of variance (ANOVA), Welch ANOVA and multiple linear regression were applied. Results: The mean household dietary diversity scores (HDDS) ranged from 7.90 for pigeonpea-based households to 8.40 for grape-based households. Mean HDDS did not differ significantly across the six systems (F(5, 234) = 1.953, p = .09). Access to nutrition information differed the farming systems (Welch F(5, 106.41) = 9.80, p < .001). The regression model explained 12.4% of the variation in dietary diversity scores (adjusted R² = .093). Access to nutrition information (β = .239, p = .001), annual family income (β = .221, p = .002) and household dietary pattern (β = .166, p = .014) were positively associated with the outcome. Conclusion: Farming system alone was not significantly associated with household dietary diversity in the study area. Improving farm-household income, strengthening access to nutrition-related information and promoting informed dietary choices should be integrated with farming-system interventions to improve household dietary diversity.",
+  "oa_url": "https://doi.org/10.9734/jsrr/2026/v32i114763",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.9734/jsrr/2026/v32i114763"
+  ],
+  "oa_status": "diamond",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Ketahanan pangan rumah tangga"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-23",
+  "summary_id": null,
+  "relevance": 9
+ },
+ {
+  "id": "W7237041402",
+  "doi": "10.1080/23311932.2026.2760005",
+  "title": "Applying the theory of planned behaviour to maize producers’ intentions to adopt price risk management tools in South Africa",
+  "date": "2026-11-20",
+  "year": "2026",
+  "journal": "Cogent Food & Agriculture",
+  "issn": "23311932",
+  "publisher": "Cogent OA",
+  "authors": [
+   "Gareth Viljoen",
+   "Markus Arlindo Monteiro",
+   "Yonas T. Bahta",
+   "Henry Jordaan"
+  ],
+  "abstract": "Agricultural producers operate within volatile commodity markets, making formal price risk management tools important for managing price uncertainty. This study examined factors influencing South African maize producers’ intentions to adopt formal price risk management tools using the Theory of Planned Behaviour (TPB). Primary data were collected from 183 commercial maize producers in the Free State Province using a structured questionnaire. Partial Least Squares Structural Equation Modelling (PLS SEM) was used to analyse relationships between Attitude, Subjective Norms, Perceived Behavioural Control and Behavioural Intention. Subjective Norms had a significant positive relationship with Behavioural Intention, while Attitude and Perceived Behavioural Control were not statistically significant. The findings highlight the potential importance of social and professional networks in shaping producers’ intentions. Producer organisations, agricultural cooperatives, brokers and other grain industry stakeholders may provide important channels for information sharing and awareness of formal price risk management tools. These implications should be interpreted cautiously, as the study examines behavioural intention rather than actual adoption.",
+  "oa_url": "https://www.tandfonline.com/doi/pdf/10.1080/23311932.2026.2760005?needAccess=true",
+  "pdf_url": "https://www.tandfonline.com/doi/pdf/10.1080/23311932.2026.2760005?needAccess=true",
+  "pdf_urls": [
+   "https://www.tandfonline.com/doi/pdf/10.1080/23311932.2026.2760005?needAccess=true",
+   "https://doi.org/10.1080/23311932.2026.2760005"
+  ],
+  "oa_status": "diamond",
+  "cited_by": 0,
+  "keywords": [
+   "theory of planned behavior",
+   "maize farmers",
+   "price risk management",
+   "adoption intention",
+   "agricultural price risk",
+   "South Africa"
+  ],
+  "topics": [
+   "Kelembagaan petani & tindakan kolektif"
+  ],
+  "priority_journal": true,
+  "language": "en",
+  "found_at": "2026-11-23",
+  "summary_id": null,
+  "relevance": 46
+ },
+ {
+  "id": "W7237095106",
+  "doi": "10.1038/s41598-026-81551-5",
+  "title": "Dietary diversity and associated factors among women of reproductive age in Banja District, Northwest Ethiopia: a mixed–method study",
+  "date": "2026-11-20",
+  "year": "2026",
+  "journal": "Scientific Reports",
+  "issn": "20452322",
+  "publisher": "Nature Portfolio",
+  "authors": [
+   "Daniel Mulat Eshetu",
+   "Mikias Getahun Molla",
+   "Habtamu Getahun Molla",
+   "Yeshiwas Agezew"
+  ],
+  "abstract": "Adequate dietary diversity is essential for the health and nutrition of women of reproductive age. Evidence on factors influencing dietary diversity among non-pregnant, non-lactating women in Ethiopia is limited. This study assessed dietary diversity and its sociocultural determinants among women in Banja District, Northwest Ethiopia. A concurrent embedded mixed-methods design was employed to quantify dietary diversity and identify associated factors, while the qualitative component provided contextual insights into the sociocultural influences on women’s dietary practices. The quantitative component was a community-based cross-sectional study among 497 women selected using multistage and systematic random sampling techniques. Dietary diversity was assessed using a 24-hour dietary recall, and multivariable logistic regression was used to identify associated factors. The qualitative component comprised 17 key informant interviews and 10 in-depth interviews, with participants selected through purposive sampling. Quantitative data were analyzed using Stata version 17, and qualitative data were analyzed thematically using ATLAS.ti version 9. The prevalence of minimum dietary diversity was 34.4% (95% CI: 30.2–38.6%). Women with a college education or above (AOR = 3.2; 95% CI: 1.8–5.7), merchant occupation (AOR = 2.0; 95% CI: 1.2–3.4), high food and nutrition knowledge (AOR = 6.0; 95% CI: 3.0–12.0), and fruit and vegetable consumption at least twice weekly (AOR = 3.0; 95% CI: 1.7–5.3) were more likely to achieve adequate dietary diversity, whereas women from food-insecure households were less likely (AOR = 0.35; 95% CI: 0.20–0.60). Qualitative analysis generated three major themes: structural and household barriers to dietary diversity; cultural beliefs and perceptions regarding food and nutrition; and food taboos, household restrictions, and cultural eating norms. These themes highlighted the influence of economic constraints, women’s workload, food and nutrition knowledge, cooking skills, perceptions of nutritious foods, cultural and religious beliefs, food taboos, household food restrictions, and social and gender-based eating norms on women’s dietary practices. Dietary diversity among women of reproductive age in Banja District was low. It was influenced by education, income, nutrition knowledge, fruit consumption, household food security, and sociocultural factors. Interventions should target nutrition education, economic empowerment, and culturally sensitive strategies.",
+  "oa_url": "https://www.nature.com/articles/s41598-026-81551-5_reference.pdf",
+  "pdf_url": "https://www.nature.com/articles/s41598-026-81551-5_reference.pdf",
+  "pdf_urls": [
+   "https://www.nature.com/articles/s41598-026-81551-5_reference.pdf",
+   "https://doi.org/10.1038/s41598-026-81551-5"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [
+   "dietary diversity",
+   "women of reproductive age",
+   "associated factors",
+   "maternal nutrition",
+   "dietary intake"
+  ],
+  "topics": [
+   "Ketahanan pangan rumah tangga"
+  ],
+  "priority_journal": true,
+  "language": "en",
+  "found_at": "2026-11-23",
+  "summary_id": null,
+  "relevance": 46
+ },
+ {
+  "id": "W7237132617",
+  "doi": "10.1016/j.jum.2026.100615",
+  "title": "Foreign Acquisition of Agricultural Land in Türkiye Through Historical Patterns",
+  "date": "2026-11-20",
+  "year": "2026",
+  "journal": "Journal of Urban Management",
+  "issn": "22265856",
+  "publisher": "Elsevier BV",
+  "authors": [
+   "Gizem Ulusoy",
+   "Yeşim Aliefendioğlu"
+  ],
+  "abstract": "Foreign acquisitions of agricultural land raise questions about ownership, land use, and regulatory oversight. This study examines registered acquisitions made by foreign individuals, using pooled land-registry records from 23 provinces in Türkiye. Descriptive statistics and a gender-based analysis of variance are considered alongside a focused review of relevant legislation. Provincial tourism occupancy rates provide supplementary context. The pooled analysis reports 11,626 observations and identifies an unusually large historical acquisition in Hatay, highlighting the importance of distinguishing acquisition counts from acquired area. However, the records do not establish purchaser motives, subsequent cultivation, or the effects of the 2012 regulatory reform. A SWOT assessment organizes descriptive evidence, study limitations, and literature-based benefits and risks. A TOWS matrix translates these considerations into policy options. The study provides administrative evidence for discussing foreign acquisitions of agricultural land ownership and identifies the information needed for policy evaluation. Its principal implication is the need for consistent reporting and clear links among ownership records, project approvals, and subsequent land use. The findings remain descriptive and do not establish effects on agricultural production, land prices, rural livelihoods, or food security.",
+  "oa_url": "https://www.sciencedirect.com/science/article/pii/S2226585626002402/pdf",
+  "pdf_url": "https://www.sciencedirect.com/science/article/pii/S2226585626002402/pdf",
+  "pdf_urls": [
+   "https://www.sciencedirect.com/science/article/pii/S2226585626002402/pdf",
+   "https://doi.org/10.1016/j.jum.2026.100615"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [
+   "agricultural land ownership",
+   "land ownership history",
+   "foreign investors",
+   "land speculation",
+   "Turkey"
+  ],
+  "topics": [
+   "Pemberdayaan petani & gender",
+   "Ketahanan pangan rumah tangga"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-23",
+  "summary_id": null,
+  "relevance": 42
+ },
+ {
+  "id": "W7237350257",
+  "doi": "10.1080/23322039.2026.2763886",
+  "title": "Does transition to clean cooking fuels matter for household food security? Empirical evidence from Burkina Faso",
+  "date": "2026-11-20",
+  "year": "2026",
+  "journal": "Cogent Economics & Finance",
+  "issn": "23322039",
+  "publisher": "Cogent OA",
+  "authors": [
+   "Magloire Thiombiano",
+   "Et Souleymane Diallo"
+  ],
+  "abstract": "Despite growing global attention to the Sustainable Development Goals, Sub-Saharan Africa combines the world’s lowest access to clean cooking energy with its highest rates of food insecurity. In Burkina Faso, the number of food-insecure people has risen sharply in recent years. Yet no study has examined whether the transition to clean cooking fuels is associated with household food security in this Sahelian context marked by insecurity. This article addresses that gap using a sample of 4,930 households from the 2023 National Survey on Food Insecurity and Nutrition and applying a Conditional Mixed Process (CMP) model that accounts for the potential endogeneity of fuel choice. The results show that transitioning to clean cooking fuels is significantly associated with higher food consumption and dietary diversity scores. Income, education, and livestock capital are also positively associated with food security, while larger household size and female headship are associated with lower food security. These findings suggest that energy choice is strongly associated with household food security in Burkina Faso. These findings point to the relevance of expanding clean cooking fuel use in food security strategies.",
+  "oa_url": "https://www.tandfonline.com/doi/pdf/10.1080/23322039.2026.2763886?needAccess=true",
+  "pdf_url": "https://www.tandfonline.com/doi/pdf/10.1080/23322039.2026.2763886?needAccess=true",
+  "pdf_urls": [
+   "https://www.tandfonline.com/doi/pdf/10.1080/23322039.2026.2763886?needAccess=true",
+   "https://doi.org/10.1080/23322039.2026.2763886"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Ketahanan pangan rumah tangga"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-23",
+  "summary_id": null,
+  "relevance": 18
+ },
+ {
+  "id": "W7237333369",
+  "doi": "10.46328/ijte.9309",
+  "title": "Artificial Intelligence through the Eyes of Primary Education Students: Analysis of Gender, Educational Cycle, Rural–Urban Differences, and Frequency of Use",
+  "date": "2026-11-20",
+  "year": "2026",
+  "journal": "International Journal of Technology in Education",
+  "issn": "26892758",
+  "publisher": "",
+  "authors": [
+   "Rafael Villena-Taranilla",
+   "Pascual D. Diago"
+  ],
+  "abstract": "Owing to the scarcity of empirical data regarding how Primary Education students perceive Artificial Intelligence (AI), this research examined variations based on gender, educational cycle, attendance at the participating rural or urban schools, and usage habits. The participant group included 391 students from the second and third cycles (Grades 3 to 6). Data collection involved a 22-item instrument adapted from Chai et al. (2021), focusing on five distinct areas: self-efficacy, readiness, social benefit, literacy, and future intent. After examining internal consistency and the factor structure through confirmatory factor analysis, both comparative and regression analyses were performed. The findings revealed overall positive attitudes, without notable gender-based disparities. Educational cycle was associated only with views on AI for social good, while usage frequency was significantly associated with all five dimensions. Furthermore, students attending the participating urban schools demonstrated higher scores across four dimensions. Ultimately, attendance at the participating rural or urban schools and frequency of AI use were significantly associated with overall AI perceptions. These results contribute to the literature by emphasizing how attendance at the participating schools and self-reported AI use are associated with student viewpoints.",
+  "oa_url": "https://doi.org/10.46328/ijte.9309",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.46328/ijte.9309"
+  ],
+  "oa_status": "diamond",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-23",
+  "summary_id": null,
+  "relevance": 17
  },
  {
   "id": "W7236673572",
