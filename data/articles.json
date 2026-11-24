@@ -319,6 +319,229 @@
   "relevance": 33
  },
  {
+  "id": "W4410517767",
+  "doi": "10.1016/j.wdp.2026.100852",
+  "title": "Gender, nutrition information acquisition, and dietary diversity: Empirical evidence from rural households in Zimbabwe",
+  "date": "2026-11-22",
+  "year": "2026",
+  "journal": "World Development Perspectives",
+  "issn": "24522929",
+  "publisher": "Elsevier BV",
+  "authors": [
+   "Terrence Kairiza",
+   "Wanglin Ma",
+   "Lloyd Chigusiwa",
+   "Hongyun Zheng"
+  ],
+  "abstract": "Acquisition of nutrition information is crucial for enhancing dietary diversity among rural residents, yet the potential gender differences in its impact remain underexplored. This study investigates the gender-differentiated effects of nutrition information acquisition on the dietary diversity of rural households. Specifically, we consider nutrition information acquired primarily from women village health workers and distinguish between rural households headed or dominated by women and those headed or dominated by men. Households dominated by women are those in which the proportion of women aged 18 or older is more than half of the household's members. We employ an endogenous switching regression model with a count outcome variable to address self-selection bias arising from observed and unobserved factors and estimate the model using data from 14,725 households (out of an initial sample of 15,000) collected via a nationally representative cross-sectional survey of rural Zimbabwe conducted by the Zimbabwe Vulnerability Assessment Committee in 2023, employing a two-stage stratified sampling procedure that randomly selected 25 enumeration areas per district and 10 households per enumeration area. The results indicate that households headed by women are more likely to obtain nutrition information, whereas households dominated by women are less likely to do so. Acquisition of nutrition information significantly improves dietary diversity. From a gender perspective, the impact of acquiring nutrition information on dietary diversity is more significant for rural households headed or dominated by women compared to those headed or dominated by men. Our findings underscore the crucial role of nutrition information from women village health workers in enhancing dietary diversity. This effect operates through improved caregiver knowledge, greater on-farm production diversity, and better household food purchasing and feeding decisions. Accordingly, policy should prioritize disseminating nutrition information to rural households, especially women-headed households and those where women drive decisions.",
+  "oa_url": "https://doi.org/10.1016/j.wdp.2026.100852",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1016/j.wdp.2026.100852",
+   "https://www.researchsquare.com/article/rs-6606637/latest.pdf",
+   "https://doi.org/10.21203/rs.3.rs-6606637/v1"
+  ],
+  "oa_status": "hybrid",
+  "cited_by": 0,
+  "keywords": [
+   "dietary diversity",
+   "gender differences",
+   "rural households",
+   "female-headed households",
+   "village health workers",
+   "household headship",
+   "self-selection bias",
+   "Zimbabwe"
+  ],
+  "topics": [
+   "Pemberdayaan petani & gender",
+   "Ketahanan pangan rumah tangga"
+  ],
+  "priority_journal": true,
+  "language": "en",
+  "found_at": "2026-11-24",
+  "summary_id": null,
+  "relevance": 44
+ },
+ {
+  "id": "W7238516301",
+  "doi": "10.1007/s43621-026-05354-4",
+  "title": "Technical and scale efficiency of integrated and non-integrated smallholder horticultural farms in Bali for pursuing sustainable agriculture",
+  "date": "2026-11-22",
+  "year": "2026",
+  "journal": "Discover Sustainability",
+  "issn": "26629984",
+  "publisher": "Springer Nature",
+  "authors": [
+   "Aceng Hidayat",
+   "Dea Putri Amanda",
+   "Anisa Dwi Utami",
+   "Kharisma Fitri Hapsari",
+   "Doni Sahat Tua Manalu",
+   "Anita Ristianingrum",
+   "Rina Martini",
+   "Gema Parasti Mindara",
+   "Ridwan Siskandar"
+  ],
+  "abstract": "Integrated Farming Systems (IFS) integrate crop and livestock enterprises to enhance on-farm resource utilization and have been promoted as a potential pathway toward more sustainable agriculture. This study compares the productivity, profitability, labor use, resource-recycling practices, and efficiency of IFS and non-IFS horticultural farms in Buleleng Regency, Bali Province, Indonesia. Primary data were collected from 91 farms, comprising 73 IFS and 18 non-IFS farms. Farm performance was evaluated using descriptive and economic analyses and Data Envelopment Analysis (DEA), while factors associated with technical, pure technical, and scale efficiency were examined using Simar–Wilson truncated regression. The results indicate that differences between IFS and non-IFS farms were commodity-specific rather than universal. Standardized yields were higher among non-IFS farms for carrots and among IFS farms for cabbage and chili. Economic performance also varied across commodities, with higher capital requirements offsetting operating-cost advantages in some cases. IFS farms recorded numerically higher mean technical efficiency in the pooled comparison, but the difference was not statistically significant based on the Mann–Whitney and Kolmogorov–Smirnov tests. Pure technical efficiency was marginally higher among non-IFS farms. In the Simar–Wilson analysis, farmer age and farmer-group membership had negative coefficient estimates in the pure technical efficiency model; however, the model was not jointly statistically significant (Wald χ² = 13.39, p = 0.146), warranting caution in interpreting these associations. Non-farm income and credit access were negatively associated with technical efficiency, while no explanatory variable was significantly associated with scale efficiency. Overall, the findings do not support a general efficiency superiority of IFS. Instead, the performance of integrated farming varies across commodities and production contexts, highlighting the importance of resource integration, enterprise configuration, and farmer characteristics in understanding farm performance. These findings support context-specific approaches to assessing and promoting integrated farming systems.",
+  "oa_url": "https://doi.org/10.1007/s43621-026-05354-4",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1007/s43621-026-05354-4"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Kelembagaan petani & tindakan kolektif"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-24",
+  "summary_id": null,
+  "relevance": 43
+ },
+ {
+  "id": "W7238228500",
+  "doi": "10.1080/1369183x.2026.2759457",
+  "title": "‘My plans … kept changing’ – the reproductive experiences and family-making practices of migrant women on dairy farms",
+  "date": "2026-11-22",
+  "year": "2026",
+  "journal": "Journal of Ethnic and Migration Studies",
+  "issn": "1369183X",
+  "publisher": "Taylor & Francis",
+  "authors": [
+   "Camille Collins Lovell"
+  ],
+  "abstract": "Migrant workers from Mexico and Central America keep Vermont’s dairy farms functioning. Farmworker health research in the United States has focused primarily on problems affecting men and crop workers, while the health of women, especially those working in dairy, has received less attention. This research applies a reproductive justice framework to examine how the reproductive experiences and family-making practices of undocumented dairy farmworkers are shaped by transnational family dynamics, labour conditions, and the cultural, political, and geographic context of a rural northern border state. It asks how migrant women exercise reproductive agency under material, social and structural constraints, and how relationships with family and community change in the process. Findings from ethnographic participant observation and in-depth interviews suggest that migrant women face structural barriers to obtaining satisfactory contraception upon arrival, which contributes to unintended pregnancy. Women describe juggling farm labour and childcare in social isolation, but pregnancy is often the catalyst connecting them to healthcare and other social resources. Findings suggest state and local policy responses to address the needs of migrant women and children in agricultural settings.",
+  "oa_url": "https://doi.org/10.1080/1369183x.2026.2759457",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1080/1369183x.2026.2759457"
+  ],
+  "oa_status": "hybrid",
+  "cited_by": 7,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-24",
+  "summary_id": null,
+  "relevance": 15
+ },
+ {
+  "id": "W7237408334",
+  "doi": "10.32859/era.36.37.1-10",
+  "title": "Ethnopharmacological survey and therapeutic potential of Atriplex halimus L. in the management of Polycystic Ovary Syndrome in Algeria",
+  "date": "2026-11-22",
+  "year": "2026",
+  "journal": "Ethnobotany Research and Applications",
+  "issn": "15473465",
+  "publisher": "University of Hawaii Press",
+  "authors": [
+   "Leila Boukaous",
+   "Salha Amira Benatallah",
+   "Ramzi Triki",
+   "Hadil Igoubane",
+   "Lamis Tafer",
+   "Karima Bouali",
+   "Mounia Boudermine",
+   "Racha Bahaa Boukaous"
+  ],
+  "abstract": "Background: This ethnopharmacological study investigated the traditional use of Atriplex halimus L. for the management of polycystic ovary syndrome (PCOS) among 102 Algerian women from northern and southern regions, including rural and urban areas. Methods: A questionnaire-based survey was carried out between March 15 and April 9, 2025. Statistical analyses, including the two-sided Fisher's exact test for categorical data, were performed using GraphPad Prism 10.5.0 for Windows (GraphPad Software, San Diego, CA, USA). A significance level of p < 0.05 was applied to indicate statistical significance. Results: Of the participants, 44% had been diagnosed with PCOS, and 80% of those with PCOS reported using Atriplex halimus L. Leaves were the most frequently used plant part (54.5%). Among users, 86.44% reported clinical improvement and 16.95% reported side effects; 83.05% reported no adverse effects. Side effects were reported exclusively among users (p = 0.0046). Conclusions: These findings highlight interest in phytotherapy for hormonal disorders and the need for rigorous research to establish the efficacy and safety of Atriplex halimus L. in PCOS management.",
+  "oa_url": "https://doi.org/10.32859/era.36.37.1-10",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.32859/era.36.37.1-10"
+  ],
+  "oa_status": "diamond",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-24",
+  "summary_id": null,
+  "relevance": 15
+ },
+ {
+  "id": "W7238321493",
+  "doi": "10.1002/ldr.70937",
+  "title": "Agro‐Diversity Pattern Along Slope and Disturbance Gradient: A Climate Resilience Approach for Food Security",
+  "date": "2026-11-22",
+  "year": "2026",
+  "journal": "Land Degradation and Development",
+  "issn": "10853278",
+  "publisher": "Wiley",
+  "authors": [
+   "Sanoj Kumar Patel",
+   "Anil Sharma",
+   "Gopal Shankar Singh"
+  ],
+  "abstract": "Agro‐diversity in rainfed agriculture underpins resilient production systems, particularly in stressful environments like the Vindhyan highlands. This region, with its dry climate and undulating topography, supports a mix of traditional and modern crops suited to resource‐poor farmers. However, such highland agriculture is limited in distribution and needs to be expanded to eradicate poverty and address environmental issues. In this context, the aim of the present study was to explore crop diversity and composition (landraces and high‐yielding varieties [HYVs]) concerning disturbance and slope gradients. Three villages, categorized by disturbance index (high, medium, and low), were selected for this study. Agriculture in each village was further divided into high slope (> 22°), mid‐slope (10°–22°), and low slope (> 8°). Detailed surveys included 30 farmers in low‐disturbance (LD), 42 in medium‐disturbance (MD), and 60 in high‐disturbance (HD) areas. A total of 65 crop species were recorded, in which HD had 63 species, MD 59, and LD 49. Crop variety data revealed 116 landraces and 97 HYVs across the monsoon and winter seasons. In the case of crop variety composition, landraces dominated at LD and MD across slopes, while HYVs were prevalent at HD. Land cover and crop diversity indices varied significantly (p < 0.05) with disturbance and slope for both landraces and HYVs. Landrace diversity showed positive correlations with slope and soil rockiness but negative correlations with disturbance, soil depth, and soil moisture. Canonical correspondence analysis (CCA) explained 60.82% and 54.87% of the cumulative variance through the first two axes. These findings provide insights into crop diversity across slopes and disturbance gradients, supporting climate‐resilient strategies for future food security.",
+  "oa_url": "https://doi.org/10.1002/ldr.70937",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1002/ldr.70937"
+  ],
+  "oa_status": "hybrid",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Ketahanan pangan rumah tangga"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-24",
+  "summary_id": null,
+  "relevance": 14
+ },
+ {
+  "id": "W7237365391",
+  "doi": "10.15255/kui.2026.037",
+  "title": "Digitalisation of Food Waste Valorisation: Application of Machine Learning Tools in Optimising the Composition of a Functional Food Product",
+  "date": "2026-11-21",
+  "year": "2026",
+  "journal": "Kemija u industriji",
+  "issn": "00229830",
+  "publisher": "Croatian Society of Chemical Engineers",
+  "authors": [
+   "Ana Jurinjak Tušek",
+   "Davor Valinger",
+   "Tamara Jurina",
+   "Maja Benković",
+   "Jasenka Gajdoš Kljusurić"
+  ],
+  "abstract": "Food waste represents a significant environmental, economic, and social challenge worldwide.The transition from conventional waste management practices toward circular bioeconomy concepts has encouraged the development of innovative food waste valorisation strategies aimed at recovering high-value compounds, functional ingredients, biofuels, and other value-added products.Recent advances in digital technologies have considerably enhanced the efficiency and sustainability of these processes.This review provides an overview of contemporary food waste valorisation approaches, including biological, chemical, and physical methods, and highlights the role of digital tools in improving process performance and product development.Particular emphasis is placed on the application of machine learning techniques in the optimisation of functional food products formulated from food waste-derived ingredients.Modern digital frameworks integrate data collected through advanced analytical methods, Internet of Things (IoT) systems, and sensor technologies, enabling real-time monitoring and datadriven decision-making.Machine learning models, such as artificial neural networks (ANNs), support vector machines (SVMs), random forests (RFs), and principal component analysis (PCA), facilitate prediction of product quality, optimisation of processing conditions, and identification of optimal ingredient formulations.Furthermore, software platforms including Python, MATLAB, Aspen Plus, and KNIME support modelling, simulation, visualisation, and optimisation of food waste valorisation processes.Despite the considerable potential of digitalisation, challenges related to data quality, technological infrastructure, model interpretability, economic feasibility, and regulatory compliance remain significant barriers to industrial implementation.Future developments are expected to focus on explainable artificial intelligence (XAI), digital twins, blockchain technologies, precision nutrition, and fully integrated smart biorefineries.The integration of digital technologies with food waste valorisation offers substantial opportunities for improving resource efficiency, reducing environmental impacts, and supporting the development of sustainable and innovative food systems. Food waste valorisation, machine learning, functional foods, digitalisation, circular bioeconomyFood waste is a pressing global issue with significant environmental, economic, and social implications.Defined as food that is discarded or left uneaten, food waste occurs at various stages of the food supply chain, from production and processing to retail and consumption.According to the Food and Agriculture Organisation (FAO), approximately one-third of all food produced globally is wasted, amounting to about 1.3 billion tons annually.1 This staggering figure not only represents a waste of resources, such as water, land, and labour, but also contributes to environmental problems, including greenhouse gas emissions from de-",
+  "oa_url": "http://silverstripe.fkit.hr/kui/assets/Uploads/10-757-775-KUI-13-2026.pdf",
+  "pdf_url": "http://silverstripe.fkit.hr/kui/assets/Uploads/10-757-775-KUI-13-2026.pdf",
+  "pdf_urls": [
+   "http://silverstripe.fkit.hr/kui/assets/Uploads/10-757-775-KUI-13-2026.pdf",
+   "https://doi.org/10.15255/kui.2026.037",
+   "https://hrcak.srce.hr/353745"
+  ],
+  "oa_status": "diamond",
+  "cited_by": 0,
+  "keywords": [
+   "food waste valorization",
+   "digitalization",
+   "machine learning",
+   "functional foods"
+  ],
+  "topics": [
+   "Pemasaran, rantai pasok & rantai nilai"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-24",
+  "summary_id": null,
+  "relevance": 23
+ },
+ {
   "id": "W7237346250",
   "doi": "10.1007/s43621-026-05403-y",
   "title": "A socio-technical comparison of precision farming as an appropriate technology for rural land development in Germany and Indonesia",
