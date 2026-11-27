@@ -212,6 +212,36 @@
   "relevance": 15
  },
  {
+  "id": "W7239908415",
+  "doi": "10.22214/ijraset.2026.85870",
+  "title": "Krishi Drishti: An Integrated Decision Support System for Crop Health and Farmer Advisory",
+  "date": "2026-11-30",
+  "year": "2026",
+  "journal": "International Journal for Research in Applied Science and Engineering Technology",
+  "issn": "23219653",
+  "publisher": "International Journal for Research in Applied Science and Engineering Technology (IJRASET)",
+  "authors": [
+   "Harsh Awasthi"
+  ],
+  "abstract": "Crop diseases are only often diagnosed at late stages by the smallholder farmers, who are fragmented and access information on how to treat the disease is unreliable, resulting in lost crops and financial insecurity. The project is Krishi Drishti, an AI based crop disease detection and a smart farming companion in the form of a web application (progressive web app) for farmers of the rural population of India, which has a dashboard for officers in agricultural extension for their use. The system receives a photo of a leaf and provides the resulting diagnosis and disease confidence level as well as treatment suggestions. It includes eight modules namely disease detection, treatment advice, weather forecasting, spray timing alerts, soil health assessment, crop recommendations, voice interaction in Hindi and regional languages, low bandwidth (2G/3G) operation, offline scanning and expense and profit tracking against market prices and an outbreak early-warning feature, which groups geolocated disease reports to alert officers. The disease detection module is a CNN (EfficientNet/ResNet) trained on the PlantVillage dataset, a compressed TensorFlow Lite model is used for on-device inference in offline mode and a larger serverside model for online verification; the crop advice is provided using XGBoost over the soil data; the clustering of outbreaks is done using the DBSCAN algorithm over the location queries executed on PostGIS. It is composed of FastAPI, PostgreSQL with PostGIS, Redis, Next.js, and leverages OpenWeatherMap and Agmarknet/eNAM APIs. Here benefits are reported as expected, rather than measured: The project is currently in the design phase and evaluation will show the accuracy for test-set photographs and produce a confusion matrix in addition to the real field photographs. With the growing adoption of precision agriculture, the importance of managing crop diseases increases. As precision agriculture gains traction, the need for crop disease management grows as well.",
+  "oa_url": "https://doi.org/10.22214/ijraset.2026.85870",
+  "pdf_url": "https://doi.org/10.22214/ijraset.2026.85870",
+  "pdf_urls": [
+   "https://doi.org/10.22214/ijraset.2026.85870"
+  ],
+  "oa_status": "diamond",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Adopsi teknologi & pertanian digital"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-27",
+  "summary_id": null,
+  "relevance": 38
+ },
+ {
   "id": "W7239392300",
   "doi": "10.21474/ijar01/24548",
   "title": "BUILDING SUPPLY CHAIN RESILIENCE IN AUSTRALIA AGAINST GLOBAL DISRUPTIONS",
@@ -356,6 +386,1611 @@
   "found_at": "2026-11-21",
   "summary_id": null,
   "relevance": 33
+ },
+ {
+  "id": "W7239726045",
+  "doi": "10.15585/mmwr.mm7546a1",
+  "title": "Differences Between Urban and Rural Counties in Pregnancy-Related Deaths — United States, 2015–2024",
+  "date": "2026-11-26",
+  "year": "2026",
+  "journal": "MMWR Morbidity and Mortality Weekly Report",
+  "issn": "01492195",
+  "publisher": "Centers for Disease Control and Prevention",
+  "authors": [
+   "Ashley A. Busacker",
+   "Fanny Njie",
+   "Crystal Gibson",
+   "Charlan D. Kroelinger",
+   "Randall A. Leggett",
+   "Lisa Marie Hollier"
+  ],
+  "abstract": "Residents of rural communities face multiple health challenges, including higher pregnancy-related mortality (the death of a woman during or within 1 year of the end of pregnancy from any cause related to or aggravated by pregnancy); however, causes of pregnancy-related mortality by urban-rural classification are not well described. To better understand differences in pregnancy-related mortality by urban-rural classification levels, CDC analyzed data from 7,357 pregnancy-related deaths that occurred during 2015–2024 from CDC’s Pregnancy Mortality Surveillance System. The numbers of pregnancy-related deaths per 100,000 live births, or pregnancy-related mortality ratios (PRMRs), were examined across six urban-rural classifications based on the National Center for Health Statistics’ urban-rural classification scheme, and by race and ethnicity, age, and underlying cause of death. Although most deaths occurred among women living in urban counties, PRMRs were highest among those living in rural counties across age categories, most racial and ethnic groups, and cause-of-death categories. Cardiovascular conditions (including cardiomyopathy) and infection or sepsis were the most frequent causes of pregnancy-related mortality across all urban-rural classifications. These findings highlight potential needs to improve access to primary, obstetric, and specialty care in rural communities.",
+  "oa_url": "https://doi.org/10.15585/mmwr.mm7546a1",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.15585/mmwr.mm7546a1"
+  ],
+  "oa_status": "diamond",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-27",
+  "summary_id": null,
+  "relevance": 15
+ },
+ {
+  "id": "W7239906181",
+  "doi": "10.9734/jeai/2026/v48i124663",
+  "title": "The Indian Tea Sector in the Global Market: Trade Competitiveness, Value-chain Governance and Sustainability",
+  "date": "2026-11-25",
+  "year": "2026",
+  "journal": "Journal of Experimental Agriculture International",
+  "issn": "22310606",
+  "publisher": "Sciencedomain International",
+  "authors": [
+   "T. Sivasakthi Devi",
+   "S. Subathra",
+   "Anandan Pouchepparadjou",
+   "S. Parthasarathi"
+  ],
+  "abstract": "India occupies a prominent but internally differentiated position in the world tea economy. Its production scale, substantial domestic consumption, established auction institutions and distinctive regional origins coexist with uneven export competitiveness, contested price transmission, ecological exposure and persistent labour vulnerabilities. This critical narrative review examines how these factors interact, rather than treating export performance as an autonomous measure of sectoral success. Peer-reviewed studies and authoritative institutional evidence published between 2000 and 19 September 2026 were appraised across international trade, agricultural economics, value-chain governance, rural livelihoods, environmental science and intellectual property. The evidence suggests that India's market position depends on the relationship between a large domestic demand base and product-specific export opportunities, with differences between commodity black tea, orthodox varieties and origin-protected speciality teas. Export-volume growth does not necessarily imply improved margins, producer remuneration or worker welfare. Studies of electronic auctions, standards and collective marketing identify potential reductions in transaction frictions, but their distributional outcomes are conditional on bargaining power, quality control and access to working capital. Empirical work on smallholders, plantation labour and certification further challenges the assumption that sustainability labels automatically translate into better incomes or more effective worker voice. Climate-sensitive yields and resource-intensive processing add a longer-term constraint to conventional competitiveness assessments. A central unresolved issue is the scarcity of research linking farm-gate prices, processing margins, export market access, labour conditions and environmental outcomes within comparable, traceable datasets. The review therefore argues for an integrated, distribution-sensitive assessment of global competitiveness, supported by longitudinal value-chain evidence, destination-specific trade analysis and independently evaluated upgrading interventions. India's future position is better understood as a question of quality-adjusted value creation and resilience than of export tonnage alone.",
+  "oa_url": "https://doi.org/10.9734/jeai/2026/v48i124663",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.9734/jeai/2026/v48i124663"
+  ],
+  "oa_status": "diamond",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Akses & informasi pasar petani",
+   "Pemasaran, rantai pasok & rantai nilai",
+   "Pembangunan pedesaan & kebijakan pertanian",
+   "Tenaga kerja & produktivitas perkebunan"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-27",
+  "summary_id": null,
+  "relevance": 56
+ },
+ {
+  "id": "W7239846566",
+  "doi": "10.9734/jsrr/2026/v32i114773",
+  "title": "Agricultural Extension for Carbon Farming: Farmer Incentives, Advisory Needs and Participation in Emerging Carbon Markets",
+  "date": "2026-11-25",
+  "year": "2026",
+  "journal": "Journal of Scientific Research and Reports",
+  "issn": "23200227",
+  "publisher": "Sciencedomain International",
+  "authors": [
+   "Sarita Meena",
+   "Vishnu Shanker Meena",
+   "Sanjiv Kumar"
+  ],
+  "abstract": "Carbon farming, understood here as on-farm land management that increases carbon storage in soils and vegetation or reduces agricultural greenhouse gas emissions, is being drawn into voluntary carbon markets, supply-chain insetting programmes and public certification frameworks. These instruments assume that farmers will enrol, change practices, generate verifiable data and remain in contracts for long periods, yet enrolment has been low in most regions and the advisory capacity required to support participation has received little systematic attention. This critical narrative review examines how agricultural extension and advisory services shape farmer incentives, advisory needs and participation in emerging carbon markets. Peer-reviewed literature published from 2005 onwards was identified through multidisciplinary scholarly indexes, economics and life-science databases and citation chasing, and was appraised qualitatively for relevance, design adequacy, transparency and contextual specificity before thematic synthesis. The evidence indicates that carbon payments are usually too small, too delayed and too uncertain to drive practice change on their own, and that farmers weigh contract duration, payment timing, reversal liability and data obligations at least as heavily as price. Agronomic co-benefits, professional identity and trust in programme operators repeatedly outweigh carbon revenue as motives, which helps explain why existing programmes disproportionately recruit farmers who had already adopted the rewarded practices. Advisory needs extend well beyond agronomy to measurement and verification, contract terms, data governance and enterprise-level risk assessment, but public advisory systems have been weakened by commercialisation and fragmentation, and much farmer-facing advice now comes from project developers whose commercial interests are entangled with enrolment. Evidence from smallholder projects in Africa and South Asia shows recurring exclusion of women and marginalised households and minimal monetary returns, while tenant farmers in high-income settings report limited agency in contract arrangements. Confidence in these conclusions is limited by reliance on stated-preference surveys, small qualitative samples and a scarcity of longitudinal or experimental studies of advisory interventions. Independent, trusted and adequately resourced extension appears necessary but not sufficient for equitable and high-integrity participation; its value depends on credible measurement, fair contract design and policy stability that advice alone cannot supply.",
+  "oa_url": "https://doi.org/10.9734/jsrr/2026/v32i114773",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.9734/jsrr/2026/v32i114773"
+  ],
+  "oa_status": "diamond",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemasaran, rantai pasok & rantai nilai",
+   "Pemberdayaan petani & gender",
+   "Adopsi teknologi & pertanian digital"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-27",
+  "summary_id": null,
+  "relevance": 50
+ },
+ {
+  "id": "W7239847424",
+  "doi": "10.30574/wjarr.2026.32.2.2998",
+  "title": "COMPARATIVE ANALYSIS OF OIL PALM PRODUCTION, COSTS, AND INCOME WITH AND WITHOUT CASTRATION AT KENCANA SARI ESTATE, LAHAT REGENCY, INDONESIA",
+  "date": "2026-11-25",
+  "year": "2026",
+  "journal": "World Journal of Advanced Research and Reviews",
+  "issn": "25819615",
+  "publisher": "GSC Online Press",
+  "authors": [
+   "Anisah Fadillah",
+   "Riswani Riswani",
+   "Agustina Bidarti"
+  ],
+  "abstract": "Background: Castration is a cultivation practice in which all male and female inflorescences are removed from immature oil palms so that photosynthates are redirected toward vegetative growth. However, this practice increases maintenance costs, so its economic benefits need to be evaluated. This study aimed to compare the production and economic performance of oil palm blocks with and without castration. Methods: The study was conducted at the Kencana Sari Estate, PT PP London Sumatra Indonesia Tbk, in Lahat Regency, Indonesia. The location was selected purposively because the plantation practices intensive oil palm cultivation, including castration. The study used a survey method with a comparative quantitative approach involving one castrated block and one non-castrated block. Data on production, production costs, and income were analyzed using an independent-samples t-test. Results: The results showed that the castrated block had significantly higher production than the non-castrated block (p < 0.05), whereas production costs and income did not differ significantly (p > 0.05). These findings indicate that castration increased production but did not significantly increase income. Conclusion: The non-significant results for costs and income should be interpreted as insufficient statistical evidence within the one-year observation period, not as evidence that castration does not affect income",
+  "oa_url": "https://doi.org/10.30574/wjarr.2026.32.2.2998",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.30574/wjarr.2026.32.2.2998"
+  ],
+  "oa_status": "hybrid",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Kelapa sawit"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-27",
+  "summary_id": null,
+  "relevance": 43
+ },
+ {
+  "id": "W7239892690",
+  "doi": "10.9734/jsrr/2026/v32i114775",
+  "title": "Nanjangud Rasabale: Production Economics and Supply Chain Performance",
+  "date": "2026-11-25",
+  "year": "2026",
+  "journal": "Journal of Scientific Research and Reports",
+  "issn": "23200227",
+  "publisher": "Sciencedomain International",
+  "authors": [
+   "Tanveer Ahmed",
+   "K.P. Mangala",
+   "G. P. Mutthuraju",
+   "Havalli Bommegowda Rashmi"
+  ],
+  "abstract": "Nanjangud Rasabale (NR), a banana variety from Karnataka with Geographical Indication (GI) status, is a traditional fruit crop of Mysuru district; however, its growers face production and marketing problems that limit profitability. The present study, conducted during 2025–26 in Nanjangud taluk, analysed production costs and returns, marketing channels, marketing costs and margins, marketing efficiency, and production and marketing constraints. Primary data were collected through a structured interview schedule from 38 respondents comprising 30 farmers, two village-level traders, two wholesalers-cum-commission agents and four retailers. Cost concepts, price spread, the producer's share in the consumer's rupee, Acharya's marketing efficiency index and Garrett's ranking technique were used. The total cost of cultivation was ₹2,81,580.74 per acre, with net returns of ₹2,12,181.76 and a benefit–cost ratio of 1.75. Two marketing channels were identified, of which Channel II (farmer–wholesaler-cum-commission agent–retailer–consumer) handled 84.50 per cent of the marketed produce. Marketing efficiency was higher in Channel I (1.77) than in Channel II (1.73), while the producer's share in the consumer's rupee was 63.91 per cent in Channel I and 63.38 per cent in Channel II. Garrett's ranking identified pest and disease incidence, low price realisation and labour scarcity as the foremost constraints. Strengthening plant protection services, collective marketing, market linkages and post-harvest infrastructure is recommended to improve profitability and supply chain efficiency.",
+  "oa_url": "https://doi.org/10.9734/jsrr/2026/v32i114775",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.9734/jsrr/2026/v32i114775"
+  ],
+  "oa_status": "diamond",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemasaran, rantai pasok & rantai nilai",
+   "Komoditas: pisang, nanas, padi rawa"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-27",
+  "summary_id": null,
+  "relevance": 38
+ },
+ {
+  "id": "W7239874142",
+  "doi": "10.1038/s41598-026-80081-4",
+  "title": "Medicinal plant use among 170,564 Iranianadults in the PERSIAN Cohort Study",
+  "date": "2026-11-25",
+  "year": "2026",
+  "journal": "Scientific Reports",
+  "issn": "20452322",
+  "publisher": "Nature Portfolio",
+  "authors": [
+   "Fereshteh Ghorat",
+   "Erfan Taherifard",
+   "Mojtaba Heydari",
+   "Hossein Molavi Vardanjani",
+   "Hossein Poustchi",
+   "Zahra Mohamadi",
+   "Shamim Shahrestani",
+   "Roja Rahimi",
+   "Shaghayegh Shahrestani",
+   "Mahsa Rostami",
+   "Somaye Norouzi",
+   "Ramin Nasimi Doost Azgomi"
+  ],
+  "abstract": "Medicinal plants, a cornerstone of numerous traditional healing systems, are widely used in Iran. However, national-level data on their current usage patterns remain scarce. This study aims to evaluate the prevalence and patterns of reported medicinal plant use in Iran and explore the factors influencing their usage. This cross-sectional study utilized baseline data from 170,564 participants of the prospective epidemiological research studies in Iran (PERSIAN), a nationwide survey of Iranian adults aged 35–70 across 18 cohort sites. Data collection included gathering biological samples, conducting physical examinations, and administering a structured questionnaire. Participants were asked whether they used medicinal plants (self-reported use). The variables analyzed encompassed sociodemographic factors and chronic conditions. Statistical analyses were performed using Stata software, employing descriptive statistics and robust Poisson regression. The crude prevalence of reported medicinal plant use was 75.0% (95% CI: 74.6% to 75.4%). Zataria multiflora , Borago officinalis , and Mentha piperita were the most commonly used plants. Reported medicinal plant use was more common among older adults (1.12, 95%CI: 1.11–1.14, P < 0.001), female gender (1.12, 95%CI: 1.10–1.13, P < 0.001), married individuals (1.04, 95%CI: 1.03–1.06, P < 0.001), rural residence (1.21, 95%CI: 1.20–1.23, P < 0.001), those with higher education (1.20, 95%CI: 1.18–1.22, P < 0.001), and high socioeconomic status (1.25, 95%CI: 1.23–1.27, P < 0.001). Usage was also notably high among individuals with chronic conditions, particularly fatty liver disease (82.0%). Additionally, significant variations were observed in utilization patterns across various ethnicities, with Fars participants exhibiting the highest rate at 87.4%. This study demonstrates a high prevalence and diverse patterns of reported medicinal plant use among adults participating in the PERSIAN Cohort. These findings highlight the importance of understanding factors associated with medicinal plant use and may inform future health policy and planning regarding the safe and evidence-based use of medicinal plants in healthcare settings.",
+  "oa_url": "https://www.nature.com/articles/s41598-026-80081-4_reference.pdf",
+  "pdf_url": "https://www.nature.com/articles/s41598-026-80081-4_reference.pdf",
+  "pdf_urls": [
+   "https://www.nature.com/articles/s41598-026-80081-4_reference.pdf",
+   "https://doi.org/10.1038/s41598-026-80081-4"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": true,
+  "language": "en",
+  "found_at": "2026-11-27",
+  "summary_id": null,
+  "relevance": 36
+ },
+ {
+  "id": "W7239795979",
+  "doi": "10.1007/s13132-026-03568-5",
+  "title": "Entrepreneurial Knowledge, Skills, and Attitudes as Predictors of Entrepreneurial Self-efficacy among Rural Women: the Non-moderating Effect of Age in an Emerging Economy",
+  "date": "2026-11-25",
+  "year": "2026",
+  "journal": "Journal of the Knowledge Economy",
+  "issn": "18687865",
+  "publisher": "Springer Science+Business Media",
+  "authors": [
+   "Lisseth Katherine Chuquitucto Cotrina",
+   "Emma Verónica Ramos Farroñán",
+   "Pedro Manuel Silva León",
+   "Ana Elizabeth Paredes Morales",
+   "Carla Angélica Reyes Reyes"
+  ],
+  "abstract": "Entrepreneurial self-efficacy is a key predictor of entrepreneurial behavior, but its cognitive determinants among rural women in emerging economies remain largely unexplored. This study examines the effect of entrepreneurial knowledge, entrepreneurial skills, and attitudes toward entrepreneurship on entrepreneurial self-efficacy, while assessing the moderating role of age. A quantitative cross-sectional design was employed with a sample of 200 rural Peruvian women participating in economic empowerment programs, analyzed using PLS-SEM. The results reveal that entrepreneurial knowledge (β = 0.459; p < 0.001) and entrepreneurial skills (β = 0.328; p < 0.001) significantly predict entrepreneurial self-efficacy, with medium effect sizes. Attitudes toward entrepreneurship do not have a significant effect (β = 0.058; p = 0.463), and age does not moderate any of the relationships in the model. The model explains 61.6% of the variance in entrepreneurial self-efficacy (adjusted R 2). These findings challenge the universal applicability of the Theory of Planned Behavior in necessity-driven entrepreneurship contexts and suggest that empowerment programs should prioritize training in knowledge and skills over attitudinal change, without the need for age segmentation.",
+  "oa_url": "https://link.springer.com/content/pdf/10.1007/s13132-026-03568-5.pdf",
+  "pdf_url": "https://link.springer.com/content/pdf/10.1007/s13132-026-03568-5.pdf",
+  "pdf_urls": [
+   "https://link.springer.com/content/pdf/10.1007/s13132-026-03568-5.pdf",
+   "https://doi.org/10.1007/s13132-026-03568-5"
+  ],
+  "oa_status": "hybrid",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-27",
+  "summary_id": null,
+  "relevance": 34
+ },
+ {
+  "id": "W7239743584",
+  "doi": "10.14719/pst.12970",
+  "title": "Impact of organic farming schemes on soil health, economic viability and farmer adoption in the Nilgiris district of Tamil Nadu, India",
+  "date": "2026-11-25",
+  "year": "2026",
+  "journal": "Plant Science Today",
+  "issn": "23481900",
+  "publisher": "",
+  "authors": [
+   "P. Jaisridhar",
+   "R. Shanmugam",
+   "P. Raja",
+   "M Manivasakan Srinivasan",
+   "B Vinothkumar"
+  ],
+  "abstract": "This study was conducted to evaluate the comprehensive impact of organic farming schemes implemented in the Nilgiris district, India through systematic assessment of 200 farmers. The research examined bio-input adoption patterns, soil health transformations, economic viability and implementation constraints using advanced statistical methods including logistic regression analysis. Results revealed a 65.5 % adoption rate with vermicompost showing the highest preference at 77 %, followed by biofertilisers at 67.5 % and biopesticides at 59 %. Soil analysis demonstrated statistically significant improvements in all parameters: pH increased by 0.34 units, organic carbon content increased by 0.22 % (42.3 % increase) and electrical conductivity (EC) decreased by 0.10 dS m-1 (all p < 0.001). Economic analysis yielded exceptional results with a 14.7 % reduction in production costs, 137 % increase in farmer income and a benefit-cost (B : C) ratio of 2.31. Organic farmers achieved 37.51 % price premium compared to 5.38 % for non-adopters. Logistic regression identified three critical adoption barriers: lack of technical knowledge (odds ratio (OR) = 0.466, 53 % reduction in adoption odds), high input costs (OR = 0.395, 60 % reduction) and pest management difficulties (OR = 0.391, 61 % reduction), all significant at p < 0.001. Despite pest management being the top constraint, farmers achieved a 20.3 % yield increase, demonstrating economic viability when combined with improved soil health and market access. The study validates both environmental sustainability and economic profitability of organic farming in the Nilgiris while providing evidence-based recommendations for program enhancement.",
+  "oa_url": "https://doi.org/10.14719/pst.12970",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.14719/pst.12970"
+  ],
+  "oa_status": "diamond",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Akses & informasi pasar petani"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-27",
+  "summary_id": null,
+  "relevance": 32
+ },
+ {
+  "id": "W7239748357",
+  "doi": "10.1007/s44279-026-00830-x",
+  "title": "Farmers’ perceived challenges and opportunities for the adoption of vegetable production technologies in Bahir Dar Zuria District, northwest Ethiopia",
+  "date": "2026-11-25",
+  "year": "2026",
+  "journal": "Discover Agriculture",
+  "issn": "27319598",
+  "publisher": "Springer Science+Business Media",
+  "authors": [
+   "Yihunie Eniy Kebede",
+   "Atlaw Anbelu Sahile",
+   "Abebe Dagnew Koye",
+   "Tadie Mirie Abate"
+  ],
+  "abstract": "Vegetable production contributes to food, nutrition, and income among smallholder farmers in Ethiopia. However, farmers may face economic, production, and market-related challenges in adopting vegetable production technologies, while resource availability, farmer knowledge, training, and institutional support may create opportunities for adoption. Identifying and prioritizing these factors is essential for designing appropriate interventions. This study examined and ranked the major challenges and opportunities perceived by vegetable-producing households regarding vegetable production technologies in Bahir Dar Zuria District, Northwest Ethiopia. Data were collected from 385 vegetable-producing households in three kebeles (Robit, Wongeta, and Chicha) between October 11 and November 28, 2025, using a multistage sampling technique. Henry Garrett’s ranking technique was used to prioritize nine challenges and eight opportunities based on farmers’ perceptions. High input costs (70.63), pest and disease pressure (60.53), and low vegetable prices (54.80) received the highest mean Garrett scores among the challenges, ranking first, second, and third, respectively. Among the opportunities, natural water availability (65.01) and participation in Farmer Field Schools (62.87) ranked first and second, respectively. These findings highlight economic constraints, production risks, and market-related problems as important perceived barriers to the adoption and effective use of vegetable production technologies, while natural water availability and farmer training represent important perceived enabling conditions. The findings suggest prioritizing affordable input access, improved pest and disease management, stronger market linkages and price information, and expanded Farmer Field School-based training and extension support to address farmers’ reported concerns and opportunities.",
+  "oa_url": "https://doi.org/10.1007/s44279-026-00830-x",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1007/s44279-026-00830-x"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Akses & informasi pasar petani"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-27",
+  "summary_id": null,
+  "relevance": 32
+ },
+ {
+  "id": "W7239906662",
+  "doi": "10.3389/fsufs.2026.2023007",
+  "title": "Climate adaptation portfolios of farm households under gendered constraints on water access and control",
+  "date": "2026-11-25",
+  "year": "2026",
+  "journal": "Frontiers in Sustainable Food Systems",
+  "issn": "2571581X",
+  "publisher": "Frontiers Media",
+  "authors": [
+   "Yan Zhao",
+   "Jianqin Ma",
+   "Bifeng Cui",
+   "Guangtao Fu",
+   "Xiuping Hao",
+   "Chao Chen"
+  ],
+  "abstract": "Research on climate change adaptation must account for gender equality in water resource management. However, gender-sensitive approaches to climate adaptation have received comparatively limited attention. Taking Ningxia Hui Autonomous Region as an example, this study employed a retrospective cross-sectional survey conducted in 2024 to examine gender differences in water resource access, control, and climate adaptation strategies. Respondents retrospectively reported their experiences of climate-related hazards and adaptation practices during 2015–2024. Qualitative and quantitative methods were used to characterize reported adaptation practices and investigate the associations between household characteristics, water resource access and control, and adaptation strategy choices among male- and female-headed households. The results show that: (1) female-headed households have more limited access to and control over water resources, and gender differences are also reflected in household income and access to water-related information and opportunities; (2) female-headed households face greater constraints in responding to climate risks. Farmers adopted a range of adaptation strategies, including water-saving irrigation, water rights trading, rainwater harvesting and utilization, crop varieties, soil and water conservation, and multi-source income; and (3) the Multivariate Probit Model (MVP) indicates that adaptation strategies are interdependent, while household income, participation in water resource management, policy promotion, and training frequency are important factors associated with farmers' adaptation choices. Training frequency shows particularly strong associations among female-headed households. Improving female access to water-related information, training, and management participation can broaden the range of climate adaptation options and contribute to sustainable development.",
+  "oa_url": "https://www.frontiersin.org/journals/sustainable-food-systems/articles/10.3389/fsufs.2026.2023007/pdf",
+  "pdf_url": "https://www.frontiersin.org/journals/sustainable-food-systems/articles/10.3389/fsufs.2026.2023007/pdf",
+  "pdf_urls": [
+   "https://www.frontiersin.org/journals/sustainable-food-systems/articles/10.3389/fsufs.2026.2023007/pdf",
+   "https://doi.org/10.3389/fsufs.2026.2023007"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": true,
+  "language": "en",
+  "found_at": "2026-11-27",
+  "summary_id": null,
+  "relevance": 32
+ },
+ {
+  "id": "W7239825164",
+  "doi": "10.1186/s12939-026-03133-1",
+  "title": "Out-of-pocket health expenditures in Pakistan: understanding vertical and horizontal inequities across socioeconomic groups",
+  "date": "2026-11-25",
+  "year": "2026",
+  "journal": "International Journal for Equity in Health",
+  "issn": "14759276",
+  "publisher": "BioMed Central",
+  "authors": [
+   "Shabana Kishwar",
+   "Saima Bashir",
+   "Muhammad Ali Nasir",
+   "Shehzad Ali"
+  ],
+  "abstract": "In Pakistan, healthcare is largely financed through out-of-pocket payments (OOP), raising concerns about fairness and financial protection. This study assesses the magnitude and distribution of OOP payments and evaluates inequities across and within socioeconomic groups. Data were drawn from three rounds of the Household Integrated Economic Survey (2007 - 08, 2011 - 12, 2018 - 19). Vertical inequity was assessed against the ability-to-pay principle, as departure from proportionality in OOP shares across socioeconomic quintiles, while horizontal inequity captured disparities across gender and region within the same socioeconomic status. OOP payments remained regressive over time. The OOP share difference between the poorest and richest households declined from 56.9% in 2007-08 to 41.4% in 2018-19, yet the overall OOP rose in both groups by 57.8% among the poorest and nearly doubled among the richest. Within socioeconomic groups, gender-based OOP gaps among the poorest households were 2.14 and 1.25% points in 2007 - 08 and 2018 - 19, respectively, while regional gaps narrowed from 0.86 to 0.08% points. Inequities were more pronounced for outpatient than inpatient care and for households with older members. Persistently high and regressive OOP, alongside gender and regional disparities within socioeconomic groups, highlight the need for stronger financial protection policies targeting the poor, rural populations, and women in Pakistan.",
+  "oa_url": "https://doi.org/10.1186/s12939-026-03133-1",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1186/s12939-026-03133-1"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-27",
+  "summary_id": null,
+  "relevance": 23
+ },
+ {
+  "id": "W7239830881",
+  "doi": "10.1016/j.esd.2026.102182",
+  "title": "Socio-economic and environmental perceptions of biodigester adoption in Brazilian swine production: A multiple case study",
+  "date": "2026-11-25",
+  "year": "2026",
+  "journal": "Energy Sustainable Development/Energy for sustainable development",
+  "issn": "23524669",
+  "publisher": "Elsevier BV",
+  "authors": [
+   "Geovana Menegheti",
+   "Micaela Inés Castillo Ulloa",
+   "Giulihano Luis Feltz Zeni",
+   "Vinicius Moretti",
+   "Antônio Carlos de Francisco"
+  ],
+  "abstract": "Intensive pig farming generates substantial socio-environmental impacts from large-volume waste management, representing a relevant environmental liability in high-density production regions. Biodigesters have emerged as a strategic technology for waste treatment, energy generation, and biofertilizer production; however, effective adoption depends not only on technical feasibility but also on producers' perceptions of the technology's benefits and challenges, a dimension still underexplored in the literature. This study aimed to assess the socio-environmental and economic perceptions of pig farmers following biodigester installation, identifying the factors influencing adoption and its long-term sustainability. An exploratory mixed-methods approach was adopted, based on a multiple-case study design (n = 7 active biodigester users purposively selected within a technical-support network) in western Paraná, Brazil, combining descriptive quantitative analysis of structured questionnaires with qualitative content analysis of semi-structured interviews conducted in person. Results indicate a broadly positive perception of the technology among the participating producers: all producers reported perceived increases in family income and perceived improvements in quality of life, primarily attributed to reported reductions in odors (7/7) and flies (6/7); 71.4% reported savings on chemical fertilizers through biofertilizer use; overall satisfaction was high, with 71.4% of respondents rating themselves as very satisfied; and producers described the biodigester as serving multiple functions (waste treatment, energy, and biofertilizer), associated with an institutional support ecosystem of technical assistance, cooperative networks, and financing mechanisms. These findings suggest that producers' perceptions are a relevant element in consolidating environmental technologies in intensive production systems; they also have context-specific policy implications regarding technical assistance, cooperative networks, and financing access, and point to future research integrating perception-based and technical performance data.",
+  "oa_url": "https://doi.org/10.1016/j.esd.2026.102182",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1016/j.esd.2026.102182"
+  ],
+  "oa_status": "hybrid",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Kelembagaan petani & tindakan kolektif"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-27",
+  "summary_id": null,
+  "relevance": 22
+ },
+ {
+  "id": "W7239873860",
+  "doi": "10.3389/fnut.2026.1918238",
+  "title": "Reaching the vulnerable but not feeding them? Social grants, gender, and household food insecurity in post-COVID-19 South Africa",
+  "date": "2026-11-25",
+  "year": "2026",
+  "journal": "Frontiers in Nutrition",
+  "issn": "2296861X",
+  "publisher": "Frontiers Media",
+  "authors": [
+   "Nathaniel Siji Olutegbe",
+   "Oluwabunmi Oluwaseun Popoola",
+   "Marcus Ogunfolaju",
+   "Shehu Folaranmi Gbolahan Yusuf"
+  ],
+  "abstract": "Objective To examine the associations between gendered household headship, social grant receipt, and household food insecurity (FI) in post-COVID South Africa. Design Cross-sectional analysis of pooled 2022–2024 General Household Survey data (N = 60,816), employing logistic and ordinal regression models with survey design adjustments. Grant receipt was modelled as both a binary indicator and log-transformed amount with a gender × grant interaction term. Setting Nationally representative household survey conducted annually by Statistics South Africa across all nine provinces. Participants 60,816 households (32,500 male-headed; 28,316 female-headed) representing the South African population aged 18 years and above. Results Female-headed households exhibited higher descriptive FI (HFIAS score 1.50 as against males’ 1.30) and grant dependency (66%) compared to males’ 41%. Female headship was protective against FI (OR = 0.909) and adult hunger (OR = 0.905), but not child hunger (OR = 1.047), and this effect was moderated by grant receipt (interaction OR = 1.181). Female-headed households had lower FI (16.2%) than male-headed (17.6%) without grants; but rose to 16.4 and 17.7% (and to 26.8–28.9% in high-dependency scenarios) with grants. Binary grant receipt was non-significant, whilst grant amount was (OR = 1.08–1.10). Foster care (OR = 1.367) and “other” grants (OR = 1.601) showed the strongest associations. Employment was the strongest protective factor (OR = 0.50–0.54). FI worsened over time (OR = 1.126) and adult hunger (OR = 1.055), but child hunger did not (OR = 1.026). The proportional odds assumption was violated (χ 2 = 117.95, p < 0.001). Conclusion Social grants effectively reach vulnerable South African households but are insufficient to overcome structural food insecurity without complementary livelihood interventions.",
+  "oa_url": "https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2026.1918238/pdf",
+  "pdf_url": "https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2026.1918238/pdf",
+  "pdf_urls": [
+   "https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2026.1918238/pdf",
+   "https://doi.org/10.3389/fnut.2026.1918238"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Ketahanan pangan rumah tangga"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-27",
+  "summary_id": null,
+  "relevance": 22
+ },
+ {
+  "id": "W4416129150",
+  "doi": "10.1007/s10888-026-09758-0",
+  "title": "Dynamics of inequality of opportunity in wage earnings in India: a machine learning approach",
+  "date": "2026-11-25",
+  "year": "2026",
+  "journal": "The Journal of Economic Inequality",
+  "issn": "15691721",
+  "publisher": "Springer Science+Business Media",
+  "authors": [
+   "Gayathri Panampilly",
+   "Thiagu Ranganathan"
+  ],
+  "abstract": "This paper examines how inequality of opportunity (IoP) in wage earnings changed in India between 2018-19 and 2022-23. This is especially important in a country like India where more than 80 % of workforce is in the informal sector with little-to-no security of work and wages. We use machine learning models on large nationally representative datasets to capture the effects of parental background, caste, location and gender in ways the standard regression models cannot. A critical problem with this data is its reliance on co-resident households which introduces a strong selection bias. Our novelty lies in developing a new reweighting procedure to correct for this sample selection bias, making our estimates representative of the entire population. Our findings show that parental education is the primary driver of wage outcomes, although its dominance has weakened. Gender has become a more important factor, particularly in rural labour markets. While our findings suggest a drop in overall IoP measure from 19 % to 15 %, this apparent improvement, however, masks some heterogeneity. We argue that inequality is not simply declining but reconfiguring. Inherited disadvantages such as caste now operate through subtler channels, where social identity and family capital interact in new ways. This evolution of inequality demands a more nuanced policy response, one that looks beyond simple fixes to address the changing architecture of disadvantage in India.",
+  "oa_url": "https://www.researchsquare.com/article/rs-7899742/latest.pdf",
+  "pdf_url": "https://www.researchsquare.com/article/rs-7899742/latest.pdf",
+  "pdf_urls": [
+   "https://www.researchsquare.com/article/rs-7899742/latest.pdf",
+   "https://doi.org/10.21203/rs.3.rs-7899742/v1"
+  ],
+  "oa_status": "green",
+  "cited_by": 0,
+  "keywords": [
+   "inequality of opportunity",
+   "wage inequality",
+   "India",
+   "parental education",
+   "caste",
+   "gender pay gap",
+   "rural labor markets",
+   "informal economy"
+  ],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-27",
+  "summary_id": null,
+  "relevance": 21
+ },
+ {
+  "id": "W7239731241",
+  "doi": "10.3389/feduc.2026.1921638",
+  "title": "Exploring associations and potential mediating pathways: roles of socioeconomic status and intelligence in the relationship between maternal education and academic achievement in rural West Bengal",
+  "date": "2026-11-25",
+  "year": "2026",
+  "journal": "Frontiers in Education",
+  "issn": "2504284X",
+  "publisher": "Frontiers Media",
+  "authors": [
+   "Riton Mondal"
+  ],
+  "abstract": "Introduction Maternal education is a robust predictor of children's academic achievement, operating through improved home learning environments, parental involvement, and family resources. Children's intelligence is also a well-established predictor of scholastic success. However, the ways in which SES and intelligence jointly operate in the relationship between maternal education and academic achievement remain underexplored, particularly in resource-constrained rural settings of South Asia. Murshidabad district in West Bengal — characterized by low female literacy rates and significant educational disparities — provides a critical and under-researched cultural context for investigating these associations. Methods A cross-sectional survey design was used with 178 fourth-grade students (mean age = 9.18 years) from government schools in Murshidabad district. Data were collected on maternal education, nonverbal intelligence (Raven's Coloured Progressive Matrices), family SES (modified Kuppuswamy Scale), and academic achievement (final examination percentage scores). Multiple mediation analysis was conducted using Hayes' PROCESS macro (Model 6) with 5,000 bootstrap resamples, controlling for child age and gender. Results The full model explained 62.5% of the variance in academic achievement. Significant indirect effects were found through SES and through intelligence separately. The direct effect of maternal education on achievement remained significant. However, the serial pathway (maternal education → SES → intelligence → achievement) was not statistically significant, suggesting partial rather than fully sequential mediation. Discussion The findings indicate that maternal education influences children's academic achievement both directly and indirectly through family SES and children's intelligence as independent pathways in this rural Indian context. Results support ecological and socio-cognitive frameworks while highlighting the importance of family background factors in shaping educational outcomes.",
+  "oa_url": "https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2026.1921638/pdf",
+  "pdf_url": "https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2026.1921638/pdf",
+  "pdf_urls": [
+   "https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2026.1921638/pdf",
+   "https://doi.org/10.3389/feduc.2026.1921638"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-27",
+  "summary_id": null,
+  "relevance": 21
+ },
+ {
+  "id": "W7239897110",
+  "doi": "10.3389/fmed.2026.1896957",
+  "title": "Trends in physical fitness and functional health among older adults in China (2015–2025): evidence from national surveys",
+  "date": "2026-11-25",
+  "year": "2026",
+  "journal": "Frontiers in Medicine",
+  "issn": "2296858X",
+  "publisher": "Frontiers Media",
+  "authors": [
+   "Yimei Guo",
+   "Xiangjun Miao"
+  ],
+  "abstract": "Purpose To reveal the patterns and development trends of physical health among the older adults in China from 2015 to 2025, and to provide data support and theoretical basis for building a senior health service system under the Healthy China strategy. Method This study primarily utilized the fifth (2020) and sixth (2025) National Physical Fitness Monitoring data, supplemented with relevant additional data since 2015. Employing statistical methods and comparative analysis techniques, the study conducted a systematic analysis of the trends in three key dimensions—body morphology, physical function, and physical fitness—in the elderly population aged 60–79 years. Results From 2015 to 2025, the overall physical fitness level of China's elderly population exhibited characteristics of “partial optimization with an overall improvement.” In terms of body morphology, height and weight showed minor fluctuations, body fat percentage increased gradually, waist and hip circumferences demonstrated a downward trend, and the disparity in morphological indicators between urban and rural areas gradually narrowed. Regarding physical function, the declining trends in indicators such as vital capacity and cardiopulmonary endurance slowed, while some younger elderly groups showed improvements in relevant metrics. In terms of physical fitness, flexibility and balance abilities improved significantly, and the decline in muscle strength indicators (e.g., grip strength) narrowed; however, the elderly population continued to experience a rapid decline. Conclusion From 2015 to 2025, the physical health of the elderly in China showed a steady improvement overall, with the pass rate and excellent rate continuously rising while the non-pass rate significantly declining. The improvement rate from 2020 to 2025 exceeded that of the previous five years, which may reflect the effects of health policies for older adults. At the population level, gender and urban-rural disparities gradually narrowed, while age-related disparities remained pronounced—elderly individuals at younger ages exhibited the highest physical fitness levels with the largest improvement, whereas those at advanced ages had the lowest fitness levels but saw their declining trend halted.",
+  "oa_url": "https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2026.1896957/pdf",
+  "pdf_url": "https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2026.1896957/pdf",
+  "pdf_urls": [
+   "https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2026.1896957/pdf",
+   "https://doi.org/10.3389/fmed.2026.1896957"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-27",
+  "summary_id": null,
+  "relevance": 21
+ },
+ {
+  "id": "W7239880411",
+  "doi": "10.3389/fpos.2026.2024063",
+  "title": "Digital technology and farmers’ participation in rural water governance",
+  "date": "2026-11-25",
+  "year": "2026",
+  "journal": "Frontiers in Political Science",
+  "issn": "26733145",
+  "publisher": "Frontiers Media",
+  "authors": [
+   "Yifei Ma",
+   "马鹏超",
+   "Yuchun Zhu"
+  ],
+  "abstract": "Introduction Digital technology offers farmers new channels for participating in rural water environmental governance. We examine how village-level provision of digital participation channels relates to farmers’ participation breadth and how grassroots organizational conditions relate to this association. Methods We analyzed 2023 survey data from 1,508 farmers across seven provincial-level regions in China. Participation breadth was measured as the number of dimensions in which farmers reported participating digitally: information acquisition, decision-making, and oversight. We used ordinary least squares regression as the primary specification. A fractional logit model and a permutation analysis provided supplementary comparisons. Propensity score matching was exploratory. Separate linear decompositions examined indirect associations involving perceived organizational support and village cadres’ mobilization capacity. Results Village-level digital channel provision was positively associated with participation breadth and with each participation dimension. The linear decompositions yielded positive indirect associations involving both organizational measures. Subgroup analyses covering farmer characteristics, governance contexts, and perceptions of technology showed a positive association within groups defined by age, perceived government attention, and trust in digital governance technology. Discussion These findings provide survey evidence on the relationships among digital technology, grassroots organizational conditions, and farmers’ participation. They suggest that efforts to broaden digital participation in rural water environmental governance should consider the accessibility of digital channels, the assistance available to farmers, and village cadres’ capacity to organize participation, while promoting an inclusive and trustworthy environment for farmers to participate.",
+  "oa_url": "https://www.frontiersin.org/journals/political-science/articles/10.3389/fpos.2026.2024063/pdf",
+  "pdf_url": "https://www.frontiersin.org/journals/political-science/articles/10.3389/fpos.2026.2024063/pdf",
+  "pdf_urls": [
+   "https://www.frontiersin.org/journals/political-science/articles/10.3389/fpos.2026.2024063/pdf",
+   "https://doi.org/10.3389/fpos.2026.2024063"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Adopsi teknologi & pertanian digital"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-27",
+  "summary_id": null,
+  "relevance": 21
+ },
+ {
+  "id": "W7239720257",
+  "doi": "10.4103/ijcm.ijcm_870_25",
+  "title": "A Holistic Overview of India’s Regulatory Framework from Beedi Production to Consumption and Disposal – A Policy Framework Analysis",
+  "date": "2026-11-25",
+  "year": "2026",
+  "journal": "Indian Journal of Community Medicine",
+  "issn": "09700218",
+  "publisher": "Medknow",
+  "authors": [
+   "Pankaj Bhardwaj",
+   "Yogesh Kumar Jain",
+   "Yashika Bhati",
+   "Nitin Kumar Joshi",
+   "Shivam Kapoor",
+   "Amit Yadav",
+   "Akhil Dhanesh Goel",
+   "Manoj Kumar Gupta",
+   "Pranay Lal",
+   "Ashish Kumar Pandey",
+   "Rana Jugdeep Singh"
+  ],
+  "abstract": "Beedi smoking is the 2 nd most consumed form of tobacco in India, predominantly affecting lower socio-economic groups and contributing substantially to the national burden of non-communicable diseases. Despite existing regulatory frameworks, several enforcement gaps and regulatory loopholes persist across various stages of the beedi trade. This review assesses India’s policy framework across the beedi value chain, thus identifying gaps and potential reforms. A Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA)-guided systematic search and screening process was used to identify and select relevant policy documents. The Product Life Cycle (PLC) framework was used to map regulatory policies across the beedi lifecycle stages. The review analyzed laws, regulations, and policy documents related to beedi cultivation, production, distribution, and consumption. Of 125 records screened, 30 met inclusion, covering national and state documents and gray literature. The analysis revealed gaps across affordability, enforcement, labor welfare, and environmental regulation. Weak rural enforcement undermines compliance with health warnings, sales restrictions, and packaging laws. Dependence on underregulated labor, and hazardous working conditions persist despite welfare policies. Environmental harms, including deforestation and waste remain poorly addressed. Comparative insights from other countries suggest that uniform taxation, centralized enforcement, agricultural diversification, and structured worker transition programs can strengthen control measures. Effective beedi control in India requires integrated reforms combining equitable taxation, robust enforcement, labor protections, packaging compliance, and sustainable livelihood initiatives. Addressing policy gaps and supporting worker transitions are critical to meet World Health Organization Framework Convention on Tobacco Control (WHO FCTC) commitments, reducing health and socio-economic burdens.",
+  "oa_url": "https://doi.org/10.4103/ijcm.ijcm_870_25",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.4103/ijcm.ijcm_870_25"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemasaran, rantai pasok & rantai nilai"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-27",
+  "summary_id": null,
+  "relevance": 19
+ },
+ {
+  "id": "W7239721547",
+  "doi": "10.1017/s0021932026100728",
+  "title": "Menstrual health, genitourinary symptoms, and health-seeking behaviour among Santhal tribal women in rural Paschim Bardhaman, West Bengal, India",
+  "date": "2026-11-25",
+  "year": "2026",
+  "journal": "Journal of Biosocial Science",
+  "issn": "00219320",
+  "publisher": "Cambridge University Press",
+  "authors": [
+   "Medha Biswas",
+   "Amrita Kumari",
+   "Benukar Biswas"
+  ],
+  "abstract": "Menstrual health is shaped by socioeconomic conditions, sociocultural norms, and access to appropriate healthcare services. This study assessed menstrual-health practices, self-reported reproductive and genitourinary symptoms, culture-confirmed urinary tract infection, and healthcare-seeking behaviour among Santhal women in rural Paschim Bardhaman, West Bengal, India. A community-based cross-sectional study was conducted during 2023-2024 among 180 Santhal women aged 15-49 years in three villages of Faridpur-Durgapur Community Development Block, Paschim Bardhaman district. Participants were recruited through complete enumeration. Structured face-to-face interviews assessed menstrual-health practices, knowledge, restrictions, symptoms, and healthcare-seeking behaviour. Urine samples were collected from 34 participants who underwent culture testing. Data were analysed using descriptive statistics and logistic regression. Sixty percent of participants used old clothes, often washed without soap and dried indoors. Among the 34 participants who provided urine samples for culture, 27 (79.4%) had significant bacteriuria; culture positivity was observed in 20 of 22 symptomatic participants and 7 of 12 asymptomatic participants. Illiteracy (adjusted OR [aOR] = 2.35; 95% CI: 1.13-4.65) and lower socioeconomic status (aOR = 2.17; 95% CI: 0.78-3.38) were associated with higher odds of reported reproductive/genitourinary morbidity. Nearly one-third of symptomatic women did not seek professional healthcare, while some relied on self-treatment or local healers. Among women in this study population, unsafe menstruation-management practices, limited menstrual-health knowledge, and incomplete institutional care-seeking were common. Lower literacy and socioeconomic disadvantage were associated with higher reported morbidity.",
+  "oa_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/E152CD4F7D145D5BF9C6786FD61A9A58/S0021932026100728a.pdf/div-class-title-menstrual-health-genitourinary-symptoms-and-health-seeking-behaviour-among-santhal-tribal-women-in-rural-paschim-bardhaman-west-bengal-india-div.pdf",
+  "pdf_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/E152CD4F7D145D5BF9C6786FD61A9A58/S0021932026100728a.pdf/div-class-title-menstrual-health-genitourinary-symptoms-and-health-seeking-behaviour-among-santhal-tribal-women-in-rural-paschim-bardhaman-west-bengal-india-div.pdf",
+  "pdf_urls": [
+   "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/E152CD4F7D145D5BF9C6786FD61A9A58/S0021932026100728a.pdf/div-class-title-menstrual-health-genitourinary-symptoms-and-health-seeking-behaviour-among-santhal-tribal-women-in-rural-paschim-bardhaman-west-bengal-india-div.pdf",
+   "https://doi.org/10.1017/s0021932026100728"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-27",
+  "summary_id": null,
+  "relevance": 19
+ },
+ {
+  "id": "W7239736289",
+  "doi": "10.3389/fgwh.2026.1917114",
+  "title": "Factors associated with household decision-making autonomy among ever-married women in Somalia: an analysis of the 2020 Somali health and demographic survey",
+  "date": "2026-11-25",
+  "year": "2026",
+  "journal": "Frontiers in Global Women s Health",
+  "issn": "26735059",
+  "publisher": "Frontiers Media",
+  "authors": [
+   "Jama Barre Hared",
+   "Yahye Sheikh Abdulle Hassan",
+   "Said  Abdilahi Abdi",
+   "Liban Bile Mohamud",
+   "Zahra Abdirahman Mahmoud",
+   "Luqman Abdukadir Jama"
+  ],
+  "abstract": "Introduction Women's participation in household decision-making is an important dimension of autonomy and agency. However, evidence on multidimensional household decision-making autonomy among women in Somalia remains limited. This study examined its prevalence and associated factors among ever-married women in Somalia. Methods A cross-sectional analysis was conducted using data from the Somali Health and Demographic Survey (SHDS). The analysis included 43,436 ever-married women aged 15–49 years with complete information on the outcome and prespecified covariates. Autonomy was assessed across four domains: own healthcare, major household purchases, visits to family or relatives, and use of the husband's earnings. Women who participated alone or jointly with their husband in all four decisions were classified as having autonomy. Survey-weighted logistic regression accounting for sampling weights, clustering, and stratification estimated crude and adjusted odds ratios (AORs) with 95% confidence intervals (CIs). A separate analysis examined intimate partner violence (IPV) and autonomy. Results Overall, 32.06% (95% CI: 29.97–34.22) of women participated in all four decisions. Participation was highest in major household purchases (56.30%) and own healthcare (55.59%) and lowest in visits to family or relatives (44.76%). Women aged 35–49 years had higher odds of autonomy than those aged 15–24 years (AOR = 1.40, 95% CI: 1.17–1.67). Middle- and rich-wealth households also had higher odds (AOR = 1.47, 95% CI: 1.19–1.83; AOR = 1.36, 95% CI: 1.09–1.70), while rural/nomadic residence was associated with lower odds (AOR = 0.72, 95% CI: 0.61–0.86). Significant regional differences were observed. Education, recent work status, media exposure, and mobile-phone ownership were not independently associated with autonomy. Any IPV was associated with lower odds in crude analysis (COR = 0.69, 95% CI: 0.54–0.90), but not after adjustment (AOR = 0.77, 95% CI: 0.59–1.00; p = 0.054). Conclusion Household decision-making autonomy among ever-married women in Somalia was limited and varied by decision domain, age, wealth, residence, and region. Policies and programs should address socioeconomic and geographic disparities and strengthen women's opportunities to participate in household decision-making.",
+  "oa_url": "https://www.frontiersin.org/journals/global-womens-health/articles/10.3389/fgwh.2026.1917114/pdf",
+  "pdf_url": "https://www.frontiersin.org/journals/global-womens-health/articles/10.3389/fgwh.2026.1917114/pdf",
+  "pdf_urls": [
+   "https://www.frontiersin.org/journals/global-womens-health/articles/10.3389/fgwh.2026.1917114/pdf",
+   "https://doi.org/10.3389/fgwh.2026.1917114"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-27",
+  "summary_id": null,
+  "relevance": 19
+ },
+ {
+  "id": "W7239767988",
+  "doi": "10.1080/16549716.2026.2766108",
+  "title": "Study design to assess women’s and children’s mortality and child health 13–15 years after exposure to a successful community-based participatory women’s group intervention in rural Bangladesh",
+  "date": "2026-11-25",
+  "year": "2026",
+  "journal": "Global Health Action",
+  "issn": "16549880",
+  "publisher": "Taylor & Francis",
+  "authors": [
+   "Carlos Salvador Grijalva-Eternod",
+   "Sanjit Kumar Shaha",
+   "Naveed Ahmed",
+   "Abdul Kuddus",
+   "Tasmin Nahar",
+   "Kishwar Azad",
+   "Alina Rodriguez",
+   "G. A. Hitman",
+   "Anthony M de L Costello",
+   "Edward F. Fottrell"
+  ],
+  "abstract": "Between 2009 and 2011, a cluster-randomised trial of a Participatory Women's Groups (PWGs) intervention using Participatory Learning and Action (PLA) significantly reduced neonatal mortality. A follow-up in 2013 revealed growth differences in surviving children from highly exposed mothers in intervention groups compared to those from control. Currently, the long-term association between PWG interventions and survival of children, their mothers and younger siblings, as well as broader child health outcomes, remains largely unexplored. We describe the design of a 2024 study following up 18,940 eligible women whose pregnancies were registered during our 2009-2011 trial and their 18,107 liveborn children born within this timeframe. We gathered women's survival status and reproductive history since the intervention ended, including the number of subsequent births and the survival status of these children. For children who were alive at 4 weeks as per the 2009-2011 trial records, we recorded current survival status. For those who died after the age of 4 weeks up to the present survey, we used verbal autopsy to identify probable cause of death. Moreover, nested within our larger follow-up sample, we conducted a cross-sectional survey of growth and health outcomes in a sample of 3,835 children born during the 2009-2011 trial across intervention and control clusters. Intention-to-treat analyses will compare survival between trial arms according to original allocation. Analysis of growth and health outcomes will involve two separate comparisons: children in the high-exposure group versus those in the unexposed group and children in the variable-exposure group versus those in the unexposed group.",
+  "oa_url": "https://www.tandfonline.com/doi/pdf/10.1080/16549716.2026.2766108?needAccess=true",
+  "pdf_url": "https://www.tandfonline.com/doi/pdf/10.1080/16549716.2026.2766108?needAccess=true",
+  "pdf_urls": [
+   "https://www.tandfonline.com/doi/pdf/10.1080/16549716.2026.2766108?needAccess=true",
+   "https://doi.org/10.1080/16549716.2026.2766108"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-27",
+  "summary_id": null,
+  "relevance": 19
+ },
+ {
+  "id": "W7239775841",
+  "doi": "10.1186/s12982-026-03293-z",
+  "title": "Geographical accessibility to maternal healthcare, iron supplementation, anemia, and postpartum hemorrhage among referred pregnant women in southeastern Morocco",
+  "date": "2026-11-25",
+  "year": "2026",
+  "journal": "Discover Public Health",
+  "issn": "30050774",
+  "publisher": "BioMed Central",
+  "authors": [
+   "Khadija Aouni",
+   "Fatima Zahra Zayar",
+   "Karima Azekour",
+   "Sakhr Dadda",
+   "Mustapha Mouilly",
+   "Bachir El Bouhali"
+  ],
+  "abstract": "Geographical accessibility may influence antenatal care, preventive interventions, and maternal outcomes in geographically dispersed settings. This study assessed associations between healthcare accessibility, iron supplementation, maternal anemia, and postpartum hemorrhage (PPH) among referred pregnant women in southeastern Morocco. A cross-sectional study included 1,304 third-trimester pregnant women consecutively referred from peripheral facilities to Moulay Ali Cherif Regional Hospital, Drâa-Tafilalet. Sociodemographic, obstetric, clinical, and healthcare-access data were obtained through structured interviews and medical-record review. Associations were examined using chi-square tests and multivariable binary logistic regression. Geographic Information Systems were used descriptively to characterize accessibility and referral patterns. Most participants lived in rural areas (76.1%). Travel time > 1 h to the nearest antenatal care facility was associated with non-receipt of iron supplementation (aOR = 147.43; 95% CI: 67.99–319.72) and maternal anemia (aOR = 1.56; 95% CI: 1.12–2.18). Iron supplementation was associated with lower odds of maternal anemia (aOR = 0.006; 95% CI: 0.003–0.013). Estimated referral transfer time ≥ 2 h was associated with PPH (aOR = 2.49; 95% CI: 1.14–5.41). Geographical accessibility was associated with preventive antenatal care and maternal outcomes in this referred population. Improving access to antenatal services and timely obstetric referral may help reduce maternal health inequalities in remote settings.",
+  "oa_url": "https://link.springer.com/content/pdf/10.1186/s12982-026-03293-z.pdf",
+  "pdf_url": "https://link.springer.com/content/pdf/10.1186/s12982-026-03293-z.pdf",
+  "pdf_urls": [
+   "https://link.springer.com/content/pdf/10.1186/s12982-026-03293-z.pdf",
+   "https://doi.org/10.1186/s12982-026-03293-z"
+  ],
+  "oa_status": "diamond",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-27",
+  "summary_id": null,
+  "relevance": 19
+ },
+ {
+  "id": "W7239777117",
+  "doi": "10.3389/fsurg.2026.1966177",
+  "title": "Trends in peritonitis-related mortality among adults in the United States, 1999–2023: a nationwide observational study",
+  "date": "2026-11-25",
+  "year": "2026",
+  "journal": "Frontiers in Surgery",
+  "issn": "2296875X",
+  "publisher": "Frontiers Media",
+  "authors": [
+   "Nazish Iqbal",
+   "Shahzeb khan",
+   "Qurat Ul Ain Memon",
+   "Raza Haider",
+   "Mehmooda Wasim",
+   "Hajrah Hilal Ahmed",
+   "Muhammad Ahsan Shabbir",
+   "Muskan Johnson",
+   "Saad Ahmed Mughal",
+   "Aman Advani",
+   "Abdullah Khan"
+  ],
+  "abstract": "Introduction Peritonitis is a life-threatening intra-abdominal infection that often requires urgent surgical source control to prevent sepsis and multiorgan failure. Despite advances in emergency surgery and perioperative infection management, national patterns in peritonitis-related mortality remain unclear. This study aimed to describe national trends and demographic and geographic variation in peritonitis-related mortality among U.S. adults. Methods We analyzed death certificates obtained from the Centers for Disease Control and Prevention Wide-Ranging-Online-Data for Epidemiologic Research database to identify adults aged ≥25 years for whom peritonitis was documented as an underlying or contributing cause of death between 1999 and 2023. Age-adjusted mortality rates (AAMRs) per 100,000 individuals and annual percent change (APC) were calculated and stratified by year, sex, race/ethnicity, age group, census region, state, and urban–rural classification. Trends were evaluated using Joinpoint regression; state-level and urban–rural analyses covered 1999–2020. Results Between 1999 and 2023, a total of 182,308 peritonitis-related deaths occurred among adults aged ≥25 years. The overall AAMR declined significantly from 3.9 in 1999 to 3.1 in 2008 (APC: −2.9; 95% CI: −3.9 to −2.3), remained stable through 2018, and then increased to 3.6 in 2021 before declining to 3.4 in 2023, although neither of these later changes was statistically significant. Throughout this period, men consistently demonstrated higher AAMRs compared to women (3.7 vs. 2.9 per 100,000). American Indian or Alaska Native individuals had the highest AAMR among racial and ethnic groups (4.4). Geographically, the West (3.7) had the highest AAMR among census regions and New Mexico (4.5) among states (1999–2020). Additionally, non-metropolitan areas (3.5) experienced higher mortality rates than metropolitan areas (1999–2020). During the latter part of the study period, AAMRs increased significantly in most demographic and geographic subgroups. Conclusion \\Peritonitis-related mortality among U.S. adults declined during the early 2000s, plateaued, and has since increased in many demographic and geographic subgroups, with higher overall rates among men, American Indian or Alaska Native individuals, residents of the West, and non-metropolitan residents. Because death certificate data lack clinical and health-system information, these findings cannot identify the causes of these patterns. Studies linking mortality to etiology, treatment, and access to surgical care are needed.",
+  "oa_url": "https://www.frontiersin.org/journals/surgery/articles/10.3389/fsurg.2026.1966177/pdf",
+  "pdf_url": "https://www.frontiersin.org/journals/surgery/articles/10.3389/fsurg.2026.1966177/pdf",
+  "pdf_urls": [
+   "https://www.frontiersin.org/journals/surgery/articles/10.3389/fsurg.2026.1966177/pdf",
+   "https://doi.org/10.3389/fsurg.2026.1966177"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-27",
+  "summary_id": null,
+  "relevance": 19
+ },
+ {
+  "id": "W7239898313",
+  "doi": "10.1186/s13002-026-00994-2",
+  "title": "Ethnobotany and cultivation status of taro (Colocasia esculenta (L.) Schott) in the Republic of Côte d’Ivoire: a neglected crop of largely spontaneous populations",
+  "date": "2026-11-25",
+  "year": "2026",
+  "journal": "Journal of Ethnobiology and Ethnomedicine",
+  "issn": "17464269",
+  "publisher": "BioMed Central",
+  "authors": [
+   "Riwan Uriel Jaurès KOUKE",
+   "Chia Michelle Valérie Angui",
+   "Kouakou Warren Trésor Kouadio",
+   "Danho Fursy Rodelec Neuba",
+   "Djah François Malan",
+   "Béket Sévérin Bonny",
+   "Corneille Ahanhanzo",
+   "Kouamé Kevin Koffi"
+  ],
+  "abstract": "Background Taro (Colocasia esculenta (L.) Schott) is a neglected and underutilised crop whose status in the Republic of Côte d’Ivoire, a country dominated by perennial cash crops, remains poorly documented. Although taro has a long history in West African food systems, where it is generally a supplementary or lean-season food rather than a staple, its current cultural and agro-ecological status in the country had not been quantified. This study provides, to our knowledge, the first quantified assessment of the local knowledge and cultivation status of taro in southern Côte d’Ivoire. Methods A mixed-methods approach combining a semi-structured survey of 229 taro producers with systematic geo-referenced field prospecting was applied across four phytogeographic sectors and eleven ethnic groups of southern Côte d’Ivoire. Respondents were selected by stratified, purposive and snowball sampling, and every taro plant or patch encountered (n = 454) was geo-referenced and classified. The position of taro in the food-crop hierarchy was tested with the Friedman test; the management status of encountered plants was classified along the domestication gradient of Casas et al. and additionally grouped into spontaneous, intermediate and cultivated levels; and cropping systems, local naming diversity and a producer typology were analysed. Results Taro ranked last among eight staple crops (mean rank 7.31 of 8; Friedman χ² = 1292, p < 0.001, Kendall W = 0.81) and was consumed mainly as a substitution food during shortages of the main tubers. No proper taro field was found: more than 80% of the plants recorded were wild or tolerated (binomial test, p < 0.01) and concentrated in humid habitats, while all cultivated occurrences were in association with other crops — chiefly plantain, oil palm and cocoa — never as pure stands. This pattern of neglect cut across ethnic and phytogeographic boundaries, yet coexisted with a rich, largely family-specific local nomenclature and three recognisable morphotypes. Attitudes towards the crop formed a weakly structured gradient of producer profiles that was statistically independent of ethnicity and zone. Conclusions These findings place Ivorian taro at the low-management end of the domestication continuum, closer to a gathered wetland resource than to a cultivated crop, and highlight the importance of in situ conservation of its humid habitats alongside ex situ collection. The persistence of a rich local nomenclature indicates that cultural knowledge of the crop endures even where it is agronomically neglected; this decoupling between agronomic decline and cultural persistence, together with the ageing profile of growers, defines the conservation challenge for this orphan crop.",
+  "oa_url": "https://doi.org/10.1186/s13002-026-00994-2",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1186/s13002-026-00994-2"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Kelapa sawit"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-27",
+  "summary_id": null,
+  "relevance": 19
+ },
+ {
+  "id": "W7130818973",
+  "doi": "10.1186/s12978-026-02501-y",
+  "title": "Prevalence and correlates of miscarriage in Bangladesh: a trimester-specific analysis",
+  "date": "2026-11-25",
+  "year": "2026",
+  "journal": "Reproductive Health",
+  "issn": "17424755",
+  "publisher": "BioMed Central",
+  "authors": [
+   "Ehsan Ahmed",
+   "Sanjida Akter",
+   "Md. Injamul Haq Methun"
+  ],
+  "abstract": "Background Miscarriage is a common adverse pregnancy outcome worldwide, yet its burden and associated factors remain insufficiently documented in many low- and middle-income countries, particularly for early gestational losses. This study estimates the prevalence of miscarriage in Bangladesh and examines socio-demographic and reproductive correlates, with attention to trimester-specific patterns. Methods We analyzed 9,216 eligible pregnancies reported within three years preceding the 2022 Bangladesh Demographic and Health Survey. Miscarriage was defined as involuntary pregnancy loss occurring before 24 weeks of gestation and further classified into first- and second-trimester losses. Complex survey-weighted multivariable logistic regression models were used to estimate adjusted associations between selected covariates and miscarriage outcomes while accounting for the multi-stage stratified cluster sampling design of the survey. Results Overall, 11.7% of pregnancies ended in miscarriage, with 82.4% occurring in the first trimester. Higher odds of miscarriage were observed among women aged 35–49 years, women who were currently working, and those whose first birth occurred at age 20 years or later. Rural residence was associated with lower odds of overall and first-trimester miscarriage. Additionally, significant regional variations were observed, with women in the Rangpur division showing lower odds of second-trimester miscarriage. Conclusions Miscarriage remains a substantial reproductive health concern in Bangladesh, with correlates varying by gestational stage. The findings highlight the importance of early pregnancy monitoring and targeted reproductive health support, particularly for older and working women. Longitudinal studies are needed to clarify causal pathways and better capture early pregnancy losses.",
+  "oa_url": "https://doi.org/10.1186/s12978-026-02501-y",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1186/s12978-026-02501-y",
+   "https://www.researchsquare.com/article/rs-8507386/latest.pdf",
+   "https://doi.org/10.21203/rs.3.rs-8507386/v1"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [
+   "miscarriage",
+   "early pregnancy loss",
+   "second trimester loss",
+   "prevalence",
+   "unintended pregnancy",
+   "maternal age",
+   "women's employment",
+   "rural residence"
+  ],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-27",
+  "summary_id": null,
+  "relevance": 15
+ },
+ {
+  "id": "W7239810152",
+  "doi": "10.9734/ajmah/2026/v24i121480",
+  "title": "Determinants of Adequate Antenatal Care Utilisation in India: A Hierarchical Fixed-Effects Regression Analysis Using Andersen’s Behavioural Model",
+  "date": "2026-11-25",
+  "year": "2026",
+  "journal": "Asian Journal of Medicine and Health",
+  "issn": "24568414",
+  "publisher": "",
+  "authors": [
+   "Sahil Sahil"
+  ],
+  "abstract": "Background: While almost all pregnant women in India attend at least one antenatal care (ANC) visit, a significant proportion do not complete the recommended four or more visits, resulting in substantial gaps in maternal and newborn care. Aims: The present study aims to identify the socioeconomic, demographic, and health-related determinants associated with adequate antenatal care in India. The analysis is guided by Andersen’s behavioural model and evaluates the relative contributions of predisposing, enabling, and need factors, as well as regional state-level differences. Methodology: Using the National Family Health Survey 2019–2021 (NFHS-5), this study examined 174,483 women aged 15–49 years whose most recent live birth occurred in the five years preceding the survey to identify the key determinants of ANC use. ANC utilisation was defined as completing at least four visits during the most recent pregnancy. Adjusted prevalence ratios (aPRs) were estimated using hierarchical modified Poisson regression models with sequential block entry of predisposing, enabling, and need factors, and state fixed effects. Adjusted Wald tests assessed the contribution of each domain. Results: Overall, 59.3% of women made four or more ANC visits. In the full Andersen model, use was higher among women with higher education (aPR 1.27; 95% CI 1.23–1.30), high exposure to mass media (aPR 1.25; 1.22–1.28), wealthier households (aPR 1.16; 1.14–1.18) and health insurance (aPR 1.09; 1.08–1.11). It was lower among rural women (aPR 0.93; 0.92–0.95), women for whom distance to a facility was a big problem (aPR 0.95; 0.93–0.96), fourth- or higher-order births (aPR 0.76; 0.74–0.78) and unwanted pregnancies (aPR 0.86; 0.82–0.89). Scheduled Caste (SC) women remained disadvantaged after adjustment. State of residence was the strongest single correlate (Wald F = 161.3); relative to Kerala, statistically significant state aPRs ranged from 0.28 (Nagaland) to 1.04 (Tamil Nadu). Most major individual-level associations remained, although their magnitudes were reduced, after controlling for state fixed effects. Conclusion: The key determinants of adequate ANC utilisation in India were education, media exposure, wealth, health insurance and place of residence. These findings suggest that policies should target women with limited education and media exposure, disadvantaged and uninsured households, women with high parity or unplanned pregnancies, and the North-Eastern and Central states where utilisation is lowest. As this analysis relies on cross-sectional self-reported survey data, the findings indicate associations rather than causal relationships.",
+  "oa_url": "https://doi.org/10.9734/ajmah/2026/v24i121480",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.9734/ajmah/2026/v24i121480"
+  ],
+  "oa_status": "diamond",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-27",
+  "summary_id": null,
+  "relevance": 15
+ },
+ {
+  "id": "W7239846580",
+  "doi": "10.4103/ijcm.ijcm_742_25",
+  "title": "Knowledge, Attitude, and Practices Regarding Indoor Air Pollution and Peak Expiratory Flow Rate among Rural Women in Dehradun, Uttarakhand: A Community-based Cross-sectional Study",
+  "date": "2026-11-25",
+  "year": "2026",
+  "journal": "Indian Journal of Community Medicine",
+  "issn": "09700218",
+  "publisher": "Medknow",
+  "authors": [
+   "Sheelendra Yadav",
+   "Neha Paliwal Sharma",
+   "Abhay S. Srivastava",
+   "Shaili Vyas",
+   "Akash Krishali",
+   "Deepti Nagrath"
+  ],
+  "abstract": "Introduction: Indoor Air Pollution (IAP) affects 2.4 billion people worldwide, accounting for 3.6% of global DALYs. Women, especially in rural households, face higher exposure due to the use of biomass and coal. Aims and Objectives: To assess knowledge and awareness of IAP among rural women, identify household risk factors, and evaluate their airway function using Peak Expiratory Flow Rate (PEFR). Methodology: A multistage community-based cross-sectional study in rural Dehradun included 105 married women (20-49 years) via pretested questionnaires, with 74 completing voluntary Peak Expiratory Flow Rate (PEFR) testing (31 declined); data were analyzed using MS Excel and SPSS v20. Results: The study included 105 participants with a mean age of 37.08 ± 8.54 years. PEFR testing completed in 74 participants revealed a significant age-related decline from 348.6 ± 48.5 L/min (<30 years) to 261.1 ± 37.3 L/min (41-50 years; P < 0.001). Despite high PMUY awareness (84.8%), general IAP awareness remained limited (48.6%), with older cohorts showing significantly lower health literacy and risk perception regarding indoor air pollution. Conclusion: High PMUY awareness and preserved baseline lung function mask persistent indoor exposure risks among older rural women, highlighting the urgent need for targeted behavioral interventions alongside ongoing clean fuel access.",
+  "oa_url": "https://doi.org/10.4103/ijcm.ijcm_742_25",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.4103/ijcm.ijcm_742_25"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-27",
+  "summary_id": null,
+  "relevance": 15
+ },
+ {
+  "id": "W7239851141",
+  "doi": "10.3390/molecules31234304",
+  "title": "Synergistic Co Active Sites in Zn/Co Double Hydroxychloride–Biochar Composite for Hydrogen Peroxide-Driven Degradation of Anti-Inflammatory Pharmaceuticals",
+  "date": "2026-11-25",
+  "year": "2026",
+  "journal": "Molecules",
+  "issn": "14203049",
+  "publisher": "Multidisciplinary Digital Publishing Institute",
+  "authors": [
+   "Ralf Ricardo Ramalho",
+   "Ana Cristina Trindade Cursino",
+   "Gabrielly M. Santos",
+   "Lucas G. Costa",
+   "Alam G. Trovó",
+   "Sandro José de Andrade"
+  ],
+  "abstract": "A novel hybrid catalyst was synthesized using a peanut shell-derived biochar (BC) as a support for a bimetallic zinc/cobalt double hydroxychloride salt (ZnCoHS). The catalyst was then evaluated for the degradation of persistent anti-inflammatory pharmaceuticals in water. Textural and spectroscopic characterizations using FTIR, XRD, SEM-EDS, and N2 physisorption confirmed the successful integration of ZnCoHS with the carbonaceous support. The optimized composite, BC0.75@ZnCoHS0.25, displayed a high surface area of 481 m2 g−1 and a microporous architecture that facilitated high spatial dispersion of Co active metallic centers. In heterogeneous Fenton-like degradation tests conducted at near-neutral pH (7.1 ± 0.2) in distilled water, the BC0.75@ZnCoHS0.25/H2O2 system removed 86% of diclofenac and 67% of ibuprofen within 60 min. The degradation processes followed pseudo-first-order kinetics, with rate constants of 0.020 and 0.010 min−1, respectively. Radical scavenging experiments demonstrated that Co active sites initiated primary hydrogen peroxide activation, while superoxide radicals (O2•−) acted as the dominant reactive oxygen species responsible for pharmaceutical removal, operating cooperatively with environmentally persistent free radicals present on the biochar matrix. This study highlights the valorization of waste agricultural biomass used to produce high-performance hybrid catalysts for advanced wastewater remediation.",
+  "oa_url": "https://doi.org/10.3390/molecules31234304",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.3390/molecules31234304"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Kelembagaan petani & tindakan kolektif"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-27",
+  "summary_id": null,
+  "relevance": 14
+ },
+ {
+  "id": "W7239730211",
+  "doi": "10.3389/fimmu.2026.2007283",
+  "title": "The children–adults tetanus immunity gap in Henan Province, Central China: a cross-sectional serosurvey of 8,511 residents",
+  "date": "2026-11-25",
+  "year": "2026",
+  "journal": "Frontiers in Immunology",
+  "issn": "16643224",
+  "publisher": "Frontiers Media",
+  "authors": [
+   "Qian Liu",
+   "Jiangnan Kong",
+   "Daxing Feng",
+   "Yonghao Guo"
+  ],
+  "abstract": "Background Tetanus is vaccine-preventable but does not induce herd immunity, so protection depends on maintaining adequate anti-tetanus toxoid IgG levels across the life course. Although China eliminated neonatal tetanus in 2012, its national immunization programme does not include routine adolescent or adult boosters, and adult immunity remains poorly characterized. Methods In a population-based cross-sectional serosurvey conducted in 2024 in 15 prefecture-level cities of Henan Province, China, healthy residents aged 0–80 years were selected by multistage stratified random sampling. Sera were collected from participants, and anti-tetanus toxoid IgG levels were quantified via ELISA. Seropositivity (≥0.01 IU/mL) and seroprotection (≥0.1 IU/mL) were estimated according to demographic, occupational, and regional characteristics. The association between antibody concentration and the interval since the last dose of tetanus toxoid-containing vaccine (TTCV) was modelled with a sex- and dose-adjusted segmented log-linear regression. Results Of the 8,511 total participants, 72.76% were seropositive and 43.33% were seroprotected, with a geometric mean concentration (GMC) of 0.041 IU/mL. Seroprotection was highest (83.33%) among children aged 0–1 years, who had completed primary TTCV immunization in China. It declined to 69.15% at 4–5 years and rebounded to 76.61% at 6 years, coinciding with the fifth TTCV dose administered at school entry. Tetanus immunity decreased with increasing age, with seroprotection dropping to 4.17% in the 40–59-year age group. Adjusted odds ratios for seroprotection were lower in adults aged ≥20 years compared with children aged 0–1 years. Among the 4,611 children with documented TTCV immunization records, the modelled GMC declined by 23.92% (95% CI: 18.77%–28.75%) per year before a change point at 1.75 years after the last dose, and by 10.64% (95% CI: 8.61%–12.63%) per year thereafter. The predicted population-average concentration crossed the seroprotection threshold 3.39 years (95% CI: 3.04–3.74) after the last dose. Seroprotection was low in the high-risk groups: farmers (5.52%), workers (6.94%), women of reproductive age (14.16%), and adults aged ≥60 years (7.24%). Conclusions In this serosurvey, tetanus immunity was high among young children and low among adults, indicating a children–adults immunity gap. Closing this gap would require extending coverage beyond the childhood vaccination schedule and maintaining it throughout life.",
+  "oa_url": "https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2026.2007283/pdf",
+  "pdf_url": "https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2026.2007283/pdf",
+  "pdf_urls": [
+   "https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2026.2007283/pdf",
+   "https://doi.org/10.3389/fimmu.2026.2007283"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-27",
+  "summary_id": null,
+  "relevance": 14
+ },
+ {
+  "id": "W7239872836",
+  "doi": "10.1111/coep.70061",
+  "title": "Labor market adjustment to natural disasters: Quasi‐experimental evidence from the 2023 Kahramanmaraş earthquakes in Türkiye",
+  "date": "2026-11-25",
+  "year": "2026",
+  "journal": "Contemporary Economic Policy",
+  "issn": "10743529",
+  "publisher": "Wiley",
+  "authors": [
+   "Demet Topal Koç"
+  ],
+  "abstract": "This study examines the labor market effects of the 2023 Kahramanmaraş earthquakes in Türkiye using nationally representative Labor Force Survey data for 2021–2024 and a difference‐in‐differences approach. The results indicate that employment declined by 3.6 percentage points for men and 2.2 percentage points for women in affected regions. Employment losses were concentrated in services, while effects in agriculture and manufacturing were generally insignificant. In contrast, real wages remained largely unchanged. Heterogeneity analyses reveal variation across education groups and employment types. Overall, labor market adjustment occurred primarily through employment losses rather than wage changes.",
+  "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/coep.70061",
+  "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/coep.70061",
+  "pdf_urls": [
+   "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/coep.70061",
+   "https://doi.org/10.1111/coep.70061"
+  ],
+  "oa_status": "bronze",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-27",
+  "summary_id": null,
+  "relevance": 14
+ },
+ {
+  "id": "W7239778845",
+  "doi": "10.14719/pst.13762",
+  "title": "Optimised nutrient management for sustainable rice-wheat cropping systems: A five-year on-farm study in Trans-Gangetic Plains Region, India",
+  "date": "2026-11-25",
+  "year": "2026",
+  "journal": "Plant Science Today",
+  "issn": "23481900",
+  "publisher": "",
+  "authors": [
+   "S D Ram",
+   "Kavita",
+   "Ram Dhan Jat",
+   "Ritambhara",
+   "Kautilya Chaudhary",
+   "Shweta",
+   "S Danveer"
+  ],
+  "abstract": "The rice-wheat cropping system (RWCS), a cornerstone of food security in the Indo-Gangetic Plains (IGP), faces challenges from nutrient depletion and declining soil health due to intensive cultivation. To address this, a five-year on-farm study (2017–18 to 2021–22) was conducted across 24 farmers' fields in two blocks of Fatehabad district, Haryana, India. The primary objectives were to evaluate the impact of various nitrogen (N), phosphorus (P), potassium (K) and zinc (Zn) fertiliser combinations on grain yields, partial factor productivity (PFP), agronomic use efficiency (AUE), sustainable yield index (SYI) and economic viability of the RWCS. Seven fertiliser treatments were implemented as T1-control (0-0-0), T2-N alone, T3-NP, T4-NK, T5-NPK, T6-NPK + Zn and T7-farmers' fertiliser management practice (FFMP). The highest grain yields were recorded with NPK + Zn treatment for rice (5142 kg ha-1) and wheat (5706 kg ha-1). The combined application of NP significantly enhanced rice grain yield by 105 % and wheat grain yield by 97 % over the control. Partial factor productivity of N increased with the combined application of N and P and with the further inclusion of K and Zn. The AUE of N in rice ranged from 14.76–21.20 kg grain kg-1 N, while in wheat it ranged from 15.75–29.83 kg grain kg-1 N. The SYI was highest with NPK + Zn (0.90). Economically, NPK + Zn (T6) yielded the highest gross returns (293377 ha₹-1) and net returns (199367 ha₹-1). This study advocates for integrating macro- and micronutrients to enhance productivity, profitability and soil fertility in the RWCS.",
+  "oa_url": "https://doi.org/10.14719/pst.13762",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.14719/pst.13762"
+  ],
+  "oa_status": "diamond",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Ketahanan pangan rumah tangga"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-27",
+  "summary_id": null,
+  "relevance": 14
+ },
+ {
+  "id": "W7239847042",
+  "doi": "10.3390/nu18233944",
+  "title": "Federal and Statewide Universal Free School Meal Policies in the United States: A Systematic Review",
+  "date": "2026-11-25",
+  "year": "2026",
+  "journal": "Nutrients",
+  "issn": "20726643",
+  "publisher": "Multidisciplinary Digital Publishing Institute",
+  "authors": [
+   "Juliana F.W. Cohen",
+   "Gabriella M. McLoughlin",
+   "Maura Beltrami",
+   "Siri Joshi",
+   "Trisha Patel",
+   "Marlene B. Schwartz",
+   "Lindsey R. Turner",
+   "Leah Elizabeth Chapman"
+  ],
+  "abstract": "Background/Objectives: Universal free school meals (UFSM) provide free school meals to all students regardless of household income. However, a better understanding of how UFSM policies impact students, households, and schools is necessary to inform policymakers. This systematic review synthesized evidence on federal and statewide UFSM policies in the United States (U.S.) and their associations with student, household, and school outcomes. Methods: PubMed, ERIC, and Web of Science were searched in May 2026, followed by reference-list screening and Google Scholar citation searching. Eligible studies were peer-reviewed publications published between 2020–2026 that examined federal or statewide UFSM policies in U.S. K-12 schools. Two reviewers independently screened abstracts and full-text screening was conducted by one reviewer. Data was extracted in duplicate by two independent reviewers. Study quality was assessed using the School-based Measurement & Assessment of Results Tool (SMART) and the Joanna Briggs Institute qualitative appraisal checklist. This review was registered with PROSPERO (registration number: CRD420261422689). Results: Twenty-five studies met the inclusion criteria, including 14 quantitative, 6 mixed-methods, and 5 qualitative studies. UFSM policies were consistently associated with increased school meal participation, reduced stigma, and improved food security. Studies also reported broad support among students, parents, school staff, and school food authorities, and improved household and school meal finances. Greater administrative efficiency was observed but only with the federal UFSM policy. Challenges included staffing shortages, foodservice capacity, longer meal lines, and insufficient time to eat. Conclusions: Evidence suggests that federal and statewide UFSM policies provide broad benefits for students, households, and schools. Successful implementation of UFSM policies also requires adequate reimbursement rates, staffing, infrastructure, and sufficient time for students to eat.",
+  "oa_url": "https://doi.org/10.3390/nu18233944",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.3390/nu18233944"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Ketahanan pangan rumah tangga"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-27",
+  "summary_id": null,
+  "relevance": 14
+ },
+ {
+  "id": "W7239731056",
+  "doi": "10.1017/s0021932026100704",
+  "title": "The impact of allocare on maternal and child health outcomes in rural Timor-Leste",
+  "date": "2026-11-25",
+  "year": "2026",
+  "journal": "Journal of Biosocial Science",
+  "issn": "00219320",
+  "publisher": "Cambridge University Press",
+  "authors": [
+   "Bronwyn Mikayla Slivkoff",
+   "Keeley McGee",
+   "Kathy Sanders",
+   "Debra S. Judge"
+  ],
+  "abstract": "Human life history includes prolonged periods of child dependency. Mothers with multiple dependent offspring experience high childcare demands from costly young. In this period of dependency, children must receive adequate food and resources for healthy growth. Allocare increases the mother’s time/energy budget at some cost to the helper. Timor-Leste faces problems of food insecurity and child malnutrition. This study investigates the presence of allocare in three largely subsistence-farming communities in Timor-Leste and its effect on mothers’ work and health and children’s growth. Interviews of 215 mothers in 182 households assessed household characteristics, grandparent proximity to the home, and the diversity and number of individuals in caregiving networks based on a childcare recall. Height and weight were measured for 295 children and converted to z -scores using the WHO international standard, which were used as outcome variables in linear mixed models. Maternal grandmother’s (but not paternal grandmother’s) presence was associated with maternal employment in salaried work. There was no association between having a more extensive allocarer network and a reduction in maternal illness. Having more allocarers was not associated with an increase in the mother’s salaried work or with child growth. Neither grandmother living in the respondent’s home nor named in the mother’s childcare recall was associated with improved child growth. Having more older children (aged over 6 and under 19) in the home was associated with shorter stature in their under-6-year-old siblings. When grandmother was absent, older children were more often reported as allocarers by mothers; however, older children’s care was not associated with benefits to younger children’s growth. Overall, maternal grandmothers are the most reliable allocarers, with older siblings as fallback carers when grandmothers are absent.",
+  "oa_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/78DDA1687774A1CF46BED6EBDE70EBB5/S0021932026100704a.pdf/div-class-title-the-impact-of-allocare-on-maternal-and-child-health-outcomes-in-rural-timor-leste-div.pdf",
+  "pdf_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/78DDA1687774A1CF46BED6EBDE70EBB5/S0021932026100704a.pdf/div-class-title-the-impact-of-allocare-on-maternal-and-child-health-outcomes-in-rural-timor-leste-div.pdf",
+  "pdf_urls": [
+   "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/78DDA1687774A1CF46BED6EBDE70EBB5/S0021932026100704a.pdf/div-class-title-the-impact-of-allocare-on-maternal-and-child-health-outcomes-in-rural-timor-leste-div.pdf",
+   "https://doi.org/10.1017/s0021932026100704"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Ketahanan pangan rumah tangga"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-27",
+  "summary_id": null,
+  "relevance": 12
+ },
+ {
+  "id": "W7239755791",
+  "doi": "10.1017/s1368980026103681",
+  "title": "Spatial trends in multiple micronutrient supplementation effects on low birth weight and infant wasting in rural Bangladesh: a secondary geospatial analysis of the JiVitA-3 randomised controlled trial",
+  "date": "2026-11-25",
+  "year": "2026",
+  "journal": "Public Health Nutrition",
+  "issn": "13689800",
+  "publisher": "Cambridge University Press",
+  "authors": [
+   "Mary de Boer",
+   "Frank C. Curriero",
+   "Andrew Thorne‐Lyman",
+   "Rezwanul Haque",
+   "Saijuddin Shaikh",
+   "Brian Dyer",
+   "Hasmot Ali",
+   "Lee Shu Fune Wu",
+   "Alain Bernard Labrique",
+   "Parul S. Christian",
+   "Keith P. West"
+  ],
+  "abstract": "Objective: To examine spatial patterns in low birth weight (LBW) and infant wasting across the JiVitA-3 study area and assess whether the effects of antenatal multiple micronutrient supplementation (MMS) vary along the same geographic gradients as socio-economic status and dietary diversity. Design: We conducted a secondary analysis of the JiVitA-3 cluster randomised trial comparing MMS to iron-folic acid (IFA). Outcomes included LBW (<2500 g) and thin mid-upper arm circumference (MUAC) at birth (<9 cm), 1 month (<11 cm) and 3, 6 and 12 months (<11·5 cm). Spatial intensity surfaces of LBW and thin MUAC relative to normal values were estimated. Generalised estimating equation Poisson regression models assessed MMS v. IFA effects, adjusting for socio-economic status, maternal dietary diversity, education, parity, BMI and gestational age. Geographic effect modification by longitude was evaluated using natural cubic splines. Modeled relative risks were smoothed and mapped. Setting: Rural northwest Bangladesh. Participants: 21 975 singleton live births within geolocated households. Results: LBW and infant wasting exhibited a clear east-west gradient, with higher risk in the more rural east. MMS reduced risk of LBW (RR 0·86, 95 % CI: 0·83, 0·90) and thin MUAC at birth (RR 0·90, 0·84–0·97), 1 month (RR 0·89, 0·86–0·92) and 3 months (RR 0·86, 0·80–0·94), but not at 6 or 12 months. Spatial effect modification was present for LBW (Wald interaction coefficient p value <0·001) and thin birth MUAC (p = 0·016). Outcomes and modelled relative risks had visually concordant spatial patterning. Conclusions: While LBW and infant wasting varied geographically, the protective effect of MMS was uniform across space, supporting universal distribution. Additional interventions are needed beyond infancy.",
+  "oa_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/27ECFEBC327D9807B23A34B17C0A3686/S1368980026103681a.pdf/div-class-title-spatial-trends-in-multiple-micronutrient-supplementation-effects-on-low-birth-weight-and-infant-wasting-in-rural-bangladesh-a-secondary-geospatial-analysis-of-the-jivita-3-randomised-controlled-trial-div.pdf",
+  "pdf_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/27ECFEBC327D9807B23A34B17C0A3686/S1368980026103681a.pdf/div-class-title-spatial-trends-in-multiple-micronutrient-supplementation-effects-on-low-birth-weight-and-infant-wasting-in-rural-bangladesh-a-secondary-geospatial-analysis-of-the-jivita-3-randomised-controlled-trial-div.pdf",
+  "pdf_urls": [
+   "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/27ECFEBC327D9807B23A34B17C0A3686/S1368980026103681a.pdf/div-class-title-spatial-trends-in-multiple-micronutrient-supplementation-effects-on-low-birth-weight-and-infant-wasting-in-rural-bangladesh-a-secondary-geospatial-analysis-of-the-jivita-3-randomised-controlled-trial-div.pdf",
+   "https://doi.org/10.1017/s1368980026103681"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Ketahanan pangan rumah tangga"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-27",
+  "summary_id": null,
+  "relevance": 12
+ },
+ {
+  "id": "W7239901829",
+  "doi": "10.9734/ijecc/2026/v16i115803",
+  "title": "Maize Farmers’ Perceptions of Climate Change and Variability and Their Adaptation Strategies in the Ejura-Sekyedumase Municipality, Ghana",
+  "date": "2026-11-25",
+  "year": "2026",
+  "journal": "International Journal of Environment and Climate Change",
+  "issn": "25818627",
+  "publisher": "Sciencedomain International",
+  "authors": [
+   "Francis Aforve",
+   "Antoinette Buah"
+  ],
+  "abstract": "Aims: This study assessed maize farmers' perceptions of climate change and variability, their adaptation strategies and the perceived effectiveness of these strategies in the Ejura-Sekyedumase Municipality, Ghana. Study Design: A mixed-methods approach combined a household questionnaire survey with focus group discussions. Place and Duration: The research was conducted in ten maize-producing communities between February and August 2024. Methodology: Multistage sampling was used to select 370 farmers. Of these, 345 returned questionnaires, and 280 complete responses were included in the main analyses. Six focus group discussions involving 65 participants provided qualitative data. Quantitative data were analysed using descriptive statistics and Pearson correlation in SPSS, while qualitative data underwent thematic and content analysis. Results: Increased temperature was reported by 88.6% of respondents, erratic rainfall by 70.4%, and more frequent droughts by 67.5%. Overall, 86.1% had adopted at least one adaptation strategy, while 87.1% had adopted new maize varieties. Drought-resistant and early-maturing varieties were frequently adopted. Organic compost application (45.7%) and organic mulching (26.1%) were the most common soil management practices and were perceived as beneficial. Adoption was negatively correlated with age (r = −0.254, P < .001) and farming experience (r = −0.252, P < .001), but positively correlated with education (r = 0.199, P = .001). Conclusion: Accessible climate information, farmer training and agricultural extension services may encourage wider adoption, particularly among older, more experienced and less-educated farmers.",
+  "oa_url": "https://doi.org/10.9734/ijecc/2026/v16i115803",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.9734/ijecc/2026/v16i115803"
+  ],
+  "oa_status": "diamond",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Adopsi teknologi & pertanian digital"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-27",
+  "summary_id": null,
+  "relevance": 11
+ },
+ {
+  "id": "W7239845136",
+  "doi": "10.1002/puh2.70470",
+  "title": "What Drives Minimum Dietary Diversity Among Children Aged 6–23 Months in Bangladesh? Socioeconomic Inequality, Spatial Variation, and Policy Insights From a Multilevel and Decomposition Analysis of the 2022 BDHS",
+  "date": "2026-11-25",
+  "year": "2026",
+  "journal": "Public Health Challenges",
+  "issn": "27692450",
+  "publisher": "Wiley",
+  "authors": [
+   "Md. Monir Hossain",
+   "Rubaiyat Alam",
+   "Ishrat Jahan",
+   "Afrada Farzin Rabab",
+   "M. D. Sameer Hasan",
+   "Shahana Sultana",
+   "Tanjela Bushra",
+   "M Atiqul Haque",
+   "Rumana Rois"
+  ],
+  "abstract": "Background Minimum dietary diversity (MDD) is a critical indicator of complementary feeding quality, yet socioeconomic and geographic disparities remain poorly understood in Bangladesh. This study examined the prevalence, determinants, inequality, and spatial variation of MDD among children aged 6–23 months using the 2022 Bangladesh Demographic and Health Survey (BDHS). Methods Data from 2576 children were analyzed. MDD was defined as consumption of ≥5 of 8 WHO‐recommended food groups in 24 h. Survey‐weighted and multilevel logistic regression identified determinants. The Erreygers‐corrected concentration index (ECI) and decomposition analysis measured socioeconomic inequality and its contributors. Spatial prediction mapped adjusted MDD probability across divisions. Results Only 37.2% of children achieved MDD. Higher child age, maternal secondary/higher education, household wealth, four or more antenatal care (ANC) visits, vitamin A supplementation, deworming, and residence in Khulna or Mymensingh divisions were positively associated with MDD. MDD was significantly concentrated among wealthier households (ECI = 0.2112, p < 0.001). Household factors contributed 60.5% of the inequality, followed by maternal factors (21.5%). Adjusted MDD probability was highest in Khulna (50.6%) and lowest in Sylhet (28.7%) and Chattogram (29.5%). Conclusion MDD in Bangladesh remains low, stagnant over 5 years, and profoundly unequal. Reducing child dietary diversity disparities requires integrating poverty reduction, girls’ secondary education, universal ANC coverage with infant and young child feeding (IYCF) counseling, and division‐specific nutrition strategies.",
+  "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/puh2.70470",
+  "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/puh2.70470",
+  "pdf_urls": [
+   "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/puh2.70470",
+   "https://doi.org/10.1002/puh2.70470"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Ketahanan pangan rumah tangga"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-27",
+  "summary_id": null,
+  "relevance": 6
+ },
+ {
+  "id": "W7239733002",
+  "doi": "10.1017/eso.2026.10171",
+  "title": "From the Field to the Factory: The Origins of Virginia Tobacco Manufacturing and Industrial Enslaved Management",
+  "date": "2026-11-25",
+  "year": "2026",
+  "journal": "Enterprise & Society",
+  "issn": "14672227",
+  "publisher": "Cambridge University Press",
+  "authors": [
+   "Matthew Grace"
+  ],
+  "abstract": "This article examines the origins and development of Virginia’s antebellum tobacco manufacturing industry through the relationship between plantation slavery and urban-industrial slavery. It argues against treating these systems as fundamentally distinct or understanding industrial slavery as a form of “quasi-freedom.” Tobacco manufacturers initially intended to replicate in their factories certain tobacco cultivation techniques and plantation enslavers’ strategic use of violence to discipline and compel enslaved workers. Yet the urban factory environment, enslaved resistance, and manufacturers’ dependence on leased enslaved labor limited their ability to employ unrestrained violence. Consequently, tobacconists and enslaved factory workers were forced to negotiate a system of monetary incentives based on existing plantation practices that encouraged production while reducing conflict. These incentives provided enslaved workers with limited opportunities for mobility, family life, consumption, and autonomy, but were inherently coercive and served the interests of enslavers. Many in white society complained these negotiated incentives undermined white supremacy and slavery. In reality, slavery grew stronger and more profitable thanks to urban-industrial slavery. Ultimately, Virginia’s tobacco industry demonstrates how industrialization developed within, rather than outside, plantation slavery, revealing both continuities and tensions between agricultural and industrial forms of bondage.",
+  "oa_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/BC87DE4E1A198F5B88CBD513EBA11174/S1467222726101712a.pdf/div-class-title-from-the-field-to-the-factory-the-origins-of-virginia-tobacco-manufacturing-and-industrial-enslaved-management-div.pdf",
+  "pdf_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/BC87DE4E1A198F5B88CBD513EBA11174/S1467222726101712a.pdf/div-class-title-from-the-field-to-the-factory-the-origins-of-virginia-tobacco-manufacturing-and-industrial-enslaved-management-div.pdf",
+  "pdf_urls": [
+   "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/BC87DE4E1A198F5B88CBD513EBA11174/S1467222726101712a.pdf/div-class-title-from-the-field-to-the-factory-the-origins-of-virginia-tobacco-manufacturing-and-industrial-enslaved-management-div.pdf",
+   "https://doi.org/10.1017/eso.2026.10171"
+  ],
+  "oa_status": "hybrid",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Tenaga kerja & produktivitas perkebunan"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-27",
+  "summary_id": null,
+  "relevance": 6
+ },
+ {
+  "id": "W7239840937",
+  "doi": "10.1177/27527530261505853",
+  "title": "Taste-Testing Nutritious Meals With Youth Experiencing Chemotherapy-Induced Taste Alterations",
+  "date": "2026-11-25",
+  "year": "2026",
+  "journal": "Journal of Pediatric Hematology/Oncology Nursing",
+  "issn": "27527530",
+  "publisher": "SAGE Publishing",
+  "authors": [
+   "Sheila Judge Santacroce",
+   "Beth Cosgrove",
+   "Rebecca Bosch",
+   "Victoria Crowder",
+   "Andrew Brian Smitherman",
+   "Alice S. Ammerman",
+   "Bridgette Thom"
+  ],
+  "abstract": "Background Youth undergoing chemotherapy for pediatric cancer can experience taste alterations and household food insecurity that compromise nutritional status and thus clinical outcomes. This paper reports on taste testing nutritious meals in a clinical setting with youth undergoing chemotherapy to inform a future meals program. Method Youth between ages 12 and 21.9 years, fluent in English or Spanish, and experiencing chemotherapy-related taste alterations were eligible for this cross-sectional study. Consented/assented youth were offered trays with four meal samples, asked to taste each sample, and then rate meal qualities on a 1–5 visual analog scale (5 = very happy face) and provide feedback via an online survey. Researchers also recorded their observations. Quantitative data were analyzed with descriptive statistics and qualitative data with content analysis. The pre-established benchmark for inclusion in the future feasibility study was overall meal rating of 4 or 5 by at least 70% of raters. Results Seventeen taste-test sessions were conducted, 32 unique youth provided assent, and eight meal samples were taste-tested in two waves (four meals per wave). Four (4/8; 50%) meals met the benchmark for inclusion in the future feasibility study. Participant ratings and feedback, and researcher observations indicated that how meals looked and felt in the mouth, alongside parental support, were critical to ingestion. Discussion The study was well received by youth, parents, and staff at the site. The results will inform adaptation and selection of meals for future feasibility study of an intervention to reduce food insecurity in households of youth undergoing chemotherapy for pediatric cancer.",
+  "oa_url": "https://doi.org/10.1177/27527530261505853",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1177/27527530261505853"
+  ],
+  "oa_status": "hybrid",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Ketahanan pangan rumah tangga"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-27",
+  "summary_id": null,
+  "relevance": 0
+ },
+ {
+  "id": "W7239879420",
+  "doi": "10.1001/jamanetworkopen.2026.46107",
+  "title": "Food Insecurity During Pregnancy and Child Neurodevelopmental Outcomes",
+  "date": "2026-11-25",
+  "year": "2026",
+  "journal": "JAMA Network Open",
+  "issn": "25743805",
+  "publisher": "American Medical Association",
+  "authors": [
+   "Luke P. Grosvenor",
+   "Rana F. Chehab",
+   "Nala A. Al-Khatib",
+   "Meredith Anderson",
+   "Jennifer Ames",
+   "Assiamira M. Ferrara",
+   "Rebecca L. Hill",
+   "Yeyi Zhu",
+   "Lisa Croen"
+  ],
+  "abstract": "Importance Food insecurity affects over 12% of adults in the US and has been associated with adverse pregnancy and birth outcomes. However, little is known about the relationship between food insecurity during pregnancy and child neurodevelopmental outcomes. Objective To determine whether food insecurity during pregnancy is associated with greater risk of neurodevelopmental disorders (NDDs) including autism spectrum disorder (ASD). Design, Setting, and Participants This cohort study included pregnant individuals in the Kaiser Permanente Northern California integrated health system surveyed between June 2020 and September 2022 and their children followed up through December 2025. Exposures Food insecurity measured using the Hunger as a Vital Sign Questionnaire. Main Outcomes and Measures NDD and ASD diagnoses were determined by the presence of International Classification of Diseases, Ninth Revision (ICD-9) and International Statistical Classification of Diseases and Related Health Problems, Tenth Revision (ICD-10) codes in child electronic health records. Adjusted hazard ratios (aHR) for any NDD and ASD diagnoses were estimated separately using Cox models adjusted for maternal age, neighborhood deprivation index, insurance type, parity, prepregnancy body mass index, prepregnancy depression, child birth year, and sex. Participation in food assistance programs was evaluated as a modifier of the association between food insecurity and NDD risk. Results Of a total 21 376 pregnant individuals who responded, 13 285 met criteria for inclusion in analysis (mean [SD] age at delivery, 32.7 [4.5] years; 2781 Asian [20.9%], 410 Black [3.1%], 2628 Hispanic [19.8%], 6505 White [49.0%]); 1599 (12.0%) reported food insecurity. Of the children in the cohort (6835 male [51.4%]), 2741 (20.6%) were diagnosed with NDD and 690 (5.2%) with ASD. Food insecurity during pregnancy was associated with greater risk of both any NDD (aHR, 1.24; 95% CI, 1.10-1.38) and ASD (aHR, 1.49; 95% CI, 1.21-1.80). Risk was elevated only among those who did not receive food assistance both for NDD (no food assistance: aHR, 1.26; 95% CI, 1.11-1.43; food assistance: aHR, 1.04; 95% CI, 0.80-1.34) and ASD (no food assistance: aHR, 1.69; 95% CI, 1.36-2.10; food assistance: aHR, 0.78; 95% CI, 0.49-1.22). Conclusions and Relevance In this cohort study of mother-child pairs in a Northern California health system, food insecurity during pregnancy was associated with greater risk of NDDs. Participation in food assistance programs by households that experience food insecurity may provide health benefits for children; children born to households experiencing food insecurity may benefit from earlier developmental screening and monitoring.",
+  "oa_url": "https://doi.org/10.1001/jamanetworkopen.2026.46107",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1001/jamanetworkopen.2026.46107"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Ketahanan pangan rumah tangga"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-27",
+  "summary_id": null,
+  "relevance": 0
+ },
+ {
+  "id": "W7239402925",
+  "doi": "10.1002/agr.70178",
+  "title": "Assessing Inequality Effects on Small Crop Farmers' Willingness to Pay for Post‐Harvest Loss Reduction Technologies in the Southeastern United States",
+  "date": "2026-11-24",
+  "year": "2026",
+  "journal": "Agribusiness",
+  "issn": "07424477",
+  "publisher": "Wiley",
+  "authors": [
+   "Haotian Cheng",
+   "Rui Chen",
+   "Lucy Asare-Baah",
+   "Recep Ulucak",
+   "Mengxue Li",
+   "Yaoqi Zhang"
+  ],
+  "abstract": "This study investigates the willingness to pay (WTP) for post‐harvest loss (PHL) reduction technologies among small‐scale crop farmers in the Southeastern United States. Using conjoint analysis, the findings reveal a general willingness among farmers to invest in technologies such as temperature control (e.g., refrigerated vehicles), humidity control (e.g., Wakati systems), and solar drying. Moreover, the study highlights the policy barriers, including financial and technical constraints, that hinder adoption, as well as significantly higher WTP among Black and small‐scale farmers. These findings underscore how targeted policy interventions, such as the USDA's Farm Storage Facility Loan (FSFL), can improve access to PHL reduction technologies, enhance food security, and promote equitable agricultural development.",
+  "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/agr.70178",
+  "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/agr.70178",
+  "pdf_urls": [
+   "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/agr.70178",
+   "https://doi.org/10.1002/agr.70178"
+  ],
+  "oa_status": "bronze",
+  "cited_by": 0,
+  "keywords": [
+   "post-harvest loss reduction",
+   "willingness to pay",
+   "smallholder farmers",
+   "crop farmers",
+   "agricultural technology adoption",
+   "temperature control",
+   "refrigerated vehicles",
+   "humidity control"
+  ],
+  "topics": [
+   "Ketahanan pangan rumah tangga"
+  ],
+  "priority_journal": true,
+  "language": "en",
+  "found_at": "2026-11-27",
+  "summary_id": null,
+  "relevance": 47
+ },
+ {
+  "id": "W7239833564",
+  "doi": "10.7759/s44404-026-00389-2",
+  "title": "Export Readiness in Farmer Producer Organizations: A Structured Integrative Literature Review of Core Capability Dimensions",
+  "date": "2026-11-24",
+  "year": "2026",
+  "journal": "Cureus Journal of Business and Economics.",
+  "issn": "3059202X",
+  "publisher": "Springer Nature",
+  "authors": [
+   "Gajanan Pachaghare",
+   "Pankaj Vishwakarma"
+  ],
+  "abstract": "Farmer Producer Organizations (FPOs) are increasingly expected to facilitate smallholder participation in higher-value international markets, yet the capabilities associated with export readiness remain fragmented across international business, agricultural, organizational, institutional, and value-chain research. This study integrates these dispersed bodies of evidence to develop a multidimensional conceptual understanding of export readiness in FPOs. A structured integrative literature review was undertaken using seven theory-informed search streams for literature identification, followed by inductive cross-stream synthesis to consolidate recurring concepts into higher-order capability domains. Literature identification was completed on May 31, 2026, using Google Scholar, Semantic Scholar, Elicit, Research Rabbit, backward and forward citation tracking, and targeted institutional and policy searches. Of 466 records identified, 40 duplicate or alternate records were consolidated, leaving 426 unique studies for screening; 278 studies underwent detailed review, and 118 core studies constituted the final synthesis. Evidence was systematically extracted, qualitatively appraised, compared across literature streams, and conceptually consolidated. The synthesis identified five domains of export readiness: Financial Capability, Product Readiness and Compliance, Organizational and Managerial Capability, Institutional Support, and Value Chain Integration and Market Linkages. The findings indicate that FPO export readiness is best understood as a multidimensional condition shaped by internal organizational capabilities and external enabling mechanisms rather than as a single or sequential pathway. FPO- and producer-organization studies provided direct contextual evidence, while broader SME and exporter studies informed transferable enterprise-level mechanisms and were interpreted cautiously in the FPO context. Internationalization theory, the capability perspective, and collective-action theory provide complementary lenses for interpreting the identified domains. The proposed domains represent literature-derived conceptual propositions rather than empirically validated dimensions of an export-readiness model; their relative importance, indicators, and interrelationships may vary across commodities, destination markets, regulatory and certification regimes, market channels, and FPO characteristics. The review provides a transparent and theoretically grounded foundation for the development and empirical validation of context-sensitive approaches to assessing export readiness in FPOs.",
+  "oa_url": "https://assets.cureusjournals.com/artifacts/upload/review_article/pdf/19220/CureusJournals_1922020261125-42873-dgt15x.pdf",
+  "pdf_url": "https://assets.cureusjournals.com/artifacts/upload/review_article/pdf/19220/CureusJournals_1922020261125-42873-dgt15x.pdf",
+  "pdf_urls": [
+   "https://assets.cureusjournals.com/artifacts/upload/review_article/pdf/19220/CureusJournals_1922020261125-42873-dgt15x.pdf",
+   "https://doi.org/10.7759/s44404-026-00389-2"
+  ],
+  "oa_status": "hybrid",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemasaran, rantai pasok & rantai nilai",
+   "Kelembagaan petani & tindakan kolektif"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-27",
+  "summary_id": null,
+  "relevance": 40
+ },
+ {
+  "id": "W7239845903",
+  "doi": "10.3390/su182311968",
+  "title": "Blockchain Integration in Agricultural Circular Supply Chains: Insights from Dynamic Capabilities and ISM",
+  "date": "2026-11-24",
+  "year": "2026",
+  "journal": "Sustainability",
+  "issn": "20711050",
+  "publisher": "Multidisciplinary Digital Publishing Institute",
+  "authors": [
+   "Yung‐Fu Huang",
+   "Tran Kim Chi",
+   "Thi-Them Hoang",
+   "Manh‐Hoang Do"
+  ],
+  "abstract": "This research aims to identify and structurally analyze the critical enablers of blockchain integration into agricultural circular supply chains from a dynamic capabilities perspective. Fourteen enabling factors were identified through a synthesis of the existing literature and expert consultations, considering the specific characteristics of agricultural circular supply chains. The ISM–MICMAC approach was subsequently employed to examine the structural relationships, hierarchical positions, and driving-dependence characteristics of these factors. The findings identify four overarching dimensions and highlight four foundational enablers: Demand for Circular Transparency, Institutional and Regulatory Environment, Supply Chain Digitalization and Data Integration, and Circular Business Model Innovation. By integrating dynamic capabilities theory with ISM–MICMAC, this study provides a hierarchical understanding of the interdependencies among blockchain adoption enablers in agricultural circular supply chains. The findings suggest that market, institutional, technological, and business model considerations collectively shape the structural foundations for blockchain-enabled circular transformation, extending beyond technological readiness alone.",
+  "oa_url": "https://doi.org/10.3390/su182311968",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.3390/su182311968"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemasaran, rantai pasok & rantai nilai"
+  ],
+  "priority_journal": true,
+  "language": "en",
+  "found_at": "2026-11-27",
+  "summary_id": null,
+  "relevance": 40
+ },
+ {
+  "id": "W7239863564",
+  "doi": "10.1002/hsr2.73555",
+  "title": "Prevalence, Outcomes, and Social and Clinical Risk Factors of Preeclampsia: A Population‐Based Study in Mashhad, Iran",
+  "date": "2026-11-24",
+  "year": "2026",
+  "journal": "Health Science Reports",
+  "issn": "23988835",
+  "publisher": "Wiley",
+  "authors": [
+   "Sayed Mortaza Fayez",
+   "Veda Vakili"
+  ],
+  "abstract": "Background and Aims Preeclampsia, a multifactorial hypertensive disorder of pregnancy, significantly impacts maternal and neonatal health. While clinical risk factors are established, social and geographic disparities remain underexplored. This analytical cross‐sectional study investigated the prevalence, outcomes, and risk factors associated with preeclampsia among women covered by Mashhad University of Medical Sciences, focusing on these disparities. Methods Data were reviewed from 82,014 deliveries during 2022, including 354 mothers with preeclampsia and 1062 without. The prevalence of preeclampsia was 0.43%, lower than national estimates, likely reflecting registry‐based diagnosis. Inclusion criteria were a registry diagnosis of preeclampsia, defined as systolic blood pressure ≥ 140 mmHg or diastolic blood pressure ≥ 90 mmHg after 20 weeks of gestation accompanied by proteinuria ≥ 300 mg/24 h. All preeclampsia cases were included regardless of severity; the registry did not subclassify cases as mild or severe. Results Mothers with preeclampsia were younger, had higher pre‐pregnancy BMI, and were more likely to be multiparous. Histories of hypertension and diabetes were more common. Geographic disparities were evident, with higher rates among rural residents. Affected pregnancies resulted in lower neonatal birth weight, length, and head circumference, along with higher rates of cesarean delivery and preterm birth. Neonatal hospital admissions were higher in the control group, possibly due to other clinical factors. Conclusions Preeclampsia is linked to significant complications. Key risk factors include high BMI, preexisting diabetes or hypertension, adverse obstetric history, and rural residence.",
+  "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/hsr2.73555",
+  "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/hsr2.73555",
+  "pdf_urls": [
+   "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/hsr2.73555",
+   "https://doi.org/10.1002/hsr2.73555"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-27",
+  "summary_id": null,
+  "relevance": 19
+ },
+ {
+  "id": "W7239368465",
+  "doi": "10.1186/s12889-026-30535-1",
+  "title": "Knowledge, perception, and preventive practices of gender-based violence among secondary school students in rural Nigeria: evidence of a knowledge–practice disconnect",
+  "date": "2026-11-24",
+  "year": "2026",
+  "journal": "BMC Public Health",
+  "issn": "14712458",
+  "publisher": "BioMed Central",
+  "authors": [
+   "Esther Nnennaya Umahi",
+   "Promise Izuchukwu Okoroafor",
+   "Godwin Nwadibia Aja"
+  ],
+  "abstract": "Gender-based violence (GBV) is a major public health concern among adolescents, particularly in settings where sociocultural norms may limit its recognition and prevention. This study assessed knowledge, perception and prevention practices related to GBV among secondary school students in rural Ebonyi State, Nigeria, and examined factors associated with these outcomes. A school-based cross-sectional study was conducted among 300 senior secondary school students selected through multistage sampling. Data were collected using a pretested, self-administered questionnaire. Composite knowledge, perception and prevention-practice scores were generated and categorized using a 50% threshold for descriptive purposes. Spearman’s correlation and Pearson’s chi-square tests assessed associations between these domains, while unadjusted and multivariable linear regression models examined associated factors using continuous scores. Mean knowledge, perception and prevention-practice scores were 12.62 ± 4.70 out of 30, 10.25 ± 6.42 out of 36 and 6.01 ± 2.82 out of 12, respectively. Poor knowledge was observed in 184/276 students (66.7%), negative perceptions in 237/275 (86.2%) and good prevention practices in 181/287 (63.1%). Knowledge was moderately correlated with prevention practices (ρ = 0.508), while perception showed a weaker correlation (ρ = 0.232); both were statistically significant. Categorical knowledge was significantly associated with prevention practices, whereas perception was not. Living with a guardian was associated with higher knowledge scores (adjusted β = 1.94; 95% CI: 0.12–3.77). Compared with SS1, SS2 and SS3 students had lower perception scores (adjusted β = −5.18 and − 4.36, respectively). Living with one parent or a guardian was associated with higher perception scores, while being in a relationship was associated with lower scores. Higher prevention-practice scores were associated with polygamous family type, living with one parent or a guardian, being in a relationship and witnessing caregiver arguments. Uncertainty about household financial status was associated with lower prevention-practice scores. Despite generally poor knowledge and negative perceptions, reported prevention practices were comparatively better. The associations between these domains, alongside their incomplete alignment, suggest that adolescents’ preventive responses reflect complex influences. Integrated interventions at the school, family and community levels should strengthen GBV knowledge, challenge harmful beliefs and promote practical prevention skills.",
+  "oa_url": "https://doi.org/10.1186/s12889-026-30535-1",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1186/s12889-026-30535-1"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [
+   "gender-based violence",
+   "high school students",
+   "knowledge-practice gap",
+   "preventive practices",
+   "perceptions of violence",
+   "rural Nigeria",
+   "adolescent girls"
+  ],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-27",
+  "summary_id": null,
+  "relevance": 17
+ },
+ {
+  "id": "W4387110847",
+  "doi": "10.1002/hec.70180",
+  "title": "Does High‐Speed Internet Access Affect the Mental Health of Older Adults?",
+  "date": "2026-11-24",
+  "year": "2026",
+  "journal": "Health Economics",
+  "issn": "10579230",
+  "publisher": "Wiley",
+  "authors": [
+   "Vikas PD Gawai"
+  ],
+  "abstract": "Recent evidence finds a negative effect of the internet on younger people's mental health, but less is known about older adults, who are more vulnerable to both mental health issues and online deception. This study estimates the effect of broadband expansion on the mental health of older adults in the United States. Using individual panel data, a staggered broadband rollout, and the latest difference‐in‐differences methods, I find broadband significantly improves older adults' mental health, reducing depression symptoms by 5.7% and clinical symptoms of depression by 10%. Potential mechanisms include an increase in the self‐use of the internet, declines in feelings of social isolation and loneliness and suggestive evidence of improvements in the quality of virtual social connections. I find no evidence of other potential mechanisms, such as medication use for anxiety or depression and labor force outcomes, providing further support for the social mechanisms. Heterogeneity analyses provide evidence of larger improvements among rural residents, women, White respondents, and married respondents, with the clearest difference between rural and urban respondents. This work highlights broadband's additional unmeasured benefits to public investments, given the allocation of over 65 billion to broadband expansion in recent years.",
+  "oa_url": "https://doi.org/10.2139/ssrn.4494307",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.2139/ssrn.4494307"
+  ],
+  "oa_status": "green",
+  "cited_by": 0,
+  "keywords": [
+   "broadband expansion",
+   "internet access",
+   "older adults",
+   "mental health",
+   "depression",
+   "social isolation",
+   "loneliness",
+   "social connectedness"
+  ],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-27",
+  "summary_id": null,
+  "relevance": 15
  },
  {
   "id": "W7239444388",
@@ -596,7 +2231,8 @@
    "digital divide"
   ],
   "topics": [
-   "Pemberdayaan petani & gender"
+   "Pemberdayaan petani & gender",
+   "Kelembagaan petani & tindakan kolektif"
   ],
   "priority_journal": false,
   "language": "en",
