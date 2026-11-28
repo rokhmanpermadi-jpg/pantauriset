@@ -212,6 +212,37 @@
   "relevance": 15
  },
  {
+  "id": "W7240032445",
+  "doi": "10.22214/ijraset.2026.85913",
+  "title": "An Integrated Decision-Support Platform for Agricultural Equipment Sharing: Multi-Criteria Recommendation, Booking and Utilisation Analytics",
+  "date": "2026-11-30",
+  "year": "2026",
+  "journal": "International Journal for Research in Applied Science and Engineering Technology",
+  "issn": "23219653",
+  "publisher": "International Journal for Research in Applied Science and Engineering Technology (IJRASET)",
+  "authors": [
+   "Ashwini Tekale",
+   "Vrushali Punde"
+  ],
+  "abstract": "Access to suitable agricultural machinery at the required time remains a practical challenge for farmers who cannot economically justify individual ownership of expensive equipment. Equipment-sharing and custom-hiring arrangements can improve access, but their effectiveness depends on the ability to identify suitable machinery, verify availability, coordinate bookings and understand equipment demand. This paper presents KrishiYantra, an integrated web-based decision-support platform designed to support agricultural equipment sharing through multi-criteria recommendation, date-based booking, cooperative cost allocation and equipment utilisation analytics. The platform is implemented using Java, Spring Boot, Spring MVC, Spring Data JPA, Spring Security, Thymeleaf and MySQL. Its recommendation mechanism ranks eligible equipment using operation compatibility, land suitability, budget headroom, availability, owner rating and geographical distance. Booking requests undergo date-overlap validation and availability revalidation before submission. A cooperative booking feature distributes the estimated rental cost equally among participating members. Booking records are further used to calculate equipment utilisation and demand-related indicators. The system also incorporates weather advisories and basic usage-threshold maintenance indicators. Functional evidence was examined using archived automated test reports containing 105 test cases, with no recorded failures, errors or skipped tests. Synthetic examples are used to illustrate recommendation scoring, booking conflict detection, cooperative cost allocation and utilisation calculations. The results demonstrate the functional integration of these modules, while field usability, real-world economic impact, scalability and operational performance remain subjects for future evaluation",
+  "oa_url": "https://doi.org/10.22214/ijraset.2026.85913",
+  "pdf_url": "https://doi.org/10.22214/ijraset.2026.85913",
+  "pdf_urls": [
+   "https://doi.org/10.22214/ijraset.2026.85913"
+  ],
+  "oa_status": "diamond",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Kelembagaan petani & tindakan kolektif"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-28",
+  "summary_id": null,
+  "relevance": 18
+ },
+ {
   "id": "W7239908415",
   "doi": "10.22214/ijraset.2026.85870",
   "title": "Krishi Drishti: An Integrated Decision Support System for Crop Health and Farmer Advisory",
@@ -388,6 +419,1061 @@
   "relevance": 33
  },
  {
+  "id": "W7240024869",
+  "doi": "10.3390/su182312058",
+  "title": "Organizational Diagnosis of Family Farming in the Brazilian Central-West: Insertion in Public Policies",
+  "date": "2026-11-26",
+  "year": "2026",
+  "journal": "Sustainability",
+  "issn": "20711050",
+  "publisher": "Multidisciplinary Digital Publishing Institute",
+  "authors": [
+   "Jean Marc Nacife",
+   "Jesiel Souza Silva",
+   "Tânia Marcia de Freitas",
+   "Ítalo José Bastos Guimarães",
+   "Omar Ouro‐Salim"
+  ],
+  "abstract": "Family-farming organizations play a pivotal role in territorial food systems by aggregating smallholder production, enabling collective value addition, and connecting rural producers to public food procurement programs. However, persistent asymmetries in internal governance, productive infrastructure, and legal formalization often restrict their effective integration into institutional markets. This study examines the organizational conditions and institutional mechanisms associated with differences in development and public policy participation across 39 family-farming organizations (24 associations and 15 cooperatives, encompassing 3094 members across 29 municipalities) in Brazil’s Central-West region (Goiás, the Federal District/RIDE, Mato Grosso, and Mato Grosso do Sul). Moving beyond purely descriptive diagnostics, the study adopts a multi-instrument field methodology—combining structured management pre-diagnosis questionnaires, semi-structured interviews with organizational leaders, and documentary verification—analyzed through a four-stage qualitative protocol: (i) organization-level coding across six structural dimensions; (ii) systematic cross-case comparative synthesis to construct a configurational typology of organizational maturity; (iii) conceptually bounded regionalized SWOT modeling; and (iv) cross-quadrant strategic and policy formulation. Empirical findings point to an ‘Institutional Inclusion Paradox’ within the surveyed sample: while 46.2% (n = 18) of organizations accessed the Food Acquisition Program (PAA, totaling BRL 3.04 million) and 33.3% (n = 13) accessed the National School Feeding Program (PNAE, totaling BRL 4.26 million), procurement resources appear largely concentrated in Type I consolidated agro-industrial cooperatives (n = 8; 20.5%), whereas 64.1% (n = 25) of organizations operate exclusively with raw (in natura) products and zero organizations accessed rural credit under the 2024/2025 Plano Safra cycle. We identify three distinct organizational configurations—Type I (n = 8; 20.5%), Type II (n = 10; 25.6%), and Type III (n = 21; 53.8%)—and explore how the interaction of legal-documentary compliance (CAF/CAR and traditional community recognition), membership aggregation scale, and sanitary processing capability shapes institutional market access. Theoretically, the study contributes to sustainable food-systems scholarship by proposing a multi-tier (nested second-tier) cooperative network architecture combined with appropriate agroecological processing of native biome socio-biodiversity to help overcome scale constraints under Brazil’s expanded 45% PNAE procurement mandate (Law No. 15226/2025).",
+  "oa_url": "https://doi.org/10.3390/su182312058",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.3390/su182312058"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Akses & informasi pasar petani",
+   "Kelembagaan petani & tindakan kolektif"
+  ],
+  "priority_journal": true,
+  "language": "en",
+  "found_at": "2026-11-28",
+  "summary_id": null,
+  "relevance": 55
+ },
+ {
+  "id": "W7240059996",
+  "doi": "10.5334/ijc.1673",
+  "title": "Between Rights and Reality: Gendered Access and Cooperative Governance in the Gayo Coffee Commons, Indonesia",
+  "date": "2026-11-26",
+  "year": "2026",
+  "journal": "International Journal of the Commons",
+  "issn": "18750281",
+  "publisher": "Utrecht University Library Open Access Journals (Publishing Services)",
+  "authors": [
+   "Vellayati Hajad",
+   "Ikhsan Ikhsan",
+   "Nabila Hilmy Zhafira",
+   "Sarini Vita Dewi",
+   "Irma Permata Sari"
+  ],
+  "abstract": "The Gayo Highlands in Indonesia are internationally recognized for premium Arabica coffee production; however, women coffee farmers continue to experience unequal access to land, cooperative governance, and economic opportunities. Using Ribot and Peluso’s access theory, this study examines the gap between formal rights and women’s substantive ability to benefit economically, institutionally, and politically from coffee-related resources, including land ownership, cooperative participation, certification systems, and market opportunities. Semi-structured interviews, field observations, and document analysis with women farmers, cooperative leaders, and government officials reveal that exclusion is produced through interacting legal-regulatory, structural-economic, relational, and agency-based mechanisms rather than through explicit legal prohibition alone. These mechanisms restrict women’s leadership opportunities, decision-making authority, institutional recognition, and economic benefits within coffee governance. The findings further demonstrate that women’s experiences are differentiated across social positions and negotiated through everyday forms of agency and informal networks. The study contributes to debates on commons governance by showing that reducing the gap between rights and reality requires not only expanding women’s participation but also transforming institutional recognition, strengthening collective capacity, and promoting more gender-responsive and inclusive cooperative governance.",
+  "oa_url": "https://doi.org/10.5334/ijc.1673",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.5334/ijc.1673"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Kelembagaan petani & tindakan kolektif",
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-28",
+  "summary_id": null,
+  "relevance": 52
+ },
+ {
+  "id": "W7240026668",
+  "doi": "10.3389/fsufs.2026.1965873",
+  "title": "Artificial intelligence and China–ASEAN agricultural product supply chain security: evidence from a food security perspective",
+  "date": "2026-11-26",
+  "year": "2026",
+  "journal": "Frontiers in Sustainable Food Systems",
+  "issn": "2571581X",
+  "publisher": "Frontiers Media",
+  "authors": [
+   "Haiying Lin",
+   "Meng Guo",
+   "Yun Dong",
+   "Wenlong Li",
+   "Yang Liu"
+  ],
+  "abstract": "Recurrent climatic events, public-health crises, geopolitical tensions, and logistics interruptions have increased the vulnerability of international agri-food trade, making digital technology increasingly important for maintaining stable and resilient food supply systems. The empirical sample covers trade relationships between 30 Chinese provinces and 10 ASEAN economies during 2011–2023, and supply chain security is assessed from the perspectives of inward, outward, and systemic security. A multiway fixed-effects specification is used to estimate the overall influence of AI application and to identify its operating channels and conditional effects. The estimates indicate that provinces with greater industrial robot adoption generally achieve higher levels of agricultural product supply chain security. This relationship remains statistically stable under alternative treatments of extreme values, additional controls, and different clustering structures. The estimated effect is stronger in eastern provinces and in regions that initially possessed a better foundation for intelligent development. Furthermore, formal interaction tests confirm that the positive effect of AI is statistically significantly stronger in trade relationships involving less agriculture-dependent importing countries (p = 0.007). Logistics capacity and human capital accumulation are identified as two channels linking AI application with stronger supply chain security. Higher food consumer prices in destination markets weaken the contribution of AI, while better institutional conditions reinforce it. By focusing on agricultural trade between China and ASEAN, the analysis connects research on AI adoption with the study of cross-border supply chain security. The findings offer evidence on how emerging economies may use intelligent technologies to improve the continuity, adaptability, and reliability of agri-food supply systems.",
+  "oa_url": "https://www.frontiersin.org/journals/sustainable-food-systems/articles/10.3389/fsufs.2026.1965873/pdf",
+  "pdf_url": "https://www.frontiersin.org/journals/sustainable-food-systems/articles/10.3389/fsufs.2026.1965873/pdf",
+  "pdf_urls": [
+   "https://www.frontiersin.org/journals/sustainable-food-systems/articles/10.3389/fsufs.2026.1965873/pdf",
+   "https://doi.org/10.3389/fsufs.2026.1965873"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemasaran, rantai pasok & rantai nilai"
+  ],
+  "priority_journal": true,
+  "language": "en",
+  "found_at": "2026-11-28",
+  "summary_id": null,
+  "relevance": 49
+ },
+ {
+  "id": "W7240053342",
+  "doi": "10.1111/joac.70123",
+  "title": "Cultivating Dependency, Producing Resistance: The Political Economy of Kashmir's Apple Value Chain",
+  "date": "2026-11-26",
+  "year": "2026",
+  "journal": "Journal of Agrarian Change",
+  "issn": "14710358",
+  "publisher": "Wiley",
+  "authors": [
+   "Mehroosh Tak",
+   "Haris Zargar"
+  ],
+  "abstract": "This paper examines how the settler colonial state reconfigures Kashmir's apple value chain through neoliberalisation and dispossession to increase dependency on India while restructuring the valley's agroecology. With apple cultivation emerging as a site of contention, we examine how the state's disruption of human–ecological relationships manifests through the enforcement of high‐density apple production. Simultaneously, Kashmir's self‐determination struggle is undermined by the state's economic control of the value chain through the restructuring of the comprador classes. We analyse how continued apple cultivation under decades of occupation and underinvestment can inadvertently transform into a praxis of a resistance economy, with smallholder farming potentially stalling settler colonial consolidation and permanence. Apple orchards, we argue, become both sites of settler control and resistance, in which Kashmiris strive for self‐sufficiency by attempting to delink themselves from the settler economy.",
+  "oa_url": "https://doi.org/10.1111/joac.70123",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1111/joac.70123"
+  ],
+  "oa_status": "hybrid",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemasaran, rantai pasok & rantai nilai"
+  ],
+  "priority_journal": true,
+  "language": "en",
+  "found_at": "2026-11-28",
+  "summary_id": null,
+  "relevance": 41
+ },
+ {
+  "id": "W7240039681",
+  "doi": "10.3390/su182312045",
+  "title": "Policy Coordination, Social Interaction, and Farmers’ Farmland Conservation Behavior: Evidence from the Dryland Black Soil Region in Northeast China",
+  "date": "2026-11-26",
+  "year": "2026",
+  "journal": "Sustainability",
+  "issn": "20711050",
+  "publisher": "Multidisciplinary Digital Publishing Institute",
+  "authors": [
+   "乔金杰",
+   "Jiayi Wang"
+  ],
+  "abstract": "Farmland degradation threatens global food security, and conservation tillage adoption by farmers is essential for farmland conservation. However, the synergistic effects of multiple policies and the role of village-level social interaction remain underexplored. Based on household survey data collected in 2020 from the dryland black soil region in Northeast China, this study employs hierarchical linear modeling to examine how farmland conservation policy coordination affects farmers’ farmland conservation behavior and whether village-level social interaction moderates this relationship. The results show that subsidy policy, technical support policy, and their synergistic effect significantly and positively influence farmers’ adoption of conservation tillage, and these findings remain robust after robustness checks. Village-level peer effects positively moderate the relationship between policy coordination and farmers’ farmland conservation behavior, with the amplifying effect being particularly pronounced among small-scale farmers and those with low-quality farmland. These findings suggest that policymakers should establish a long-term incentive mechanism, strengthen coordination between subsidy and technical training policies, attach importance to peer effects, and prioritize resource allocation to small- and medium-scale farmers and those with low-quality farmland.",
+  "oa_url": "https://doi.org/10.3390/su182312045",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.3390/su182312045"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Ketahanan pangan rumah tangga"
+  ],
+  "priority_journal": true,
+  "language": "en",
+  "found_at": "2026-11-28",
+  "summary_id": null,
+  "relevance": 40
+ },
+ {
+  "id": "W7240051663",
+  "doi": "10.1080/23311886.2026.2765959",
+  "title": "Market outlet choices of smallholder onion producers in North Mecha District, Northwest Ethiopia",
+  "date": "2026-11-26",
+  "year": "2026",
+  "journal": "Cogent Social Sciences",
+  "issn": "23311886",
+  "publisher": "Cogent OA",
+  "authors": [
+   "Belaynesh Aynalem Tamerat",
+   "Zewudu Berhanie Ayele",
+   "Bosena Tegegne",
+   "Getachew Alemayehu Damot",
+   "Meseret C. Abate",
+   "Kalkidan Tesafie Geremew"
+  ],
+  "abstract": "Smallholder farmers’ market integration is critical for agricultural development, yet their choice of sales channels remains poorly understood where market outlet use is simultaneous and non-exclusive. This study examines the determinants of market outlet selection among onion producers in North Mecha District, Amhara Region, Ethiopia. Using cross-sectional data from 400 randomly selected households, a multivariate probit (MVP) model was estimated to examine the interdependent choices of four outlets: assemblers, wholesalers, retailers, and consumers. The results reveal significant correlations among outlet choices, confirming the interdependence of market participation decisions and supporting joint estimation. Key determinants include human capital, market access, production characteristics, household assets, and extension services, although their associations vary across outlets. Average marginal effects further demonstrate differences in the magnitude of these associations across channels. Household assets, institutional support, and market accessibility are associated with outlet participation in different ways. The study highlights the non-exclusive nature of market outlet choices and the relevance of the MVP approach for examining interdependent participation decisions. Strengthening extension services, improving rural infrastructure, enhancing farmer education, and expanding market access improve market participation and income opportunities for smallholder onion producers.",
+  "oa_url": "https://www.tandfonline.com/doi/pdf/10.1080/23311886.2026.2765959?needAccess=true",
+  "pdf_url": "https://www.tandfonline.com/doi/pdf/10.1080/23311886.2026.2765959?needAccess=true",
+  "pdf_urls": [
+   "https://www.tandfonline.com/doi/pdf/10.1080/23311886.2026.2765959?needAccess=true",
+   "https://doi.org/10.1080/23311886.2026.2765959"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Akses & informasi pasar petani"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-28",
+  "summary_id": null,
+  "relevance": 38
+ },
+ {
+  "id": "W7240063631",
+  "doi": "10.3389/fpls.2026.1948095",
+  "title": "Digital information exposure and the economic resilience of smallholder grape farmers in Northeast China under cold-climate risks",
+  "date": "2026-11-26",
+  "year": "2026",
+  "journal": "Frontiers in Plant Science",
+  "issn": "1664462X",
+  "publisher": "Frontiers Media",
+  "authors": [
+   "Xueying Wang",
+   "Yanfeng Wang",
+   "Endong Mu",
+   "晓丽 杨"
+  ],
+  "abstract": "Introduction Fruit production in cold-climate regions faces increasing risks from low temperatures, frost, hail, and winter injury. These climatic hazards challenge smallholder farmers’ ability to maintain production stability, recover from disruptions, and adjust farming practices. This study examines the nonlinear effects of digital information exposure on the economic resilience of smallholder farmers under cold-climate risks and explores the underlying mechanisms. Methods Using survey data from 1,205 smallholder grape farmers in Liaoning Province, Northeast China, this study investigates the relationship between digital information exposure and farmers’ economic resilience, with particular attention to its nonlinear effects and underlying mechanisms. Results Digital information exposure significantly enhances farmers’ economic resilience, although this relationship is nonlinear. Once digital information exposure exceeds the threshold value of 0.351, its marginal contribution to economic resilience declines. Mechanism analysis reveals two pathways. Through the empowering pathway, digital information exposure enhances information empowerment (β = 0.313), which subsequently improves farmers’ economic resilience (β = 0.128). However, this empowering effect weakens at higher exposure levels, contributing to the decline in marginal effects beyond the threshold. Through the constraining pathway, digital information exposure increases information cocoon formation (β = 0.118), while information cocoons are negatively associated with economic resilience (β = −0.047), potentially constraining farmers’ ability to cope with external shocks. This constraining effect does not continuously intensify as exposure increases. Further analysis suggests that farmers’ algorithm adjustment behaviors may weaken the reinforcement of information cocoon formation among highly exposed farmers. Discussion These findings highlight the importance of digital information environments in strengthening smallholder farmers’ economic resilience under cold-climate risks. They extend research on the role of digitalization in supporting resilient and sustainable fruit production in climate-vulnerable regions. The findings also provide practical implications for improving rural digital governance, optimizing agricultural information services, strengthening climate-risk communication, and promoting resilient smallholder grape production in cold-climate regions.",
+  "oa_url": "https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2026.1948095/pdf",
+  "pdf_url": "https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2026.1948095/pdf",
+  "pdf_urls": [
+   "https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2026.1948095/pdf",
+   "https://doi.org/10.3389/fpls.2026.1948095"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-28",
+  "summary_id": null,
+  "relevance": 38
+ },
+ {
+  "id": "W7240027251",
+  "doi": "10.3389/fsufs.2026.2005353",
+  "title": "Coupling and coordination of food security and agricultural economic resilience in China: early warning and obstacle diagnosis under climate–market shocks",
+  "date": "2026-11-26",
+  "year": "2026",
+  "journal": "Frontiers in Sustainable Food Systems",
+  "issn": "2571581X",
+  "publisher": "Frontiers Media",
+  "authors": [
+   "Jiajun Wu",
+   "Ruiqing Qie",
+   "Nana Huang",
+   "Ruinan Guo",
+   "Chuang Wang",
+   "Jianlin Bu"
+  ],
+  "abstract": "Climate risks and market volatility reinforce each other, creating a dual challenge for China's food security and for the stable operation of its agricultural economy. Using entropy-weighted TOPSIS coupled coordination analysis, a GM(1,1)-Markov chain and an obstacle degree model, this study systematically examines the evolution, risk landscape, and differentiated bottlenecks of resilience in food and agriculture. The two types of resilience rise in a fluctuating manner, but with notable regional differences: the eastern region leads, the central and western regions lag, and the northeastern region sits in between while remaining sensitive to changes. The coupling coordination index has moved from imbalance to basic coordination, showing a pattern of “high in the east, low in the west, with a steady gradient.” Systemic synergy has grown; however, the western region remains the weak link. Trend forecasts indicate that the national coupling coordination level will remain in the basic coordination range through 2029, approaching but not yet reaching the 0.50 moderate-coordination threshold; a four-level risk early warning system can identify cross-cycle risk changes. Constraints on urban-unit agricultural employment, rather than technological investment, have become the main constraint on the agricultural economy, while the rural electricity level has become the primary bottleneck for grain production. These four major regional constraints differ considerably. Accordingly, the Northeast and Central regions should focus on upgrading power grids; the West should improve agricultural socialized services; and the East should broaden insurance coverage. This evidence can guide regulation and resource allocation when cross-cycle shocks occur.",
+  "oa_url": "https://www.frontiersin.org/journals/sustainable-food-systems/articles/10.3389/fsufs.2026.2005353/pdf",
+  "pdf_url": "https://www.frontiersin.org/journals/sustainable-food-systems/articles/10.3389/fsufs.2026.2005353/pdf",
+  "pdf_urls": [
+   "https://www.frontiersin.org/journals/sustainable-food-systems/articles/10.3389/fsufs.2026.2005353/pdf",
+   "https://doi.org/10.3389/fsufs.2026.2005353"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Ketahanan pangan rumah tangga"
+  ],
+  "priority_journal": true,
+  "language": "en",
+  "found_at": "2026-11-28",
+  "summary_id": null,
+  "relevance": 38
+ },
+ {
+  "id": "W7240093068",
+  "doi": "10.1038/s41598-026-81103-x",
+  "title": "Determinants of participation in household food waste black soldier fly upcycling projects in Singapore",
+  "date": "2026-11-26",
+  "year": "2026",
+  "journal": "Scientific Reports",
+  "issn": "20452322",
+  "publisher": "Nature Portfolio",
+  "authors": [
+   "Yanyun Yan",
+   "Chloe Yun Yi Tan",
+   "Xiaotong Cai",
+   "L. Román Carrasco"
+  ],
+  "abstract": "Household food waste upcycling using black soldier flies ( Hermetia illucens ) has the potential to enhance urban food security and sustainability. Yet, the barriers to households’ participation in these nascent programs remain unstudied. We use the Theory of Planned Behaviour (TPB) and structural equation modelling to analyse interest in participation in a first-of-a-kind community insect food waste upcycling program ( n = 600) in Singapore. Perceived behavioural control emerged as the strongest predictor of intention, followed by subjective norms. Moral norms significantly influenced all three core constructs, highlighting their centrality in residents’ intentions. Beliefs about environmental impact, social expectations (from family and government), actions from environmentalists and family members, time availability, and sanitary concerns also influence participation intentions. For those in charge of cooking at home, receiving practical guidance was key to participation, whereas, for non-cooks, support from household members played a more critical role. Three focus group discussions with 23 participants of an on-going community programme largely corroborated these findings, but also showed that participants with direct experience were less concerned about sanitary issues and were driven more by personal conviction than by social expectations. Our findings enhance the understanding of promoting insect upcycling food waste projects in Singapore, with implications for nascent initiatives globally.",
+  "oa_url": "https://doi.org/10.1038/s41598-026-81103-x",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1038/s41598-026-81103-x"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Ketahanan pangan rumah tangga"
+  ],
+  "priority_journal": true,
+  "language": "en",
+  "found_at": "2026-11-28",
+  "summary_id": null,
+  "relevance": 37
+ },
+ {
+  "id": "W7240067794",
+  "doi": "10.36948/ijfmr.2026.v08i06.92830",
+  "title": "Mobile Communication Frameworks for Improving Livestock Disease Control and Farmer Knowledge in Remote Areas: A Systematic Review",
+  "date": "2026-11-26",
+  "year": "2026",
+  "journal": "International Journal For Multidisciplinary Research",
+  "issn": "25822160",
+  "publisher": "",
+  "authors": [
+   "Godfrey Tumwebaze",
+   "Ronald Kabbiri",
+   "Fred Kaggwa",
+   "Jane Katusiime"
+  ],
+  "abstract": "Livestock diseases constrain smallholder production and access to timely veterinary advice in remote areas. This review examines mobile communication frameworks for livestock disease control and farmer knowledge, with attention to their technological features, implementation constraints, and implications for geographically dispersed communities. Google Scholar, IEEE Xplore, PubMed, and the Food and Agriculture Organization’s AGRIS database were searched for literature published from 2000 to 2024. The source review reports 2,217 identified records, 1,845 records after deduplication, and 38 studies included in a narrative synthesis. The frameworks described encompass short message service alerts, smartphone applications, and integrated mobile health platforms. Smartphone functions include global positioning, image capture, and synchronization with central databases, creating opportunities to link disease reports with their geographical context. The reported findings suggest potential improvements in reporting timeliness, access to advisory information, and farmer knowledge. However, differences in study designs and outcome definitions limit direct comparisons across systems. Connectivity, electricity, digital literacy, operating costs, gender disparities, interoperability, and institutional ownership remain recurring implementation concerns. The literature described in the review emphasizes pilot implementations and provides limited evidence of sustained operation and scale. Mobile communication frameworks may therefore support more responsive livestock services when accessible interfaces, offline operation, sustainable financing, and compatible data structures are addressed together. Further research should examine long term implementation and establish reproducible evidence linking individual studies to reported outcomes and spatial surveillance functions.",
+  "oa_url": "https://doi.org/10.36948/ijfmr.2026.v08i06.92830",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.36948/ijfmr.2026.v08i06.92830"
+  ],
+  "oa_status": "hybrid",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-28",
+  "summary_id": null,
+  "relevance": 32
+ },
+ {
+  "id": "W7240097486",
+  "doi": "10.9734/jsrr/2026/v32i114776",
+  "title": "An Empirical Study on Backward and Forward Linkages of Self-Help Group (SHG) Members in Haryana, India",
+  "date": "2026-11-26",
+  "year": "2026",
+  "journal": "Journal of Scientific Research and Reports",
+  "issn": "23200227",
+  "publisher": "Sciencedomain International",
+  "authors": [
+   "Suman",
+   "Vandana Verma",
+   "Ella Rani",
+   "Satinder Singh"
+  ],
+  "abstract": "Self-Help Groups (SHGs) are important institutional mechanisms for promoting financial inclusion, livelihood diversification and rural entrepreneurship. The sustainability of SHG-based livelihood activities depends partly on access to production inputs, institutional support, capacity-building services and suitable marketing channels. This study examined the backward and forward linkages reported by 240 SHG members from Fatehabad and Hisar districts of Haryana, with 120 respondents selected from each district through a multistage procedure covering 24 SHGs in eight villages. Information was analysed using frequencies, percentages and item-wise Pearson chi-square tests to examine district-wise differences in reported linkages. All respondents reported savings accounts and loan facilities, while 78.33 per cent reported access to credit facilities. Agricultural input dealers and Krishi Vigyan Kendras were reported as important sources of inputs and technical guidance. Local markets and retail shops were commonly reported marketing channels, whereas digital and wholesale channels were less frequently reported. Training and value-addition support were reported through RSETI centres, agricultural and livestock training institutions, NABARD and NGOs. The item-wise district comparisons did not indicate statistically significant differences at the 5 per cent level; these aggregate comparisons were not adjusted for within-SHG clustering. The findings point to the need for stronger institutional coordination, market-oriented training, digital marketing skills and organised market access for SHG-based enterprises.",
+  "oa_url": "https://doi.org/10.9734/jsrr/2026/v32i114776",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.9734/jsrr/2026/v32i114776"
+  ],
+  "oa_status": "diamond",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemasaran, rantai pasok & rantai nilai"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-28",
+  "summary_id": null,
+  "relevance": 31
+ },
+ {
+  "id": "W7240027418",
+  "doi": "10.3390/agriculture16232604",
+  "title": "Coffee Production from Nursery to Harvest: A Scoping Review of Mechanization, Digitalization, Intelligent Technologies, and System Integration",
+  "date": "2026-11-26",
+  "year": "2026",
+  "journal": "Agriculture",
+  "issn": "20770472",
+  "publisher": "Multidisciplinary Digital Publishing Institute",
+  "authors": [
+   "Yu Zhang",
+   "Xingjian Yang",
+   "Xingzhu Qian",
+   "Rui Zhang",
+   "Yapeng Wu",
+   "Zhong Tang"
+  ],
+  "abstract": "Coffee production spans nursery operations, plantation establishment, field management, harvesting, and cross-stage digital integration. This scoping review mapped technologies and gaps in field validation across these stages. We searched the Web of Science Core Collection, China National Knowledge Infrastructure, and Google Scholar through 15 August 2026. The evidence map covers 203 publications. Eligible publications addressed coffee-production tasks from nursery to harvest or provided evidence transferable to a specified coffee-production task; we charted each source by context, primary technical theme, and validation level. We classified the publications as coffee-specific evidence, evidence from comparable crops or nursery systems, or general agricultural and adjacent engineering evidence. Separately, we assigned four validation levels according to the setting and measured outcome, ranging from Level I field-system or management-outcome validation to Level IV conceptual or contextual evidence. Direct coffee evidence covered plantation sensing, irrigation support, variable-rate fertilization, crop protection deposition and efficacy, maturity detection, vibration-based detachment, and continuous mechanical harvesting. Precision sowing, automated seedling grading, end-to-end weeding, robotic pruning, selective single-cherry harvesting, digital twins, and multi-machine coordination relied mainly on analogous or general engineering research. Fifteen publications reached Level I, including 13 coffee field publications and two crop analogs. None of the 30 publications coded to full-process digital integration demonstrated Level I validation. Field studies should test whether sensing can inform prescriptions, whether equipment executes them, and whether measured outcomes improve subsequent decisions.",
+  "oa_url": "https://doi.org/10.3390/agriculture16232604",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.3390/agriculture16232604"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Tenaga kerja & produktivitas perkebunan"
+  ],
+  "priority_journal": true,
+  "language": "en",
+  "found_at": "2026-11-28",
+  "summary_id": null,
+  "relevance": 30
+ },
+ {
+  "id": "W7240060426",
+  "doi": "10.1016/j.jag.2026.105671",
+  "title": "Why sub-Saharan African cropland maps fail and pathways forward: A review of persistent mapping challenges",
+  "date": "2026-11-26",
+  "year": "2026",
+  "journal": "International Journal of Applied Earth Observation and Geoinformation",
+  "issn": "03032434",
+  "publisher": "Elsevier BV",
+  "authors": [
+   "Kelsee H. Bratley",
+   "Foster Mensah",
+   "Curtis E. Woodcock"
+  ],
+  "abstract": "Satellite-based cropland monitoring is critical for food security in sub-Saharan Africa, yet available cropland extent maps exhibit large disagreements. This review examines 30 cropland maps developed between 1992–2024 to identify why disagreements persist and whether reliable monitoring is achievable. Analysis reveals three interconnected constraints that limit mapping accuracy: (1) sparse pre-2013 satellite coverage and limited very-high-resolution imagery prevent both map creation and verification, rendering claims about earlier cropland extent or change unsupported, (2) structural characteristics of sub-Saharan African agriculture (smallholder fields, intercropping, tree integration) create spectral confusion that causes systematic misclassification of cropland as forest or natural vegetation, (3) cyclical practices (rotational agroforestry, shifting cultivation) are misclassified as permanent land-use change because cropland maps exclude perennial crops and do not capture multi-year rotation cycles. Together, these constraints prevent reliable classification of either cropland extent or agricultural change across sub-Saharan Africa. Solutions include improved definitional frameworks that distinguish land use from land cover and accommodate rotational patterns, technical approaches to address spectral confusion and cloud cover gaps, and community-driven validation providing regional expertise.",
+  "oa_url": "https://doi.org/10.1016/j.jag.2026.105671",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1016/j.jag.2026.105671"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Ketahanan pangan rumah tangga"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-28",
+  "summary_id": null,
+  "relevance": 29
+ },
+ {
+  "id": "W7239730662",
+  "doi": "10.1186/s44263-026-00346-y",
+  "title": "Reducing the burden of cervical cancer in Zambia in the next 40 years: impact of enhanced screening efforts",
+  "date": "2026-11-26",
+  "year": "2026",
+  "journal": "BMC Global and Public Health",
+  "issn": "2731913X",
+  "publisher": "BioMed Central",
+  "authors": [
+   "Marta Galanti",
+   "Teresa K. Yamana",
+   "Susan Michaels-Strasser",
+   "Maria Teresa Timoney",
+   "Bridget Lumbwe",
+   "Anthony Mutiti",
+   "Paul Kamfwa",
+   "Tafadzwa Dzinamarira",
+   "Jeffrey L. Shaman"
+  ],
+  "abstract": "BACKGROUND: Zambia bears one of the world's highest cervical cancer burdens, driven by high human papillomavirus (HPV) prevalence, gaps in vaccination and screening, and the intersecting human immunodeficiency virus (HIV) epidemic. METHODS: In this study we assess the potential impact of scaling up HPV screening alongside vaccination efforts, based on a community outreach plan designed by ICAP Columbia and Zambia's Ministry of Health. The plan targets Zambia's rural communities and promotes self-collection of samples, on-site HPV testing, and same-day treatment when eligible, with referral to hub sites for severe cases. To estimate the expanded screening's impact, we developed an individual-based model capturing HPV transmission through age-structured sexual partnership, and subsequent progression from infection to cervical lesions and cervical cancer. The model was calibrated to Zambia's demographic profile, 2022 HPV prevalence, 2020 cervical cancer incidence. We compared five 40-year scenarios: no intervention, vaccination only (girls 9-14 years); vaccination plus visual inspection with acetic acid (VIA)-based screening targeted towards women living with HIV, and scenarios extending screening to all women ( ~ 200,000 vs ~400,000 tests/year with 5% annual increase). Outcomes were cervical cancer incidence, percent reduction across intervention scenarios, and cumulative cases averted. Uncertainty was quantified via repeated stochastic simulations with bootstrap confidence intervals (CIs). Sensitivity analyses examined alternative HIV incidence trajectories and reduced screening accessibility. RESULTS: By 2060, HPV vaccination alone reduces cervical cancer incidence by 47% (95% CI: 39%-55%) compared to current rates but has limited effect in the first 20 years. Adding population screening accelerates impact: under ~400,000 tests/year, incidence falls 64% (95% CI: 56%-70%) by year 20 and 97% (95% CI: 96%-98%) by year 40, averting ~35,000 cases by 2040 and ~183,000 by 2060 and reaching the World Health Organization elimination threshold by 2060. Exploratory analyses suggest additional long-term benefit from vaccinating boys, especially when vaccination coverage is suboptimal. CONCLUSIONS: In Zambia, vaccination alone will not meaningfully reduce cervical cancer burden in the near term, and pairing vaccination with a community-based HPV-screening/treatment could prevent tens of thousands of cancer cases within two decades and place elimination within reach.",
+  "oa_url": "https://doi.org/10.1186/s44263-026-00346-y",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1186/s44263-026-00346-y"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [
+   "cervical cancer",
+   "cervical cancer screening",
+   "cancer burden reduction",
+   "Zambia",
+   "cervical cancer prevention"
+  ],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-28",
+  "summary_id": null,
+  "relevance": 25
+ },
+ {
+  "id": "W7240047310",
+  "doi": "10.3390/languages11120247",
+  "title": "Socially Embedded Grammaticalisation: The Progressive ma- in Tartus, Syria",
+  "date": "2026-11-26",
+  "year": "2026",
+  "journal": "Languages",
+  "issn": "2226471X",
+  "publisher": "Multidisciplinary Digital Publishing Institute",
+  "authors": [
+   "Tamam Mohamad",
+   "Debmalya Biswas"
+  ],
+  "abstract": "The progressive in Syrian Arabic offers a near-textbook grammaticalisation cline, ranging from ʕammāl ‘working’ to the particle ʕam and the phonetically reduced prefix ma-. Such clines are usually explained through internal mechanisms; whether social forces can constrain, deflect or arrest them has received far less attention. This study asks whether the coexistence of ʕam and ma- in the Tartus dialect of Syrian Arabic is socially embedded. Drawing on 590 progressive tokens from 144 speakers, we model the choice between the two markers with mixed-effects logistic regression (with speaker as a random intercept), testing geography, religion, age and gender, and complement the models with glossed corpus examples and an analysis of variant dominance. Religion, geography and age emerge as significant predictors, with Alawite, rural and older speakers favouring ma-. Among urban Alawites, ma- falls from 66.0% of progressive tokens among speakers over 50 to 17.7% among those aged 18 to 30, and women aged 18 to 30 do not use it at all, although the gender difference does not reach significance. Among rural Alawites, ma- accounts for about half or more of the progressive tokens at every age. Non-Alawites, in urban and rural settings alike, choose ʕam in nearly nine of every ten tokens. One cline thus yields three outcomes: maintenance in the rural heartland, recession in the city and restricted diffusion beyond the Alawite community. Comparative evidence from the Alawite dialects of Hatay and Cilicia suggests that the communal contrast continues an older areal one, between mountain and urban dialects, which migration into the city has reallocated to social groups. Internal mechanisms supply the cline; social structure, we argue, decides how far, and amongst whom, its most advanced stage travels.",
+  "oa_url": "https://doi.org/10.3390/languages11120247",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.3390/languages11120247"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-28",
+  "summary_id": null,
+  "relevance": 23
+ },
+ {
+  "id": "W7240057342",
+  "doi": "10.1017/s1355770x26100825",
+  "title": "Rural electrification and attitudes towards domestic violence in sub-Saharan Africa",
+  "date": "2026-11-26",
+  "year": "2026",
+  "journal": "Environment and Development Economics",
+  "issn": "1355770X",
+  "publisher": "Cambridge University Press",
+  "authors": [
+   "Maximiliane Sievert"
+  ],
+  "abstract": "Electrification is frequently said to foster women’s development and contribute to a modernization of gender roles. Using Demographic and Health Survey data from 22 sub-Saharan countries, this paper examines the role of rural electrification in reducing intimate partner violence (IPV) acceptance. Women in electrified households report better information access and higher labour market participation, two potential mechanisms leading to transformations in gender roles. Electrification also correlates with lower IPV acceptance, but this association attenuates under matching and becomes statistically insignificant in region fixed-effects specifications. Effects vary across countries, including instances where electrification coincides with higher IPV acceptance. Taken together, the findings indicate that electrification alone should not be interpreted as an effective IPV-reduction policy and suggest that complementary, context-sensitive interventions are required to shift norms related to IPV.",
+  "oa_url": "https://doi.org/10.1017/s1355770x26100825",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1017/s1355770x26100825"
+  ],
+  "oa_status": "hybrid",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-28",
+  "summary_id": null,
+  "relevance": 23
+ },
+ {
+  "id": "W7240023785",
+  "doi": "10.1038/s41598-026-77680-6",
+  "title": "Factors accounting for the association between belonging to an Indigenous community and child chronic undernutrition in northern Bangladesh: a cross-sectional study",
+  "date": "2026-11-26",
+  "year": "2026",
+  "journal": "Scientific Reports",
+  "issn": "20452322",
+  "publisher": "Nature Portfolio",
+  "authors": [
+   "Mosiur Rahman",
+   "Prosannajid Sarkar",
+   "Kulsuma Akter",
+   "Mohammad Wazedul Islam",
+   "Syed Emdadul Haque",
+   "Saurav Dutta",
+   "Farzana Akhter Liza",
+   "Md. Jahirul Islam",
+   "G. M. Rabiul Islam",
+   "Izzeldin Fadl Adam",
+   "Nguyen Huu Chau Duc",
+   "Saber-Al-Sobahi"
+  ],
+  "abstract": "Indigenous children in Bangladesh experience a disproportionate burden of chronic undernutrition; but the underlying mechanisms contributing to this disparity remain insufficiently understood. This study examined the association between Indigenous identity and child chronic undernutrition and assessed the extent to which modifiable factors statistically account for it. In this cross-sectional study conducted in Godagari Upazila, Rajshahi district, nine Indigenous and nine non-Indigenous villages were randomly selected from a total of 398 villages. A total of 800 children aged 12–59 months (400 per group) were recruited using purposive quota sampling, as household sampling frame was unavailable. Chronic undernutrition was defined as a height-for-age z-score below − 2 standard deviations. Potential mediating factors included child feeding practices, micronutrient supplementation, childhood illness, healthcare-seeking behaviors, and indoor air pollution exposure. Statistical mediation for the binary outcome was assessed using the Baron and Kenny product-of-coefficients approach. Overall, chronic undernutrition affected 25.3% of children, with a substantially higher prevalence among Indigenous children than non-Indigenous children (34.0% vs. 16.7%). After adjustment for potential confounders, Indigenous children had higher odds of chronic undernutrition (adjusted odds ratio [AOR] = 1.81; 95% CI = 1.61, 2.51). Several modifiable factors statistically accounted for part of this association, including, inadequate dietary diversity (18.1%), lack of iodized salt use (8.2%), diarrheal illness (14.2%), incomplete vaccination (12.2%) and reliance on unclean cooking fuel (10.0%). These findings represent are local, cross-sectional associations and should not be interpretated as causal effects or population-representative estimates. Longitudinal studies are needed to clarify pathways, and interventions addressing these modifiable factors should be evaluated for their potential to reduce inequalities in child nutrition among Indigenous communities in Bangladesh.",
+  "oa_url": "https://doi.org/10.1038/s41598-026-77680-6",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1038/s41598-026-77680-6"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Ketahanan pangan rumah tangga"
+  ],
+  "priority_journal": true,
+  "language": "en",
+  "found_at": "2026-11-28",
+  "summary_id": null,
+  "relevance": 23
+ },
+ {
+  "id": "W4411830756",
+  "doi": "10.1186/s40814-026-01970-z",
+  "title": "Feasibility of an online-supported delivery program bringing nutritious groceries to households with children at risk for food insecurity (FOODBOX): a study protocol",
+  "date": "2026-11-26",
+  "year": "2026",
+  "journal": "Pilot and Feasibility Studies",
+  "issn": "20555784",
+  "publisher": "BioMed Central",
+  "authors": [
+   "Angela C. B. Trude",
+   "Rasheed Perry",
+   "Rachel A Ingram",
+   "Kenny Escobar",
+   "Charmaine Ruddock",
+   "Roger Figueroa"
+  ],
+  "abstract": "In 2023, one in five US households with children experienced food insecurity, with Black and Hispanic households disproportionately affected. While programs like the Supplemental Nutrition Assistance Program (SNAP) provide grocery funds, many families still lack consistent access to nutritious foods due to structural barriers. To address these inequities, FOODBOX proposes an intervention informed by Food Is Medicine (FIM) to improve food and nutrition security among households of low income with children. Leveraging existing online grocery technology (Instacart), the project will pilot a medically tailored grocery box delivery program in diverse New York City (NYC) neighborhoods. This paper describes the study protocol to assess the feasibility of delivering grocery boxes via community-based Federally Qualified Health Center Network (FQHCN) and Women, Infants, and Children (WIC) clinics. Formative research will be guided by the Ecological Validity Model to ensure culturally appropriate intervention design. Implementation science approaches will inform the evaluation of intervention fidelity and acceptability (primary feasibility outcomes), and preliminary effectiveness (secondary feasibility outcome) will be assessed through changes in household food security (USDA module) and fruit and vegetable intake (measured by skin carotenoid via Veggie Meter). Fidelity will be assessed by adherence to the intervention protocol in terms of recruitment, retention and compared to benchmarks set a priori. Acceptability will be evaluated through a post-intervention survey assessing satisfaction using Likert-scale and multiple-choice questions. We will enroll 30 households with young children at risk for food insecurity, collaborating with a FQHCN and a WIC clinic. Eligibility includes primary household shoppers with low income (i.e., Medicaid recipients, uninsured, SNAP participants, or those living below 130% of the federal poverty level), living with at least one child < age 10, screened positive for food insecurity, and with access to smartphones or computers for online orders. This project, timely in its alignment with the current policy momentum, seeks to decentralize FIM approaches from healthcare systems and incorporate existing technology like Instacart to improve access to nutritious foods. By piloting innovative FIM interventions in community settings, the project seeks to inform evidence-based approaches and pave the way for a subsequent larger-scale intervention. ClinicalTrials.gov ID: NCT06870526. Registered on 11 March 2025, https://clinicaltrials.gov/study/NCT06870526",
+  "oa_url": "https://doi.org/10.1186/s40814-026-01970-z",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1186/s40814-026-01970-z",
+   "https://www.researchsquare.com/article/rs-6805911/latest.pdf",
+   "https://doi.org/10.21203/rs.3.rs-6805911/v1"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [
+   "food as medicine",
+   "online grocery delivery",
+   "Instacart",
+   "federally qualified health centers",
+   "WIC program",
+   "fruit and vegetable intake",
+   "skin carotenoids",
+   "implementation feasibility"
+  ],
+  "topics": [
+   "Ketahanan pangan rumah tangga"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-28",
+  "summary_id": null,
+  "relevance": 21
+ },
+ {
+  "id": "W7240102296",
+  "doi": "10.21275/mr261125091858",
+  "title": "A Clinical Study of Maternal Near Miss Cases at a Tertiary Care Centre",
+  "date": "2026-11-26",
+  "year": "2026",
+  "journal": "International Journal of Science and Research (IJSR)",
+  "issn": "23197064",
+  "publisher": "",
+  "authors": [
+   "Kavya Nair",
+   "Varsha Laxmikant Deshmukh",
+   "Shrinivas N. Gadappa",
+   "Ankita Girish Khiste"
+  ],
+  "abstract": "Background: Maternal near miss (MNM) is an important measure of severe maternal morbidity and an indicator of the quality of emergency obstetric care because it captures women who survive life threatening complications during pregnancy, childbirth or within 42 days of termination of pregnancy. Review of MNM can identify gaps in antenatal care, referral pathways and emergency obstetric management. Aim: To assess the magnitude, clinical profile, major causes, interventions and maternal and fetal outcomes of maternal near-miss events at a tertiary care centre. Materials and Methods: This institution-based clinical study assessed 350 women meeting maternal near-miss criteria during April 2024-January 2026. Institutional live-birth and maternal-death counts were used to calculate maternal near-miss and severe maternal outcome indicators. Demographic, referral, obstetric and management characteristics were described using frequencies and percentages. Results: Among 35,632 live births, 350 MNM cases and 112 maternal deaths were recorded. The MNM ratio was 9.82 per 1,000 live births, the maternal mortality ratio 314.3 per 100,000 live births, the near-miss-to-mortality ratio 3.12:1 and the mortality index 24.2%. Most MNM cases were unbooked (79.4%), 57.1% were from rural areas, and 54.9% required intensive care. Obstetric haemorrhage (55.1%) and hypertensive disorders (36.0%) were prominent contributors; severe anaemia (12.9%) was an important aggravating factor. Conclusion: Severe obstetric complications remain a substantial burden in the tertiary referral setting. Earlier recognition, antenatal risk management, stabilization before referral, timely transport and accessible multidisciplinary obstetric critical care are priority quality-improvement measures.",
+  "oa_url": "https://www.ijsr.net/archive/v15i11/MR261125091858.pdf",
+  "pdf_url": "https://www.ijsr.net/archive/v15i11/MR261125091858.pdf",
+  "pdf_urls": [
+   "https://www.ijsr.net/archive/v15i11/MR261125091858.pdf",
+   "https://doi.org/10.21275/mr261125091858"
+  ],
+  "oa_status": "diamond",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-28",
+  "summary_id": null,
+  "relevance": 19
+ },
+ {
+  "id": "W7240052185",
+  "doi": "10.9734/jsrr/2026/v32i114777",
+  "title": "An Economic Assessment of Household Food Security at the Rural–Urban Interface of Assam, India",
+  "date": "2026-11-26",
+  "year": "2026",
+  "journal": "Journal of Scientific Research and Reports",
+  "issn": "23200227",
+  "publisher": "Sciencedomain International",
+  "authors": [
+   "Ankush Sarmah",
+   "Rinumoni Buragohain",
+   "Nivedita Deka"
+  ],
+  "abstract": "Household food security is an important concern across the rural–urban interface, where differences in socioeconomic conditions and food-consumption patterns may influence nutritional adequacy. Assessing household calorie intake and its associated determinants is essential for understanding food-security disparities across rural, transitional and urban areas of Assam. This study assessed household food-security status, factors associated with food security, and patterns of food consumption across the rural–urban interface of Biswanath district, Assam. Primary data were collected in 2022 from 60 households distributed equally between western and eastern transects, with households selected from rural, transitional and urban locations. Household food security was evaluated using per-capita calorie intake relative to recommended calorie requirements, while socioeconomic determinants were examined using a regression model. Food consumption was also assessed across major food groups. The results showed that 86.67% of households in the western transect and 93.33% in the eastern transect were classified as food secure. Within both transects, 80% of households in transitional areas were food secure, compared with 90–100% in the rural and urban groups. Average calorie intake was lower in transitional locations than in the corresponding rural and urban locations. Family size showed a negative association with the food-security index, whereas landholding and per-capita income showed positive associations in the reported model. Cereals contributed the largest share of calorie intake across the study locations, with additional contributions from pulses, edible oils, fruits, vegetables, milk and milk products, and animal-source foods. Overall, the findings indicate variation in household food security across the rural–urban gradient and identify transitional households as comparatively more vulnerable within the surveyed population.",
+  "oa_url": "https://doi.org/10.9734/jsrr/2026/v32i114777",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.9734/jsrr/2026/v32i114777"
+  ],
+  "oa_status": "diamond",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Ketahanan pangan rumah tangga"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-28",
+  "summary_id": null,
+  "relevance": 19
+ },
+ {
+  "id": "W7240057774",
+  "doi": "10.3389/fenvs.2026.1851056",
+  "title": "Impacts of integrated urban-rural development on the synergy between agricultural product supply guarantee and carbon emission reduction",
+  "date": "2026-11-26",
+  "year": "2026",
+  "journal": "Frontiers in Environmental Science",
+  "issn": "2296665X",
+  "publisher": "Frontiers Media",
+  "authors": [
+   "Lin Zhang",
+   "Onur Arugaslan",
+   "Chengzhi Cai",
+   "Devrim Yaman"
+  ],
+  "abstract": "Integrated urban-rural development (IURD) is inherently related to ensuring food security and achieving the “dual carbon” goal. Based on data from 30 provinces in China during 2006–2023, this paper uses the Vertical and Horizontal Scatter Degree method, “rolling” Tapio decoupling model, fixed effects regression model and others to systematically explore the relationships among IURD, agricultural carbon emission (ACE) reduction, agricultural product supply (APS) guarantee, and structural change in “people, land and industry”. The main findings are as follows. Although synergistically promoting APS guarantee and ACE reduction is extremely challenging, a higher level of IURD can facilitate such synergy. And IURD’s effects are heterogeneous. To fully utilize the positive role of IURD, it is important to not only consider regional characteristics for tailored measures but also pay attention to product supply and carbon source types. Besides, employment structure, land structure and industrial structure all exhibit a clear trend towards non-agricultural transformation, and play a significant role in coordinating IURD’s impacts on APS guarantee and ACE reduction. In the future, China needs to improve the level of IURD and acknowledge regional differences, break down the institutional barriers that hinder equal exchange and two-way flow of urban-rural factors, guide more development factors and various services to rural areas.",
+  "oa_url": "https://doi.org/10.3389/fenvs.2026.1851056",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.3389/fenvs.2026.1851056"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Ketahanan pangan rumah tangga"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-28",
+  "summary_id": null,
+  "relevance": 19
+ },
+ {
+  "id": "W7240030849",
+  "doi": "10.33395/jmp.v15i3.17007",
+  "title": "Manajemen Kebijakan Penanggulangan Kemiskinan di Provinsi Riau: Pendekatan Berbasis Data Terpadu",
+  "date": "2026-11-26",
+  "year": "2026",
+  "journal": "Jurnal Minfo Polgan",
+  "issn": "20899424",
+  "publisher": "Politeknik Ganesha Medan",
+  "authors": [
+   "Tamba Togap Tambun",
+   "Mimin Sundari Nasution",
+   "Adianto Adianto",
+   "Zulkarnaini Zulkarnaini"
+  ],
+  "abstract": "Poverty in Riau Province remains a multidimensional issue, manifesting in rural, coastal, remote, and transmigration areas—despite the region's abundant natural resources. While various social assistance, economic empowerment, and infrastructure development programs have been implemented, their effectiveness has been hindered by poor targeting, overlapping initiatives, and weak inter-agency coordination. This study analyzes poverty alleviation management policies in Riau Province based on the Integrated Social Welfare Data (Data Terpadu Kesejahteraan Sosial), examining how this data is utilized for planning and targeting, identifying supporting and inhibiting factors, and proposing strategies to strengthen data governance. Employing a qualitative case study approach supplemented by secondary data analysis, the research incorporates in-depth interviews with purposively selected informants, document reviews, and descriptive statistical analysis—all validated through source and technique triangulation. The findings indicate that the Integrated Data serves as the primary reference for targeting; it achieves high coverage for the \"very poor\" (91.5%) and \"poor\" (88.2%) categories, though it has yet to fully reach the \"vulnerable to poverty\" group (62.4%). While data utilization is high during the operational targeting phase, it remains limited in terms of strategic planning and impact evaluation. Processes such as data updating, field validation, system integration, and the use of data for evaluation received low scores (2.4–2.8 on a five-point scale), suggesting that the system currently functions primarily as an administrative tool for targeting rather than as an instrument for policy learning. The study concludes that strengthening institutional coordination, establishing a single authoritative data source, institutionalizing verification and grievance-redress mechanisms, and enhancing the capacity of social caseworkers are essential prerequisites for ensuring that poverty alleviation policies become more accurately targeted, accountable, inclusive, and equitable.",
+  "oa_url": "https://doi.org/10.33395/jmp.v15i3.17007",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.33395/jmp.v15i3.17007"
+  ],
+  "oa_status": "hybrid",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-28",
+  "summary_id": null,
+  "relevance": 17
+ },
+ {
+  "id": "W7240024988",
+  "doi": "10.3390/foods15234255",
+  "title": "Effects of Biopolymer Packaging Films and Packaging Temperature on Barrier Characteristics, Quality Retention and Microbiological Stability of Bakery Products",
+  "date": "2026-11-26",
+  "year": "2026",
+  "journal": "Foods",
+  "issn": "23048158",
+  "publisher": "Multidisciplinary Digital Publishing Institute",
+  "authors": [
+   "Sagynysh Aman",
+   "Ulbala Tungyshbayeva",
+   "Mustafa Kemal Uslu",
+   "Bayan Muldabekova",
+   "Алмас Әсетұлы Жанболат",
+   "Madina Asatullaevna Yakiyayeva",
+   "Zh. А. Iskakova",
+   "Сания Ерболатовна Ибраимова",
+   "Maksat Serikov",
+   "Assel Toktabayeva"
+  ],
+  "abstract": "The accumulation of packaging waste from synthetic polymers has increased interest in biodegradable materials for food packaging. However, their application is often limited by inadequate moisture-barrier and mechanical properties. This study compared films based on sodium carboxymethyl cellulose/gelatin/PVA (NAK), gelatin/agar/PVA (GA), and starch/sodium caseinate/palm oil (KN), using polyethylene (K) as the control, and evaluated their effects on the quality and microbiological stability of vanilla buns. Buns from three independent baking batches were packaged at crumb temperatures of 25, 30, or 35 °C and analysed on Days 1, 3, and 5. Among the biopolymer films, KN showed the lowest WVTR (21.0069 g/(h·m2)) and WVP (2.5974 g·mm/(h·m2·kPa)), and provided the highest moisture retention and water activity on Day 5. Microbial counts increased during storage in all treatments. On Day 5, polyethylene showed TMAFAM, mould, and yeast counts of 6.25–6.38, 5.18–5.32, and 5.13–5.27 log10 CFU/g, respectively. NAK showed the lowest corresponding counts among the biopolymer treatments, at 4.96–5.06, 4.21–4.30, and 4.17–4.26 log10 CFU/g. These findings demonstrate a trade-off between moisture retention and microbiological stability. Among the films studied, those based on a blend of starch, sodium caseinate, and palm oil demonstrate potential for future use as short-term packaging for baked goods, although further optimization of their mechanical properties and moisture barrier characteristics, as well as additional in-depth research, is required.",
+  "oa_url": "https://doi.org/10.3390/foods15234255",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.3390/foods15234255"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Kelapa sawit"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-28",
+  "summary_id": null,
+  "relevance": 17
+ },
+ {
+  "id": "W7240066887",
+  "doi": "10.3389/feduc.2026.2012374",
+  "title": "English foundation-journal capacity building-platform empowerment: a three-dimensional integrated training model for the international competence of graduate students in precision agricultural aviation",
+  "date": "2026-11-26",
+  "year": "2026",
+  "journal": "Frontiers in Education",
+  "issn": "2504284X",
+  "publisher": "Frontiers Media",
+  "authors": [
+   "熊万杰",
+   "Mali Yan",
+   "Yubin Lan",
+   "Zhen Li",
+   "Xiaoling Deng",
+   "Haibo Chen"
+  ],
+  "abstract": "Introduction The deep integration of precision agriculture aviation and artificial intelligence has created a global demand for high-level interdisciplinary talent with cross-cultural academic competence. Existing international graduate training in this field faces three persistent constraints: insufficient context-based application of academic English, low student participation in international scholarly publishing, and fragmented international exchange mechanisms that fail to form a continuous learning pathway. Methods This three-cycle action research was conducted from 2023 to 2025, supported by three institutional platforms: the National Center for International Collaboration Research on Precision Agricultural Aviation Pesticide Spraying Technology, the Innovation and Talent Recruitment Base, and the International Journal of Precision Agricultural Aviation (IJPAA). It constructs a three-dimensional integrated training model of “English Foundation – Journal Capacity Building – Platform Empowerment”, integrating dual-track academic English courses, a three-stage journal cultivation mechanism, and full supporting resources including international conferences and targeted global training exchanges. Results Over three years, over 450 graduate students received systematic training. 92.7% of participants met the predefined academic English proficiency standard; each student attended international conferences 2.3 times on average; 34% obtained first-hand international journal submission experience; students completed 125 student-reviewer sessions and produced 287 review reports, 114 rated as outstanding. The manuscript processing time of IJPAA was also reduced by 22%. This study adopted a three-level outcome evaluation system, and only evidence from real academic scenarios was used to rigorously verify students' actual global competence growth. Discussion This model provides a replicable, scalable pathway for the internationalization of graduate education in precision agricultural aviation. Unlike traditional language training that treats students as passive recipients, it positions students as developing participants embedded in disciplinary scholarly communities. Rooted in EAP and ESP tenets, this study frames academic language as situated disciplinary social practice rather than decontextualized grammar rules, aligning the whole training design with the core logic of academic community participation and helping students grow into legitimate, competent members of international scholarly communities.",
+  "oa_url": "https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2026.2012374/pdf",
+  "pdf_url": "https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2026.2012374/pdf",
+  "pdf_urls": [
+   "https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2026.2012374/pdf",
+   "https://doi.org/10.3389/feduc.2026.2012374"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-28",
+  "summary_id": null,
+  "relevance": 15
+ },
+ {
+  "id": "W7240098993",
+  "doi": "10.1007/s44197-026-00672-2",
+  "title": "Spatial Epidemiology of Breast Cancer Screening Uptake in India: Patterns, Clusters, Determinants and Decomposition",
+  "date": "2026-11-26",
+  "year": "2026",
+  "journal": "Journal of Epidemiology and Global Health",
+  "issn": "22106006",
+  "publisher": "Elsevier BV",
+  "authors": [
+   "Priyanka Garg",
+   "Pritam Halder",
+   "Madhur Verma",
+   "Yuvaraj Krishnamoorthy",
+   "Aquilin Gloria",
+   "Sathish Rajaa",
+   "Sanjeev Kumar",
+   "Navdeep Kaur",
+   "Minakshi Rohilla",
+   "Anil Goel"
+  ],
+  "abstract": "Breast cancer prevalence is rising steadily in India. Despite this, rural women are less likely to undergo regular breast cancer screening compared to their urban counterparts, and this disparity has not been extensively explored. The present study aims to assess the prevalence of breast cancer screening, identify its determinants, examine spatial variations, and analyze rural–urban differences among women aged 30–49 years at both national and sub-national levels. We used data from the 5th round of the National Family Health Survey in India (NFHS-5). We examined how breast cancer screening coverage varied across sociodemographic groups. We made LISA maps showing where similar patterns of screening coverage occurred, and we also recorded the Moran’s I statistic to measure spatial clustering. We used Stata 17 to run a multivariable logistic regression to identify the most important factors. We also conducted a multivariate decomposition analysis to understand the causes of differences in screening coverage. The national coverage of breast cancer screening is only 0.87%. Multivariable logistic regression showed that higher odds of breast cancer screening were associated with older age, education, being a Christian woman, the richest wealth quintile, and age of first intercourse. Across all regions, rural-urban disparities are evident, with higher breast cancer screening coverage in urban areas (1.27%) than in rural areas (0.67%). Decomposition analysis showed that disparities in uptake of breast cancer screening are due to residential region, education, exposure to media, number of children, smoking, diabetes, and alcohol use. Disparities in screening are evident, necessitating sustainable region-specific targeted interventions that raise awareness, and adopting best practices from southern India in other regions is essential.",
+  "oa_url": "https://doi.org/10.1007/s44197-026-00672-2",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1007/s44197-026-00672-2"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-28",
+  "summary_id": null,
+  "relevance": 15
+ },
+ {
+  "id": "W7240043467",
+  "doi": "10.1007/s44163-026-02881-x",
+  "title": "Forecasting onion waste at the wholesale level in South Africa using time series and machine learning models",
+  "date": "2026-11-26",
+  "year": "2026",
+  "journal": "Discover Artificial Intelligence",
+  "issn": "27310809",
+  "publisher": "Springer Nature",
+  "authors": [
+   "Ikechukwu Kingsley Opara",
+   "Taiwo Gabriel Omomule",
+   "Yardjouma Silué",
+   "Umezuruike Linus Opara",
+   "Olaniyi Amos Fawole"
+  ],
+  "abstract": "Postharvest waste of onions represents a pressing challenge for the South African agricultural sector, given their significant culinary and economic importance. Despite their nutritional value and economic contribution, studies quantifying onion waste at the South African wholesale value chain remain limited. This study presents a comparative forecasting-based approach to quantifying onion waste at the wholesale market level in South Africa using ARIMA, SARIMA, random forest, XGBoost, and LSTM models. The models were trained using onion waste data collected from 2021 to 2023 at a South African wholesale fresh produce market, along with historical temperature and relative humidity records from the study area. Waste estimates showed seasonal patterns and considerable volatility, ranging from 72 to 4085.71 kg over the study period. The LSTM model outperformed other models, with the lowest MAE of 175.19, RMSE of 290.24, and MAPE of 31.20%. This superior performance shows the predictability of the LSTM model to capture nonlinear and temporal dynamics in the dataset. Notably, the findings suggest that while the climatic variables influence model predictive accuracy for onion waste, incorporating more market produce variables alongside climatic conditions may further improve forecast performance. These findings highlight the potential of machine learning-based forecasting models to inform strategic, evidence-based decisions that reduce postharvest onion waste. Such models can strengthen value chain management by giving market operators and policymakers actionable forecasting tools to optimise procurement, logistics, and waste-reduction interventions across the South African fresh-produce wholesale value chain.",
+  "oa_url": "https://doi.org/10.1007/s44163-026-02881-x",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1007/s44163-026-02881-x"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemasaran, rantai pasok & rantai nilai"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-28",
+  "summary_id": null,
+  "relevance": 14
+ },
+ {
+  "id": "W7240084338",
+  "doi": "10.1186/s40795-026-01552-5",
+  "title": "Predictors of food security and dietary diversity among the internally displaced sudanese children (6–59 months): a national study",
+  "date": "2026-11-26",
+  "year": "2026",
+  "journal": "BMC Nutrition",
+  "issn": "20550928",
+  "publisher": "BioMed Central",
+  "authors": [
+   "Alaa S. Ahmed",
+   "Lina Hemmeda",
+   "Hafeia A. Abdelgyoum",
+   "Qutoof Abdualsalam Mustafa Salim",
+   "Gasm Alseed Abdelmonim Gasm Alseed Fadlalmoula",
+   "Abeer Osman Mukhtar Elabid",
+   "Abobakr Abdallah Mohamed Osman",
+   "Muram Ahmed Sayed Khaleel",
+   "Mohammed Haydar Awad"
+  ],
+  "abstract": "Fifty two million children under 5 in low and middle-income countries (LMIC) are affected by malnutrition. Food security is having access to safe, sufficient and nutritious food. Conflict in Sudan has disrupted food systems and nutrition services, contributing to widespread malnutrition. Currently, 3.5 million children are acutely malnourished, including 700,000 with severe acute malnutrition. This study assesses food security, dietary diversity and the associated socioeconomic factors among displaced children in internally displaced persons (IDPs) camps across Sudan and examines associated socioeconomic factors. A cross-sectional multi-state study was conducted among children aged 6–59 months in IDPs camps in Sudan. Multi-stage cluster sampling technique was employed. Food security was measured using HFIAS scale, dietary diversity was measured using minimum dietary diversity for children (MDD-C) for children aged 6–24 months or dietary diversity score (DDS) for children aged 25 to 59 months. Predictors of both scales were identified using multivariate logistic regression. Findings were reported using adjusted odds ratio (aOR) with 95% confidence intervals. Among 582 children, only 88 (15.1%) lived in food-secure households. Employment status and residency were significantly associated with food security; employed caregivers had 61–64% lower odds of food insecurity, and those residing in safer areas such as Port Sudan (aOR = 0.02, p < 0.001) and Northern State (aOR = 0.19, p = 0.002) were at lower risk compared to Gezira State. Dietary diversity was low, with only 14.4% of children aged 6–24 months and 19.6% of children aged 25–59 months achieving adequate dietary diversity. As for food groups consumed, 89.6% and 94.2% respectively rely primarily on cereals. Regarding infant feeding, 73% were breastfed immediately after birth, but only 47.4% were exclusively breastfed for the first six months. Significant predictors of adequate dietary diversity included being older than 24 months (aOR = 1.76), university-level education of the household head (aOR = 1.78), and recurrent diarrheal attacks (aOR = 2.15). Food insecurity and inadequate dietary diversity remain alarmingly high among IDPs children in Sudan, driven by socioeconomic vulnerability and reliance on cereal-based diets. Addressing these issues requires shifting from short-term food aid to sustainable strategies that enhance household resilience, and ensure access to diverse, nutritious food.",
+  "oa_url": "https://doi.org/10.1186/s40795-026-01552-5",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1186/s40795-026-01552-5"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Ketahanan pangan rumah tangga"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-28",
+  "summary_id": null,
+  "relevance": 14
+ },
+ {
+  "id": "W7240077789",
+  "doi": "10.12688/wellcomeopenres.27825.1",
+  "title": "Perspectives on the implementation and perceived value of England's Holiday Activities and Food programme: a qualitative interview and focus group study",
+  "date": "2026-11-26",
+  "year": "2026",
+  "journal": "Wellcome Open Research",
+  "issn": "2398502X",
+  "publisher": "Wellcome",
+  "authors": [
+   "Laura Tinner",
+   "Cecilia Khofi",
+   "Lorna M. Hatch",
+   "Florence Darling",
+   "Sophie Clohessy",
+   "Jessica Tanner",
+   "Marie Murphy",
+   "Russell Jago",
+   "Carolyn Summerbell",
+   "Laura Mazzoli-Smith",
+   "Greta Defeyter",
+   "Miranda J. Pallan"
+  ],
+  "abstract": "Background The school holidays can be a difficult time for children and families from low-income households. These periods mean increased levels of isolation, food insecurity, and limited access to affordable childcare and enrichment activities. These challenges can adversely affect children’s physical and mental health, and educational attainment. In response, the UK government introduced the Holiday Activities and Food (HAF) programme, aiming to provide healthy meals and activities for children eligible for free school meals (FSM), during the school holidays. This paper reports on perspectives on the implementation and perceived value of of the programme. Methods Participants were purposively recruited from three geographical areas of England (South West, Midlands and North East) to take part in interviews or focus groups. Interviews were conducted with Political Leads (n = 5), HAF Leads (n = 11), HAF Providers (n = 12), parents/carers (n = 10) and children with Special Education Needs and Disabilities (SEND; n = 2; 9–12y). Three focus groups were conducted with primary school aged children (n = 15; 8–12y). We used the Framework Method to analyse data. Results Participants described the value and contribution of the programme across three main categories: (1) children, including opportunities to receive a healthy meal and nutrition education; participation in enriching and physical activities in a safe place; and developing skills, confidence and social connections; (2) families, including financial relief and signposting to additional help; respite and childcare; and opportunities to spend time together; and (3) communities, including support for the local economy; upskilling and capacity building; fostering trusted relationships and community connectedness; and potentially reducing antisocial behaviour. Conclusion Our findings demonstrate that HAF is perceived as a valuable policy initiative by those who attend and deliver the programme. The study provides new insights into its perceived wider contribution for children, families and communities, including its potential to support asset-based community development, community empowerment and capacity building.",
+  "oa_url": "https://doi.org/10.12688/wellcomeopenres.27825.1",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.12688/wellcomeopenres.27825.1"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Ketahanan pangan rumah tangga"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-28",
+  "summary_id": null,
+  "relevance": 11
+ },
+ {
+  "id": "W7240084556",
+  "doi": "10.1016/j.geoforum.2026.104923",
+  "title": "Assembling grafted watermelon farming: The contested role of non-human agency",
+  "date": "2026-11-26",
+  "year": "2026",
+  "journal": "Geoforum",
+  "issn": "00167185",
+  "publisher": "Elsevier BV",
+  "authors": [
+   "Márton Lendvay"
+  ],
+  "abstract": "This paper explores the ways in which plant-human attunements contribute to more-than-human processes in a watermelon farming community characterised by constant openness to change. Inspired by two strands of work, the notion of plant agency rooted in vegetal geography and Deleuzoguttarian assemblage thinking, this paper draws on ethnographic research conducted in Medgyesegyháza, Hungary. In terms of theory, the article seeks to unpack how assemblage theory supports vegetal geography by identifying the ways in which various forms of non-human agency operate. The rural assemblage in consideration comprises humans (farmers, traders, consumers), non-human objects (watermelons and other plants and organisms) as well as technologies, procedures and markets. In practical terms, we scrutinize how watermelon grafting, a technique adopted with the promise of extending control over plants and stabilizing production, evokes both territorializing and deterritorializing agency. While unforeseen changes in weather, plant illnesses, or market trends associated with the materiality of the watermelon plant and its fruit make the production highly volatile, grafting is to assist vegetal life and foster the agency of watermelon plants to secure successful harvest. It was found that the capacities of uncontrolled non-humans driven by natural processes may be limited by processes characteristic of agricultural production. In particular, grafting harnesses a productive, pastoral relationship between humans and different plant species. At the same time, changes in plants’ potential agency due to grafting cannot fully achieve territorialization of the farming system. The new possibilities offered by grafting are bidirectional: the more-than-human agency characteristic to assemblage theory may mean the new constellations of farmers, traders, networks, or markets act in unexpected ways, with a deterritorializing force marked by surprise and instability.",
+  "oa_url": "https://doi.org/10.1016/j.geoforum.2026.104923",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1016/j.geoforum.2026.104923"
+  ],
+  "oa_status": "hybrid",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemasaran, rantai pasok & rantai nilai"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-28",
+  "summary_id": null,
+  "relevance": 7
+ },
+ {
+  "id": "W7240056933",
+  "doi": "10.9734/acri/2026/v26i112306",
+  "title": "Knowledge Level of Farmer Producer Organisation Members in Haryana and Its Determinants",
+  "date": "2026-11-26",
+  "year": "2026",
+  "journal": "Archives of Current Research International",
+  "issn": "24547077",
+  "publisher": "Sciencedomain International",
+  "authors": [
+   "Gurpreet Singh",
+   "Rati Mukteshawar",
+   "Satinder Singh",
+   "Meenakshi",
+   "Ankit Yadav",
+   "Harsh Patial"
+  ],
+  "abstract": "Farmer Producer Organisations (FPOs) provide a collective institutional framework for small and marginal farmers, but members’ understanding of organisational functions may differ across activities. This study assessed the knowledge levels of FPO members in Haryana and examined the personal, socio-economic, communication-related and psychological characteristics associated with their knowledge. Hisar and Jhajjar districts were selected purposively, and 20 FPOs were selected randomly, with nine members interviewed from each organisation. Data from 180 respondents were collected using a pre-tested structured interview schedule. Knowledge was evaluated through a 26-item test covering six aspects of FPO functioning. Descriptive statistics, Pearson’s correlation and multiple linear regression were used for analysis. Most respondents were classified as having medium knowledge levels, while smaller proportions had low or high knowledge. Awareness was comparatively high for basic FPO concepts, collective bargaining and several governance provisions, but lower for the frequency of Board meetings, affordable credit and contract farming. Knowledge was positively correlated with education, information-seeking behaviour, extension contacts, mass media exposure and credit orientation, whereas age and farming experience were negatively correlated with knowledge. The regression model explained 62.80 per cent of the variation in knowledge levels. Age, information-seeking behaviour, mass media exposure, training undertaken and economic motivation were statistically significant predictors. The findings identify specific areas of limited organisational knowledge and highlight the relevance of communication and training-related characteristics when examining differences among FPO members.",
+  "oa_url": "https://doi.org/10.9734/acri/2026/v26i112306",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.9734/acri/2026/v26i112306"
+  ],
+  "oa_status": "diamond",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemasaran, rantai pasok & rantai nilai"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-28",
+  "summary_id": null,
+  "relevance": 0
+ },
+ {
   "id": "W7239726045",
   "doi": "10.15585/mmwr.mm7546a1",
   "title": "Differences Between Urban and Rural Counties in Pregnancy-Related Deaths — United States, 2015–2024",
@@ -421,6 +1507,321 @@
   "found_at": "2026-11-27",
   "summary_id": null,
   "relevance": 15
+ },
+ {
+  "id": "W7240048404",
+  "doi": "10.1111/soru.70069",
+  "title": "Local Sharing—Informal Food Practices in Remote Island Communities",
+  "date": "2026-11-25",
+  "year": "2026",
+  "journal": "Sociologia Ruralis",
+  "issn": "00380199",
+  "publisher": "Wiley",
+  "authors": [
+   "David Marshall",
+   "Paul Freathy"
+  ],
+  "abstract": "This study examines the role of informal food sharing in the Western Isles, focusing on resilient, community‐driven practices evolved in response to isolation, supply chain disruptions and rising costs. Through fieldwork and interviews, the research uncovers diverse exchange methods like ‘sharing‐in’ within families, ‘sharing‐out’ via community and ‘selling outside’ to the general public. These practices based on trust and tradition enhance food access, social cohesion and cultural identity, although their impact on broader food security is limited compared to formal markets. The paper emphasises the importance of recognising informal food exchange in policy for more sustainable remote and rural food systems.",
+  "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/soru.70069",
+  "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/soru.70069",
+  "pdf_urls": [
+   "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/soru.70069",
+   "https://doi.org/10.1111/soru.70069"
+  ],
+  "oa_status": "hybrid",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Ketahanan pangan rumah tangga"
+  ],
+  "priority_journal": true,
+  "language": "en",
+  "found_at": "2026-11-28",
+  "summary_id": null,
+  "relevance": 42
+ },
+ {
+  "id": "W7240030179",
+  "doi": "10.1002/pei3.70252",
+  "title": "Effects of Storage Practices on Postharvest Maize Quality in Sub‐Saharan Africa",
+  "date": "2026-11-25",
+  "year": "2026",
+  "journal": "Plant-Environment Interactions",
+  "issn": "25756265",
+  "publisher": "Wiley",
+  "authors": [
+   "Aloyce  Mathew Magogwa",
+   "Christina Fabian Pius",
+   "Fanuel  Josephat Ligate"
+  ],
+  "abstract": "Maize (Zea mays L.) is a staple food crop in SSA, providing a major source of nutrition and income for millions. Poor storage methods of maize often lead to quality degradation, nutrient depletion and food insecurity. This review examines the existing literature on both traditional and modern storage methods and their impact on maize quality and nutritional values and suggests viable practices to enhance food security in SSA. Understanding these impacts can guide better storage practices and policies. Inadequate storage methods expose maize to insect pests, fungal contamination and chemical residues, reducing quality, degrading nutrients and creating health hazards that threaten food security and economic sustainability in the particular region. Traditional storage methods including granaries, cribs and ash treatments are practised but offer limited protection against pests and spoilage. Modern storage methods including hermetic bags, metal silos, chemical treatments and biopesticides provide protection, while chemical storage poses risks of nutrient loss and chemical residues if mismanaged. Chemical treatments using insecticides and fungicides effectively reduce pest and mold infestations but have been linked to negative impacts on maize's protein quality, vitamin retention, carbohydrate structure, fatty acid profile and mineral bioavailability as explained in this review. Future interventions should emphasize affordable and scalable storage innovations tailored to the socio‐economic realities of smallholder farmers and traders.",
+  "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/pei3.70252",
+  "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/pei3.70252",
+  "pdf_urls": [
+   "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/pei3.70252",
+   "https://doi.org/10.1002/pei3.70252"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemasaran, rantai pasok & rantai nilai",
+   "Ketahanan pangan rumah tangga"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-28",
+  "summary_id": null,
+  "relevance": 40
+ },
+ {
+  "id": "W7240096437",
+  "doi": "10.36956/rwae.v7i4.105763",
+  "title": "Trade Efficiency of Fresh Durian Exports along the New International Land–Sea Corridor: Evidence from a Second-Order Confirmatory Factor Analysis Model",
+  "date": "2026-11-25",
+  "year": "2026",
+  "journal": "Research on World Agricultural Economy",
+  "issn": "27374777",
+  "publisher": "Nan Yang Academy of Sciences Pte Ltd",
+  "authors": [
+   "Bantita sukcharoen",
+   "Praison Kam-On"
+  ],
+  "abstract": "Global demand for high-value perishable agricultural products has increased the need for efficient and resilient cross-border cold-chain logistics systems. This study develops and validates a second-order measurement model of trade efficiency for fresh durian exports using empirical evidence from the New International Land–Sea Trade Corridor (ILSTC), a rapidly expanding multimodal trade and logistics network connecting Southeast Asia with western China through integrated rail, road, and maritime transport systems. The study is based on the hypothesis that trade efficiency in perishable agricultural exports is shaped by multiple interconnected logistics dimensions rather than by transportation performance alone. Using survey data collected from 600 logistics executives, second-order confirmatory factor analysis (CFA) was employed to validate the proposed model. The findings identify four interrelated dimensions of trade efficiency: transportation spoilage rate, lead time, product condition at destination, and trade throughput efficiency. The study demonstrates that logistics efficiency functions not only as an operational outcome but also as a strategic mechanism influencing export competitiveness, supply chain resilience, food quality preservation, and long-term value creation in cross-border agricultural trade. The findings further reveal important interdisciplinary connections between agricultural economics, trade facilitation, and smart cold-chain logistics systems. Emerging business opportunities include digital logistics integration, real-time monitoring technologies, and sustainable cold-chain management for perishable food trade. These insights provide practical value for policymakers, logistics operators, and exporters seeking to strengthen sustainable and resilient food supply chains under increasingly uncertain global trade conditions.",
+  "oa_url": "https://journals.nasspublishing.com/index.php/rwae/article/download/105763",
+  "pdf_url": "https://journals.nasspublishing.com/index.php/rwae/article/download/105763",
+  "pdf_urls": [
+   "https://journals.nasspublishing.com/index.php/rwae/article/download/105763",
+   "https://doi.org/10.36956/rwae.v7i4.105763"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemasaran, rantai pasok & rantai nilai"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-28",
+  "summary_id": null,
+  "relevance": 33
+ },
+ {
+  "id": "W7240051038",
+  "doi": "10.1002/pei3.70253",
+  "title": "Drought‐Tolerant Maize Adoption, Profit Efficiency and Agroecological Technology Gaps in Ghana: Evidence From a Stochastic Metafrontier Framework",
+  "date": "2026-11-25",
+  "year": "2026",
+  "journal": "Plant-Environment Interactions",
+  "issn": "25756265",
+  "publisher": "Wiley",
+  "authors": [
+   "Natson Eyram Amengor",
+   "Camillus Abawiera Wongnaa",
+   "Bright Owusu Asante",
+   "Dadson Awunyo‐Vitor"
+  ],
+  "abstract": "Improved crop technologies can raise productivity and resilience without ensuring that farmers operate near the economic profit frontier, particularly when production environments differ. This study examined whether drought‐tolerant maize (Zea mays L.) adoption is associated with profit efficiency and whether agroecological technology gaps contribute to differences in farm performance in Ghana. The original survey of 590 maize farms was audited for duplicate questionnaires and inconsistent economic variables, yielding 580 economically unique farms. Revenue, costs, and profit were reconstructed, and a stochastic restricted‐profit frontier with a one‐step inefficiency‐effects specification was estimated. Separate stochastic frontiers for the Guinea Savanna and Forest Transition zones were then combined in a metafrontier framework. Mean pooled profit efficiency was 0.461. Drought‐tolerant maize adoption was not significantly associated with profit inefficiency, whereas farming experience reduced inefficiency and age and extension access were positively associated with estimated inefficiency. Mean group profit efficiencies were similar in the Guinea Savanna (0.437) and Forest Transition (0.443), but technology‐gap ratios differed substantially (0.581 and 0.748, respectively), producing metafrontier profit efficiencies of 0.259 and 0.331. The results indicate that the relative disadvantage of Guinea Savanna farms reflects an important technology‐environment gap rather than markedly poorer within‐zone management. Climate‐resilient germplasm should therefore be complemented by agroecologically targeted improvements in farm management, input systems, extension, infrastructure, and market access.",
+  "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/pei3.70253",
+  "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/pei3.70253",
+  "pdf_urls": [
+   "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/pei3.70253",
+   "https://doi.org/10.1002/pei3.70253"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Akses & informasi pasar petani"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-28",
+  "summary_id": null,
+  "relevance": 30
+ },
+ {
+  "id": "W7240104523",
+  "doi": "10.1111/agec.70157",
+  "title": "Income Distribution in the Agri‐Food Supply Chain: Do Canadian Consumers Have an Aversion to Inequality?",
+  "date": "2026-11-25",
+  "year": "2026",
+  "journal": "Agricultural Economics",
+  "issn": "01695150",
+  "publisher": "Wiley",
+  "authors": [
+   "Ernest Ouédraogo",
+   "Lota Dabio Tamini"
+  ],
+  "abstract": "This study examines consumer aversion to income inequalities within the domestic agri‐food supply chain in Canada. We conducted an online survey in 2022 among 2004 Canadian consumers, who were randomly assigned to one of three discrete choice experiments (DCEs) focusing on apples, pork, or eggs. Respondents evaluated alternative distributions of gains among consumers and three other actors in the agri‐food supply chain: farmers, processors, and retailers. Random‐parameter models were estimated to capture preference heterogeneity and to analyze how consumers respond to both bilateral inequalities involving themselves and inequalities between other actors in the supply chain. The results reveal three main patterns. First, consumers exhibit strong distributive preferences toward farmers, assigning greater weight to increases in farmers' income than to equivalent gains for processors or retailers. Second, inequality aversion is asymmetric: respondents tend to accept inequalities that favor farmers while rejecting situations in which they themselves receive a larger share of the gains. Third, inequalities between actors within the supply chain also shape consumer preferences, suggesting that distributive evaluations depend not only on individuals' own position but also on the broader structure of value distribution.",
+  "oa_url": "https://doi.org/10.1111/agec.70157",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1111/agec.70157"
+  ],
+  "oa_status": "hybrid",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemasaran, rantai pasok & rantai nilai"
+  ],
+  "priority_journal": true,
+  "language": "en",
+  "found_at": "2026-11-28",
+  "summary_id": null,
+  "relevance": 30
+ },
+ {
+  "id": "W7240023818",
+  "doi": "10.2196/91168",
+  "title": "Functional Preferences for Health-Promoting New Media Among Rural Residents: Cross-Sectional Discrete Choice Experiment",
+  "date": "2026-11-25",
+  "year": "2026",
+  "journal": "JMIR mhealth and uhealth",
+  "issn": "22915222",
+  "publisher": "JMIR Publications",
+  "authors": [
+   "Qianning Wang",
+   "Xinping Zhang",
+   "Feiyang Zheng"
+  ],
+  "abstract": "Background Health-promoting new media can extend access to health information and education in rural communities. However, services need to accommodate residents’ preferences for both communication features and practical requirements for use. Existing research on technology acceptance and disease-specific applications provides limited evidence about how rural residents weigh these features together when choosing services for general health promotion. Understanding these preferences can help guide locally appropriate digital service development. Objective This study aimed to quantify rural residents’ stated preferences for functional attributes of health-promoting new media, explore preference variation, and identify priorities for services suited to rural community settings. Methods We conducted a cross-sectional discrete choice experiment in 3 townships in Guizhou Province, China, from August to October 2024. Adults with experience using new media were recruited through convenience sampling and completed face-to-face questionnaires. A literature review, expert consultation, and resident focus groups identified 6 attributes: operation mode, device type, information content, experience, information source, and daily time investment. The questionnaire was pretested with 20 residents before the main survey. Investigators provided standardized explanations and visual aids when needed to support comprehension. The experimental design included 24 choice tasks divided into 3 blocks. Each respondent completed 8 tasks, selecting between 2 hypothetical service profiles without an opt-out option. Conditional logit models estimated average preferences using respondent-clustered SEs. We report coefficients and 95% CIs. Daily time investment was modeled categorically, with 1 hour per day as the reference. Mixed logit models explored preference heterogeneity. Participants provided written informed consent. Results The analysis included 327 respondents who contributed 2616 choice occasions; 247 (75.5%) were women and 208 (63.6%) were aged 41 to 50 years. Most respondents had primary school education or below (n=198, 60.6%) and an annual household income per capita of ≤10,000 RMB (RMB 1=US $0.14035 as of October 31, 2024; n=194, 59.3%). Participants preferred voice or click operation over typing (β=−0.18, 95% CI −0.25 to −0.11), mobile phones over professional devices (β=−0.20, 95% CI −0.28 to −0.13), and basic over personalized content (β=−0.17, 95% CI −0.25 to −0.09). Daily time preferences were nonmonotonic: compared with 1 hour per day, 3 hours per day had lower utility (β=−1.06, 95% CI −1.52 to −0.60), whereas 5 hours per day had higher utility (β=0.25, 95% CI 0.16 to 0.34). Average preferences for experience and information source were not statistically significant. Supplementary mixed logit models yielded similar average preference estimates. Conclusions Mobile delivery, voice or click operation, and basic health information were preferred features among participants in this study. These findings identify priorities for developing and evaluating health promotion prototypes in comparable communities. The nonmonotonic time pattern requires further investigation, and stated preferences should be evaluated against observed use. Convenience sampling limits the transferability of these findings to other rural populations.",
+  "oa_url": "https://doi.org/10.2196/91168",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.2196/91168"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-28",
+  "summary_id": null,
+  "relevance": 23
+ },
+ {
+  "id": "W7240036121",
+  "doi": "10.5005/jp-journals-10006-2948",
+  "title": "A Descriptive Study on the Prevalence of Antenatal Depression in a Primary Care Setting of Chengalpattu District, India",
+  "date": "2026-11-25",
+  "year": "2026",
+  "journal": "Journal of South Asian Federation of Obstetrics and Gynaecology",
+  "issn": "09748938",
+  "publisher": "",
+  "authors": [
+   "Vishalini Anbuselvan",
+   "Aravind Manoharan",
+   "Vijayalakshmi Sridharan"
+  ],
+  "abstract": "Aim and background: Maternal depression poses a major obstacle to improving maternal and child well-being.This study aimed to estimate the prevalence and to determine the risk factors for severe depression among pregnant women in the Chengalpattu district. Materials and methods:This community-based cross-sectional study was conducted among pregnant women visiting primary health centers (PHCs) in the Chengalpattu district.The study included 220 pregnant women selected from a line list prepared during regular family visits.Data were collected using a pretested and semi-structured questionnaire.The Edinburgh Postnatal Depression Scale (EPDS) was used to screen for antenatal depression.Socio-demographic variables were expressed as frequencies and percentages.Results: The prevalence of antenatal depression among the participants was 22.3%.Factors included educational status of the participants (p = 0.002), type of family (p = 0.034), socioeconomic status (p = 0.003), a history of abortion or miscarriage (p = 0.049), and consanguineous marriage (p = 0.02).A history of depression (p = 0.002), not living with their partner during pregnancy (p = 0.0001), presence of marital conflicts (p = 0.0001), preference for a male child by the participant or family (p = 0.011), perceived lack of social support from the family or spouse (p = 0.00), and alcohol or tobacco use by the partner (p = 0.035) were found to have a significant association with prevalence of antenatal depression.Conclusion: Antenatal depression affects a considerable proportion of women in rural primary care settings, with significant influence from social and familial pressures.Implementing routine mental health screening and support within existing maternal care frameworks is critical to improving health outcomes for both mothers and infants. Clinical significance:The study reveals a 22.3% prevalence of antenatal depression in a rural primary care setting, underscoring a significant but often overlooked mental health challenge.Early identification through tools like the EPDS enables timely support for high-risk women facing social and economic hardships.Integrating mental health screening into routine antenatal care is crucial for improving maternal and infant health outcomes, emphasizing the need for comprehensive, accessible mental health services within maternal healthcare programs.",
+  "oa_url": "https://doi.org/10.5005/jp-journals-10006-2948",
+  "pdf_url": "https://doi.org/10.5005/jp-journals-10006-2948",
+  "pdf_urls": [
+   "https://doi.org/10.5005/jp-journals-10006-2948"
+  ],
+  "oa_status": "bronze",
+  "cited_by": 0,
+  "keywords": [],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-28",
+  "summary_id": null,
+  "relevance": 19
+ },
+ {
+  "id": "W7239732267",
+  "doi": "10.1186/s12936-026-06234-y",
+  "title": "Resistance haplotypes to sulfadoxine–pyrimethamine in Plasmodium falciparum in pregnant women in Nanoro, Burkina Faso",
+  "date": "2026-11-25",
+  "year": "2026",
+  "journal": "Malaria Journal",
+  "issn": "14752875",
+  "publisher": "BioMed Central",
+  "authors": [
+   "Irene Molina-de la Fuente",
+   "Marc Christian Tahita",
+   "Kabore Bérenger",
+   "Thuy‐Huong Ta‐Tang",
+   "Alexandra Martín Ramírez",
+   "Luz García",
+   "Vicenta González",
+   "Agustín Benito",
+   "Judith M. Hübschen",
+   "Halidou Tinto",
+   "Pedro J Berzosa"
+  ],
+  "abstract": "Strategies targeting malaria in pregnancy are a priority for malaria control. Intermittent preventive treatment based on sulfadoxine–pyrimethamine (IPTp-SP) is the main intervention to prevent the adverse effects of malaria in both pregnant women and their offspring. At least four antenatal care visits, with at least three doses of IPTp-SP, are recommended before delivery. However, the spread of drug resistance is a threat for SP efficacy. This study aimed to characterize the mutational profile of Plasmodium falciparum infecting pregnant women who attend to antenatal care on Nanoro health district, Burkina Faso. A total of 418 dried blood samples were collected from four rural peripheral health facilities in Nanoro health district catchment area. Malaria molecular diagnosis was performed for all samples. Then, P. falciparum infections were analysed for mutations in pfdhfr and pfdhps genes using PCR amplification followed by gene sequencing. Malaria prevalence by PCR among pregnant women was 48.7%, being significantly lower in multigravidae (39%) compared to primigravidae (61%) and secundigravidae (65%). Pfdhfr N51I/C59R/S108N and pfdhps A437G mutations were very common in the population. The quadruple mutant, partially resistant haplotype, was the most prevalent resistance haplotype (67%). K540E mutation was absent, but A581G mutation was detected in 4 isolates. Based on our results, IPTp-SP resistance is still low in Nanoro district, Burkina Faso, although we confirmed the pfdhps A581G mutation. Continuous monitoring of the genetic profile of malaria parasites infecting pregnant women is highly recommended as it could provide insightful information for the design of effective prevention measures.",
+  "oa_url": "https://doi.org/10.1186/s12936-026-06234-y",
+  "pdf_url": "",
+  "pdf_urls": [
+   "https://doi.org/10.1186/s12936-026-06234-y"
+  ],
+  "oa_status": "gold",
+  "cited_by": 0,
+  "keywords": [
+   "sulfadoxine-pyrimethamine resistance",
+   "Plasmodium falciparum",
+   "pregnant women",
+   "antimalarial drug resistance",
+   "malaria in pregnancy"
+  ],
+  "topics": [
+   "Pemberdayaan petani & gender"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-28",
+  "summary_id": null,
+  "relevance": 15
+ },
+ {
+  "id": "W7239754001",
+  "doi": "10.1093/pch/pxag119.013",
+  "title": "High prevalence of food insecurity in children with developmental concerns using hunger vital sign",
+  "date": "2026-11-25",
+  "year": "2026",
+  "journal": "Paediatrics & Child Health",
+  "issn": "12057088",
+  "publisher": "Oxford University Press",
+  "authors": [
+   "Jia Gandhi",
+   "Sharon Smile",
+   "Annie Dupuis"
+  ],
+  "abstract": "Background Food insecurity, defined as limited or uncertain access to sufficient, safe, and nutritious food, is a powerful social determinant of child health that shapes growth and development long before it is identified in a clinical setting. Food insecurity is associated with malnutrition, poor mental, behavioural and physical health. Approximately 26% of persons with disabilities in Canada experience food insecurity. Little is known about the compounding vulnerabilities of developmental concerns and childhood. Objectives The objective of this study was to determine the prevalence of food insecurity among families seeking care for children with developmental concerns at an Academic paediatric hospital and to examine associated demographic and developmental characteristics. Design/Methods Caregivers were invited to complete an anonymous survey during routine clinic visits, administered either on paper or online through a secure web-based platform. The survey included demographic questions and the validated two-item Hunger Vital Sign food insecurity screening tool. Results A total of 153 caregivers completed the survey. Overall, 76 families (49.7%; 95% CI [41.5; 57.9]) reported experiencing some degree of food insecurity. The prevalence of food insecurity was highest amongst Indigenous (72.2%; 95% CI [ 49.1;87.5]), White (63.9%; 95% CI [47.6; 77.5]) and Middle Eastern (63.6%; 95% CI [35.4;84.8]) households. Higher rates of food insecurity were observed amongst families with four or more children (65%; 95% CI [43.3; 81.9]), those with pre-school aged children (60%; 95% CI [42.3; 75.4]), and those with children who had four or more developmental concerns. Among families with household incomes below $25,000, nearly all (12 of 13; 92.3%; 95% CI: 66.7–98.6) experienced food insecurity. Conclusion These findings reveal a striking burden of food insecurity among families navigating developmental paediatric care, affecting nearly half of the survey families, substantially exceeding reported population estimates. Food insecurity disproportionately impacted households with lower income, larger family size, preschool-aged children, and those with greater developmental needs. This study highlights food insecurity as an urgent, invisible but modifiable social determinant of health amongst children with developmental concerns. Integrating routine food insecurity screening, identifying underline drivers for food insecurity, supporting referral pathways to immediate and long-term relief will address unmet needs of the most vulnerable children. To our knowledge, this is the first study in Canada to directly assess food insecurity within a developmental paediatrics clinical population.",
+  "oa_url": "https://academic.oup.com/pch/article-pdf/31/Supplement_1/pxag119.013/74032457/pxag119.013.pdf",
+  "pdf_url": "https://academic.oup.com/pch/article-pdf/31/Supplement_1/pxag119.013/74032457/pxag119.013.pdf",
+  "pdf_urls": [
+   "https://academic.oup.com/pch/article-pdf/31/Supplement_1/pxag119.013/74032457/pxag119.013.pdf",
+   "https://doi.org/10.1093/pch/pxag119.013"
+  ],
+  "oa_status": "bronze",
+  "cited_by": 0,
+  "keywords": [
+   "food insecurity",
+   "Hunger Vital Sign",
+   "food insecurity screening",
+   "social determinants of health",
+   "developmental pediatrics",
+   "household income",
+   "Indigenous families",
+   "family size"
+  ],
+  "topics": [
+   "Ketahanan pangan rumah tangga"
+  ],
+  "priority_journal": false,
+  "language": "en",
+  "found_at": "2026-11-28",
+  "summary_id": null,
+  "relevance": 6
  },
  {
   "id": "W7239906181",
